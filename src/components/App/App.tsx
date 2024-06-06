@@ -27,7 +27,7 @@ function App() {
         <Route path='/gitTreiner/' element={<MainPage />} />
 
         <Route
-          path='/gitTreiner/word'
+          path='/gitTreiner/word/'
           element={
             <Layout>
               <ModalContent />
@@ -40,7 +40,7 @@ function App() {
         <Routes>
           <Route path='/gitTreiner/' element={<MainPage />} />
           <Route
-            path='/gitTreiner/word'
+            path='/gitTreiner/word/'
             element={
               <Layout>
                 <Modal>
