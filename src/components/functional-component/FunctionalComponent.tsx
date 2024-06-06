@@ -38,14 +38,6 @@ const FunctionalComponent = () => {
   if (words.length === 0) {
     return (
       <main className='functional-area'>
-        {/* <div className='buttons-wrapper'>
-          <div className='words-counter-wrapper'>
-            <div className='words-counter'>{words.length}</div>
-          </div>
-          <button className='refresh-button' onClick={resetList}>
-            ↺
-          </button>
-        </div> */}
         <div className='success'>
           <div>🤘</div>
           <div>Let's try again?</div>

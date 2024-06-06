@@ -27,7 +27,7 @@ function App() {
         <Route path='/' element={<MainPage />} />
 
         <Route
-          path='/word'
+          path='/gitTreiner/word'
           element={
             <Layout>
               <ModalContent />
@@ -38,9 +38,9 @@ function App() {
 
       {backgroundLocation && (
         <Routes>
-          <Route path='/' element={<MainPage />} />
+          <Route path='/gitTreiner/' element={<MainPage />} />
           <Route
-            path='/word'
+            path='/gitTreiner/word'
             element={
               <Layout>
                 <Modal>
