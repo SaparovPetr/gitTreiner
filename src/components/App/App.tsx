@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <Routes location={backgroundLocation || location}>
-        <Route path='/' element={<MainPage />} />
+        <Route path='/gitTreiner' element={<MainPage />} />
 
         <Route
           path='/gitTreiner/word'
@@ -38,7 +38,7 @@ function App() {
 
       {backgroundLocation && (
         <Routes>
-          <Route path='/gitTreiner/' element={<MainPage />} />
+          <Route path='/gitTreiner' element={<MainPage />} />
           <Route
             path='/gitTreiner/word'
             element={
