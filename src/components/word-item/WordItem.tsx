@@ -32,7 +32,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
         <div className='item-bottom-area'>
           <Link
             className='modal-button'
-            to={'/gitTreiner/word/'}
+            to={'/gitTreiner/word'}
             state={{ backgroundLocation: location }}
           >
             &uarr;
