@@ -3,7 +3,7 @@
 }
 
 .overlay::before {
-  content: "";
+  content: '';
   position: fixed;
   left: 0;
   top: 0;
@@ -23,24 +23,24 @@
   transform: translate(-50%, -50%);
 }
 
-.modal-content{
-display: flex;
-flex-direction: column;
-gap: 31px;
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
 }
 
 .phrase-zone {
-  color:white;
+  color: white;
   font-size: 26px;
-  align-self:center;
+  align-self: center;
   font-weight: bold;
 }
 
 .marker-zone {
   text-decoration: none;
-  color:white;
+  color: white;
   font-size: 26px;
-  align-self:center;
+  align-self: center;
 }
 
 .popup button {

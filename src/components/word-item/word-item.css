@@ -16,7 +16,6 @@
   justify-content: space-between;
 }
 
-
 .word-area {
   cursor: pointer;
   font-weight: bold;
@@ -28,14 +27,14 @@
   cursor: pointer;
   text-decoration: none;
   color: white;
-  
+
   width: 40%;
   height: 40px;
 
   background-color: #323131;
   border: 1px solid white;
   border-radius: 50px;
-  
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,9 +42,8 @@
 
 .modal-button:active {
   border: 1px solid grey;
-  color: grey; 
+  color: grey;
 }
-
 
 .skip-button {
   cursor: pointer;
@@ -56,10 +54,10 @@
 
   width: 40%;
   height: 40px;
-  
+
   display: flex;
   align-items: center;
-  justify-content: center;  
+  justify-content: center;
 }
 
 .skip-button:active {

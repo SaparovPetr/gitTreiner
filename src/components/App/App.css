@@ -1,13 +1,12 @@
-
 @font-face {
   src: url(../../fonts/SuisseIntl-Book.woff);
-  font-family: "Suisse";
+  font-family: 'Suisse';
   font-weight: normal;
 }
 
 @font-face {
   src: url(../../fonts/SuisseIntl-Bold.woff);
-  font-family: "Suisse";
+  font-family: 'Suisse';
   font-weight: bold;
 }
 
@@ -16,11 +15,8 @@
   background-color: #323131;
   height: 100vh;
   padding: 2% 10%;
-  font-family: "Suisse";
+  font-family: 'Suisse';
   box-sizing: border-box;
   color: white;
   -webkit-tap-highlight-color: transparent;
-
 }
-
-

@@ -14,7 +14,6 @@
   padding-left: 3vh;
 }
 
-
 .words-counter-wrapper {
   border: 1px solid white;
   border-radius: 50px;
@@ -27,13 +26,11 @@
 }
 
 .words-counter {
-  color:white;
-  position: relative; 
+  color: white;
+  position: relative;
 }
 
-
-
-.refresh-button{
+.refresh-button {
   /* align-self: flex-end; */
   background-color: #323131;
   color: white;
@@ -58,8 +55,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: "Suisse";
+  font-family: 'Suisse';
   font-weight: bold;
   font-size: 50px;
-  gap:30px;
+  gap: 30px;
 }
