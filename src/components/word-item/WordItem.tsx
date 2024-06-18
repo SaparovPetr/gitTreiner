@@ -23,6 +23,14 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
     }
   };
 
+  const skipWordCallback = (id: string) => {
+    dispatch(deleteWord(id));
+
+    if (currientLanguage === 'inRussian') {
+      dispatch(switchLanguageState('inEnglish'));
+    }
+  };
+
   return (
     <Layout>
       <div className='item-container'>
@@ -41,8 +49,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
           <button
             className='skip-button'
             onClick={() => {
-              dispatch(deleteWord(id));
-              dispatch(switchLanguageState('inEnglish'));
+              skipWordCallback(id);
             }}
           >
             &rarr;

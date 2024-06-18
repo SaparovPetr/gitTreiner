@@ -1,5 +1,7 @@
 import './App.css';
 import React, { StrictMode, useEffect } from 'react';
+import { memo } from 'react';
+
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
 import { selectWords } from '../../services/slices/wordsSlice';
@@ -10,7 +12,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 import { Layout } from '../modal/layout';
 import ModalContent from '../modal-content/ModalContent';
 
-function App() {
+const App = () => {
   const dispatch = useAppDispatch(); // 12
   const location = useLocation();
   const words = useAppSelector(selectWords);
@@ -53,6 +55,6 @@ function App() {
       )}
     </>
   );
-}
+};
 
 export default App;

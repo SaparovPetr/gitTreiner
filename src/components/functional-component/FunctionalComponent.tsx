@@ -1,4 +1,5 @@
 import React, { StrictMode, useEffect } from 'react';
+import { memo } from 'react';
 import './functional-component.css';
 import WordItem from '../word-item/WordItem';
 import { selectWords } from '../../services/slices/wordsSlice';
@@ -9,7 +10,7 @@ import {
   addIdToEachWord
 } from '../../services/thunks/thunk';
 
-const FunctionalComponent = () => {
+const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
 
@@ -48,6 +49,6 @@ const FunctionalComponent = () => {
       </main>
     );
   }
-};
+});
 
 export default FunctionalComponent;
