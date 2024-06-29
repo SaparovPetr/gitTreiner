@@ -1,3 +1,6 @@
+Currient version:
+[gitTreiner] (https://saparovpetr.github.io/gitTreiner/)
+
 TODO:
 
 - make an approach counter on the finish page,
