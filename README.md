@@ -1,5 +1,5 @@
 Currient version:
-[gitTreiner] (https://saparovpetr.github.io/gitTreiner/)
+[gitTreiner](https://saparovpetr.github.io/gitTreiner/)
 
 TODO:
 
