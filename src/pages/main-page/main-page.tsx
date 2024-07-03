@@ -1,7 +1,7 @@
 import { FC } from 'react';
 
 import { AppHeader } from '../../components/app-header/app-header';
-import FunctionalComponent from '../../components/functional-component/FunctionalComponent';
+import FunctionalComponent from '../../components/functional-component/functional-component';
 
 export const MainPage: FC = () => (
   <main>

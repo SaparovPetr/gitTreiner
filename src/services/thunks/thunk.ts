@@ -1,6 +1,6 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
-import { removeWord } from '../slices/wordsSlice';
-import { getRandomElement } from '../../utils/getRandomElemtnt';
+import { removeWord } from '../slices/words-slice';
+import { getRandomElement } from '../../utils/get-random-element';
 import { myBase } from '../../wordBase';
 import { TOneWord } from '@utils-types';
 

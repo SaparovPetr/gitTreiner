@@ -1,0 +1,115 @@
+.cardContainer {
+  padding: 30px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+
+  border: 1px solid rgb(236, 232, 232);
+  border-radius: 15px;
+  min-height: 40svh; 
+  max-height: 100%;
+}
+
+.cardBottomArea {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardWordArea {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.button {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+
+  width: 43%;
+  height: 45px;
+
+  background-color: #323131;
+  border: 1px solid white;
+  border-radius: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button:active {
+  border: 1px solid grey;
+  color: grey;
+}
+
+
+
+
+
+
+
+/* Анимация разворота карточки */
+
+
+/* .card { */
+  /* width: 12rem; */
+  /* cursor: pointer; */
+/* } */
+
+/* .content {
+  text-align: center;
+  position: relative;
+  transition: all 1.75s; */
+  /* background-color: #454444; */
+  /* padding: 5em;
+  transform-style: preserve-3d; */
+  /* border: 1px solid rgb(236, 232, 232);
+  border-radius: 15px; */
+/* } */
+/* 
+.showBack .content {
+  transform: rotateY(0.5turn);  
+}
+
+.front,
+.back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 2em;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+
+
+  background-color: #2c2c2c;
+
+  border: 1px solid rgb(236, 232, 232);
+  border-radius: 15px;
+} */
+/* 
+.title {
+  transform: translateZ(5rem);
+  font-size: 2rem;
+} */
+
+/* .subtitle {
+  transform: translateZ(2rem);
+} */
+/* 
+.back {
+  transform: rotateY(0.5turn);
+  background-color: #2c2c2c;
+
+  border: 1px solid rgb(236, 232, 232);
+  border-radius: 15px;
+
+} */
+/* 
+.description {
+  transform: translateZ(3rem);
+} */

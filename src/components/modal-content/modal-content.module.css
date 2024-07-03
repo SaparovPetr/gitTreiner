@@ -1,0 +1,19 @@
+.modalContent {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+}
+
+.phraseZone {
+  color: white;
+  font-size: 26px;
+  align-self: center;
+  font-weight: bold;
+}
+
+.markerZone {
+  text-decoration: none;
+  color: white;
+  font-size: 26px;
+  align-self: center;
+}

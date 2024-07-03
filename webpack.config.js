@@ -32,7 +32,9 @@ module.exports = {
           {
             loader: 'css-loader',
             options: {
-              modules: true
+              modules: {
+                localIdentName: '[local]_[hash:base64:5]'
+              }
             }
           }
         ]
@@ -52,7 +54,9 @@ module.exports = {
       extensions: ['.js', '.jsx', '.ts', '.tsx']
     }),
     new HtmlWebpackPlugin({
-      template: './public/index.html'
+      template: './public/index.html',
+      filename: 'index.html',
+      favicon: './public/favicon.ico'
     }),
     new Dotenv()
   ],

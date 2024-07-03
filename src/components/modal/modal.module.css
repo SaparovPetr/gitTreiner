@@ -1,0 +1,45 @@
+.overlay {
+  position: relative;
+}
+
+.overlay::before {
+  content: '';
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.popup {
+  position: fixed;
+  left: 50%;
+  top: 41%;
+  border: 1px solid white;
+  border-radius: 25px;
+  padding: 34px 16px;
+  background-color: #323131;
+  transform: translate(-50%, -50%);
+}
+
+.popupButton {
+  position: absolute;
+  top: -40px;
+  right: 165px;
+  width: 15px;
+  height: 15px;
+  border: none;
+  margin-left: auto;
+  background-color: transparent;
+  background-image: url(../../icons/x-button.svg);
+  background-size: 15px;
+  cursor: pointer;
+  padding: 0;
+  border: 1 solid white;
+}
+
+.popupButton:focus {
+  outline: 2px solid #000000;
+  outline-offset: 0;
+}

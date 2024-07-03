@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './modal.css';
+import styles from './modal.module.css';
 
 export const Modal = ({ children }: React.PropsWithChildren) => {
   useEffect(() => {
@@ -21,10 +21,10 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
 
   return (
     <>
-      <div className='overlay' onClick={onClose} />
-      <div className='popup'>
+      <div className={styles.overlay} onClick={onClose} />
+      <div className={styles.popup}>
         {children}
-        <button onClick={onClose} />
+        <button className={styles.popupButton} onClick={onClose} />
       </div>
     </>
   );

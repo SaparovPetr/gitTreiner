@@ -4,13 +4,13 @@ import { memo } from 'react';
 
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
-import { selectWords } from '../../services/slices/wordsSlice';
+import { selectWords } from '../../services/slices/words-slice';
 import { MainPage } from '../../pages/main-page/main-page';
-import { Modal } from '../../components/modal/modal';
+import { Modal } from '../modal/modal';
 
 import { Route, Routes, useLocation } from 'react-router-dom';
 import { Layout } from '../modal/layout';
-import ModalContent from '../modal-content/ModalContent';
+import ModalContent from '../modal-content/modal-content';
 
 const App = () => {
   const dispatch = useAppDispatch(); // 12
@@ -26,6 +26,7 @@ const App = () => {
   return (
     <>
       <Routes location={backgroundLocation || location}>
+        <Route path='/' element={<MainPage />} />
         <Route path='/gitTreiner/' element={<MainPage />} />
 
         <Route
