@@ -11,8 +11,6 @@ import {
 
 import styles from './functional-component.module.css';
 
-// import doneImg from '../../icons/ios/16.png';
-
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);

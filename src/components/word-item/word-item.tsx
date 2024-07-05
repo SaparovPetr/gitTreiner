@@ -11,6 +11,9 @@ import {
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { Link, useLocation } from 'react-router-dom';
 import { TOneWord } from '@utils-types';
+import { getRandomElement } from '../../utils/get-random-element';
+import { myBase } from '../../wordBase';
+import OptionList from '../option-list/option-list';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const dispatch = useAppDispatch();
@@ -36,10 +39,10 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   return (
     <Layout>
       <div className={styles.cardContainer}>
-        <div className={styles.cardWordArea} onClick={() => switchLanguage()}>
-          {currientLanguage === 'inEnglish' ? targetWord : translating}
-        </div>
-        <div className={styles.cardBottomArea}>
+        <div className={styles.cardWordAreaWrapper}>
+          <div className={styles.cardWordArea} onClick={() => switchLanguage()}>
+            {currientLanguage === 'inEnglish' ? targetWord : translating}
+          </div>
           <Link
             className={styles.button}
             to={'/gitTreiner/word'}
@@ -47,17 +50,22 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
           >
             &uarr;
           </Link>
+        </div>
 
-          <div
+        <OptionList targetWord={targetWord} translating={translating} id={id} />
+
+        {/* <div className={styles.cardBottomArea}> */}
+
+        {/* <div
             className={styles.button}
             onClick={() => {
               skipWordCallback(id);
             }}
           >
             &rarr;
-          </div>
-        </div>
+          </div> */}
       </div>
+      {/* </div> */}
     </Layout>
   );
 };
