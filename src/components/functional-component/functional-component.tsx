@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { StrictMode, useEffect, useState } from 'react';
 import { memo } from 'react';
 import WordItem from '../word-item/word-item';
@@ -32,20 +33,33 @@ const FunctionalComponent = memo(() => {
   if (words.length > 0) {
     return (
       <div className={styles.functionalArea}>
-        <div className={styles.buttonsWrapper}>
-          <div className={styles.button}>{words.length}</div>
-          <div className={styles.button}>{`${5 - effortCounter}/5`}</div>
-          <div className={styles.button} onClick={resetList}>
-            ↺
+        <div className={styles.headerArea}>
+          <div className={styles.logoArea}>
+            <div>Git_ </div>
+            <div>treiner</div>
           </div>
-          <Link
-            className={styles.button}
-            to={'/gitTreiner/word'}
-            state={{ backgroundLocation: location }}
-          >
-            &uarr;
-          </Link>
+
+          <div className={styles.buttonsWrapper}>
+            <div className={styles.topButtons}>
+              <div className={styles.button}>{words.length}</div>
+              <div className={styles.button}>{`${5 - effortCounter}/5`}</div>
+            </div>
+
+            <div className={styles.bottomButtons}>
+              <div className={styles.button} onClick={resetList}>
+                ↺
+              </div>
+              <Link
+                className={styles.button}
+                to={'/gitTreiner/word'}
+                state={{ backgroundLocation: location }}
+              >
+                &uarr;
+              </Link>
+            </div>
+          </div>
         </div>
+
         {<WordItem key={words[0].id} {...words[0]} />}
       </div>
     );

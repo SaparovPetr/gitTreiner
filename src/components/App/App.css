@@ -13,8 +13,8 @@
 .app-container {
   margin: 0 auto;
   background-color: #323131;
-  height: 100vh;
-  padding: 2% 5%;
+  height: 100svh;
+  padding: 5% 5%;
   font-family: 'Suisse';
   box-sizing: border-box;
   color: white;
