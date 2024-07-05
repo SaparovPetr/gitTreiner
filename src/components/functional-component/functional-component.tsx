@@ -50,7 +50,7 @@ const FunctionalComponent = memo(() => {
         <div className={styles.success}>
           <div>🤘</div>
           <div>Let's try again?</div>
-          <button className={styles.refreshButton} onClick={resetList}>
+          <button className={styles.button} onClick={resetList}>
             ↺
           </button>
         </div>
