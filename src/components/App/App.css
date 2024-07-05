@@ -14,6 +14,8 @@
   margin: 0 auto;
   background-color: #323131;
   height: 100svh;
+    /* height: 100%; */
+
   padding: 5% 5%;
   font-family: 'Suisse';
   box-sizing: border-box;

@@ -65,6 +65,7 @@
   justify-content: center;
   font-family: 'Suisse';
   font-weight: bold;
-  font-size: 50px;
+  font-size: 34px;
   gap: 30px;
+  padding-top: 50%;
 }
