@@ -1,6 +1,5 @@
-import './App.css';
+import './app.css';
 import React, { StrictMode, useEffect } from 'react';
-import { memo } from 'react';
 
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
@@ -13,7 +12,7 @@ import { Layout } from '../modal/layout';
 import ModalContent from '../modal-content/modal-content';
 
 const App = () => {
-  const dispatch = useAppDispatch(); // 12
+  const dispatch = useAppDispatch();
   const location = useLocation();
   const words = useAppSelector(selectWords);
   const backgroundLocation = location.state?.backgroundLocation;

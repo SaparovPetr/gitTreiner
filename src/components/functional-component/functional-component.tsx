@@ -10,10 +10,12 @@ import {
 } from '../../services/thunks/thunk';
 
 import styles from './functional-component.module.css';
+import { Link, useLocation } from 'react-router-dom';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
+  const location = useLocation();
 
   const resetList = () => {
     dispatch(clearList());
@@ -25,12 +27,17 @@ const FunctionalComponent = memo(() => {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.buttonsWrapper}>
-          <div className={styles.wordsCounterWrapper}>
-            <div className={styles.wordsCounter}>{words.length}</div>
-          </div>
-          <div className={styles.refreshButton} onClick={resetList}>
+          <div className={styles.button}>{words.length}</div>
+          <div className={styles.button} onClick={resetList}>
             ↺
           </div>
+          <Link
+            className={styles.button}
+            to={'/gitTreiner/word'}
+            state={{ backgroundLocation: location }}
+          >
+            &uarr;
+          </Link>
         </div>
         {<WordItem key={words[0].id} {...words[0]} />}
       </div>
