@@ -8,7 +8,7 @@ export const fetchWords = createAsyncThunk(
   'words/fetchWords',
   async function () {
     const data = [];
-    for (let i = 0; i <= 1; i = i + 1) {
+    for (let i = 0; i <= 19; i = i + 1) {
       const randomElement = getRandomElement(myBase);
       data.push(randomElement);
     }

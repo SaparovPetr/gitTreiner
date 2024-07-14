@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit';
 import { currientDate } from '../../utils/currient-date';
 
 interface ICounterState {
-  effortCounter: any;
+  effortCounter: number;
 }
 
 const initialState: ICounterState = {
@@ -20,11 +20,7 @@ export const counterSlice = createSlice({
         `${state.effortCounter}`
       );
     }
-  },
-  selectors: {
-    selectEffortCounter: (sliceState) => sliceState.effortCounter
   }
 });
 
 export const { setCounter } = counterSlice.actions;
-export const { selectEffortCounter } = counterSlice.selectors;

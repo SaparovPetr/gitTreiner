@@ -11,10 +11,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 import { Layout } from '../modal/layout';
 import ModalContent from '../modal-content/modal-content';
 import { setCounter } from '../../services/slices/counter-slice';
-import {
-  counterFromLocalStorage,
-  currientDate
-} from '../../utils/currient-date';
+import { currientDate } from '../../utils/currient-date';
 
 const App = () => {
   const dispatch = useAppDispatch();
@@ -31,8 +28,6 @@ const App = () => {
     dispatch(addIdToEachWord(words));
     dispatch(setCounter(Number(counterFromLocalStorage)));
   }, [dispatch]);
-
-  // console.log(counterFromLocalStorage);
 
   return (
     <>
