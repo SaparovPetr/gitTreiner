@@ -1,4 +1,4 @@
-import { memo } from 'react';
+import { memo, useEffect } from 'react';
 import WordItem from '../word-item/word-item';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
@@ -12,6 +12,8 @@ import styles from './functional-component.module.css';
 import { Link, useLocation } from 'react-router-dom';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
+
+import clsx from 'clsx';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
@@ -34,6 +36,13 @@ const FunctionalComponent = memo(() => {
     ) {
       location.reload();
     }
+  };
+
+  const audioCallback = () => {
+    const audioObj = new Audio(
+      `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${words[0].targetWord}&lang=en&voice=male_2`
+    );
+    audioObj.play();
   };
 
   const counterFromLocalStorage = localStorage.getItem(
@@ -68,6 +77,12 @@ const FunctionalComponent = memo(() => {
               >
                 &uarr;
               </Link>
+            </div>
+            <div
+              className={clsx(styles.button, styles.button_audioButton)}
+              onClick={audioCallback}
+            >
+              &#9835;
             </div>
           </div>
         </div>

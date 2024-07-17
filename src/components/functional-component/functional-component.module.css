@@ -53,6 +53,10 @@
   padding: 3px;
 }
 
+.button_audioButton {
+  width: 100%;
+}
+
 .button:active {
   border: 1px solid grey;
   color: grey;
