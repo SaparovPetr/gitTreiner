@@ -17,7 +17,7 @@ const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
 
-  const location = useLocation();
+  const locationInTheApp = useLocation();
 
   const resetList = () => {
     dispatch(clearList());
@@ -28,6 +28,12 @@ const FunctionalComponent = memo(() => {
   const resetListAndIncreaseCounter = () => {
     resetList();
     dispatch(setCounter(1));
+    if (
+      `effortCounterInStorage-${currientDate}` !==
+      localStorage.key(localStorage.length - 1)
+    ) {
+      location.reload();
+    }
   };
 
   const counterFromLocalStorage = localStorage.getItem(
@@ -58,7 +64,7 @@ const FunctionalComponent = memo(() => {
               <Link
                 className={styles.button}
                 to={'/gitTreiner/word'}
-                state={{ backgroundLocation: location }}
+                state={{ backgroundLocation: locationInTheApp }}
               >
                 &uarr;
               </Link>
