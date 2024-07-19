@@ -30,12 +30,12 @@ const FunctionalComponent = memo(() => {
   const resetListAndIncreaseCounter = () => {
     resetList();
     dispatch(setCounter(1));
-    if (
-      `effortCounterInStorage-${currientDate}` !==
-      localStorage.key(localStorage.length - 1)
-    ) {
-      location.reload();
-    }
+    // if (
+    //   `effortCounterInStorage-${currientDate}` !==
+    //   localStorage.key(localStorage.length - 1)
+    // ) {
+    location.reload();
+    // }
   };
 
   const audioCallback = () => {
