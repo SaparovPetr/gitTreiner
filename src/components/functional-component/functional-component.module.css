@@ -36,11 +36,15 @@
 .button {
   cursor: pointer;
   text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Suisse';
+  font-weight: bold;
+
   color: white;
   font-size: 16px;
 
   height: 40px;
-  width: 40px;
+  width: 150px;
 
   background-color: #323131;
   border: 1px solid white;

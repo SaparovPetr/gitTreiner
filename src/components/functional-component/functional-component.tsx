@@ -1,4 +1,4 @@
-import { memo, useEffect } from 'react';
+import { memo } from 'react';
 import WordItem from '../word-item/word-item';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
@@ -9,7 +9,6 @@ import {
 } from '../../services/thunks/thunk';
 
 import styles from './functional-component.module.css';
-// import { Link, useLocation } from 'react-router-dom';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
 
@@ -19,26 +18,12 @@ const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
 
-  // const locationInTheApp = useLocation();
-
-  // const resetList = () => {
-  //   dispatch(clearList());
-  //   dispatch(fetchWords());
-  //   dispatch(addIdToEachWord(words));
-  // };
-
   const resetListAndIncreaseCounter = () => {
     dispatch(clearList());
-    dispatch(fetchWords());
+    // dispatch(fetchWords());
     dispatch(addIdToEachWord(words));
-    // resetList();
     dispatch(setCounter(1));
-    // if (
-    //   `effortCounterInStorage-${currientDate}` !==
-    //   localStorage.key(localStorage.length - 1)
-    // ) {
     location.reload();
-    // }
   };
 
   const audioCallback = () => {
@@ -62,25 +47,12 @@ const FunctionalComponent = memo(() => {
           </div>
 
           <div className={styles.buttonsWrapper}>
-            <div className={styles.topButtons}>
-              <div className={styles.button}>{words.length}</div>
-              <div className={styles.button}>
-                {counterFromLocalStorage ? counterFromLocalStorage : 0}
-              </div>
+            <div className={styles.button}> remain: {words.length}</div>
+
+            <div className={styles.button}>
+              today: {counterFromLocalStorage ? counterFromLocalStorage : 0}
             </div>
 
-            {/* <div className={styles.bottomButtons}> */}
-            {/* <div className={styles.button} onClick={resetList}>
-                ↺
-              </div> */}
-            {/* <Link
-                className={styles.button}
-                to={'/gitTreiner/word'}
-                state={{ backgroundLocation: locationInTheApp }}
-              >
-                &uarr;
-              </Link> */}
-            {/* </div> */}
             <div
               className={clsx(styles.button, styles.button_audioButton)}
               onClick={audioCallback}
