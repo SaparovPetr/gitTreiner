@@ -5,10 +5,10 @@ import { getRandomElement } from '../../utils/get-random-element';
 import { myBase } from '../../wordBase';
 import { shuffle } from '../../utils/shuffle-array';
 import { deleteWord } from '../../services/thunks/thunk';
-import {
-  selectCurrientLanguage,
-  switchLanguageState
-} from '../../services/slices/translation-slace';
+// import {
+//   selectCurrientLanguage,
+//   switchLanguageState
+// } from '../../services/slices/translation-slace';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 const OptionList = (targerO: TOneWord) => {
@@ -18,13 +18,13 @@ const OptionList = (targerO: TOneWord) => {
   const shuffledArrey = shuffle([targerO, second, third, fourth]);
   const [preparedArrey, setArrey] = useState(shuffledArrey);
   const dispatch = useAppDispatch();
-  const currientLanguage = useAppSelector(selectCurrientLanguage);
+  // const currientLanguage = useAppSelector(selectCurrientLanguage);
 
   const skipWordCallback = (id: string) => {
     dispatch(deleteWord(id));
-    if (currientLanguage === 'inRussian') {
-      dispatch(switchLanguageState('inEnglish'));
-    }
+    // if (currientLanguage === 'inRussian') {
+    //   dispatch(switchLanguageState('inEnglish'));
+    // }
   };
 
   const choseOption = (e: any) => {

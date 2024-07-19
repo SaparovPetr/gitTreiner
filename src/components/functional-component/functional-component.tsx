@@ -9,7 +9,7 @@ import {
 } from '../../services/thunks/thunk';
 
 import styles from './functional-component.module.css';
-import { Link, useLocation } from 'react-router-dom';
+// import { Link, useLocation } from 'react-router-dom';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
 
@@ -19,16 +19,19 @@ const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
 
-  const locationInTheApp = useLocation();
+  // const locationInTheApp = useLocation();
 
-  const resetList = () => {
+  // const resetList = () => {
+  //   dispatch(clearList());
+  //   dispatch(fetchWords());
+  //   dispatch(addIdToEachWord(words));
+  // };
+
+  const resetListAndIncreaseCounter = () => {
     dispatch(clearList());
     dispatch(fetchWords());
     dispatch(addIdToEachWord(words));
-  };
-
-  const resetListAndIncreaseCounter = () => {
-    resetList();
+    // resetList();
     dispatch(setCounter(1));
     // if (
     //   `effortCounterInStorage-${currientDate}` !==
@@ -66,18 +69,18 @@ const FunctionalComponent = memo(() => {
               </div>
             </div>
 
-            <div className={styles.bottomButtons}>
-              <div className={styles.button} onClick={resetList}>
+            {/* <div className={styles.bottomButtons}> */}
+            {/* <div className={styles.button} onClick={resetList}>
                 ↺
-              </div>
-              <Link
+              </div> */}
+            {/* <Link
                 className={styles.button}
                 to={'/gitTreiner/word'}
                 state={{ backgroundLocation: locationInTheApp }}
               >
                 &uarr;
-              </Link>
-            </div>
+              </Link> */}
+            {/* </div> */}
             <div
               className={clsx(styles.button, styles.button_audioButton)}
               onClick={audioCallback}
