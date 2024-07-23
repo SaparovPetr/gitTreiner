@@ -20,7 +20,6 @@ const FunctionalComponent = memo(() => {
 
   const resetListAndIncreaseCounter = () => {
     dispatch(clearList());
-    // dispatch(fetchWords());
     dispatch(addIdToEachWord(words));
     dispatch(setCounter(1));
     location.reload();

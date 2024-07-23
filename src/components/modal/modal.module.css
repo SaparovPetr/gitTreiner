@@ -12,6 +12,15 @@
   background-color: rgba(0, 0, 0, 0.9);
 }
 
+@keyframes show {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+
 .popup {
   position: fixed;
   left: 50%;
@@ -21,7 +30,11 @@
   padding: 34px 16px;
   background-color: #323131;
   transform: translate(-50%, -50%);
+
+  animation-name: show;
+  animation-duration: 400ms;
 }
+
 
 .popupButton {
   position: absolute;
