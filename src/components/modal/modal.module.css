@@ -30,7 +30,6 @@
   padding: 34px 16px;
   background-color: #323131;
   transform: translate(-50%, -50%);
-
   animation-name: show;
   animation-duration: 400ms;
 }
