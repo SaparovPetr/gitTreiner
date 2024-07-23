@@ -1,6 +1,5 @@
-import './App.css';
+import './app.css';
 import React, { StrictMode, useEffect } from 'react';
-import { memo } from 'react';
 
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
@@ -11,16 +10,23 @@ import { Modal } from '../modal/modal';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import { Layout } from '../modal/layout';
 import ModalContent from '../modal-content/modal-content';
+import { setCounter } from '../../services/slices/counter-slice';
+import { currientDate } from '../../utils/currient-date';
 
 const App = () => {
-  const dispatch = useAppDispatch(); // 12
+  const dispatch = useAppDispatch();
   const location = useLocation();
   const words = useAppSelector(selectWords);
   const backgroundLocation = location.state?.backgroundLocation;
 
+  const counterFromLocalStorage = localStorage.getItem(
+    `effortCounterInStorage-${currientDate}`
+  );
+
   useEffect(() => {
     dispatch(fetchWords());
     dispatch(addIdToEachWord(words));
+    dispatch(setCounter(Number(counterFromLocalStorage)));
   }, [dispatch]);
 
   return (
