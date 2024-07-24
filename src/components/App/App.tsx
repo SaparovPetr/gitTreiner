@@ -34,7 +34,6 @@ const App = () => {
       <Routes location={backgroundLocation || location}>
         <Route path='/' element={<MainPage />} />
         <Route path='/gitTreiner/' element={<MainPage />} />
-
         <Route
           path='/gitTreiner/word/'
           element={
@@ -44,7 +43,6 @@ const App = () => {
           }
         />
       </Routes>
-
       {backgroundLocation && (
         <Routes>
           <Route path='/gitTreiner/' element={<MainPage />} />
