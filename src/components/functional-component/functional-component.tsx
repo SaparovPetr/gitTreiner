@@ -1,18 +1,12 @@
+import clsx from 'clsx';
 import { memo } from 'react';
 import WordItem from '../word-item/word-item';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
-import {
-  fetchWords,
-  clearList,
-  addIdToEachWord
-} from '../../services/thunks/thunk';
-
+import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
 import styles from './functional-component.module.css';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
-
-import clsx from 'clsx';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
@@ -61,7 +55,7 @@ const FunctionalComponent = memo(() => {
           </div>
         </div>
 
-        {<WordItem key={words[0].id} {...words[0]} />}
+        <WordItem key={words[0].id} {...words[0]} />
       </div>
     );
   }

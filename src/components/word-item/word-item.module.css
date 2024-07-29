@@ -1,3 +1,12 @@
+@keyframes show {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+
 .cardContainer {
   padding: 15px;
   display: flex;
@@ -8,7 +17,9 @@
   border: 1px solid rgb(236, 232, 232);
   border-radius: 15px;
   height: 330px; 
-  /* max-height: 100%; */
+
+  animation-name: show;
+  animation-duration: 500ms;
 }
 
 .cardWordArea {
