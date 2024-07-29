@@ -1,13 +1,26 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styles from './modal.module.css';
+import { CSSTransition } from 'react-transition-group';
+import { useAppDispatch, useAppSelector } from '../../services/store';
+import {
+  selectModalState,
+  setShowModal
+} from '../../services/slices/modal-slice';
+
+import './modal.css';
 
 export const Modal = ({ children }: React.PropsWithChildren) => {
+  const showModal = useAppSelector(selectModalState);
+  const nodeRef = useRef(null);
+  const dispatch = useAppDispatch();
+
   useEffect(() => {
+    dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
-        e.preventDefault();
-        navigate(-1);
+        dispatch(setShowModal(false));
+        setTimeout(onClose, 1000);
       }
     };
     document.addEventListener('keydown', handleEsc);
@@ -15,17 +28,40 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
   }, []);
 
   const navigate = useNavigate();
+
   const onClose = () => {
     navigate(-1);
   };
 
   return (
     <>
-      <div className={styles.overlay} onClick={onClose} />
-      <div className={styles.popup}>
-        {children}
-        <button className={styles.popupButton} onClick={onClose} />
-      </div>
+      <CSSTransition
+        in={showModal}
+        nodeRef={nodeRef}
+        timeout={500}
+        classNames='modal'
+        unmountOnExit
+      >
+        <div className='modal' ref={nodeRef}>
+          <div
+            className={styles.overlay}
+            onClick={() => {
+              dispatch(setShowModal(false));
+              setTimeout(onClose, 500);
+            }}
+          />
+          <div className={styles.popup}>
+            {children}
+            <button
+              className={styles.popupButton}
+              onClick={() => {
+                dispatch(setShowModal(false));
+                setTimeout(onClose, 500);
+              }}
+            />
+          </div>
+        </div>
+      </CSSTransition>
     </>
   );
 };

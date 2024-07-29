@@ -3,9 +3,11 @@ import { Layout } from '../modal/layout';
 import { TOneWord } from '@utils-types';
 import OptionList from '../option-list/option-list';
 import { Link, useLocation } from 'react-router-dom';
+import { useAppDispatch } from '../../services/store';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
+  const dispatch = useAppDispatch();
 
   return (
     <Layout>

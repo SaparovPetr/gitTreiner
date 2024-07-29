@@ -12,6 +12,7 @@ import { Layout } from '../modal/layout';
 import ModalContent from '../modal-content/modal-content';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
+import { setShowModal } from '../../services/slices/modal-slice';
 
 const App = () => {
   const dispatch = useAppDispatch();
@@ -27,6 +28,7 @@ const App = () => {
     dispatch(fetchWords());
     dispatch(addIdToEachWord(words));
     dispatch(setCounter(Number(counterFromLocalStorage)));
+    dispatch(setShowModal(false));
   }, [dispatch]);
 
   return (
