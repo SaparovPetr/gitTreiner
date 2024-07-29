@@ -38,7 +38,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
       <CSSTransition
         in={showModal}
         nodeRef={nodeRef}
-        timeout={1000}
+        timeout={500}
         classNames='modal'
         unmountOnExit
       >
@@ -47,7 +47,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
             className={styles.overlay}
             onClick={() => {
               dispatch(setShowModal(false));
-              setTimeout(onClose, 1000);
+              setTimeout(onClose, 500);
             }}
           />
           <div className={styles.popup}>
@@ -56,7 +56,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
               className={styles.popupButton}
               onClick={() => {
                 dispatch(setShowModal(false));
-                setTimeout(onClose, 1000);
+                setTimeout(onClose, 500);
               }}
             />
           </div>
