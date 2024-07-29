@@ -12,7 +12,7 @@ const initialState: arrayState = {
 };
 
 export const wordsSlice = createSlice({
-  name: 'words',
+  name: 'words-slice',
   initialState,
   reducers: {
     removeWord(state, action) {
