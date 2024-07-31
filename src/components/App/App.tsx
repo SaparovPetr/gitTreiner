@@ -14,6 +14,11 @@ import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
 import { setShowModal } from '../../services/slices/modal-slice';
 
+import { myBase } from '../../word-bases/wordBase';
+import { secondWordBase } from '../../word-bases/secondWordBase';
+import { setMode } from '../../services/slices/mode-slice';
+import { AppMode } from '@utils-types';
+
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
@@ -23,9 +28,25 @@ const App = () => {
   const counterFromLocalStorage = localStorage.getItem(
     `effortCounterInStorage-${currientDate}`
   );
+  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
 
   useEffect(() => {
-    dispatch(fetchWords());
+    if (!currientModeFromLocalStorage) {
+      dispatch(setMode(AppMode.Large));
+    }
+
+    if (currientModeFromLocalStorage) {
+      dispatch(setMode(currientModeFromLocalStorage));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.Large) {
+      dispatch(fetchWords(myBase));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.Small) {
+      dispatch(fetchWords(secondWordBase));
+    }
+
     dispatch(addIdToEachWord(words));
     dispatch(setCounter(Number(counterFromLocalStorage)));
     dispatch(setShowModal(false));

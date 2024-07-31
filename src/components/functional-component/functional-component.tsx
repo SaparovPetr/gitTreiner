@@ -7,10 +7,13 @@ import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
 import styles from './functional-component.module.css';
 import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
+import { selectModeState, setMode } from '../../services/slices/mode-slice';
+import { AppMode } from '@utils-types';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const words = useAppSelector(selectWords);
+  const currientMode = useAppSelector(selectModeState);
 
   const resetListAndIncreaseCounter = () => {
     dispatch(clearList());
@@ -26,9 +29,22 @@ const FunctionalComponent = memo(() => {
     audioObj.play();
   };
 
+  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
+
   const counterFromLocalStorage = localStorage.getItem(
     `effortCounterInStorage-${currientDate}`
   );
+
+  const changeMode = () => {
+    if (currientMode === AppMode.Large) {
+      dispatch(setMode(AppMode.Small));
+      location.reload();
+    }
+    if (currientMode === AppMode.Small) {
+      dispatch(setMode(AppMode.Large));
+      location.reload();
+    }
+  };
 
   if (words.length > 0) {
     return (
@@ -37,6 +53,9 @@ const FunctionalComponent = memo(() => {
           <div className={styles.logoArea}>
             <div>Git_ </div>
             <div>treiner</div>
+            <div onClick={changeMode} className={styles.button}>
+              {currientModeFromLocalStorage}
+            </div>
           </div>
 
           <div className={styles.buttonsWrapper}>
@@ -65,12 +84,12 @@ const FunctionalComponent = memo(() => {
       <div className={styles.functionalArea}>
         <div className={styles.success}>
           <div>🤘</div>
-          <div>Let's try again?</div>
+          <div>Go to English!</div>
           <button
             className={styles.button}
             onClick={resetListAndIncreaseCounter}
           >
-            ↺
+            →
           </button>
         </div>
       </div>

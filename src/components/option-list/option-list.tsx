@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styles from './option-list.module.css';
 import { TOneWord } from '@utils-types';
 import { getRandomElement } from '../../utils/get-random-element';
-import { myBase } from '../../wordBase';
+import { myBase } from '../../word-bases/wordBase';
 import { shuffle } from '../../utils/shuffle-array';
 import { deleteWord } from '../../services/thunks/thunk';
 

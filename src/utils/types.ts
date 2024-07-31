@@ -3,3 +3,8 @@ export type TOneWord = {
   translating: string;
   id: string;
 };
+
+export const enum AppMode {
+  Large = 'Large',
+  Small = 'Small'
+}

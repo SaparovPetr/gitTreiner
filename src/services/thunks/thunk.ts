@@ -1,15 +1,14 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import { removeWord } from '../slices/words-slice';
 import { getRandomElement } from '../../utils/get-random-element';
-import { myBase } from '../../wordBase';
 import { TOneWord } from '@utils-types';
 
 export const fetchWords = createAsyncThunk(
   'words/fetchWords',
-  async function () {
+  async function (currientBase: any) {
     const data = [];
     for (let i = 0; i <= 4; i = i + 1) {
-      const randomElement = getRandomElement(myBase);
+      const randomElement = getRandomElement(currientBase);
       data.push(randomElement);
     }
     return data;

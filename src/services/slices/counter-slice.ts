@@ -10,7 +10,7 @@ const initialState: ICounterState = {
 };
 
 export const counterSlice = createSlice({
-  name: 'counter-slice',
+  name: 'counter',
   initialState,
   reducers: {
     setCounter(state, action) {
