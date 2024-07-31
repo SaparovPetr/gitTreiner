@@ -17,9 +17,11 @@
   /* background-color: #041b05; */
 
   height: 100svh;
+  width:100%;
   padding: 5% 5%;
   font-family: 'Suisse';
   box-sizing: border-box;
   color: white;
   -webkit-tap-highlight-color: transparent;
+  overflow: clip;
 }
