@@ -49,8 +49,8 @@ const FunctionalComponent = memo(() => {
   if (words.length > 0) {
     return (
       <div className={styles.functionalArea}>
-        <div className={styles.headerArea} onClick={changeMode}>
-          <div className={styles.logoArea}>
+        <div className={styles.headerArea}>
+          <div className={styles.logoArea} onClick={changeMode}>
             <div>Git_ </div>
             <div>
               treiner

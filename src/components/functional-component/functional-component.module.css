@@ -17,19 +17,12 @@
   font-size: 35px;
 }
 
-.lable {
-  width: 7px;
-  height: 7px;
-  padding: 2px 5px 6px 4px;
-
+.lable {  
   color: white;
-  font-size: 10px;
+  font-size: 18px;
   position: absolute;
   top: 45px;
   left: 123px;
-
-  border: 2px solid white;
-  border-radius: 50px;
 }
 
 .buttonsWrapper {
@@ -57,10 +50,10 @@
   font-weight: bold;
 
   color: white;
-  font-size: 16px;
+  font-size: 15px;
 
-  height: 40px;
-  width: 150px;
+  height: 30px;
+  width: 114px;
 
   background-color: #323131;
   border: 1px solid white;
