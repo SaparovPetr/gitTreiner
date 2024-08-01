@@ -49,12 +49,14 @@ const FunctionalComponent = memo(() => {
   if (words.length > 0) {
     return (
       <div className={styles.functionalArea}>
-        <div className={styles.headerArea}>
+        <div className={styles.headerArea} onClick={changeMode}>
           <div className={styles.logoArea}>
             <div>Git_ </div>
-            <div>treiner</div>
-            <div onClick={changeMode} className={styles.button}>
-              {currientModeFromLocalStorage}
+            <div>
+              treiner
+              <span className={styles.lable}>
+                {currientModeFromLocalStorage}
+              </span>
             </div>
           </div>
 

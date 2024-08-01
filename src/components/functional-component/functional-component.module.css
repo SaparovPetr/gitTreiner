@@ -3,12 +3,13 @@
   flex-direction: column;
   height: 100%;
   justify-content: space-between;
-
 }
 
 .headerArea {
   display: flex;
   justify-content: space-between;
+  cursor: pointer;
+  position: relative;
 }
 
 .logoArea {
@@ -16,6 +17,20 @@
   font-size: 35px;
 }
 
+.lable {
+  width: 7px;
+  height: 7px;
+  padding: 2px 5px 6px 4px;
+
+  color: white;
+  font-size: 10px;
+  position: absolute;
+  top: 45px;
+  left: 123px;
+
+  border: 2px solid white;
+  border-radius: 50px;
+}
 
 .buttonsWrapper {
   display: flex;

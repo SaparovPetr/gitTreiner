@@ -5,6 +5,6 @@ export type TOneWord = {
 };
 
 export const enum AppMode {
-  Large = 'Large',
-  Small = 'Small'
+  Large = 'L',
+  Small = 'S'
 }
