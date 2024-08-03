@@ -38,11 +38,9 @@ const FunctionalComponent = memo(() => {
   const changeMode = () => {
     if (currientMode === AppMode.Large) {
       dispatch(setMode(AppMode.Small));
-      location.reload();
     }
     if (currientMode === AppMode.Small) {
       dispatch(setMode(AppMode.Large));
-      location.reload();
     }
   };
 

@@ -7,7 +7,6 @@ import { useAppDispatch } from '../../services/store';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
-  const dispatch = useAppDispatch();
 
   return (
     <Layout>
