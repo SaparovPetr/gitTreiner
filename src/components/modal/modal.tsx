@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 
 import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
@@ -8,16 +8,18 @@ import {
   selectModalState,
   setShowModal
 } from '../../services/slices/modal-slice';
+import { selectWords } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
-
-import './modal.css';
+import { audioCallback } from '../../utils/audioCallback';
 
 export const Modal = ({ children }: React.PropsWithChildren) => {
   const showModal = useAppSelector(selectModalState);
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
+  const words = useAppSelector(selectWords);
 
   useEffect(() => {
+    audioCallback(words);
     dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {

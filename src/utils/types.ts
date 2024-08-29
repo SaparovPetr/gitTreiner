@@ -8,3 +8,7 @@ export const enum AppMode {
   Large = 'L',
   Small = 'S'
 }
+
+export interface ICounterState {
+  effortCounter: number;
+}

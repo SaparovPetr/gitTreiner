@@ -11,10 +11,8 @@
   justify-content: space-between;
   cursor: pointer;
   position: relative;
-
-  
+  width: 30%;
   min-width: 266px;
-
 }
 
 .logoArea {
@@ -91,3 +89,19 @@
   gap: 30px;
   padding-top: 150px;
 }
+
+@media (max-height: 620px) {
+  .functionalArea {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .headerArea {
+    flex-direction: column;
+    align-self: start;
+    justify-content: space-between;
+    height: 100%;
+  }
+}
+
+

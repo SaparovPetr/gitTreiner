@@ -43,3 +43,8 @@
   outline: 2px solid #000000;
   outline-offset: 0;
 }
+
+.layoutComponent {
+  width: 30%;
+  min-width: 266px;
+}

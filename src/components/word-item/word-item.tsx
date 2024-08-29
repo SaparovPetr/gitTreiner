@@ -17,7 +17,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
 
   useEffect(() => {
     audioCallback(words);
-  }, [translating]);
+  }, [id]);
 
   return (
     <Layout>

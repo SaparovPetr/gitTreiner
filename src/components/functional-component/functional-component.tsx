@@ -1,7 +1,6 @@
 import { memo } from 'react';
 
 import { AppMode } from '@utils-types';
-import clsx from 'clsx';
 
 import styles from './functional-component.module.css';
 import { setCounter } from '../../services/slices/counter-slice';
@@ -9,7 +8,6 @@ import { selectModeState, setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
-import { audioCallback } from '../../utils/audioCallback';
 import { currientDate } from '../../utils/currient-date';
 import WordItem from '../word-item/word-item';
 
@@ -40,10 +38,6 @@ const FunctionalComponent = memo(() => {
     }
   };
 
-  const playAudio = () => {
-    audioCallback(words);
-  };
-
   if (words.length > 0) {
     return (
       <div className={styles.functionalArea}>
@@ -63,13 +57,6 @@ const FunctionalComponent = memo(() => {
 
             <div className={styles.button}>
               today: {counterFromLocalStorage ? counterFromLocalStorage : 0}
-            </div>
-
-            <div
-              className={clsx(styles.button, styles.button_audioButton)}
-              onClick={playAudio}
-            >
-              &#9835;
             </div>
           </div>
         </div>
