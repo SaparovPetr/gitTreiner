@@ -24,3 +24,9 @@
   -webkit-tap-highlight-color: transparent;
   overflow: clip;
 }
+
+@media (max-height: 620px) {
+  .app-container{ 
+    padding: 1% 3%;
+  }
+}
