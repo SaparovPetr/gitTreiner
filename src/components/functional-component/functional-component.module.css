@@ -7,12 +7,12 @@
 }
 
 .headerArea {
+  position: relative;
   display: flex;
   justify-content: space-between;
-  cursor: pointer;
-  position: relative;
   width: 30vw;
   min-width: 300px;
+  cursor: pointer;
 }
 
 .logoArea {
@@ -20,19 +20,19 @@
   font-size: 35px;
 }
 
-.lable {  
-  color: white;
-  font-size: 18px;
+.lable {
   position: absolute;
   top: 45px;
-  left: 123px;
+  left: 123px;  
+  color: white;
+  font-size: 18px;
 }
 
 .buttonsWrapper {
   display: flex;
   flex-direction: column;
-  gap: 2vh;
   justify-content: center;
+  gap: 2vh;
 }
 
 .topButtons {
@@ -46,51 +46,43 @@
 }
 
 .button {
-  cursor: pointer;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-family: 'Suisse';
-  font-weight: bold;
-
-  color: white;
-  font-size: 15px;
-
-  height: 30px;
-  width: 114px;
-
-  background-color: #323131;
-  border: 1px solid white;
-  border-radius: 50px;
-
   display: flex;
   justify-content: center;
   align-items: center;
-
+  width: 114px;
+  height: 30px;
   padding: 3px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Suisse' , sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #323131;
+  border: 1px solid white;
+  border-radius: 50px;
+  cursor: pointer;
 }
 
-.button_audioButton {
-  width: 100%;
-}
 
 .button:active {
-  border: 1px solid grey;
   color: grey;
+  border: 1px solid grey;
 }
 
 .success {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-family: 'Suisse';
-  font-weight: bold;
-  font-size: 34px;
+  align-items: center;
   gap: 30px;
   padding-top: 150px;
+  font-weight: bold;
+  font-size: 34px;
+  font-family: 'Suisse', sans-serif;
 }
 
-@media (max-height: 620px) {
+@media (height <= 620px) {
   .functionalArea {
     flex-direction: row;
     align-items: center;
@@ -98,10 +90,10 @@
 
   .headerArea {
     flex-direction: column;
-    align-self: start;
     justify-content: space-between;
-    height: 100%;
+    align-self: start;
     min-width: 226px;
+    height: 100%;
   }
 
   .success{ 
