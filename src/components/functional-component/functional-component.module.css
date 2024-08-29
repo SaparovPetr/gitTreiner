@@ -101,10 +101,9 @@
     align-self: start;
     justify-content: space-between;
     height: 100%;
+    min-width: 226px;
   }
-}
 
-@media (max-height: 620px) {
   .success{ 
     padding: 0 38%;
   }

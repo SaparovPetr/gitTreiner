@@ -48,3 +48,11 @@
   width: 30%;
   min-width: 266px;
 }
+
+@media (max-height: 620px) {
+  .layoutComponent { 
+    width: fit-content;
+
+    min-width: 266px;
+  }
+}
