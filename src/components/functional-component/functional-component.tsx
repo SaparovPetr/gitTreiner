@@ -9,6 +9,7 @@ import { selectModeState, setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
+import { audioCallback } from '../../utils/audioCallback';
 import { currientDate } from '../../utils/currient-date';
 import WordItem from '../word-item/word-item';
 
@@ -24,13 +25,6 @@ const FunctionalComponent = memo(() => {
     location.reload();
   };
 
-  const audioCallback = () => {
-    const audioObj = new Audio(
-      `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${words[0].targetWord}&lang=en&voice=male_2`
-    );
-    audioObj.play();
-  };
-
   const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
 
   const counterFromLocalStorage = localStorage.getItem(
@@ -44,6 +38,10 @@ const FunctionalComponent = memo(() => {
     if (currientMode === AppMode.Small) {
       dispatch(setMode(AppMode.Large));
     }
+  };
+
+  const playAudio = () => {
+    audioCallback(words);
   };
 
   if (words.length > 0) {
@@ -69,7 +67,7 @@ const FunctionalComponent = memo(() => {
 
             <div
               className={clsx(styles.button, styles.button_audioButton)}
-              onClick={audioCallback}
+              onClick={playAudio}
             >
               &#9835;
             </div>
