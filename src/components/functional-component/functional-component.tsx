@@ -66,7 +66,7 @@ const FunctionalComponent = memo(() => {
     );
   }
 
-  if (words.length === 0) {
+  if (counterFromLocalStorage || words.length === 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
@@ -83,12 +83,12 @@ const FunctionalComponent = memo(() => {
     );
   }
 
-  if (!counterFromLocalStorage) {
+  if (!counterFromLocalStorage || words.length === 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
           <div>👋</div>
-          <div>Welcome! Let's go to English!</div>
+          <div>Hello my friend! Let's go to English!</div>
           <button
             className={styles.button}
             onClick={resetListAndIncreaseCounter}
