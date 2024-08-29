@@ -12,11 +12,6 @@
 
 
 .app-container {
-  display: flex;
-  flex-direction: column;
-   align-items: center;
-
-  margin: 0 auto;
   background-color: #323131;
   /* background-color: #041b05; */
 

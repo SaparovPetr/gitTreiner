@@ -1,5 +1,5 @@
 import './app.css';
-import React, { StrictMode, useEffect } from 'react';
+import { useEffect } from 'react';
 
 import { AppMode } from '@utils-types';
 import { Route, Routes, useLocation } from 'react-router-dom';
