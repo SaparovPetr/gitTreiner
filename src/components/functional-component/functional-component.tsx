@@ -88,7 +88,7 @@ const FunctionalComponent = memo(() => {
       <div className={styles.functionalArea}>
         <div className={styles.success}>
           <div>👋</div>
-          <div>Hello! Let's go to English!</div>
+          <div>Welcome! Let's go to English!</div>
           <button
             className={styles.button}
             onClick={resetListAndIncreaseCounter}
