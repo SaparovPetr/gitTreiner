@@ -35,3 +35,9 @@
 
   color: white;
 }
+
+@media (max-height: 620px) {
+  .cardContainer { 
+    min-height: 26px; 
+  }
+}
