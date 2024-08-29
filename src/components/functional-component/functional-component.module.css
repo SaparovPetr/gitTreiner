@@ -104,4 +104,8 @@
   }
 }
 
-
+@media (max-height: 620px) {
+  .success{ 
+    padding: 0 38%;
+  }
+}
