@@ -93,6 +93,6 @@ module.exports = {
     static: path.join(__dirname, './dist'),
     compress: true,
     historyApiFallback: true,
-    port: 5000
+    port: 7000
   }
 };

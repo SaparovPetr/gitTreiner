@@ -1,9 +1,10 @@
-import styles from './word-item.module.css';
-import { Layout } from '../modal/layout';
 import { TOneWord } from '@utils-types';
-import OptionList from '../option-list/option-list';
 import { Link, useLocation } from 'react-router-dom';
+
+import styles from './word-item.module.css';
 import { useAppDispatch } from '../../services/store';
+import { Layout } from '../modal/layout';
+import OptionList from '../option-list/option-list';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();

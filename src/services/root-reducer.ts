@@ -1,8 +1,9 @@
 import { combineReducers } from '@reduxjs/toolkit';
-import { wordsSlice } from './slices/words-slice';
+
 import { counterSlice } from './slices/counter-slice';
 import { modalSlice } from './slices/modal-slice';
 import { modeSlice } from './slices/mode-slice';
+import { wordsSlice } from './slices/words-slice';
 
 const rootReducer = combineReducers({
   [counterSlice.name]: counterSlice.reducer,

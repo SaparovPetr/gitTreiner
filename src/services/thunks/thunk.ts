@@ -1,7 +1,8 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
-import { removeWord } from '../slices/words-slice';
-import { getRandomElement } from '../../utils/get-random-element';
 import { TOneWord } from '@utils-types';
+
+import { getRandomElement } from '../../utils/get-random-element';
+import { removeWord } from '../slices/words-slice';
 
 export const fetchWords = createAsyncThunk(
   'words/fetchWords',

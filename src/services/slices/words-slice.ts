@@ -1,6 +1,8 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { fetchWords, clearList, addIdToEachWord } from '../thunks/thunk'; //11
 import { TOneWord } from '@utils-types';
+
+import { fetchWords, clearList, addIdToEachWord } from '../thunks/thunk'; //11
+
 const uuid = require('uuid');
 
 interface arrayState {

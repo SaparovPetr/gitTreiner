@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
-import styles from './option-list.module.css';
-import { TOneWord } from '@utils-types';
-import { getRandomElement } from '../../utils/get-random-element';
-import { myBase } from '../../word-bases/wordBase';
-import { shuffle } from '../../utils/shuffle-array';
-import { deleteWord } from '../../services/thunks/thunk';
 
+import { TOneWord } from '@utils-types';
+
+import styles from './option-list.module.css';
 import { useAppDispatch } from '../../services/store';
+import { deleteWord } from '../../services/thunks/thunk';
+import { getRandomElement } from '../../utils/get-random-element';
+import { shuffle } from '../../utils/shuffle-array';
+import { myBase } from '../../word-bases/wordBase';
 
 const OptionList = (targerO: TOneWord) => {
   const second = getRandomElement(myBase);

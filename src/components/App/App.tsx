@@ -1,23 +1,22 @@
 import './app.css';
 import React, { StrictMode, useEffect } from 'react';
 
+import { AppMode } from '@utils-types';
+import { Route, Routes, useLocation } from 'react-router-dom';
+
+import { MainPage } from '../../pages/main-page/main-page';
+import { setCounter } from '../../services/slices/counter-slice';
+import { setShowModal } from '../../services/slices/modal-slice';
+import { setMode } from '../../services/slices/mode-slice';
+import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
-import { selectWords } from '../../services/slices/words-slice';
-import { MainPage } from '../../pages/main-page/main-page';
-import { Modal } from '../modal/modal';
-
-import { Route, Routes, useLocation } from 'react-router-dom';
-import { Layout } from '../modal/layout';
-import ModalContent from '../modal-content/modal-content';
-import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
-import { setShowModal } from '../../services/slices/modal-slice';
-
-import { myBase } from '../../word-bases/wordBase';
 import { secondWordBase } from '../../word-bases/secondWordBase';
-import { setMode } from '../../services/slices/mode-slice';
-import { AppMode } from '@utils-types';
+import { myBase } from '../../word-bases/wordBase';
+import { Layout } from '../modal/layout';
+import { Modal } from '../modal/modal';
+import ModalContent from '../modal-content/modal-content';
 
 const App = () => {
   const dispatch = useAppDispatch();

@@ -1,14 +1,16 @@
-import clsx from 'clsx';
 import { memo } from 'react';
-import WordItem from '../word-item/word-item';
+
+import { AppMode } from '@utils-types';
+import clsx from 'clsx';
+
+import styles from './functional-component.module.css';
+import { setCounter } from '../../services/slices/counter-slice';
+import { selectModeState, setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
-import styles from './functional-component.module.css';
-import { setCounter } from '../../services/slices/counter-slice';
 import { currientDate } from '../../utils/currient-date';
-import { selectModeState, setMode } from '../../services/slices/mode-slice';
-import { AppMode } from '@utils-types';
+import WordItem from '../word-item/word-item';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();

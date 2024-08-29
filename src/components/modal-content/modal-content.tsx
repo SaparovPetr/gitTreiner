@@ -1,9 +1,11 @@
-import { useAppSelector } from '../../services/store';
-import { Link } from 'react-router-dom';
-import { selectFirstWord } from '../../services/slices/words-slice';
 import { useEffect } from 'react';
-import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
+
+import { Link } from 'react-router-dom';
+
 import styles from './modal-content.module.css';
+import { selectFirstWord } from '../../services/slices/words-slice';
+import { useAppSelector } from '../../services/store';
+import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
 
 const ModalContent = () => {
   const word = useAppSelector(selectFirstWord);

@@ -1,12 +1,14 @@
 import React, { useEffect, useRef, useState } from 'react';
+
 import { useNavigate } from 'react-router-dom';
-import styles from './modal.module.css';
 import { CSSTransition } from 'react-transition-group';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+
+import styles from './modal.module.css';
 import {
   selectModalState,
   setShowModal
 } from '../../services/slices/modal-slice';
+import { useAppDispatch, useAppSelector } from '../../services/store';
 
 import './modal.css';
 
