@@ -50,9 +50,15 @@
 }
 
 @media (max-height: 620px) {
+  
   .layoutComponent { 
     width: fit-content;
-
     min-width: 266px;
   }
+
+  .popup {
+    height: 82vh;
+    padding: 9px 16px 22px;
+    top: 50%;  
+  } 
 }
