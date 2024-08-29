@@ -5,7 +5,7 @@ import { Link, useLocation } from 'react-router-dom';
 
 import styles from './word-item.module.css';
 import { selectWords } from '../../services/slices/words-slice';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+import { useAppSelector } from '../../services/store';
 import { audioCallback } from '../../utils/audioCallback';
 import { Layout } from '../modal/layout';
 import OptionList from '../option-list/option-list';
@@ -17,7 +17,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
 
   useEffect(() => {
     audioCallback(words);
-  });
+  }, [translating]);
 
   return (
     <Layout>
