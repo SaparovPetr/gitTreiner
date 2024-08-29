@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './modal.module.css';
+import './modal.css';
 import {
   selectModalState,
   setShowModal
