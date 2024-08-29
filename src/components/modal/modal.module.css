@@ -45,15 +45,15 @@
 }
 
 .layoutComponent {
-  width: 30%;
-  min-width: 266px;
+  width: 50vw;
+  min-width: 300px;
 }
 
 @media (max-height: 620px) {
-  
+
   .layoutComponent { 
     width: fit-content;
-    min-width: 266px;
+    min-width: 300px;
   }
 
   .popup {
