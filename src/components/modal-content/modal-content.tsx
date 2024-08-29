@@ -30,7 +30,7 @@ const ModalContent = () => {
         to={`https://github.com/SaparovPetr/mdWords/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
         target='_blank'
       >
-        &#9998;
+        edit
       </Link>
     </div>
   );

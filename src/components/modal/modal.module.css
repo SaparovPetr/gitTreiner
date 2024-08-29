@@ -18,7 +18,7 @@
   top: 41%;
   border: 1px solid white;
   border-radius: 25px;
-  padding: 35px 3px;
+  padding: 19px 13px;
   background-color: #323131;
   transform: translate(-50%, -50%);
 }
@@ -26,7 +26,7 @@
 .popupButton {
   position: absolute;
   top: -40px;
-  right: 148px;
+  right: 138px;
   width: 15px;
   height: 15px;
   border: none;
@@ -57,7 +57,7 @@
   }
 
   .popup {
-    height: 82vh;
+    min-height: 200px;
     padding: 9px 16px 22px;
     top: 50%;  
   } 
