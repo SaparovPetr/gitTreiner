@@ -54,7 +54,6 @@ const FunctionalComponent = memo(() => {
 
           <div className={styles.buttonsWrapper}>
             <div className={styles.button}> remain: {words.length}</div>
-
             <div className={styles.button}>
               today: {counterFromLocalStorage ? counterFromLocalStorage : 0}
             </div>
@@ -66,29 +65,12 @@ const FunctionalComponent = memo(() => {
     );
   }
 
-  if (counterFromLocalStorage || words.length === 0) {
+  if (words.length === 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
-          <div>🤘</div>
-          <div>Lets try again!</div>
-          <button
-            className={styles.button}
-            onClick={resetListAndIncreaseCounter}
-          >
-            →
-          </button>
-        </div>
-      </div>
-    );
-  }
-
-  if (!counterFromLocalStorage || words.length === 0) {
-    return (
-      <div className={styles.functionalArea}>
-        <div className={styles.success}>
-          <div>👋</div>
-          <div>Hello my friend! Let's go to English!</div>
+          <div>🥳</div>
+          <div>Let's go to English!</div>
           <button
             className={styles.button}
             onClick={resetListAndIncreaseCounter}
