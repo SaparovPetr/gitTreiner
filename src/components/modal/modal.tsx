@@ -55,16 +55,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
               setTimeout(onClose, 200);
             }}
           />
-          <div className={styles.popup}>
-            {children}
-            <button
-              className={styles.popupButton}
-              onClick={() => {
-                dispatch(setShowModal(false));
-                setTimeout(onClose, 200);
-              }}
-            />
-          </div>
+          <div className={styles.popup}>{children}</div>
         </div>
       </CSSTransition>
     </>

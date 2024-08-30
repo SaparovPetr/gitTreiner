@@ -10,7 +10,7 @@ import { setShowModal } from '../../services/slices/modal-slice';
 import { setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
-import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
+import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import { currientDate } from '../../utils/currient-date';
 import { firstWordBase } from '../../word-bases/first-word-base';
 import { secondWordBase } from '../../word-bases/second-word-base';
@@ -39,11 +39,11 @@ const App = () => {
     }
 
     if (currientModeFromLocalStorage === AppMode.Large) {
-      dispatch(fetchWords(firstWordBase));
+      dispatch(fetchCollection(firstWordBase));
     }
 
     if (currientModeFromLocalStorage === AppMode.Small) {
-      dispatch(fetchWords(secondWordBase));
+      dispatch(fetchCollection(secondWordBase));
     }
 
     dispatch(addIdToEachWord(words));

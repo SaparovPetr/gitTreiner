@@ -12,15 +12,22 @@
   text-align: center;
 }
 
-.markerZone {
-  align-self: center;
+.buttonsZone {
+  display: flex;
+  gap: 5px;
+}
+
+.button {
+  min-width:82px;
   padding: 0 11px 3px 9px;
   color: white;
   font-size: 26px;
+  text-align: center;
   text-decoration: none;
   border: 1px solid white;
   border-radius: 15px;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
 
 iframe {

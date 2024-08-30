@@ -4,15 +4,18 @@ import { TOneWord } from '@utils-types';
 import { getRandomElement } from '../../utils/get-random-element';
 import { removeWord } from '../slices/words-slice';
 
-export const fetchWords = createAsyncThunk(
-  'words/fetchWords',
+/**
+ * функция, принимающая базу и возвращающая коллекцию
+ */
+export const fetchCollection = createAsyncThunk(
+  'words/fetchCollection',
   async function (currientBase: any) {
-    const data = [];
+    const collection = [];
     for (let i = 0; i <= 4; i = i + 1) {
       const randomElement = getRandomElement(currientBase);
-      data.push(randomElement);
+      collection.push(randomElement);
     }
-    return data;
+    return collection;
   }
 );
 

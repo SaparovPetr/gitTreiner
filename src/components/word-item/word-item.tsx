@@ -12,7 +12,6 @@ import OptionList from '../option-list/option-list';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
-
   const words = useAppSelector(selectWords);
 
   useEffect(() => {
