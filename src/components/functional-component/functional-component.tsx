@@ -78,7 +78,7 @@ const FunctionalComponent = memo(() => {
       <div className={styles.functionalArea}>
         <div className={styles.success}>
           <div>👋 </div>
-          <div>Welcome to GitTreiner!</div>
+          <div>Welcome to the GitTreiner!</div>
           <div>
             Revise words and edit Markdone notes for them from your GitHub.
           </div>

@@ -35,7 +35,6 @@ export const wordsSlice = createSlice({
         state.words = action.payload;
       })
       .addCase(clearList.fulfilled, () => initialState)
-
       .addCase(addIdToEachWord.fulfilled, (state) => {
         state.words.forEach((element) => {
           element.id = uuid.v4();

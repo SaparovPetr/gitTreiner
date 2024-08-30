@@ -11,7 +11,6 @@ import { shuffle } from '../../utils/shuffle-array';
 
 const OptionList = (targetObject: TOneWord) => {
   const currientBase = getCurrientBase(localStorage.getItem(`currientMode`));
-
   const secondOption = getRandomElement(currientBase);
   const thirdOption = getRandomElement(currientBase);
   const fourthOption = getRandomElement(currientBase);
@@ -21,7 +20,6 @@ const OptionList = (targetObject: TOneWord) => {
     thirdOption,
     fourthOption
   ]);
-  const [preparedArrey] = useState(shuffledArrey);
   const dispatch = useAppDispatch();
 
   const skipWordCallback = (id: string) => {
@@ -40,16 +38,16 @@ const OptionList = (targetObject: TOneWord) => {
   return (
     <div className={styles.fourOptions}>
       <div key={2} className={styles.option} onClick={choseOption}>
-        {preparedArrey[0].translating}
+        {shuffledArrey[0].translating}
       </div>
       <div key={3} className={styles.option} onClick={choseOption}>
-        {preparedArrey[1].translating}
+        {shuffledArrey[1].translating}
       </div>
       <div key={4} className={styles.option} onClick={choseOption}>
-        {preparedArrey[2].translating}
+        {shuffledArrey[2].translating}
       </div>
       <div key={5} className={styles.option} onClick={choseOption}>
-        {preparedArrey[3].translating}
+        {shuffledArrey[3].translating}
       </div>
     </div>
   );
