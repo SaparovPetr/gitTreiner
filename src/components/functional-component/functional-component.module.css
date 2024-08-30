@@ -64,7 +64,6 @@
   cursor: pointer;
 }
 
-
 .button:active {
   color: grey;
   border: 1px solid grey;
@@ -87,6 +86,7 @@
 @media (height <= 620px) {
   .functionalArea {
     flex-direction: row;
+    justify-content: center;
     align-items: center;
   }
 
@@ -99,6 +99,8 @@
   }
 
   .success{ 
-    padding: 0 38%;
+    max-width: 534px;
+    padding: 0 15%;
+    font-size: 28px;
   }
 }

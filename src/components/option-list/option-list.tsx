@@ -1,20 +1,27 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 import { TOneWord } from '@utils-types';
 
 import styles from './option-list.module.css';
 import { useAppDispatch } from '../../services/store';
 import { deleteWord } from '../../services/thunks/thunk';
+import { getCurrientBase } from '../../utils/get-currient-base';
 import { getRandomElement } from '../../utils/get-random-element';
 import { shuffle } from '../../utils/shuffle-array';
-import { myBase } from '../../word-bases/wordBase';
 
-const OptionList = (targerO: TOneWord) => {
-  const second = getRandomElement(myBase);
-  const third = getRandomElement(myBase);
-  const fourth = getRandomElement(myBase);
-  const shuffledArrey = shuffle([targerO, second, third, fourth]);
-  const [preparedArrey, setArrey] = useState(shuffledArrey);
+const OptionList = (targetObject: TOneWord) => {
+  const currientBase = getCurrientBase(localStorage.getItem(`currientMode`));
+
+  const secondOption = getRandomElement(currientBase);
+  const thirdOption = getRandomElement(currientBase);
+  const fourthOption = getRandomElement(currientBase);
+  const shuffledArrey = shuffle([
+    targetObject,
+    secondOption,
+    thirdOption,
+    fourthOption
+  ]);
+  const [preparedArrey] = useState(shuffledArrey);
   const dispatch = useAppDispatch();
 
   const skipWordCallback = (id: string) => {
@@ -22,8 +29,8 @@ const OptionList = (targerO: TOneWord) => {
   };
 
   const choseOption = (e: any) => {
-    if (e.target.textContent === targerO.translating) {
-      skipWordCallback(targerO.id);
+    if (e.target.textContent === targetObject.translating) {
+      skipWordCallback(targetObject.id);
     } else {
       e.target.style.color = 'gray';
       e.target.style.border = '1px solid gray';
