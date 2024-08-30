@@ -23,18 +23,26 @@ const FunctionalComponent = memo(() => {
     location.reload();
   };
 
-  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
+  const markTheFirstStart = () => {
+    localStorage.setItem('firstStart', `${currientDate}`);
+    location.reload();
+  };
 
+  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
   const counterFromLocalStorage = localStorage.getItem(
     `effortCounterInStorage-${currientDate}`
   );
 
+  const isFirstStart = localStorage.getItem('firstStart');
+
   const changeMode = () => {
     if (currientMode === AppMode.Large) {
       dispatch(setMode(AppMode.Small));
+      location.reload();
     }
     if (currientMode === AppMode.Small) {
       dispatch(setMode(AppMode.Large));
+      location.reload();
     }
   };
 
@@ -65,12 +73,30 @@ const FunctionalComponent = memo(() => {
     );
   }
 
+  if (!isFirstStart) {
+    return (
+      <div className={styles.functionalArea}>
+        <div className={styles.success}>
+          <div>👋 </div>
+          <div>Welcome to GitTreiner!</div>
+          <div>
+            Revise words and edit Markdone notes for them from your GitHub.
+          </div>
+          <button className={styles.button} onClick={markTheFirstStart}>
+            →
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   if (words.length === 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
           <div>🥳</div>
-          <div>Let's go to English!</div>
+          <div>Great!</div>
+          <div>Let's go again!</div>
           <button
             className={styles.button}
             onClick={resetListAndIncreaseCounter}

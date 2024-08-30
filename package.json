@@ -99,13 +99,13 @@
   "scripts": {
     "stylelint": "stylelint \"src/**/*.{css,scss}\"",
     "stylelint:fix": "stylelint \"src/**/*.{css,scss}\" --fix",
-    "build": "webpack --mode=production",
+    "build-👽": "webpack --mode=production",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx ./src",
     "lint:fix": "npm run lint -- --fix",
     "format": "prettier ./src --write",
-    "start": "webpack serve --mode=development"
+    "start-🎸": "webpack serve --mode=development"
   },
   "eslintConfig": {
     "extends": [
