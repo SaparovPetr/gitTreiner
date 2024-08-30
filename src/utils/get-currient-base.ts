@@ -1,9 +1,9 @@
-import { secondWordBase } from '../word-bases/secondWordBase';
-import { myBase } from '../word-bases/wordBase';
+import { firstWordBase } from '../word-bases/first-word-base';
+import { secondWordBase } from '../word-bases/second-word-base';
 
-export const getCurrientBase = (str: any) => {
+export const getCurrientBase = (str: string | null) => {
   if (str === 'L') {
-    return myBase;
+    return firstWordBase;
   } else if (str === 'S') {
     return secondWordBase;
   }

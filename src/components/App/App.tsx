@@ -12,8 +12,8 @@ import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchWords } from '../../services/thunks/thunk';
 import { currientDate } from '../../utils/currient-date';
-import { secondWordBase } from '../../word-bases/secondWordBase';
-import { myBase } from '../../word-bases/wordBase';
+import { firstWordBase } from '../../word-bases/first-word-base';
+import { secondWordBase } from '../../word-bases/second-word-base';
 import { Layout } from '../modal/layout';
 import { Modal } from '../modal/modal';
 import ModalContent from '../modal-content/modal-content';
@@ -39,7 +39,7 @@ const App = () => {
     }
 
     if (currientModeFromLocalStorage === AppMode.Large) {
-      dispatch(fetchWords(myBase));
+      dispatch(fetchWords(firstWordBase));
     }
 
     if (currientModeFromLocalStorage === AppMode.Small) {

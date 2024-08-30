@@ -1,7 +1,10 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { ICounterState } from '@utils-types';
 
 import { currientDate } from '../../utils/currient-date';
+
+interface ICounterState {
+  effortCounter: number;
+}
 
 const initialState: ICounterState = {
   effortCounter: 0

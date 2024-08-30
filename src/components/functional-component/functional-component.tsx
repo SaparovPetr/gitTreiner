@@ -51,7 +51,7 @@ const FunctionalComponent = memo(() => {
       <div className={styles.functionalArea}>
         <div className={styles.headerArea}>
           <div className={styles.logoArea} onClick={changeMode}>
-            <div>Git_1 </div>
+            <div>Git_</div>
             <div>
               treiner
               <span className={styles.lable}>

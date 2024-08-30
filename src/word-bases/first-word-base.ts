@@ -1,4 +1,4 @@
-export const myBase = [
+export const firstWordBase = [
   { targetWord: 'splurge', translating: 'хвастовство' },
   { targetWord: 'splurge', translating: 'разориться' },
   { targetWord: 'poach', translating: 'варить' },

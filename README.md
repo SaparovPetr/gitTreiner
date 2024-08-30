@@ -3,5 +3,4 @@ Currient version:
 
 TODO:
 
-- add possibility to choose mode (wordlist),
-- add 404-page
+- personalise app (connect app with user's repositories)
