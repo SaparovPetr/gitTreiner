@@ -1,4 +1,4 @@
-import './app.css';
+import './main.css';
 import { useEffect } from 'react';
 
 import { AppMode } from '@utils-types';
@@ -8,7 +8,7 @@ import { MainPage } from '../../pages/main-page/main-page';
 import { setCounter } from '../../services/slices/counter-slice';
 import { setShowModal } from '../../services/slices/modal-slice';
 import { setMode } from '../../services/slices/mode-slice';
-import { selectWords } from '../../services/slices/words-slice';
+import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
@@ -24,7 +24,7 @@ import ModalContent from '../modal-content/modal-content';
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
-  const words = useAppSelector(selectWords);
+  const collection = useAppSelector(selectCollection);
   const backgroundLocation = location.state?.backgroundLocation;
 
   useEffect(() => {
@@ -44,7 +44,7 @@ const App = () => {
       dispatch(fetchCollection(secondWordBase));
     }
 
-    dispatch(addIdToEachWord(words));
+    dispatch(addIdToEachWord(collection));
     dispatch(setCounter(Number(counterFromLocalStorage)));
     dispatch(setShowModal(false));
   }, [dispatch]);
@@ -55,7 +55,7 @@ const App = () => {
         <Route path='/' element={<MainPage />} />
         <Route path='/gitTreiner/' element={<MainPage />} />
         <Route
-          path='/gitTreiner/word/'
+          path='/gitTreiner/:id'
           element={
             <Layout>
               <ModalContent />
@@ -67,7 +67,7 @@ const App = () => {
         <Routes>
           <Route path='/gitTreiner/' element={<MainPage />} />
           <Route
-            path='/gitTreiner/word/'
+            path='/gitTreiner/:id'
             element={
               <Layout>
                 <Modal>

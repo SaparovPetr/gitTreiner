@@ -13,6 +13,7 @@ export const modeSlice = createSlice({
   name: 'mode',
   initialState,
   reducers: {
+    /**установка режима приложения и его запись в  localStorage*/
     setMode(state, action) {
       state.mode = action.payload;
       localStorage.setItem(`currientMode`, `${state.mode}`);

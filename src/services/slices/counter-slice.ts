@@ -14,6 +14,7 @@ export const counterSlice = createSlice({
   name: 'counter',
   initialState,
   reducers: {
+    /**установка счетчика и запись его значения в localStorage*/
     setCounter(state, action) {
       state.effortCounter = state.effortCounter + action.payload;
       localStorage.setItem(

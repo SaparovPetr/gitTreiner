@@ -5,7 +5,7 @@ import { AppMode } from '@utils-types';
 import styles from './functional-component.module.css';
 import { setCounter } from '../../services/slices/counter-slice';
 import { selectModeState, setMode } from '../../services/slices/mode-slice';
-import { selectWords } from '../../services/slices/words-slice';
+import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord } from '../../services/thunks/thunk';
 import {
@@ -18,14 +18,14 @@ import WordItem from '../word-item/word-item';
 
 const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
-  const words = useAppSelector(selectWords);
+  const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
 
   /**
    * Колбек для кнопки "продолжить" на экране успеха
    */
   const increaseCounter = () => {
-    dispatch(addIdToEachWord(words));
+    dispatch(addIdToEachWord(collection));
     dispatch(setCounter(1));
     location.reload();
   };
@@ -44,7 +44,7 @@ const FunctionalComponent = memo(() => {
     }
   };
 
-  if (words.length > 0) {
+  if (collection.length > 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.headerArea}>
@@ -59,14 +59,14 @@ const FunctionalComponent = memo(() => {
           </div>
 
           <div className={styles.buttonsWrapper}>
-            <div className={styles.button}> remain: {words.length}</div>
+            <div className={styles.button}> remain: {collection.length}</div>
             <div className={styles.button}>
               today: {counterFromLocalStorage ? counterFromLocalStorage : 0}
             </div>
           </div>
         </div>
 
-        <WordItem key={words[0].id} {...words[0]} />
+        <WordItem key={collection[0].id} {...collection[0]} />
       </div>
     );
   }
@@ -89,7 +89,7 @@ const FunctionalComponent = memo(() => {
     );
   }
 
-  if (words.length === 0) {
+  if (collection.length === 0) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>

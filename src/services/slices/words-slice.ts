@@ -6,36 +6,38 @@ import { fetchCollection, addIdToEachWord } from '../thunks/thunk'; //11
 const uuid = require('uuid');
 
 interface arrayState {
-  words: TOneWord[];
+  collection: TOneWord[];
 }
 
 const initialState: arrayState = {
-  words: []
+  collection: []
 };
 
 export const wordsSlice = createSlice({
-  name: 'words-slice',
+  name: 'collection-slice',
   initialState,
   reducers: {
     removeWord(state, action) {
-      state.words = state.words.filter((word) => word.id !== action.payload.id);
+      state.collection = state.collection.filter(
+        (word) => word.id !== action.payload.id
+      );
     }
   },
 
   selectors: {
     /**селлектор Коллекции */
-    selectWords: (sliceState) => sliceState.words,
+    selectCollection: (sliceState) => sliceState.collection,
     /**Рабочий элемент Коллекции  */
-    selectFirstWord: (sliceState) => sliceState.words[0]
+    selectFirstWord: (sliceState) => sliceState.collection[0]
   },
 
   extraReducers: (builder) => {
     builder
       .addCase(fetchCollection.fulfilled, (state, action) => {
-        state.words = action.payload;
+        state.collection = action.payload;
       })
       .addCase(addIdToEachWord.fulfilled, (state) => {
-        state.words.forEach((element) => {
+        state.collection.forEach((element) => {
           element.id = uuid.v4();
         });
       });
@@ -43,4 +45,4 @@ export const wordsSlice = createSlice({
 });
 
 export const { removeWord } = wordsSlice.actions;
-export const { selectWords, selectFirstWord } = wordsSlice.selectors;
+export const { selectCollection, selectFirstWord } = wordsSlice.selectors;

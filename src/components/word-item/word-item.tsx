@@ -4,18 +4,18 @@ import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './word-item.module.css';
-import { selectWords } from '../../services/slices/words-slice';
+import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector } from '../../services/store';
-import { audioCallback } from '../../utils/audioCallback';
+import { audioCallback } from '../../utils/audio-callback';
 import { Layout } from '../modal/layout';
 import OptionList from '../option-list/option-list';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
-  const words = useAppSelector(selectWords);
+  const collection = useAppSelector(selectCollection);
 
   useEffect(() => {
-    audioCallback(words);
+    audioCallback(collection);
   }, [id]);
 
   return (
@@ -23,7 +23,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
       <div className={styles.cardContainer}>
         <Link
           className={styles.cardWordArea}
-          to={'/gitTreiner/word'}
+          to={`/gitTreiner/${id}`}
           state={{ backgroundLocation: locationInTheApp }}
         >
           {targetWord}

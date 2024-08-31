@@ -1,3 +1,4 @@
+/**первая база */
 export const firstWordBase = [
   { targetWord: 'splurge', translating: 'хвастовство' },
   { targetWord: 'splurge', translating: 'разориться' },

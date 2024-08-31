@@ -12,6 +12,7 @@ export const modalSlice = createSlice({
   name: 'modal',
   initialState,
   reducers: {
+    /** установка булевого состояния модалки */
     setShowModal(state, action) {
       state.showModal = action.payload;
     }

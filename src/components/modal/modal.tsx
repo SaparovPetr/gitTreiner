@@ -9,18 +9,18 @@ import {
   selectModalState,
   setShowModal
 } from '../../services/slices/modal-slice';
-import { selectWords } from '../../services/slices/words-slice';
+import { selectCollection } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
-import { audioCallback } from '../../utils/audioCallback';
+import { audioCallback } from '../../utils/audio-callback';
 
 export const Modal = ({ children }: React.PropsWithChildren) => {
   const showModal = useAppSelector(selectModalState);
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
-  const words = useAppSelector(selectWords);
+  const collection = useAppSelector(selectCollection);
 
   useEffect(() => {
-    audioCallback(words);
+    audioCallback(collection);
     dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {

@@ -13,6 +13,7 @@ const OptionList = (targetObject: TOneWord) => {
   const thirdOption = getRandomElement(currientBase);
   const secondOption = getRandomElement(currientBase);
   const fourthOption = getRandomElement(currientBase);
+  // const newAr;
   const shuffledArrey = shuffle([
     targetObject,
     secondOption,

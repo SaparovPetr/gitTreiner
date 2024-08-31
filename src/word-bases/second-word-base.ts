@@ -1,3 +1,4 @@
+/**вторая база */
 export const secondWordBase = [
   { targetWord: 'squad', translating: 'бригада' },
   { targetWord: 'flimsy', translating: 'неосновательный' },
