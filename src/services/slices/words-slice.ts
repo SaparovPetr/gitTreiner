@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 import { TOneWord } from '@utils-types';
 
-import { fetchCollection, clearList, addIdToEachWord } from '../thunks/thunk'; //11
+import { fetchCollection, addIdToEachWord } from '../thunks/thunk'; //11
 
 const uuid = require('uuid');
 
@@ -23,9 +23,9 @@ export const wordsSlice = createSlice({
   },
 
   selectors: {
-    /**селлектор коллекции (короткого массива), сформированная из базы слов */
+    /**селлектор Коллекции */
     selectWords: (sliceState) => sliceState.words,
-    /**первый объект из коллекции (короткого массива)  */
+    /**Рабочий элемент Коллекции  */
     selectFirstWord: (sliceState) => sliceState.words[0]
   },
 
@@ -34,7 +34,6 @@ export const wordsSlice = createSlice({
       .addCase(fetchCollection.fulfilled, (state, action) => {
         state.words = action.payload;
       })
-      .addCase(clearList.fulfilled, () => initialState)
       .addCase(addIdToEachWord.fulfilled, (state) => {
         state.words.forEach((element) => {
           element.id = uuid.v4();

@@ -7,8 +7,13 @@ import { setCounter } from '../../services/slices/counter-slice';
 import { selectModeState, setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
-import { clearList, addIdToEachWord } from '../../services/thunks/thunk';
-import { currientDate } from '../../utils/currient-date';
+import { addIdToEachWord } from '../../services/thunks/thunk';
+import {
+  currientModeFromLocalStorage,
+  isFirstStart,
+  markTheFirstStart,
+  counterFromLocalStorage
+} from '../../utils/localstorage-functionality';
 import WordItem from '../word-item/word-item';
 
 const FunctionalComponent = memo(() => {
@@ -16,25 +21,18 @@ const FunctionalComponent = memo(() => {
   const words = useAppSelector(selectWords);
   const currientMode = useAppSelector(selectModeState);
 
-  const resetListAndIncreaseCounter = () => {
-    dispatch(clearList());
+  /**
+   * Колбек для кнопки "продолжить" на экране успеха
+   */
+  const increaseCounter = () => {
     dispatch(addIdToEachWord(words));
     dispatch(setCounter(1));
     location.reload();
   };
 
-  const markTheFirstStart = () => {
-    localStorage.setItem('firstStart', `${currientDate}`);
-    location.reload();
-  };
-
-  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
-  const counterFromLocalStorage = localStorage.getItem(
-    `effortCounterInStorage-${currientDate}`
-  );
-
-  const isFirstStart = localStorage.getItem('firstStart');
-
+  /**
+   * Колбек для клика по логотипу
+   */
   const changeMode = () => {
     if (currientMode === AppMode.Large) {
       dispatch(setMode(AppMode.Small));
@@ -80,7 +78,8 @@ const FunctionalComponent = memo(() => {
           <div>👋 </div>
           <div>Welcome to the GitTreiner!</div>
           <div>
-            Revise words and edit Markdone notes for them from your GitHub.
+            You can brush up words and edit Markdone notes for them from your
+            GitHub.
           </div>
           <button className={styles.button} onClick={markTheFirstStart}>
             →
@@ -97,10 +96,7 @@ const FunctionalComponent = memo(() => {
           <div>🥳</div>
           <div>Great!</div>
           <div>Let's go again!</div>
-          <button
-            className={styles.button}
-            onClick={resetListAndIncreaseCounter}
-          >
+          <button className={styles.button} onClick={increaseCounter}>
             →
           </button>
         </div>

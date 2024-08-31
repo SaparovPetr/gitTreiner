@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 import { TOneWord } from '@utils-types';
 
 import styles from './option-list.module.css';
@@ -7,12 +5,13 @@ import { useAppDispatch } from '../../services/store';
 import { deleteWord } from '../../services/thunks/thunk';
 import { getCurrientBase } from '../../utils/get-currient-base';
 import { getRandomElement } from '../../utils/get-random-element';
+import { currientModeFromLocalStorage } from '../../utils/localstorage-functionality';
 import { shuffle } from '../../utils/shuffle-array';
 
 const OptionList = (targetObject: TOneWord) => {
-  const currientBase = getCurrientBase(localStorage.getItem(`currientMode`));
-  const secondOption = getRandomElement(currientBase);
+  const currientBase = getCurrientBase(currientModeFromLocalStorage);
   const thirdOption = getRandomElement(currientBase);
+  const secondOption = getRandomElement(currientBase);
   const fourthOption = getRandomElement(currientBase);
   const shuffledArrey = shuffle([
     targetObject,

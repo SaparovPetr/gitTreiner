@@ -11,7 +11,10 @@ import { setMode } from '../../services/slices/mode-slice';
 import { selectWords } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
-import { currientDate } from '../../utils/currient-date';
+import {
+  currientModeFromLocalStorage,
+  counterFromLocalStorage
+} from '../../utils/localstorage-functionality';
 import { firstWordBase } from '../../word-bases/first-word-base';
 import { secondWordBase } from '../../word-bases/second-word-base';
 import { Layout } from '../modal/layout';
@@ -23,11 +26,6 @@ const App = () => {
   const location = useLocation();
   const words = useAppSelector(selectWords);
   const backgroundLocation = location.state?.backgroundLocation;
-
-  const counterFromLocalStorage = localStorage.getItem(
-    `effortCounterInStorage-${currientDate}`
-  );
-  const currientModeFromLocalStorage = localStorage.getItem(`currientMode`);
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {

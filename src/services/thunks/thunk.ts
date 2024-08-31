@@ -19,14 +19,15 @@ export const fetchCollection = createAsyncThunk(
   }
 );
 
+/**
+ * функция добавления ID к каждому элементу Коллекции
+ */
 export const addIdToEachWord = createAsyncThunk(
   'words/addIdToEachWord',
   async function (arr: TOneWord[]) {
     return arr;
   }
 );
-
-export const clearList = createAsyncThunk('words/clearList', async () => null);
 
 export const deleteWord = createAsyncThunk(
   'words/deleteWord',
