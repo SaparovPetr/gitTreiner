@@ -55,7 +55,7 @@ const App = () => {
         <Route path='/' element={<MainPage />} />
         <Route path='/gitTreiner/' element={<MainPage />} />
         <Route
-          path='/:id'
+          path='/gitTreiner/word/'
           element={
             <Layout>
               <ModalContent />
@@ -65,9 +65,9 @@ const App = () => {
       </Routes>
       {backgroundLocation && (
         <Routes>
-          <Route path='/' element={<MainPage />} />
+          <Route path='/gitTreiner/' element={<MainPage />} />
           <Route
-            path='/:id'
+            path='/gitTreiner/word/'
             element={
               <Layout>
                 <Modal>
