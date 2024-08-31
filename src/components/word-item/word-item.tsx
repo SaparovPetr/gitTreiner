@@ -14,8 +14,6 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
   const collection = useAppSelector(selectCollection);
 
-  console.log(locationInTheApp);
-
   useEffect(() => {
     audioCallback(collection);
   }, [id]);
