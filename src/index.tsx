@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './components/app/App';
 import store from './services/store';
 
-const container = document.getElementById('root') as HTMLElement;
+const container = document.getElementById('root') as HTMLDivElement;
 const root = createRoot(container);
 root.render(
   <StrictMode>

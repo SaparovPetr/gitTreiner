@@ -23,7 +23,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
       <div className={styles.cardContainer}>
         <Link
           className={styles.cardWordArea}
-          to={`/gitTreiner/${id}`}
+          to={`/${id}`}
           state={{ backgroundLocation: locationInTheApp }}
         >
           {targetWord}
