@@ -3,8 +3,6 @@ const ESLintPlugin = require('eslint-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const Dotenv = require('dotenv-webpack');
 
-const production = process.env.NODE_ENV === 'production';
-
 module.exports = {
   entry: path.resolve(__dirname, './src/index.tsx'),
   module: {
@@ -89,8 +87,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, './dist'),
-    filename: 'bundle.js',
-    publicPath: '/'
+    filename: 'bundle.js'
   },
   devServer: {
     static: path.join(__dirname, './dist'),
