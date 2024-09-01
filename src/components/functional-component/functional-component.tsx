@@ -101,6 +101,7 @@ const FunctionalComponent = memo(() => {
     );
   }
 
+  // (заметка № 13)
   if (collection.length === 0) {
     return (
       <div className={styles.functionalArea}>

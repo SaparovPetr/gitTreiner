@@ -11,53 +11,59 @@ import { currientModeFromLocalStorage } from '../../utils/localstorage-functiona
 import { shuffle } from '../../utils/shuffle-array';
 
 /** компоненет списка ответов */
-const OptionList = (targetObject: TOneWord) => {
-  const dispatch = useAppDispatch();
+const OptionList =
+  // (заметка № 8)
+  (targetObject: TOneWord) => {
+    const dispatch = useAppDispatch();
 
-  const currientBase = getCurrientBase(currientModeFromLocalStorage);
-  const thirdOption = getRandomElement(currientBase);
-  const secondOption = getRandomElement(currientBase);
-  const fourthOption = getRandomElement(currientBase);
-  const shuffledArrey = shuffle([
-    targetObject,
-    secondOption,
-    thirdOption,
-    fourthOption
-  ]);
+    const currientBase = getCurrientBase(currientModeFromLocalStorage);
+    // (заметка № 9)
+    const thirdOption = getRandomElement(currientBase);
+    const secondOption = getRandomElement(currientBase);
+    const fourthOption = getRandomElement(currientBase);
+    // (заметка № 10)
+    const shuffledArrey = shuffle([
+      targetObject,
+      secondOption,
+      thirdOption,
+      fourthOption
+    ]);
 
-  /** запись в стейт подготовленного массива для его сохранения при ререндеринге */
-  const [preparedArrey] = useState(shuffledArrey);
+    // (заметка № 11)
+    /** запись в стейт подготовленного массива для его сохранения при ререндеринге */
+    const [preparedArrey] = useState(shuffledArrey);
 
-  /** удаление Рабочего элемента из Коллекции */
-  const skipWordCallback = (id: string) => {
-    dispatch(deleteWord(id));
+    /** удаление Рабочего элемента из Коллекции */
+    const skipWordCallback = (id: string) => {
+      dispatch(deleteWord(id));
+    };
+
+    // (заметка № 12)
+    const choseOption = (e: any) => {
+      if (e.target.textContent === targetObject.translating) {
+        skipWordCallback(targetObject.id);
+      } else {
+        e.target.style.color = 'gray';
+        e.target.style.border = '1px solid gray';
+      }
+    };
+
+    return (
+      <div className={styles.fourOptions}>
+        <div key={2} className={styles.option} onClick={choseOption}>
+          {preparedArrey[0].translating}
+        </div>
+        <div key={3} className={styles.option} onClick={choseOption}>
+          {preparedArrey[1].translating}
+        </div>
+        <div key={4} className={styles.option} onClick={choseOption}>
+          {preparedArrey[2].translating}
+        </div>
+        <div key={5} className={styles.option} onClick={choseOption}>
+          {preparedArrey[3].translating}
+        </div>
+      </div>
+    );
   };
-
-  const choseOption = (e: any) => {
-    if (e.target.textContent === targetObject.translating) {
-      skipWordCallback(targetObject.id);
-    } else {
-      e.target.style.color = 'gray';
-      e.target.style.border = '1px solid gray';
-    }
-  };
-
-  return (
-    <div className={styles.fourOptions}>
-      <div key={2} className={styles.option} onClick={choseOption}>
-        {preparedArrey[0].translating}
-      </div>
-      <div key={3} className={styles.option} onClick={choseOption}>
-        {preparedArrey[1].translating}
-      </div>
-      <div key={4} className={styles.option} onClick={choseOption}>
-        {preparedArrey[2].translating}
-      </div>
-      <div key={5} className={styles.option} onClick={choseOption}>
-        {preparedArrey[3].translating}
-      </div>
-    </div>
-  );
-};
 
 export default OptionList;

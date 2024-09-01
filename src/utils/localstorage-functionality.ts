@@ -4,6 +4,7 @@ import { currientDate } from './currient-date';
  * Колбек для кнопки "продолжить" на экране приветствия
  */
 export const markTheFirstStart = () => {
+  // (заметка № 16)
   localStorage.setItem('firstStart', `${currientDate}`);
   location.reload();
 };

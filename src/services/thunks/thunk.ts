@@ -10,8 +10,9 @@ import { removeWord } from '../slices/words-slice';
 export const fetchCollection = createAsyncThunk(
   'words/fetchCollection',
   async function (currientBase: any) {
+    // (заметка № 3)
     const collection = [];
-    for (let i = 0; i <= 2; i = i + 1) {
+    for (let i = 0; i <= 9; i = i + 1) {
       const randomElement = getRandomElement(currientBase);
       collection.push(randomElement);
     }

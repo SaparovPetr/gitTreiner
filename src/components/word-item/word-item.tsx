@@ -15,11 +15,13 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const collection = useAppSelector(selectCollection);
 
   useEffect(() => {
+    // (заметка № 14)
     audioCallback(collection);
   }, [id]);
 
   return (
     <Layout>
+      {/* (заметка № 6) */}
       <div className={styles.cardContainer}>
         <Link
           className={styles.cardWordArea}
@@ -28,6 +30,7 @@ const WordItem = ({ id, targetWord, translating }: TOneWord) => {
         >
           {targetWord}
         </Link>
+        {/* (заметка № 7) */}
         <OptionList targetWord={targetWord} translating={translating} id={id} />
       </div>
     </Layout>

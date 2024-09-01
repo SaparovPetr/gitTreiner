@@ -32,7 +32,7 @@ const App = () => {
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
-      dispatch(setMode(AppMode.Dif));
+      dispatch(setMode(AppMode.Dif)); // (заметка № 1)
     }
 
     if (currientModeFromLocalStorage) {
@@ -40,7 +40,7 @@ const App = () => {
     }
 
     if (currientModeFromLocalStorage === AppMode.Dif) {
-      dispatch(fetchCollection(difWordBase));
+      dispatch(fetchCollection(difWordBase)); // (заметка № 2)
     }
 
     if (currientModeFromLocalStorage === AppMode.ThreeK) {

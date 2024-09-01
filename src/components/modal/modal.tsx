@@ -20,6 +20,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
   const collection = useAppSelector(selectCollection);
 
   useEffect(() => {
+    // (заметка № 14)
     audioCallback(collection);
     dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
