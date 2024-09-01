@@ -7,6 +7,9 @@ export type TOneWord = {
 
 /** виды режимов приложения (уровня изучаемых слов) */
 export const enum AppMode {
-  Large = 'L',
-  Small = 'S'
+  Dif = 'dif',
+  ThreeK = '3K',
+  A = 'A',
+  B1 = 'B1',
+  B2 = 'B2'
 }

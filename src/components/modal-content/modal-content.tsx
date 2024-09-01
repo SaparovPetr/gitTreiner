@@ -28,13 +28,13 @@ const ModalContent = () => {
       </div>
 
       <iframe
-        src={`https://saparovpetr.github.io/mdWords/${word.targetWord}%20-%20${word.translating}.md`}
+        src={`https://saparovpetr.github.io/spsWords/${word.targetWord}%20-%20${word.translating}.md`}
         id='iframe'
       />
       <div className={styles.buttonsZone}>
         <Link
           className={styles.button}
-          to={`https://github.com/SaparovPetr/mdWords/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
+          to={`https://github.com/SaparovPetr/spsWords/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
           target='_blank'
         >
           edit

@@ -11,7 +11,7 @@ export const fetchCollection = createAsyncThunk(
   'words/fetchCollection',
   async function (currientBase: any) {
     const collection = [];
-    for (let i = 0; i <= 4; i = i + 1) {
+    for (let i = 0; i <= 2; i = i + 1) {
       const randomElement = getRandomElement(currientBase);
       collection.push(randomElement);
     }

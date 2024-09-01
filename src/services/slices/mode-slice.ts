@@ -6,7 +6,7 @@ interface ImodeState {
 }
 
 const initialState: ImodeState = {
-  mode: AppMode.Large
+  mode: AppMode.Dif
 };
 
 export const modeSlice = createSlice({

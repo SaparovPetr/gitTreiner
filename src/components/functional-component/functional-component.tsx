@@ -34,12 +34,24 @@ const FunctionalComponent = memo(() => {
    * Колбек для клика по логотипу
    */
   const changeMode = () => {
-    if (currientMode === AppMode.Large) {
-      dispatch(setMode(AppMode.Small));
+    if (currientMode === AppMode.Dif) {
+      dispatch(setMode(AppMode.ThreeK));
       location.reload();
     }
-    if (currientMode === AppMode.Small) {
-      dispatch(setMode(AppMode.Large));
+    if (currientMode === AppMode.ThreeK) {
+      dispatch(setMode(AppMode.A));
+      location.reload();
+    }
+    if (currientMode === AppMode.A) {
+      dispatch(setMode(AppMode.B1));
+      location.reload();
+    }
+    if (currientMode === AppMode.B1) {
+      dispatch(setMode(AppMode.B2));
+      location.reload();
+    }
+    if (currientMode === AppMode.B2) {
+      dispatch(setMode(AppMode.Dif));
       location.reload();
     }
   };

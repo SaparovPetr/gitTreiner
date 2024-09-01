@@ -15,8 +15,11 @@ import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
-import { firstWordBase } from '../../word-bases/first-word-base';
-import { secondWordBase } from '../../word-bases/second-word-base';
+import { threeThousandWordBase } from '../../word-bases/3k';
+import { aWordBase } from '../../word-bases/a';
+import { bOneWordBase } from '../../word-bases/b-one';
+import { bTwoWordBase } from '../../word-bases/b-two';
+import { difWordBase } from '../../word-bases/dif';
 import { Layout } from '../modal/layout';
 import { Modal } from '../modal/modal';
 import ModalContent from '../modal-content/modal-content';
@@ -29,19 +32,31 @@ const App = () => {
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
-      dispatch(setMode(AppMode.Large));
+      dispatch(setMode(AppMode.Dif));
     }
 
     if (currientModeFromLocalStorage) {
       dispatch(setMode(currientModeFromLocalStorage));
     }
 
-    if (currientModeFromLocalStorage === AppMode.Large) {
-      dispatch(fetchCollection(firstWordBase));
+    if (currientModeFromLocalStorage === AppMode.Dif) {
+      dispatch(fetchCollection(difWordBase));
     }
 
-    if (currientModeFromLocalStorage === AppMode.Small) {
-      dispatch(fetchCollection(secondWordBase));
+    if (currientModeFromLocalStorage === AppMode.ThreeK) {
+      dispatch(fetchCollection(threeThousandWordBase));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.A) {
+      dispatch(fetchCollection(aWordBase));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.B1) {
+      dispatch(fetchCollection(bOneWordBase));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.B2) {
+      dispatch(fetchCollection(bTwoWordBase));
     }
 
     dispatch(addIdToEachWord(collection));
