@@ -25,9 +25,9 @@ export const wordsSlice = createSlice({
   },
 
   selectors: {
-    /**селлектор Коллекции */
+    /** селлектор Коллекции */
     selectCollection: (sliceState) => sliceState.collection,
-    /**Рабочий элемент Коллекции  */
+    /** Рабочий элемент Коллекции  */
     selectFirstWord: (sliceState) => sliceState.collection[0]
   },
 
