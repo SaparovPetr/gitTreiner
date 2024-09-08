@@ -7,13 +7,18 @@ import { setCounter } from '../../services/slices/counter-slice';
 import { selectModeState, setMode } from '../../services/slices/mode-slice';
 import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
-import { addIdToEachWord } from '../../services/thunks/thunk';
+import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
-  currientModeFromLocalStorage,
   isFirstStart,
   markTheFirstStart,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
+import { threeThousandWordBase } from '../../word-bases/3k';
+import { aWordBase } from '../../word-bases/a';
+import { bOneWordBase } from '../../word-bases/b-one';
+import { bTwoWordBase } from '../../word-bases/b-two';
+import { difWordBase } from '../../word-bases/dif';
+import ToolTip from '../tooltip/tooltip';
 import WordItem from '../word-item/word-item';
 
 const FunctionalComponent = memo(() => {
@@ -33,30 +38,36 @@ const FunctionalComponent = memo(() => {
   /**
    * Колбек для клика по логотипу
    */
+
   const changeMode = () => {
     if (currientMode === AppMode.Dif) {
       dispatch(setMode(AppMode.ThreeK));
-      location.reload();
+      dispatch(fetchCollection(threeThousandWordBase));
+      dispatch(addIdToEachWord(collection));
     }
     if (currientMode === AppMode.ThreeK) {
       dispatch(setMode(AppMode.A));
-      location.reload();
+      dispatch(fetchCollection(aWordBase));
+      dispatch(addIdToEachWord(collection));
     }
     if (currientMode === AppMode.A) {
       dispatch(setMode(AppMode.B1));
-      location.reload();
+      dispatch(fetchCollection(bOneWordBase));
+      dispatch(addIdToEachWord(collection));
     }
     if (currientMode === AppMode.B1) {
       dispatch(setMode(AppMode.B2));
-      location.reload();
+      dispatch(fetchCollection(bTwoWordBase));
+      dispatch(addIdToEachWord(collection));
     }
     if (currientMode === AppMode.B2) {
       dispatch(setMode(AppMode.Dif));
-      location.reload();
+      dispatch(fetchCollection(difWordBase));
+      dispatch(addIdToEachWord(collection));
     }
   };
 
-  if (collection.length > 0) {
+  if (collection.length > 0 && isFirstStart) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.headerArea}>
@@ -64,17 +75,12 @@ const FunctionalComponent = memo(() => {
             <div>Git_</div>
             <div>
               treiner
-              <span className={styles.lable}>
-                {currientModeFromLocalStorage}
-              </span>
+              <span className={styles.lable}>{currientMode}</span>
             </div>
           </div>
 
           <div className={styles.buttonsWrapper}>
-            <div className={styles.button}> remain: {collection.length}</div>
-            <div className={styles.button}>
-              today: {counterFromLocalStorage ? counterFromLocalStorage : 0}
-            </div>
+            <ToolTip />
           </div>
         </div>
 
@@ -102,7 +108,7 @@ const FunctionalComponent = memo(() => {
   }
 
   // (заметка № 13)
-  if (collection.length === 0) {
+  if (collection.length === 0 && isFirstStart) {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
