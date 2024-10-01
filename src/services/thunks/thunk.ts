@@ -12,7 +12,7 @@ export const fetchCollection = createAsyncThunk(
   async function (currientBase: any) {
     // (заметка № 3)
     const collection = [];
-    for (let i = 0; i <= 4; i = i + 1) {
+    for (let i = 0; i <= 9; i = i + 1) {
       const randomElement = getRandomElement(currientBase);
       collection.push(randomElement);
     }

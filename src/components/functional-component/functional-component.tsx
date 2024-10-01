@@ -12,7 +12,6 @@ import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
   isFirstStart,
   markTheFirstStart,
-  counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
 import { threeThousandWordBase } from '../../word-bases/3k';
 import { aWordBase } from '../../word-bases/a';
@@ -26,25 +25,22 @@ const FunctionalComponent = memo(() => {
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
-
-
   const [forceRender, setForceRender] = useState(false);
 
   /**
    * Колбек для кнопки "продолжить" на экране успеха
    */
   const increaseCounter = () => {
-    dispatch(setCounter(1));
     // location.reload();
     setForceRender(!forceRender);
     dispatch(fetchCollection(difWordBase));
     dispatch(addIdToEachWord(collection));
+    dispatch(setCounter(1));
   };
 
   /**
    * Колбек для клика по логотипу
    */
-
   const changeMode = () => {
     if (currientMode === AppMode.Dif) {
       dispatch(setMode(AppMode.ThreeK));
