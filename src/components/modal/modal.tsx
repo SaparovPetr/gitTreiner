@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { useEffect, useRef } from 'react';
 
 import { useNavigate } from 'react-router-dom';
@@ -19,6 +20,9 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
 
+  const ref = useRef("initialValuee");
+  console.log(ref);
+
   useEffect(() => {
     // (заметка № 14)
     audioCallback(collection);
@@ -26,7 +30,7 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
         dispatch(setShowModal(false));
-        setTimeout(onClose, 1000);
+        setTimeout(onClose, 200);
       }
     };
     document.addEventListener('keydown', handleEsc);

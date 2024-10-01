@@ -1,4 +1,5 @@
-import { memo } from 'react';
+/* eslint-disable prettier/prettier */
+import { memo, useState } from 'react';
 
 import { AppMode } from '@utils-types';
 
@@ -26,13 +27,18 @@ const FunctionalComponent = memo(() => {
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
 
+
+  const [forceRender, setForceRender] = useState(false);
+
   /**
    * Колбек для кнопки "продолжить" на экране успеха
    */
   const increaseCounter = () => {
-    dispatch(addIdToEachWord(collection));
     dispatch(setCounter(1));
-    location.reload();
+    // location.reload();
+    setForceRender(!forceRender);
+    dispatch(fetchCollection(difWordBase));
+    dispatch(addIdToEachWord(collection));
   };
 
   /**
