@@ -1,4 +1,5 @@
-import { selectCollection } from '../../services/slices/words-slice';
+import { selectCollection } from '@slices/words-slice';
+
 import { useAppSelector } from '../../services/store';
 import './tooltip.css';
 import { currientDate } from '../../utils/currient-date';

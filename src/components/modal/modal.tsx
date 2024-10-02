@@ -1,15 +1,12 @@
 import React, { memo, useEffect, useRef } from 'react';
 
+import { selectModalState, setShowModal } from '@slices/modal-slice';
+import { selectCollection } from '@slices/words-slice';
 import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
 
-import styles from './modal.module.css';
 import './modal.css';
-import {
-  selectModalState,
-  setShowModal
-} from '../../services/slices/modal-slice';
-import { selectCollection } from '../../services/slices/words-slice';
+import styles from './modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { audioCallback } from '../../utils/audio-callback';
 

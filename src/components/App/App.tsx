@@ -1,28 +1,27 @@
 import './main.css';
 import { useEffect } from 'react';
 
+import { Layout } from '@components/modal/layout';
+import { Modal } from '@components/modal/modal';
+import ModalContent from '@components/modal-content/modal-content';
+import { MainPage } from '@pages/main-page/main-page';
+import { setCounter } from '@slices/counter-slice';
+import { setMode } from '@slices/mode-slice';
+import { selectCollection } from '@slices/words-slice';
 import { AppMode } from '@utils-types';
+import { threeThousandWordBase } from '@word-bases/3k';
+import { aWordBase } from '@word-bases/a';
+import { bOneWordBase } from '@word-bases/b-one';
+import { bTwoWordBase } from '@word-bases/b-two';
+import { difWordBase } from '@word-bases/dif';
 import { Route, Routes, useLocation } from 'react-router-dom';
 
-import { MainPage } from '../../pages/main-page/main-page';
-import { setCounter } from '../../services/slices/counter-slice';
-// import { setShowModal } from '../../services/slices/modal-slice';
-import { setMode } from '../../services/slices/mode-slice';
-import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
-import { threeThousandWordBase } from '../../word-bases/3k';
-import { aWordBase } from '../../word-bases/a';
-import { bOneWordBase } from '../../word-bases/b-one';
-import { bTwoWordBase } from '../../word-bases/b-two';
-import { difWordBase } from '../../word-bases/dif';
-import { Layout } from '../modal/layout';
-import { Modal } from '../modal/modal';
-import ModalContent from '../modal-content/modal-content';
 
 const App = () => {
   const dispatch = useAppDispatch();
@@ -61,7 +60,6 @@ const App = () => {
 
     dispatch(addIdToEachWord(collection));
     dispatch(setCounter(Number(counterFromLocalStorage)));
-    // dispatch(setShowModal(false));
   }, []);
 
   return (

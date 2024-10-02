@@ -1,9 +1,15 @@
+import ToolTip from '@components/tooltip/tooltip';
+import WordItem from '@components/word-item/word-item';
+import { setCounter } from '@slices/counter-slice';
+import { selectModeState, setMode } from '@slices/mode-slice';
+import { selectCollection } from '@slices/words-slice';
 import { AppMode } from '@utils-types';
+import { aWordBase } from '@word-bases/a';
+import { bOneWordBase } from '@word-bases/b-one';
+import { bTwoWordBase } from '@word-bases/b-two';
+import { difWordBase } from '@word-bases/dif';
 
 import styles from './functional-component.module.css';
-import { setCounter } from '../../services/slices/counter-slice';
-import { selectModeState, setMode } from '../../services/slices/mode-slice';
-import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
@@ -11,12 +17,6 @@ import {
   markTheFirstStart
 } from '../../utils/localstorage-functionality';
 import { threeThousandWordBase } from '../../word-bases/3k';
-import { aWordBase } from '../../word-bases/a';
-import { bOneWordBase } from '../../word-bases/b-one';
-import { bTwoWordBase } from '../../word-bases/b-two';
-import { difWordBase } from '../../word-bases/dif';
-import ToolTip from '../tooltip/tooltip';
-import WordItem from '../word-item/word-item';
 
 const FunctionalComponent = () => {
   const dispatch = useAppDispatch();
