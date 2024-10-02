@@ -6,7 +6,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 
 import { MainPage } from '../../pages/main-page/main-page';
 import { setCounter } from '../../services/slices/counter-slice';
-import { setShowModal } from '../../services/slices/modal-slice';
+// import { setShowModal } from '../../services/slices/modal-slice';
 import { setMode } from '../../services/slices/mode-slice';
 import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector, useAppDispatch } from '../../services/store';
@@ -61,8 +61,8 @@ const App = () => {
 
     dispatch(addIdToEachWord(collection));
     dispatch(setCounter(Number(counterFromLocalStorage)));
-    dispatch(setShowModal(false));
-  }, [dispatch]);
+    // dispatch(setShowModal(false));
+  }, []);
 
   return (
     <>

@@ -1,5 +1,4 @@
-/* eslint-disable prettier/prettier */
-import React, { useEffect, useRef } from 'react';
+import React, { memo, useEffect, useRef } from 'react';
 
 import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
@@ -14,13 +13,13 @@ import { selectCollection } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { audioCallback } from '../../utils/audio-callback';
 
-export const Modal = ({ children }: React.PropsWithChildren) => {
+export const Modal = memo(({ children }: React.PropsWithChildren) => {
   const showModal = useAppSelector(selectModalState);
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
 
-  const ref = useRef("initialValuee");
+  const ref = useRef('initialValuee');
   console.log(ref);
 
   useEffect(() => {
@@ -65,4 +64,4 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
       </CSSTransition>
     </>
   );
-};
+});

@@ -1,6 +1,3 @@
-/* eslint-disable prettier/prettier */
-import { memo, useState } from 'react';
-
 import { AppMode } from '@utils-types';
 
 import styles from './functional-component.module.css';
@@ -11,7 +8,7 @@ import { useAppSelector, useAppDispatch } from '../../services/store';
 import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
   isFirstStart,
-  markTheFirstStart,
+  markTheFirstStart
 } from '../../utils/localstorage-functionality';
 import { threeThousandWordBase } from '../../word-bases/3k';
 import { aWordBase } from '../../word-bases/a';
@@ -21,19 +18,30 @@ import { difWordBase } from '../../word-bases/dif';
 import ToolTip from '../tooltip/tooltip';
 import WordItem from '../word-item/word-item';
 
-const FunctionalComponent = memo(() => {
+const FunctionalComponent = () => {
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
-  const [forceRender, setForceRender] = useState(false);
 
   /**
    * Колбек для кнопки "продолжить" на экране успеха
    */
   const increaseCounter = () => {
-    // location.reload();
-    setForceRender(!forceRender);
-    dispatch(fetchCollection(difWordBase));
+    if (currientMode === AppMode.Dif) {
+      dispatch(fetchCollection(difWordBase));
+    }
+    if (currientMode === AppMode.ThreeK) {
+      dispatch(fetchCollection(threeThousandWordBase));
+    }
+    if (currientMode === AppMode.A) {
+      dispatch(fetchCollection(aWordBase));
+    }
+    if (currientMode === AppMode.B1) {
+      dispatch(fetchCollection(bOneWordBase));
+    }
+    if (currientMode === AppMode.B2) {
+      dispatch(fetchCollection(bTwoWordBase));
+    }
     dispatch(addIdToEachWord(collection));
     dispatch(setCounter(1));
   };
@@ -124,6 +132,6 @@ const FunctionalComponent = memo(() => {
       </div>
     );
   }
-});
+};
 
 export default FunctionalComponent;
