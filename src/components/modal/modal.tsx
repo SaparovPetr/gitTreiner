@@ -16,9 +16,6 @@ export const Modal = memo(({ children }: React.PropsWithChildren) => {
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
 
-  const ref = useRef('initialValuee');
-  console.log(ref);
-
   useEffect(() => {
     // (заметка № 14)
     audioCallback(collection);
