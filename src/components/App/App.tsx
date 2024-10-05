@@ -22,12 +22,14 @@ import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
+import { UserData } from '@//UserData';
 
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
   const collection = useAppSelector(selectCollection);
   const backgroundLocation = location.state?.backgroundLocation;
+  const user: any = new UserData('SaparovPetr', 'mdWords');
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
@@ -71,7 +73,10 @@ const App = () => {
           path='/gitTreiner/word'
           element={
             <Layout>
-              <ModalContent />
+              <ModalContent
+                linkToPublicFile={user.linkToPublicFile}
+                linkToRepo={user.linkToRepo}
+              />
             </Layout>
           }
         />
@@ -84,7 +89,10 @@ const App = () => {
             element={
               <Layout>
                 <Modal>
-                  <ModalContent />
+                  <ModalContent
+                    linkToPublicFile={user.linkToPublicFile}
+                    linkToRepo={user.linkToRepo}
+                  />
                 </Modal>
               </Layout>
             }
