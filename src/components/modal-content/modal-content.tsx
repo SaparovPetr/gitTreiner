@@ -7,9 +7,8 @@ import { setShowModal } from '../../services/slices/modal-slice';
 import { selectFirstWord } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
-import { linkForEditing, linkToRepo } from '@//linksToUsersRepo';
 
-const ModalContent = () => {
+const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const word = useAppSelector(selectFirstWord);
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
@@ -30,13 +29,13 @@ const ModalContent = () => {
       </div>
 
       <iframe
-        src={`${linkToRepo}${word.targetWord}%20-%20${word.translating}.md`}
+        src={`${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`}
         id='iframe'
       />
       <div className={styles.buttonsZone}>
         <Link
           className={styles.button}
-          to={`${linkForEditing}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
+          to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
           target='_blank'
         >
           edit
