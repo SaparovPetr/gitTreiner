@@ -2,7 +2,7 @@ import ToolTip from '@components/tooltip/tooltip';
 import WordItem from '@components/word-item/word-item';
 import { setCounter } from '@slices/counter-slice';
 import { selectModeState, setMode } from '@slices/mode-slice';
-import { selectCollection } from '@slices/words-slice';
+import { makeCollection, selectCollection } from '@slices/words-slice';
 import { AppMode } from '@utils-types';
 import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
@@ -11,7 +11,6 @@ import { difWordBase } from '@word-bases/dif';
 
 import styles from './functional-component.module.css';
 import { useAppSelector, useAppDispatch } from '../../services/store';
-import { addIdToEachWord, fetchCollection } from '../../services/thunks/thunk';
 import {
   isFirstStart,
   markTheFirstStart
@@ -28,21 +27,20 @@ const FunctionalComponent = () => {
    */
   const increaseCounter = () => {
     if (currientMode === AppMode.Dif) {
-      dispatch(fetchCollection(difWordBase));
+      dispatch(makeCollection(difWordBase));
     }
     if (currientMode === AppMode.ThreeK) {
-      dispatch(fetchCollection(threeThousandWordBase));
+      dispatch(makeCollection(threeThousandWordBase));
     }
     if (currientMode === AppMode.A) {
-      dispatch(fetchCollection(aWordBase));
+      dispatch(makeCollection(aWordBase));
     }
     if (currientMode === AppMode.B1) {
-      dispatch(fetchCollection(bOneWordBase));
+      dispatch(makeCollection(bOneWordBase));
     }
     if (currientMode === AppMode.B2) {
-      dispatch(fetchCollection(bTwoWordBase));
+      dispatch(makeCollection(bTwoWordBase));
     }
-    dispatch(addIdToEachWord(collection));
     dispatch(setCounter(1));
   };
 
@@ -52,28 +50,23 @@ const FunctionalComponent = () => {
   const changeMode = () => {
     if (currientMode === AppMode.Dif) {
       dispatch(setMode(AppMode.ThreeK));
-      dispatch(fetchCollection(threeThousandWordBase));
-      dispatch(addIdToEachWord(collection));
+      dispatch(makeCollection(threeThousandWordBase));
     }
     if (currientMode === AppMode.ThreeK) {
       dispatch(setMode(AppMode.A));
-      dispatch(fetchCollection(aWordBase));
-      dispatch(addIdToEachWord(collection));
+      dispatch(makeCollection(aWordBase));
     }
     if (currientMode === AppMode.A) {
       dispatch(setMode(AppMode.B1));
-      dispatch(fetchCollection(bOneWordBase));
-      dispatch(addIdToEachWord(collection));
+      dispatch(makeCollection(bOneWordBase));
     }
     if (currientMode === AppMode.B1) {
       dispatch(setMode(AppMode.B2));
-      dispatch(fetchCollection(bTwoWordBase));
-      dispatch(addIdToEachWord(collection));
+      dispatch(makeCollection(bTwoWordBase));
     }
     if (currientMode === AppMode.B2) {
       dispatch(setMode(AppMode.Dif));
-      dispatch(fetchCollection(difWordBase));
-      dispatch(addIdToEachWord(collection));
+      dispatch(makeCollection(difWordBase));
     }
   };
 

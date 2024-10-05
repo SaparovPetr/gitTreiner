@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 import { TOneWord } from '@utils-types';
 
-import { fetchCollection, addIdToEachWord } from '../thunks/thunk';
+import { fetchCollection } from '@//utils/get-random-element';
 
 const uuid = require('uuid');
 
@@ -14,9 +14,18 @@ const initialState: arrayState = {
 };
 
 export const wordsSlice = createSlice({
-  name: 'collection-slice',
+  name: 'words',
   initialState,
   reducers: {
+    // (заметка № 4)
+    makeCollection(state, action) {
+      const collection = fetchCollection(action.payload);
+      // (заметка № 5)
+      collection.forEach((element) => {
+        element.id = uuid.v4();
+      });
+      state.collection = collection;
+    },
     removeWord(state, action) {
       state.collection = state.collection.filter(
         (word) => word.id !== action.payload.id
@@ -29,22 +38,8 @@ export const wordsSlice = createSlice({
     selectCollection: (sliceState) => sliceState.collection,
     /** Рабочий элемент Коллекции  */
     selectFirstWord: (sliceState) => sliceState.collection[0]
-  },
-
-  extraReducers: (builder) => {
-    builder
-      // (заметка № 4)
-      .addCase(fetchCollection.fulfilled, (state, action) => {
-        state.collection = action.payload;
-      })
-      // (заметка № 5)
-      .addCase(addIdToEachWord.fulfilled, (state) => {
-        state.collection.forEach((element) => {
-          element.id = uuid.v4();
-        });
-      });
   }
 });
 
-export const { removeWord } = wordsSlice.actions;
+export const { makeCollection, removeWord } = wordsSlice.actions;
 export const { selectCollection, selectFirstWord } = wordsSlice.selectors;
