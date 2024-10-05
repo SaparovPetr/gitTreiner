@@ -8,7 +8,7 @@ import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
 import { setMode } from '@slices/mode-slice';
 import { selectCollection } from '@slices/words-slice';
-import { AppMode } from '@utils-types';
+import { AppMode, User } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
@@ -29,7 +29,7 @@ const App = () => {
   const location = useLocation();
   const collection = useAppSelector(selectCollection);
   const backgroundLocation = location.state?.backgroundLocation;
-  const user: any = new UserData('SaparovPetr', 'mdWords');
+  const user: User = new UserData('SaparovPetr', 'mdWords');
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {

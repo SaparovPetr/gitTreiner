@@ -1,10 +1,4 @@
-interface User {
-  profileName: string;
-  repoName: string;
-  profileNameInLowerCase: string;
-  linkToPublicFile: string;
-  linkToRepo: string;
-}
+import { User } from './utils/types';
 
 export class UserData implements User {
   constructor(profileName: string, repoName: string) {

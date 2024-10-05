@@ -13,3 +13,12 @@ export const enum AppMode {
   B1 = 'B1',
   B2 = 'B2'
 }
+
+/** типизация пользователя */
+export interface User {
+  profileName: string;
+  repoName: string;
+  profileNameInLowerCase: string;
+  linkToPublicFile: string;
+  linkToRepo: string;
+}
