@@ -4,10 +4,11 @@ import { useEffect } from 'react';
 import { Layout } from '@components/modal/layout';
 import { Modal } from '@components/modal/modal';
 import ModalContent from '@components/modal-content/modal-content';
+import { NotFound404 } from '@components/not-fount-404/not-fount-404';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
 import { setMode } from '@slices/mode-slice';
-import { makeCollection, selectCollection } from '@slices/words-slice';
+import { makeCollection } from '@slices/words-slice';
 import { AppMode, User } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -16,7 +17,7 @@ import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
 import { Route, Routes, useLocation } from 'react-router-dom';
 
-import { useAppSelector, useAppDispatch } from '../../services/store';
+import { useAppDispatch } from '../../services/store';
 import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
@@ -65,6 +66,8 @@ const App = () => {
     <>
       <Routes location={backgroundLocation || location}>
         <Route path='/' element={<MainPage />} />
+        <Route path='*' element={<NotFound404 />} />
+
         <Route path='/gitTreiner' element={<MainPage />} />
         <Route
           path='/gitTreiner/word'
