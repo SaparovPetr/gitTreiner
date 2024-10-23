@@ -21,7 +21,7 @@ export const wordsSlice = createSlice({
     makeCollection(state, action) {
       const collection = fetchCollection(action.payload);
       // (заметка № 5)
-      collection.forEach((element) => {
+      collection.map((element) => {
         element.id = uuid.v4();
       });
       state.collection = collection;

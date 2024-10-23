@@ -15,6 +15,7 @@ export const Modal = memo(({ children }: React.PropsWithChildren) => {
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
+  const navigate = useNavigate();
 
   useEffect(() => {
     // (заметка № 14)
@@ -29,8 +30,6 @@ export const Modal = memo(({ children }: React.PropsWithChildren) => {
     document.addEventListener('keydown', handleEsc);
     return () => document.removeEventListener('keydown', handleEsc);
   }, []);
-
-  const navigate = useNavigate();
 
   const onClose = () => {
     navigate(-1);
