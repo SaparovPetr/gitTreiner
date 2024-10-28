@@ -26,7 +26,7 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
 
   const knockToAI = () => {
     setIsLoading(true);
-    fetch('https://5fb8-34-143-132-173.ngrok-free.app/predict', {
+    fetch('https://ecee-34-143-132-173.ngrok-free.app/predict', {
       method: 'POST',
       body: JSON.stringify({
         message: `${word.targetWord} - ${word.translating}`
@@ -46,8 +46,15 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
         setIsLoading(false);
         console.log(data.result);
         copyTextToClipboard(data.result);
-        // let dataFrom = data.result;
         return data;
+      })
+
+      .catch((err) => {
+        console.log(`Ошибка: ${err}`);
+      })
+
+      .finally(() => {
+        setIsLoading(false);
       });
   };
 
@@ -59,7 +66,6 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
 
       <iframe
         src={`${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`}
-        id='iframe'
       />
       <div className={styles.buttonsZone}>
         <a className={styles.button} onClick={knockToAI}>
