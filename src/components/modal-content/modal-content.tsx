@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 import { Link, useNavigate } from 'react-router-dom';
 
@@ -13,6 +13,8 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
 
+  const [isLoading, setIsLoading] = useState(false);
+
   const onClose = () => {
     navigate(-1);
   };
@@ -21,6 +23,33 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   useEffect(() => {
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
+
+  const knockToAI = () => {
+    setIsLoading(true);
+    fetch('https://5fb8-34-143-132-173.ngrok-free.app/predict', {
+      method: 'POST',
+      body: JSON.stringify({
+        message: `${word.targetWord} - ${word.translating}`
+      }),
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': 'no-cors'
+      }
+    })
+      .then((res) => {
+        if (res.ok) {
+          return res.json();
+        }
+      })
+
+      .then((data) => {
+        setIsLoading(false);
+        console.log(data.result);
+        copyTextToClipboard(data.result);
+        // let dataFrom = data.result;
+        return data;
+      });
+  };
 
   return (
     <div className={styles.modalContent}>
@@ -33,23 +62,29 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
         id='iframe'
       />
       <div className={styles.buttonsZone}>
-        <Link
-          className={styles.button}
-          to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
-          target='_blank'
-        >
-          edit
-        </Link>
-
-        <a
-          className={styles.button}
-          onClick={() => {
-            dispatch(setShowModal(false));
-            setTimeout(onClose, 200);
-          }}
-        >
-          close
+        <a className={styles.button} onClick={knockToAI}>
+          {isLoading ? `loading...` : `generate`}
         </a>
+
+        <div className={styles.twoButtons}>
+          <Link
+            className={styles.button}
+            to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
+            target='_blank'
+          >
+            edit
+          </Link>
+
+          <a
+            className={styles.button}
+            onClick={() => {
+              dispatch(setShowModal(false));
+              setTimeout(onClose, 200);
+            }}
+          >
+            close
+          </a>
+        </div>
       </div>
     </div>
   );
