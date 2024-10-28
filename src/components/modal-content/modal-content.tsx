@@ -69,7 +69,7 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
       />
       <div className={styles.buttonsZone}>
         <a className={styles.button} onClick={knockToAI}>
-          {isLoading ? `loading...` : `generate`}
+          {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
         </a>
 
         <div className={styles.twoButtons}>
