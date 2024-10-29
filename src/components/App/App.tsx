@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import { Layout } from '@components/modal/layout';
 import { Modal } from '@components/modal/modal';
 import ModalContent from '@components/modal-content/modal-content';
+import ModalSetting from '@components/modal-setting/modal-setting';
 import { NotFound404 } from '@components/not-fount-404/not-fount-404';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
@@ -80,6 +81,14 @@ const App = () => {
             </Layout>
           }
         />
+        <Route
+          path='/gitTreiner/setting'
+          element={
+            <Layout>
+              <ModalSetting />
+            </Layout>
+          }
+        />
       </Routes>
       {backgroundLocation && (
         <Routes>
@@ -93,6 +102,16 @@ const App = () => {
                     linkToPublicFile={user.linkToPublicFile}
                     linkToRepo={user.linkToRepo}
                   />
+                </Modal>
+              </Layout>
+            }
+          />
+          <Route
+            path='/gitTreiner/setting'
+            element={
+              <Layout>
+                <Modal>
+                  <ModalSetting />
                 </Modal>
               </Layout>
             }

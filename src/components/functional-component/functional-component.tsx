@@ -8,6 +8,7 @@ import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
 import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
+import { Link, useLocation } from 'react-router-dom';
 
 import styles from './functional-component.module.css';
 import { useAppSelector, useAppDispatch } from '../../services/store';
@@ -21,6 +22,7 @@ const FunctionalComponent = () => {
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
+  const locationInTheApp = useLocation();
 
   /**
    * Колбек для кнопки "продолжить" на экране успеха
@@ -84,6 +86,13 @@ const FunctionalComponent = () => {
 
           <div className={styles.buttonsWrapper}>
             <ToolTip />
+            <Link
+              className={styles.settingButton}
+              to='/gitTreiner/setting'
+              state={{ backgroundLocation: locationInTheApp }}
+            >
+              <span className={styles.text}>▽</span>
+            </Link>
           </div>
         </div>
 
