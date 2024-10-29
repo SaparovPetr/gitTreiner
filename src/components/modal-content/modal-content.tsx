@@ -14,6 +14,7 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const navigate = useNavigate();
 
   const [isLoading, setIsLoading] = useState(false);
+  const [isReady, setIsReady] = useState(false);
 
   const onClose = () => {
     navigate(-1);
@@ -21,12 +22,31 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
 
   // (заметка № 15)
   useEffect(() => {
+    checkAIstatus();
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
 
+  const endpoint = 'https://d401-34-125-207-74.ngrok-free.app';
+
+  const checkAIstatus = () => {
+    fetch(`${endpoint}/status`, {
+      method: 'GET'
+    })
+      .then((res) => {
+        if (res.ok) {
+          console.log(`server is  ready`);
+          setIsReady(true);
+        }
+      })
+      .catch((err) => {
+        console.log(`Ошибка связи: ${err}`);
+        setIsReady(false);
+      });
+  };
+
   const knockToAI = () => {
     setIsLoading(true);
-    fetch('https://ecee-34-143-132-173.ngrok-free.app/predict', {
+    fetch(`${endpoint}/predict`, {
       method: 'POST',
       body: JSON.stringify({
         message: `${word.targetWord} - ${word.translating}`
@@ -50,7 +70,7 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
       })
 
       .catch((err) => {
-        console.log(`Ошибка: ${err}`);
+        console.log(`Ошибка генерации: ${err}`);
       })
 
       .finally(() => {
@@ -68,9 +88,11 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
         src={`${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`}
       />
       <div className={styles.buttonsZone}>
-        <a className={styles.button} onClick={knockToAI}>
-          {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
-        </a>
+        {isReady && (
+          <a className={styles.button} onClick={knockToAI}>
+            {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
+          </a>
+        )}
 
         <div className={styles.twoButtons}>
           <Link
