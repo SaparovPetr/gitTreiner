@@ -7,6 +7,7 @@ import { setShowModal } from '../../services/slices/modal-slice';
 import { selectFirstWord } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
+import { endpoint } from '@//endpoint';
 
 const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const word = useAppSelector(selectFirstWord);
@@ -25,8 +26,6 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
     checkAIstatus();
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
-
-  const endpoint = 'https://d401-34-125-207-74.ngrok-free.app';
 
   const checkAIstatus = () => {
     fetch(`${endpoint}/status`, {
@@ -88,6 +87,12 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
         src={`${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`}
       />
       <div className={styles.buttonsZone}>
+        {!isReady && (
+          <button className={styles.button} disabled>
+            {isLoading ? <div className={styles.loader} /> : 'AI offline'}
+          </button>
+        )}
+
         {isReady && (
           <a className={styles.button} onClick={knockToAI}>
             {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
