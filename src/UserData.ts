@@ -17,3 +17,4 @@ export class UserData implements User {
     return `https://github.com/${this.profileName}/${this.repoName}`;
   }
 }
+// убрать конструктор и устанавливать поля profileName и repoName сеттерами?
