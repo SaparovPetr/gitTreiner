@@ -18,7 +18,6 @@ export const enum AppMode {
 export interface User {
   profileName: string;
   repoName: string;
-  profileNameInLowerCase: string;
   linkToPublicFile: string;
   linkToRepo: string;
 }

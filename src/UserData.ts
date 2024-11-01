@@ -1,16 +1,19 @@
 import { User } from './utils/types';
 
 export class UserData implements User {
-  constructor(profileName: string, repoName: string) {
+  constructor(
+    public profileName: string,
+    public repoName: string
+  ) {
     this.profileName = profileName;
     this.repoName = repoName;
-    this.profileNameInLowerCase = profileName.toLowerCase();
-    this.linkToPublicFile = `https://${this.profileNameInLowerCase}.github.io/${this.repoName}/`;
-    this.linkToRepo = `https://github.com/${this.profileName}/${this.repoName}`;
   }
-  profileName: string;
-  repoName: string;
-  profileNameInLowerCase: string;
-  linkToPublicFile: string;
-  linkToRepo: string;
+
+  get linkToPublicFile(): string {
+    return `https://${this.profileName.toLowerCase()}.github.io/${this.repoName}/`;
+  }
+
+  get linkToRepo(): string {
+    return `https://github.com/${this.profileName}/${this.repoName}`;
+  }
 }
