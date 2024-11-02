@@ -2,14 +2,14 @@ import { useEffect, useState } from 'react';
 
 import { Link, useNavigate } from 'react-router-dom';
 
-import styles from './modal-content.module.css';
+import styles from './word-modal-content.module.css';
 import { setShowModal } from '../../services/slices/modal-slice';
 import { selectFirstWord } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
 import { endpoint } from '@//endpoint';
 
-const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
+const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const word = useAppSelector(selectFirstWord);
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
@@ -123,4 +123,4 @@ const ModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   );
 };
 
-export default ModalContent;
+export default WordModalContent;

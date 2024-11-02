@@ -3,7 +3,7 @@ import { selectCollection } from '@slices/words-slice';
 import { currientDate } from '../../utils/currient-date';
 import { useAppSelector } from '@//services/store';
 
-const ModalSetting = () => {
+const SettingModalContent = () => {
   const collection = useAppSelector(selectCollection);
 
   return (
@@ -20,4 +20,4 @@ const ModalSetting = () => {
   );
 };
 
-export default ModalSetting;
+export default SettingModalContent;

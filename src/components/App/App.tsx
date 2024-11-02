@@ -3,8 +3,6 @@ import { useEffect } from 'react';
 
 import { Layout } from '@components/modal/layout';
 import { Modal } from '@components/modal/modal';
-import ModalContent from '@components/modal-content/modal-content';
-import ModalSetting from '@components/modal-setting/modal-setting';
 import { NotFound404 } from '@components/not-fount-404/not-fount-404';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
@@ -23,6 +21,8 @@ import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
+import SettingModalContent from '@//components/setting-modal-content/setting-modal-content';
+import WordModalContent from '@//components/word-modal-content/word-modal-content';
 import { User } from '@//User';
 
 const App = () => {
@@ -74,7 +74,7 @@ const App = () => {
           path='/gitTreiner/word'
           element={
             <Layout>
-              <ModalContent
+              <WordModalContent
                 linkToPublicFile={user.linkToPublicFile}
                 linkToRepo={user.linkToRepo}
               />
@@ -85,7 +85,7 @@ const App = () => {
           path='/gitTreiner/setting'
           element={
             <Layout>
-              <ModalSetting />
+              <SettingModalContent />
             </Layout>
           }
         />
@@ -98,7 +98,7 @@ const App = () => {
             element={
               <Layout>
                 <Modal>
-                  <ModalContent
+                  <WordModalContent
                     linkToPublicFile={user.linkToPublicFile}
                     linkToRepo={user.linkToRepo}
                   />
@@ -111,7 +111,7 @@ const App = () => {
             element={
               <Layout>
                 <Modal>
-                  <ModalSetting />
+                  <SettingModalContent />
                 </Modal>
               </Layout>
             }
