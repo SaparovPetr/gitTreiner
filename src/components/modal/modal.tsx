@@ -1,25 +1,20 @@
 import React, { memo, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
-import { selectCollection } from '@slices/words-slice';
 import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
 import styles from './modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
-import { audioCallback } from '../../utils/audio-callback';
 
 export const Modal = memo(({ children }: React.PropsWithChildren) => {
   const showModal = useAppSelector(selectModalState);
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
-  const collection = useAppSelector(selectCollection);
   const navigate = useNavigate();
 
   useEffect(() => {
-    // (заметка № 14)
-    audioCallback(collection);
     dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {

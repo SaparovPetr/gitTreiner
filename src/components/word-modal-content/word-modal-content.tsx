@@ -4,10 +4,14 @@ import { Link, useNavigate } from 'react-router-dom';
 
 import styles from './word-modal-content.module.css';
 import { setShowModal } from '../../services/slices/modal-slice';
-import { selectFirstWord } from '../../services/slices/words-slice';
+import {
+  selectCollection,
+  selectFirstWord
+} from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
 import { endpoint } from '@//endpoint';
+import { audioCallback } from '@//utils/audio-callback';
 
 const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const word = useAppSelector(selectFirstWord);
@@ -17,12 +21,16 @@ const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
 
+  const collection = useAppSelector(selectCollection);
+
   const onClose = () => {
     navigate(-1);
   };
 
   // (заметка № 15)
   useEffect(() => {
+    // (заметка № 14)
+    audioCallback(collection);
     checkAIstatus();
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
