@@ -1,6 +1,6 @@
-import { User } from './utils/types';
+import { IUser } from './utils/types';
 
-export class UserData implements User {
+export class User implements IUser {
   constructor(
     public profileName: string,
     public repoName: string

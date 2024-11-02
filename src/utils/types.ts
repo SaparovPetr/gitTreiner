@@ -15,7 +15,7 @@ export const enum AppMode {
 }
 
 /** типизация пользователя */
-export interface User {
+export interface IUser {
   profileName: string;
   repoName: string;
   linkToPublicFile: string;

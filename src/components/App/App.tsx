@@ -10,7 +10,7 @@ import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
-import { AppMode, User } from '@utils-types';
+import { AppMode, IUser } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
@@ -23,13 +23,13 @@ import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
-import { UserData } from '@//UserData';
+import { User } from '@//UserData';
 
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
-  const user: User = new UserData('SaparovPetr', 'mdWords');
+  const user: User = new User('SaparovPetr', 'mdWords');
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
