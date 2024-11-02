@@ -23,13 +23,13 @@ import {
   currientModeFromLocalStorage,
   counterFromLocalStorage
 } from '../../utils/localstorage-functionality';
-import { User } from '@//UserData';
+import { User } from '@//User';
 
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
-  const user: User = new User('SaparovPetr', 'mdWords');
+  const user: IUser = new User('SaparovPetr', 'mdWords');
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
