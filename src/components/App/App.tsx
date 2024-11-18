@@ -29,7 +29,11 @@ const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
-  const user: IUser = new User('SaparovPetr', 'mdWords');
+
+  const user: IUser = new User(
+    `${localStorage.getItem(`UserName`)}`,
+    `${localStorage.getItem(`UserRepo`)}`
+  );
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {

@@ -9,7 +9,7 @@ import { setShowModal } from '@//services/slices/modal-slice';
 import { useAppDispatch, useAppSelector } from '@//services/store';
 
 const SettingModalContent = () => {
-  // const collection = useAppSelector(selectCollection);
+  const collection = useAppSelector(selectCollection);
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
 
@@ -23,14 +23,25 @@ const SettingModalContent = () => {
       <div className='item'>
         {' '}
         remain:
-        {/* {collection.length} */}
+        {collection.length}
       </div>
       <div className='item'>
         today:{' '}
         {localStorage.getItem(`effortCounterInStorage-${currientDate}`)
           ? localStorage.getItem(`effortCounterInStorage-${currientDate}`)
           : 0}
-        <Input />
+        <label>
+          Link to server with AI:
+          <Input keyInLocalStorage={'linkToBot'} />
+        </label>
+        <label>
+          Your name on GitHub:
+          <Input keyInLocalStorage={'UserName'} />
+        </label>
+        <label>
+          Name of your repository with md-files:
+          <Input keyInLocalStorage={'UserRepo'} />
+        </label>
         <a
           // className={styles.button}
           onClick={() => {

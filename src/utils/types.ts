@@ -21,3 +21,8 @@ export interface IUser {
   linkToPublicFile: string;
   linkToRepo: string;
 }
+
+/** типизация инпута */
+export type TOneInput = {
+  keyInLocalStorage: string;
+};

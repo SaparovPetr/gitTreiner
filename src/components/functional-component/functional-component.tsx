@@ -1,4 +1,3 @@
-import ToolTip from '@components/tooltip/tooltip';
 import WordItem from '@components/word-item/word-item';
 import { setCounter } from '@slices/counter-slice';
 import { selectModeState, setMode } from '@slices/mode-slice';
@@ -85,7 +84,6 @@ const FunctionalComponent = () => {
           </div>
 
           <div className={styles.buttonsWrapper}>
-            <ToolTip />
             <Link
               className={styles.settingButton}
               to='/gitTreiner/setting'
