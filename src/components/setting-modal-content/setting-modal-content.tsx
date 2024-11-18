@@ -10,7 +10,6 @@ import { useAppDispatch, useAppSelector } from '@//services/store';
 
 const SettingModalContent = () => {
   // const collection = useAppSelector(selectCollection);
-  // console.log(`${endpoint}`);
   const dispatch = useAppDispatch();
   const navigate = useNavigate();
 

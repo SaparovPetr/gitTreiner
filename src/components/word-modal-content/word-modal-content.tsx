@@ -10,7 +10,6 @@ import {
 } from '../../services/slices/words-slice';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
-import { endpoint } from '@//endpoint';
 import { audioCallback } from '@//utils/audio-callback';
 
 const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
@@ -36,7 +35,7 @@ const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   }, []);
 
   const checkBotStatus = () => {
-    fetch(`${endpoint}/status`, {
+    fetch(`${localStorage.getItem(`linkToBot`)}/status`, {
       method: 'GET'
     })
       .then((res) => {
@@ -54,7 +53,7 @@ const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
 
   const knockToAI = () => {
     setIsLoading(true);
-    fetch(`${endpoint}/predict`, {
+    fetch(`${localStorage.getItem(`linkToBot`)}/predict`, {
       method: 'POST',
       body: JSON.stringify({
         message: `${word.targetWord} - ${word.translating}`
