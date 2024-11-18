@@ -31,17 +31,18 @@ const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
   useEffect(() => {
     // (заметка № 14)
     audioCallback(collection);
-    checkAIstatus();
+    checkBotStatus();
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
 
-  const checkAIstatus = () => {
+  const checkBotStatus = () => {
     fetch(`${endpoint}/status`, {
       method: 'GET'
     })
       .then((res) => {
         if (res.ok) {
-          console.log(`server is  ready`);
+          console.log(res);
+          console.log(`сервер на связи`);
           setIsReady(true);
         }
       })

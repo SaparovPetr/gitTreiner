@@ -8,6 +8,7 @@
       {
         "frame-title": "off"
       }
-    ]
+    ],
+    "axe/forms": "off"
   }
 }
