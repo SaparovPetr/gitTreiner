@@ -3,8 +3,9 @@ import React from 'react';
 import { selectCollection } from '@slices/words-slice';
 import { useNavigate } from 'react-router-dom';
 
+import styles from './setting-modal-content.module.css';
 import { currientDate } from '../../utils/currient-date';
-import Input from '../functional-component/input/input';
+import LabeledInput from '../LabeledInput/LabeledInput';
 import { setShowModal } from '@//services/slices/modal-slice';
 import { useAppDispatch, useAppSelector } from '@//services/store';
 
@@ -18,40 +19,46 @@ const SettingModalContent = () => {
   };
 
   return (
-    <div>
-      <h2>Settings</h2>
-      <div className='item'>
-        {' '}
-        remain:
-        {collection.length}
+    <div className={styles.container}>
+      <h2 className={styles.modalHeading}>Settings</h2>
+
+      <div className={styles.statusWrapper}>
+        <h3 className={styles.itemLabel}>Status:</h3>
+        <div className={styles.status}>
+          <div> remain: {collection.length}</div>
+          <div>
+            today:{' '}
+            {localStorage.getItem(`effortCounterInStorage-${currientDate}`)
+              ? localStorage.getItem(`effortCounterInStorage-${currientDate}`)
+              : 0}
+          </div>
+        </div>
       </div>
-      <div className='item'>
-        today:{' '}
-        {localStorage.getItem(`effortCounterInStorage-${currientDate}`)
-          ? localStorage.getItem(`effortCounterInStorage-${currientDate}`)
-          : 0}
-        <label>
-          Link to server with AI:
-          <Input keyInLocalStorage={'linkToBot'} />
-        </label>
-        <label>
-          Your name on GitHub:
-          <Input keyInLocalStorage={'UserName'} />
-        </label>
-        <label>
-          Name of your repository with md-files:
-          <Input keyInLocalStorage={'UserRepo'} />
-        </label>
-        <a
-          // className={styles.button}
-          onClick={() => {
-            dispatch(setShowModal(false));
-            setTimeout(onClose, 200);
-          }}
-        >
-          close
-        </a>
-      </div>
+
+      <LabeledInput
+        keyInLocalStorage={'UserName'}
+        lableContent={'GitHub name:'}
+      />
+
+      <LabeledInput
+        keyInLocalStorage={'UserRepo'}
+        lableContent={'Repo name:'}
+      />
+
+      <LabeledInput
+        keyInLocalStorage={'linkToBot'}
+        lableContent={'AI server:'}
+      />
+
+      <a
+        className={styles.button}
+        onClick={() => {
+          dispatch(setShowModal(false));
+          setTimeout(onClose, 200);
+        }}
+      >
+        close
+      </a>
     </div>
   );
 };

@@ -25,4 +25,5 @@ export interface IUser {
 /** типизация инпута */
 export type TOneInput = {
   keyInLocalStorage: string;
+  lableContent: string;
 };
