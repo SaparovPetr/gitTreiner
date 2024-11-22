@@ -1,4 +1,4 @@
-import { ReactElement } from 'react';
+import { ReactElement, ReactNode } from 'react';
 
 /** тип объекта одного слова */
 export type TOneWord = {
@@ -34,4 +34,11 @@ export type TOneInput = {
 export type TModalProps = {
   children: ReactElement;
   closeModal: () => void;
+};
+
+/** типизация пропсов кнопки */
+export type TButtonProps = {
+  children: ReactNode;
+  onClickFunc?: () => void;
+  disabled: boolean;
 };

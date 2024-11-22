@@ -28,12 +28,6 @@
   font-size: 18px;
 }
 
-.buttonsWrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 2vh;
-}
-
 .settingButton {
   display: flex;
   justify-content: center;

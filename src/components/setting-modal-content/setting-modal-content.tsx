@@ -5,6 +5,7 @@ import { selectCollection } from '@slices/words-slice';
 import styles from './setting-modal-content.module.css';
 import { currientDate } from '../../utils/currient-date';
 import LabeledInput from '../LabeledInput/LabeledInput';
+import { RoundButton } from '../RoundButton/RoundButton';
 import { useAppSelector } from '@//services/store';
 
 const SettingModalContent = ({ closeModal }: any) => {
@@ -42,9 +43,9 @@ const SettingModalContent = ({ closeModal }: any) => {
         lableContent={'AI server:'}
       />
 
-      <button className={styles.button} onClick={closeModal}>
+      <RoundButton disabled={false} onClickFunc={closeModal}>
         close
-      </button>
+      </RoundButton>
     </div>
   );
 };

@@ -9,6 +9,7 @@ import {
 } from '../../services/slices/words-slice';
 import { useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
+import { RoundButton } from '../RoundButton/RoundButton';
 import { audioCallback } from '@//utils/audio-callback';
 
 const WordModalContent = ({
@@ -93,30 +94,35 @@ const WordModalContent = ({
       />
       <div className={styles.buttonsZone}>
         {!isReady && (
-          <button className={styles.button} disabled>
+          <RoundButton onClickFunc={knockToAI} disabled>
             {isLoading ? <div className={styles.loader} /> : 'AI offline'}
-          </button>
+          </RoundButton>
         )}
 
         {isReady && (
-          <button className={styles.button} onClick={knockToAI}>
-            {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
-          </button>
+          <RoundButton disabled={false} onClickFunc={knockToAI}>
+            {' '}
+            {isLoading ? (
+              <div className={styles.loader} />
+            ) : (
+              'generate with AI'
+            )}{' '}
+          </RoundButton>
         )}
 
         <div className={styles.twoButtons}>
-          <button className={styles.button}>
+          <RoundButton disabled={false}>
             <Link
               to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
               target='_blank'
             >
               edit
             </Link>
-          </button>
+          </RoundButton>
 
-          <button className={styles.button} onClick={closeModal}>
+          <RoundButton disabled={false} onClickFunc={closeModal}>
             close
-          </button>
+          </RoundButton>
         </div>
       </div>
     </div>

@@ -83,15 +83,13 @@ const FunctionalComponent = () => {
             </div>
           </div>
 
-          <div className={styles.buttonsWrapper}>
-            <Link
-              className={styles.settingButton}
-              to='/gitTreiner/setting'
-              state={{ backgroundLocation: locationInTheApp }}
-            >
-              <span className={styles.text}>▽</span>
-            </Link>
-          </div>
+          <Link
+            className={styles.settingButton}
+            to='/gitTreiner/setting'
+            state={{ backgroundLocation: locationInTheApp }}
+          >
+            <span className={styles.text}>▽</span>
+          </Link>
         </div>
 
         <WordItem key={collection[0].id} {...collection[0]} />

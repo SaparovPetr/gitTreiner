@@ -25,32 +25,9 @@
   gap: 5px;
 }
 
-.button {
-  display: flex;
-  justify-content: center;
-  min-width:82px;
-  min-height: 25px;
-  padding: 3px 20px;
-  color: white;
-  font-size: 21px;
-  text-align: center;
-  text-decoration: none;
-  border: 1px solid white;
-  border-radius: 15px;
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-}
-
-.button:disabled {
-  color: rgb(71 70 70);    
-  background-color: #323131;
-  border: 1px solid rgb(71 70 70);
-}
-
 iframe {
   width: 257px;
 }
-
 
 .loader {
   margin: 0 auto;
