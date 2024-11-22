@@ -16,6 +16,7 @@ import {
   markTheFirstStart
 } from '../../utils/localstorage-functionality';
 import { threeThousandWordBase } from '../../word-bases/3k';
+import SuccessComponent from '@//success-component/success-component';
 
 const FunctionalComponent = () => {
   const dispatch = useAppDispatch();
@@ -26,24 +27,24 @@ const FunctionalComponent = () => {
   /**
    * Колбек для кнопки "продолжить" на экране успеха
    */
-  const increaseCounter = () => {
-    if (currientMode === AppMode.Dif) {
-      dispatch(makeCollection(difWordBase));
-    }
-    if (currientMode === AppMode.ThreeK) {
-      dispatch(makeCollection(threeThousandWordBase));
-    }
-    if (currientMode === AppMode.A) {
-      dispatch(makeCollection(aWordBase));
-    }
-    if (currientMode === AppMode.B1) {
-      dispatch(makeCollection(bOneWordBase));
-    }
-    if (currientMode === AppMode.B2) {
-      dispatch(makeCollection(bTwoWordBase));
-    }
-    dispatch(setCounter(1));
-  };
+  // const increaseCounter = () => {
+  //   if (currientMode === AppMode.Dif) {
+  //     dispatch(makeCollection(difWordBase));
+  //   }
+  //   if (currientMode === AppMode.ThreeK) {
+  //     dispatch(makeCollection(threeThousandWordBase));
+  //   }
+  //   if (currientMode === AppMode.A) {
+  //     dispatch(makeCollection(aWordBase));
+  //   }
+  //   if (currientMode === AppMode.B1) {
+  //     dispatch(makeCollection(bOneWordBase));
+  //   }
+  //   if (currientMode === AppMode.B2) {
+  //     dispatch(makeCollection(bTwoWordBase));
+  //   }
+  //   dispatch(setCounter(1));
+  // };
 
   /**
    * Колбек для клика по логотипу
@@ -101,7 +102,7 @@ const FunctionalComponent = () => {
     return (
       <div className={styles.functionalArea}>
         <div className={styles.success}>
-          <div>👋 </div>
+          <div>👋</div>
           <div>Welcome to the GitTreiner!</div>
           <div>
             You can brush up words and edit Markdone notes for them from your
@@ -119,14 +120,7 @@ const FunctionalComponent = () => {
   if (collection.length === 0 && isFirstStart) {
     return (
       <div className={styles.functionalArea}>
-        <div className={styles.success}>
-          <div>🥳</div>
-          <div>Great!</div>
-          <div>Let's go again!</div>
-          <button className={styles.button} onClick={increaseCounter}>
-            →
-          </button>
-        </div>
+        <SuccessComponent />
       </div>
     );
   }
