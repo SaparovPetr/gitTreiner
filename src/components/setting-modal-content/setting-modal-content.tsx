@@ -12,7 +12,7 @@ const SettingModalContent = ({ closeModal }: any) => {
   const collection = useAppSelector(selectCollection);
 
   return (
-    <div className={styles.container}>
+    <div className={styles.settingModalContainer}>
       <h2 className={styles.modalHeading}>Settings</h2>
 
       <div className={styles.statusWrapper}>
