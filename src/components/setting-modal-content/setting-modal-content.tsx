@@ -1,22 +1,14 @@
 import React from 'react';
 
 import { selectCollection } from '@slices/words-slice';
-import { useNavigate } from 'react-router-dom';
 
 import styles from './setting-modal-content.module.css';
 import { currientDate } from '../../utils/currient-date';
 import LabeledInput from '../LabeledInput/LabeledInput';
-import { setShowModal } from '@//services/slices/modal-slice';
-import { useAppDispatch, useAppSelector } from '@//services/store';
+import { useAppSelector } from '@//services/store';
 
-const SettingModalContent = () => {
+const SettingModalContent = ({ closeModal }: any) => {
   const collection = useAppSelector(selectCollection);
-  const dispatch = useAppDispatch();
-  const navigate = useNavigate();
-
-  const onClose = () => {
-    navigate(-1);
-  };
 
   return (
     <div className={styles.container}>
@@ -50,15 +42,9 @@ const SettingModalContent = () => {
         lableContent={'AI server:'}
       />
 
-      <a
-        className={styles.button}
-        onClick={() => {
-          dispatch(setShowModal(false));
-          setTimeout(onClose, 200);
-        }}
-      >
+      <button className={styles.button} onClick={closeModal}>
         close
-      </a>
+      </button>
     </div>
   );
 };

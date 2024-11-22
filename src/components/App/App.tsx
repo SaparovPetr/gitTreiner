@@ -14,7 +14,7 @@ import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
 import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
-import { Route, Routes, useLocation } from 'react-router-dom';
+import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch } from '../../services/store';
 import {
@@ -23,17 +23,26 @@ import {
 } from '../../utils/localstorage-functionality';
 import SettingModalContent from '@//components/setting-modal-content/setting-modal-content';
 import WordModalContent from '@//components/word-modal-content/word-modal-content';
+import { setShowModal } from '@//services/slices/modal-slice';
 import { User } from '@//User';
 
 const App = () => {
   const dispatch = useAppDispatch();
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
+  const navigate = useNavigate();
 
   const user: IUser = new User(
     `${localStorage.getItem(`UserName`)}`,
     `${localStorage.getItem(`UserRepo`)}`
   );
+
+  const closeModal = () => {
+    dispatch(setShowModal(false));
+    setTimeout(() => {
+      navigate(-1);
+    }, 200);
+  };
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
@@ -79,6 +88,7 @@ const App = () => {
           element={
             <Layout>
               <WordModalContent
+                closeModal={closeModal}
                 linkToPublicFile={user.linkToPublicFile}
                 linkToRepo={user.linkToRepo}
               />
@@ -89,7 +99,7 @@ const App = () => {
           path='/gitTreiner/setting'
           element={
             <Layout>
-              <SettingModalContent />
+              <SettingModalContent closeModal={closeModal} />
             </Layout>
           }
         />
@@ -101,8 +111,9 @@ const App = () => {
             path='/gitTreiner/word'
             element={
               <Layout>
-                <Modal>
+                <Modal closeModal={closeModal}>
                   <WordModalContent
+                    closeModal={closeModal}
                     linkToPublicFile={user.linkToPublicFile}
                     linkToRepo={user.linkToRepo}
                   />
@@ -114,8 +125,8 @@ const App = () => {
             path='/gitTreiner/setting'
             element={
               <Layout>
-                <Modal>
-                  <SettingModalContent />
+                <Modal closeModal={closeModal}>
+                  <SettingModalContent closeModal={closeModal} />
                 </Modal>
               </Layout>
             }

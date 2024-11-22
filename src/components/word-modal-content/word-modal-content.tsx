@@ -1,30 +1,27 @@
 import { useEffect, useState } from 'react';
 
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import styles from './word-modal-content.module.css';
-import { setShowModal } from '../../services/slices/modal-slice';
 import {
   selectCollection,
   selectFirstWord
 } from '../../services/slices/words-slice';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+import { useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
 import { audioCallback } from '@//utils/audio-callback';
 
-const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
+const WordModalContent = ({
+  closeModal,
+  linkToPublicFile,
+  linkToRepo
+}: any) => {
   const word = useAppSelector(selectFirstWord);
-  const dispatch = useAppDispatch();
-  const navigate = useNavigate();
 
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
 
   const collection = useAppSelector(selectCollection);
-
-  const onClose = () => {
-    navigate(-1);
-  };
 
   // (заметка № 15)
   useEffect(() => {
@@ -102,29 +99,24 @@ const WordModalContent = ({ linkToPublicFile, linkToRepo }: any) => {
         )}
 
         {isReady && (
-          <a className={styles.button} onClick={knockToAI}>
+          <button className={styles.button} onClick={knockToAI}>
             {isLoading ? <div className={styles.loader} /> : 'generate with AI'}
-          </a>
+          </button>
         )}
 
         <div className={styles.twoButtons}>
-          <Link
-            className={styles.button}
-            to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
-            target='_blank'
-          >
-            edit
-          </Link>
+          <button className={styles.button}>
+            <Link
+              to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
+              target='_blank'
+            >
+              edit
+            </Link>
+          </button>
 
-          <a
-            className={styles.button}
-            onClick={() => {
-              dispatch(setShowModal(false));
-              setTimeout(onClose, 200);
-            }}
-          >
+          <button className={styles.button} onClick={closeModal}>
             close
-          </a>
+          </button>
         </div>
       </div>
     </div>

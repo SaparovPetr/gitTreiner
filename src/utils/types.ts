@@ -1,3 +1,5 @@
+import { ReactElement } from 'react';
+
 /** тип объекта одного слова */
 export type TOneWord = {
   targetWord: string;
@@ -26,4 +28,10 @@ export interface IUser {
 export type TOneInput = {
   keyInLocalStorage: string;
   lableContent: string;
+};
+
+/** типизация пропсов модалки */
+export type TModalProps = {
+  children: ReactElement;
+  closeModal: () => void;
 };
