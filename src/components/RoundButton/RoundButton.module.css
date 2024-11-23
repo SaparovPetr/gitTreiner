@@ -1,8 +1,10 @@
 .button {
     display: flex;
     justify-content: center;
+    align-self: center;
     width: 100%;
     min-width:82px;
+    max-width: 138px;
     min-height: 25px;
     padding: 3px 20px;
     color: white;

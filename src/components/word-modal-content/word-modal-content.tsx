@@ -102,11 +102,7 @@ const WordModalContent = ({
         {isReady && (
           <RoundButton disabled={false} onClickFunc={knockToAI}>
             {' '}
-            {isLoading ? (
-              <div className={styles.loader} />
-            ) : (
-              'generate with AI'
-            )}{' '}
+            {isLoading ? <div className={styles.loader} /> : 'form note'}{' '}
           </RoundButton>
         )}
 

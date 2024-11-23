@@ -1,10 +1,10 @@
-.functionalArea {
+/* .functionalArea {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   height: 100%;
-}
+} */
 
 .headerArea {
   position: relative;

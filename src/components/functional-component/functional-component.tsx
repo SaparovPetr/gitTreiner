@@ -16,6 +16,7 @@ import {
   markTheFirstStart
 } from '../../utils/localstorage-functionality';
 import { threeThousandWordBase } from '../../word-bases/3k';
+import WelcomeComponent from '../welcome-component/WelcomeComponent';
 import SuccessComponent from '@//success-component/success-component';
 
 const FunctionalComponent = () => {
@@ -23,28 +24,6 @@ const FunctionalComponent = () => {
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
   const locationInTheApp = useLocation();
-
-  /**
-   * Колбек для кнопки "продолжить" на экране успеха
-   */
-  // const increaseCounter = () => {
-  //   if (currientMode === AppMode.Dif) {
-  //     dispatch(makeCollection(difWordBase));
-  //   }
-  //   if (currientMode === AppMode.ThreeK) {
-  //     dispatch(makeCollection(threeThousandWordBase));
-  //   }
-  //   if (currientMode === AppMode.A) {
-  //     dispatch(makeCollection(aWordBase));
-  //   }
-  //   if (currientMode === AppMode.B1) {
-  //     dispatch(makeCollection(bOneWordBase));
-  //   }
-  //   if (currientMode === AppMode.B2) {
-  //     dispatch(makeCollection(bTwoWordBase));
-  //   }
-  //   dispatch(setCounter(1));
-  // };
 
   /**
    * Колбек для клика по логотипу
@@ -74,7 +53,7 @@ const FunctionalComponent = () => {
 
   if (collection.length > 0 && isFirstStart) {
     return (
-      <div className={styles.functionalArea}>
+      <>
         <div className={styles.headerArea}>
           <div className={styles.logoArea} onClick={changeMode}>
             <div>Git_</div>
@@ -92,37 +71,18 @@ const FunctionalComponent = () => {
             <span className={styles.text}>▽</span>
           </Link>
         </div>
-
         <WordItem key={collection[0].id} {...collection[0]} />
-      </div>
+      </>
     );
   }
 
   if (!isFirstStart) {
-    return (
-      <div className={styles.functionalArea}>
-        <div className={styles.success}>
-          <div>👋</div>
-          <div>Welcome to the GitTreiner!</div>
-          <div>
-            You can brush up words and edit Markdone notes for them from your
-            GitHub.
-          </div>
-          <button className={styles.button} onClick={markTheFirstStart}>
-            →
-          </button>
-        </div>
-      </div>
-    );
+    return <WelcomeComponent />;
   }
 
   // (заметка № 13)
   if (collection.length === 0 && isFirstStart) {
-    return (
-      <div className={styles.functionalArea}>
-        <SuccessComponent />
-      </div>
-    );
+    return <SuccessComponent />;
   }
 };
 
