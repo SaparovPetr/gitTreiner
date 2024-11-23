@@ -1,13 +1,96 @@
 import { FC } from 'react';
 
-import FunctionalComponent from '@components/functional-component/functional-component';
+import { Link, useLocation } from 'react-router-dom';
 
 import styles from './main-page.module.css';
+import WelcomeComponent from '@//components/welcome-component/WelcomeComponent';
+import WordItem from '@//components/word-item/word-item';
+import { selectModeState, setMode } from '@//services/slices/mode-slice';
+import {
+  makeCollection,
+  selectCollection
+} from '@//services/slices/words-slice';
+import { useAppDispatch, useAppSelector } from '@//services/store';
+import SuccessComponent from '@//success-component/success-component';
+import { isFirstStart } from '@//utils/localstorage-functionality';
+import { AppMode } from '@//utils/types';
+import { threeThousandWordBase } from '@//word-bases/3k';
+import { aWordBase } from '@//word-bases/a';
+import { bOneWordBase } from '@//word-bases/b-one';
+import { bTwoWordBase } from '@//word-bases/b-two';
+import { difWordBase } from '@//word-bases/dif';
 
-export const MainPage: FC = () => (
-  <main className='app-container'>
-    <div className={styles.functionalArea}>
-      <FunctionalComponent />
-    </div>
-  </main>
-);
+export const MainPage: FC = () => {
+  const dispatch = useAppDispatch();
+  const collection = useAppSelector(selectCollection);
+  const currientMode = useAppSelector(selectModeState);
+  const locationInTheApp = useLocation();
+
+  /**
+   * Колбек для клика по логотипу
+   */
+  const changeMode = () => {
+    if (currientMode === AppMode.Dif) {
+      dispatch(setMode(AppMode.ThreeK));
+      dispatch(makeCollection(threeThousandWordBase));
+    }
+    if (currientMode === AppMode.ThreeK) {
+      dispatch(setMode(AppMode.A));
+      dispatch(makeCollection(aWordBase));
+    }
+    if (currientMode === AppMode.A) {
+      dispatch(setMode(AppMode.B1));
+      dispatch(makeCollection(bOneWordBase));
+    }
+    if (currientMode === AppMode.B1) {
+      dispatch(setMode(AppMode.B2));
+      dispatch(makeCollection(bTwoWordBase));
+    }
+    if (currientMode === AppMode.B2) {
+      dispatch(setMode(AppMode.Dif));
+      dispatch(makeCollection(difWordBase));
+    }
+  };
+
+  if (collection.length > 0 && isFirstStart) {
+    return (
+      <main className={styles.mainContainer}>
+        <div className={styles.headerArea}>
+          <div className={styles.logoArea} onClick={changeMode}>
+            <div>Git_</div>
+            <div>
+              treiner
+              <span className={styles.lable}>{currientMode}</span>
+            </div>
+          </div>
+
+          <Link
+            className={styles.settingButton}
+            to='/gitTreiner/setting'
+            state={{ backgroundLocation: locationInTheApp }}
+          >
+            <span className={styles.text}>▽</span>
+          </Link>
+        </div>
+        <WordItem key={collection[0].id} {...collection[0]} />
+      </main>
+    );
+  }
+
+  if (!isFirstStart) {
+    return (
+      <main className={styles.mainContainer}>
+        <WelcomeComponent />
+      </main>
+    );
+  }
+
+  // (заметка № 13)
+  if (collection.length === 0 && isFirstStart) {
+    return (
+      <main className={styles.mainContainer}>
+        <SuccessComponent />
+      </main>
+    );
+  }
+};

@@ -1,4 +1,3 @@
-import './main.css';
 import { useEffect } from 'react';
 
 import { Layout } from '@components/modal/layout';

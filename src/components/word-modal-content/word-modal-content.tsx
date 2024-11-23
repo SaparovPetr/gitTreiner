@@ -38,7 +38,6 @@ const WordModalContent = ({
     })
       .then((res) => {
         if (res.ok) {
-          console.log(res);
           console.log(`сервер на связи`);
           setIsReady(true);
         }
@@ -69,7 +68,6 @@ const WordModalContent = ({
 
       .then((data) => {
         setIsLoading(false);
-        console.log(data.result);
         copyTextToClipboard(data.result);
         return data;
       })
