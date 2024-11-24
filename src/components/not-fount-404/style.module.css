@@ -1,0 +1,28 @@
+.section {
+	min-height: 300px;
+	padding: 10px 15px;
+  color: white;
+  background-color: #323131;
+}
+
+.page_not_found {
+  align-self: center;
+  padding: 5%;
+  color: var(--accent);
+  font-weight: bold;
+  font-size: 48px;  
+}
+
+.button {
+  min-width:82px;
+  padding: 0 20px 3px;
+  color: white;
+  font-size: 21px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #323131;
+  border: 1px solid white;
+  border-radius: 15px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}

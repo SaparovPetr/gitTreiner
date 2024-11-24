@@ -1,3 +1,5 @@
+import { ReactElement, ReactNode } from 'react';
+
 /** тип объекта одного слова */
 export type TOneWord = {
   targetWord: string;
@@ -13,3 +15,30 @@ export const enum AppMode {
   B1 = 'B1',
   B2 = 'B2'
 }
+
+/** типизация пользователя */
+export interface IUser {
+  profileName: string;
+  repoName: string;
+  linkToPublicFile: string;
+  linkToRepo: string;
+}
+
+/** типизация инпута */
+export type TOneInput = {
+  keyInLocalStorage: string;
+  lableContent: string;
+};
+
+/** типизация пропсов модалки */
+export type TModalProps = {
+  children: ReactElement;
+  closeModal: () => void;
+};
+
+/** типизация пропсов кнопки */
+export type TButtonProps = {
+  children: ReactNode;
+  onClickFunc?: () => void;
+  disabled: boolean;
+};

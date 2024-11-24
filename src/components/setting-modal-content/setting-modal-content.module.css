@@ -1,0 +1,33 @@
+
+.settingModalContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: white;
+
+    .modalHeading {
+        align-self: center;
+        font-size: 32px;
+    }
+    
+    .statusWrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px 20px;
+        border: 1px solid white;
+        border-radius: 15px;
+    
+        .itemLabel {    
+            font-size: 26px;
+        }
+        
+        .status {
+            display: flex;
+            justify-content: space-between;              
+        }
+        
+    }   
+}
+
+

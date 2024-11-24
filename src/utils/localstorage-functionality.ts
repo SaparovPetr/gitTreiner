@@ -10,6 +10,13 @@ export const markTheFirstStart = () => {
 };
 
 /**
+ * установка значения в хранилще
+ */
+export const setEntryInLocalStorage = (key: string, value: string) => {
+  localStorage.setItem(key, value);
+};
+
+/**
  * получение из localStorage текущего режима
  */
 export const currientModeFromLocalStorage =

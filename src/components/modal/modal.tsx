@@ -1,43 +1,26 @@
-import React, { useEffect, useRef } from 'react';
+import React, { memo, useEffect, useRef } from 'react';
 
-import { useNavigate } from 'react-router-dom';
+import { selectModalState, setShowModal } from '@slices/modal-slice';
 import { CSSTransition } from 'react-transition-group';
 
-import styles from './modal.module.css';
 import './modal.css';
-import {
-  selectModalState,
-  setShowModal
-} from '../../services/slices/modal-slice';
-import { selectCollection } from '../../services/slices/words-slice';
+import styles from './modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
-import { audioCallback } from '../../utils/audio-callback';
+import { TModalProps } from '@//utils/types';
 
-export const Modal = ({ children }: React.PropsWithChildren) => {
+export const Modal = memo(({ children, closeModal }: TModalProps) => {
   const showModal = useAppSelector(selectModalState);
   const nodeRef = useRef(null);
   const dispatch = useAppDispatch();
-  const collection = useAppSelector(selectCollection);
 
   useEffect(() => {
-    // (заметка № 14)
-    audioCallback(collection);
     dispatch(setShowModal(true));
     const handleEsc = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') {
-        dispatch(setShowModal(false));
-        setTimeout(onClose, 1000);
-      }
+      if (e.key === 'Escape') closeModal();
     };
     document.addEventListener('keydown', handleEsc);
     return () => document.removeEventListener('keydown', handleEsc);
   }, []);
-
-  const navigate = useNavigate();
-
-  const onClose = () => {
-    navigate(-1);
-  };
 
   return (
     <>
@@ -49,16 +32,10 @@ export const Modal = ({ children }: React.PropsWithChildren) => {
         unmountOnExit
       >
         <div className='modal' ref={nodeRef}>
-          <div
-            className={styles.overlay}
-            onClick={() => {
-              dispatch(setShowModal(false));
-              setTimeout(onClose, 200);
-            }}
-          />
+          <div className={styles.overlay} onClick={closeModal} />
           <div className={styles.popup}>{children}</div>
         </div>
       </CSSTransition>
     </>
   );
-};
+});

@@ -1,0 +1,70 @@
+/* stylelint-disable no-duplicate-selectors */
+
+.modalContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 17px;
+}
+
+.phraseZone {
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  text-align: center;
+}
+
+.buttonsZone {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.twoButtons {
+  display: flex;
+  gap: 5px;
+}
+
+iframe {
+  width: 257px;
+}
+
+.loader {
+  margin: 0 auto;
+  border: 2px solid white;
+  border-left-color: transparent;
+  border-radius: 50%;
+}
+
+.loader {
+  width: 16px;
+  height: 16px;
+  margin: 0 auto;
+  border: 2px solid white;
+  border-left-color: transparent;
+}
+
+.loader {
+  width: 16px;
+  height: 16px;
+  margin: 0 auto;
+  border: 2px solid white;
+  border-left-color: transparent;
+  animation: spin89345 1s linear infinite;
+}
+
+@keyframes spin89345 {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (height <= 620px) {  
+  .modalContent {
+    gap: 19px;  
+  }
+}

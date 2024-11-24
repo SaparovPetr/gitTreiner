@@ -1,3 +1,15 @@
+@font-face {
+  font-weight: normal;
+  font-family: 'Suisse';
+  src: url("../src/fonts/SuisseIntl-Book.woff");
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Suisse';
+  src: url("../src/fonts/SuisseIntl-Bold.woff");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +22,21 @@ body {
 code {
   font-family: "source-code-pro", "Menlo", "Monaco", "Consolas", 'Courier New',
     monospace;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-weight: bold;
+}
+
+div, a {
+  color: inherit;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+button {
+  color: inherit;
+  background-color: inherit;
 }

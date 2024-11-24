@@ -1,14 +1,14 @@
 import { useEffect } from 'react';
 
+import { Layout } from '@components/modal/layout';
+import OptionList from '@components/option-list/option-list';
+import { selectCollection } from '@slices/words-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './word-item.module.css';
-import { selectCollection } from '../../services/slices/words-slice';
 import { useAppSelector } from '../../services/store';
 import { audioCallback } from '../../utils/audio-callback';
-import { Layout } from '../modal/layout';
-import OptionList from '../option-list/option-list';
 
 const WordItem = ({ id, targetWord, translating }: TOneWord) => {
   const locationInTheApp = useLocation();
