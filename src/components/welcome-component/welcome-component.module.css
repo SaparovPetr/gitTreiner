@@ -1,18 +1,17 @@
 .welcomeContainer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     gap: 15px;
     max-width:  500px;
     padding-top: 20px;
     font-weight: bold;
     font-size: 18px;
     font-family: 'Suisse', sans-serif;
-
-    /* text-align: center; */
 }
 
+h1, h2 {
+    align-self: center;
+}
 
 .linkword {
     color: rgb(161 158 214);

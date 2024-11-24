@@ -1,7 +1,7 @@
 import { FC } from 'react';
 
 import styles from './success-component.module.css';
-import { RoundButton } from '../components/RoundButton/RoundButton';
+import { RoundButton } from '../components/round-button/round-button';
 import { setCounter } from '../services/slices/counter-slice';
 import { selectModeState } from '../services/slices/mode-slice';
 import { makeCollection } from '../services/slices/words-slice';

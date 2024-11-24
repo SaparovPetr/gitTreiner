@@ -1,6 +1,6 @@
 import { ChangeEvent, ChangeEventHandler, useState } from 'react';
 
-import styles from './LabeledInput.module.css';
+import styles from './labeled-input.module.css';
 import { setEntryInLocalStorage } from '@//utils/localstorage-functionality';
 import { TOneInput } from '@//utils/types';
 

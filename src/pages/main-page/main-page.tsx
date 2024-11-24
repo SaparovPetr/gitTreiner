@@ -3,7 +3,7 @@ import { FC } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './main-page.module.css';
-import WelcomeComponent from '@//components/welcome-component/WelcomeComponent';
+import WelcomeComponent from '@//components/welcome-component/welcome-component';
 import WordItem from '@//components/word-item/word-item';
 import { selectModeState, setMode } from '@//services/slices/mode-slice';
 import {

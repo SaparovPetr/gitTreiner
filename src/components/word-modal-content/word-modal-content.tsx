@@ -9,7 +9,7 @@ import {
 } from '../../services/slices/words-slice';
 import { useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
-import { RoundButton } from '../RoundButton/RoundButton';
+import { RoundButton } from '../round-button/round-button';
 import { audioCallback } from '@//utils/audio-callback';
 
 const WordModalContent = ({

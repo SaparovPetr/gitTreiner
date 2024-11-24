@@ -4,8 +4,8 @@ import { selectCollection } from '@slices/words-slice';
 
 import styles from './setting-modal-content.module.css';
 import { currientDate } from '../../utils/currient-date';
-import LabeledInput from '../LabeledInput/LabeledInput';
-import { RoundButton } from '../RoundButton/RoundButton';
+import LabeledInput from '../labeled-input/labeled-input';
+import { RoundButton } from '../round-button/round-button';
 import { useAppSelector } from '@//services/store';
 
 const SettingModalContent = ({ closeModal }: any) => {

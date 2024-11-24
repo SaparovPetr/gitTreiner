@@ -1,4 +1,4 @@
-import styles from './RoundButton.module.css';
+import styles from './round-button.module.css';
 import { TButtonProps } from '@//utils/types';
 
 export const RoundButton = ({
