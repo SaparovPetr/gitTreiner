@@ -3,11 +3,24 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 15px;
     max-width:  500px;
-    padding-top: 150px;
+    padding-top: 20px;
     font-weight: bold;
-    font-size: 34px;
+    font-size: 18px;
     font-family: 'Suisse', sans-serif;
-    text-align: center;
+
+    /* text-align: center; */
+}
+
+
+.linkword {
+    color: rgb(161 158 214);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footnote {
+    margin-top: 10px;
+    font-size: 11px;
 }
