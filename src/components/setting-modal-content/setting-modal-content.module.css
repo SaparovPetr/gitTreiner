@@ -31,3 +31,16 @@
 }
 
 
+@media (height <= 620px) { 
+    .modalHeading {
+        display: none;
+    }  
+    
+    .itemLabel {
+        align-self: center;
+    }   
+
+    .status {
+        gap: 40px;             
+    }
+}

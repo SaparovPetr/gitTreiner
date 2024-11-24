@@ -19,3 +19,8 @@
     border-radius: 8px;
 }
 
+@media (height <= 620px) {  
+    .label {
+        display: none;
+    }
+}
