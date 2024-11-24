@@ -11,12 +11,13 @@ import { useAppSelector } from '../../services/store';
 import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
 import { RoundButton } from '../round-button/round-button';
 import { audioCallback } from '@//utils/audio-callback';
+import { TWordModalContentProps } from '@//utils/types';
 
 const WordModalContent = ({
   closeModal,
   linkToPublicFile,
   linkToRepo
-}: any) => {
+}: TWordModalContentProps) => {
   const word = useAppSelector(selectFirstWord);
 
   const [isLoading, setIsLoading] = useState(false);

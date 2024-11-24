@@ -42,3 +42,15 @@ export type TButtonProps = {
   onClickFunc?: () => void;
   disabled: boolean;
 };
+
+/** типизация пропсов модалки слова */
+export type TWordModalContentProps = {
+  closeModal?: () => void;
+  linkToPublicFile: string;
+  linkToRepo: string;
+};
+
+/** типизация пропсов модалки настроек */
+export type TSettingModalContentProps = {
+  closeModal?: () => void;
+};
