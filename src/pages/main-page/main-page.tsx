@@ -69,7 +69,7 @@ export const MainPage: FC = () => {
             to='/gitTreiner/setting'
             state={{ backgroundLocation: locationInTheApp }}
           >
-            <p className={styles.text}>⚙</p>
+            <p className={styles.text}>⇧</p>
           </Link>
         </div>
         <WordItem key={collection[0].id} {...collection[0]} />
