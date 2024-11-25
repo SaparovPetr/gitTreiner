@@ -1,24 +1,21 @@
 import { FC } from 'react';
 
+import SuccessComponent from '@components/success-component/success-component';
+import WelcomeComponent from '@components/welcome-component/welcome-component';
+import WordItem from '@components/word-item/word-item';
+import { selectModeState, setMode } from '@slices/mode-slice';
+import { makeCollection, selectCollection } from '@slices/words-slice';
+import { isFirstStart } from '@utils/localstorage-functionality';
+import { AppMode } from '@utils-types';
+import { threeThousandWordBase } from '@word-bases/3k';
+import { aWordBase } from '@word-bases/a';
+import { bOneWordBase } from '@word-bases/b-one';
+import { bTwoWordBase } from '@word-bases/b-two';
+import { difWordBase } from '@word-bases/dif';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './main-page.module.css';
-import WelcomeComponent from '@//components/welcome-component/welcome-component';
-import WordItem from '@//components/word-item/word-item';
-import { selectModeState, setMode } from '@//services/slices/mode-slice';
-import {
-  makeCollection,
-  selectCollection
-} from '@//services/slices/words-slice';
-import { useAppDispatch, useAppSelector } from '@//services/store';
-import SuccessComponent from '@//success-component/success-component';
-import { isFirstStart } from '@//utils/localstorage-functionality';
-import { AppMode } from '@//utils/types';
-import { threeThousandWordBase } from '@//word-bases/3k';
-import { aWordBase } from '@//word-bases/a';
-import { bOneWordBase } from '@//word-bases/b-one';
-import { bTwoWordBase } from '@//word-bases/b-two';
-import { difWordBase } from '@//word-bases/dif';
+import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
   const dispatch = useAppDispatch();

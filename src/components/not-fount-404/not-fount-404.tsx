@@ -1,17 +1,17 @@
 import { FC } from 'react';
 
+import { selectModeState } from '@slices/mode-slice';
+import { makeCollection } from '@slices/words-slice';
+import { AppMode } from '@utils-types';
+import { threeThousandWordBase } from '@word-bases/3k';
+import { aWordBase } from '@word-bases/a';
+import { bOneWordBase } from '@word-bases/b-one';
+import { bTwoWordBase } from '@word-bases/b-two';
+import { difWordBase } from '@word-bases/dif';
 import { useNavigate } from 'react-router-dom';
 
 import styles from './style.module.css';
-import { selectModeState } from '@//services/slices/mode-slice';
-import { makeCollection } from '@//services/slices/words-slice';
-import { useAppDispatch, useAppSelector } from '@//services/store';
-import { AppMode } from '@//utils/types';
-import { threeThousandWordBase } from '@//word-bases/3k';
-import { aWordBase } from '@//word-bases/a';
-import { bOneWordBase } from '@//word-bases/b-one';
-import { bTwoWordBase } from '@//word-bases/b-two';
-import { difWordBase } from '@//word-bases/dif';
+import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const NotFound404: FC = () => {
   const dispatch = useAppDispatch();

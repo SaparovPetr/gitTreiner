@@ -1,17 +1,14 @@
 import { useEffect, useState } from 'react';
 
+import { RoundButton } from '@components/round-button/round-button';
+import { selectCollection, selectFirstWord } from '@slices/words-slice';
+import { audioCallback } from '@utils/audio-callback';
+import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
+import { TWordModalContentProps } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './word-modal-content.module.css';
-import {
-  selectCollection,
-  selectFirstWord
-} from '../../services/slices/words-slice';
 import { useAppSelector } from '../../services/store';
-import { copyTextToClipboard } from '../../utils/copy-text-to-clipboard';
-import { RoundButton } from '../round-button/round-button';
-import { audioCallback } from '@//utils/audio-callback';
-import { TWordModalContentProps } from '@//utils/types';
 
 const WordModalContent = ({
   closeModal,

@@ -1,11 +1,11 @@
 import { selectCollection } from '@slices/words-slice';
+import { TSettingModalContentProps } from '@utils-types';
 
 import styles from './setting-modal-content.module.css';
+import { useAppSelector } from '../../services/store';
 import { currientDate } from '../../utils/currient-date';
 import LabeledInput from '../labeled-input/labeled-input';
 import { RoundButton } from '../round-button/round-button';
-import { useAppSelector } from '@//services/store';
-import { TSettingModalContentProps } from '@//utils/types';
 
 const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
   const collection = useAppSelector(selectCollection);

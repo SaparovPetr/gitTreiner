@@ -1,6 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-
-import { currientDate } from '../../utils/currient-date';
+import { currientDate } from '@utils/currient-date';
 
 interface ICounterState {
   effortCounter: number;

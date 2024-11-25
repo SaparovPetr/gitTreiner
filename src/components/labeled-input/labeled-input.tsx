@@ -1,8 +1,9 @@
 import { ChangeEvent, ChangeEventHandler, useState } from 'react';
 
+import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
+import { TOneInput } from '@utils-types';
+
 import styles from './labeled-input.module.css';
-import { setEntryInLocalStorage } from '@//utils/localstorage-functionality';
-import { TOneInput } from '@//utils/types';
 
 const LabeledInput = (props: TOneInput) => {
   const [value, setValue] = useState(

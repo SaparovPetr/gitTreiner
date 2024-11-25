@@ -18,10 +18,11 @@
     "types": ["node", "jest"],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src*"],
+      "@": ["/src*"],
       "@pages/*": ["src/pages/*"],
       "@components/*": ["src/components/*"],
-      "@utils-types": ["src/utils/types"],      
+      "@utils-types": ["src/utils/types"],
+      "@utils/*": ["src/utils/*"],   
       "@slices/*": ["src/services/slices/*"],
       "@word-bases/*": ["src/word-bases/*"]
     }

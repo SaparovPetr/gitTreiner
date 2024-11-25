@@ -1,17 +1,18 @@
 import { FC } from 'react';
 
+import { RoundButton } from '@components/round-button/round-button';
+import { setCounter } from '@slices/counter-slice';
+import { selectModeState } from '@slices/mode-slice';
+import { makeCollection } from '@slices/words-slice';
+import { AppMode } from '@utils-types';
+import { threeThousandWordBase } from '@word-bases/3k';
+import { aWordBase } from '@word-bases/a';
+import { bOneWordBase } from '@word-bases/b-one';
+import { bTwoWordBase } from '@word-bases/b-two';
+import { difWordBase } from '@word-bases/dif';
+
 import styles from './success-component.module.css';
-import { RoundButton } from '../components/round-button/round-button';
-import { setCounter } from '../services/slices/counter-slice';
-import { selectModeState } from '../services/slices/mode-slice';
-import { makeCollection } from '../services/slices/words-slice';
-import { useAppDispatch, useAppSelector } from '../services/store';
-import { AppMode } from '../utils/types';
-import { threeThousandWordBase } from '../word-bases/3k';
-import { aWordBase } from '../word-bases/a';
-import { bOneWordBase } from '../word-bases/b-one';
-import { bTwoWordBase } from '../word-bases/b-two';
-import { difWordBase } from '../word-bases/dif';
+import { useAppDispatch, useAppSelector } from '../../services/store';
 
 const SuccessComponent: FC = () => {
   const dispatch = useAppDispatch();

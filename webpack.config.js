@@ -79,6 +79,7 @@ module.exports = {
       '@': path.resolve(__dirname, 'src/'),
       '@pages': path.resolve(__dirname, './src/pages'),
       '@components': path.resolve(__dirname, './src/components'),
+      '@utils': path.resolve(__dirname, './src/utils'),
       '@utils-types': path.resolve(__dirname, './src/utils/types'),
       '@slices': path.resolve(__dirname, './src/services/slices'),
       '@word-bases': path.resolve(__dirname, './src/word-bases')

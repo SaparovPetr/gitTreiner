@@ -1,14 +1,14 @@
 import { useState } from 'react';
 
+import { removeWord } from '@slices/words-slice';
+import { getCurrientBase } from '@utils/get-currient-base';
+import { getRandomElement } from '@utils/get-random-element';
+import { currientModeFromLocalStorage } from '@utils/localstorage-functionality';
+import { shuffle } from '@utils/shuffle-array';
 import { TOneWord } from '@utils-types';
 
 import styles from './option-list.module.css';
 import { useAppDispatch } from '../../services/store';
-import { getCurrientBase } from '../../utils/get-currient-base';
-import { getRandomElement } from '../../utils/get-random-element';
-import { currientModeFromLocalStorage } from '../../utils/localstorage-functionality';
-import { shuffle } from '../../utils/shuffle-array';
-import { removeWord } from '@//services/slices/words-slice';
 
 /** компоненет списка ответов */
 const OptionList =

@@ -1,10 +1,10 @@
 import { FC } from 'react';
 
+import { RoundButton } from '@components/round-button/round-button';
+import { markTheFirstStart } from '@utils/localstorage-functionality';
 import { Link } from 'react-router-dom';
 
 import styles from './welcome-component.module.css';
-import { RoundButton } from '../round-button/round-button';
-import { markTheFirstStart } from '@//utils/localstorage-functionality';
 
 const WelcomeComponent: FC = () => (
   <div className={styles.welcomeContainer}>

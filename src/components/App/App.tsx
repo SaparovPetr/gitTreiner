@@ -3,10 +3,17 @@ import { useEffect } from 'react';
 import { Layout } from '@components/modal/layout';
 import { Modal } from '@components/modal/modal';
 import { NotFound404 } from '@components/not-fount-404/not-fount-404';
+import SettingModalContent from '@components/setting-modal-content/setting-modal-content';
+import WordModalContent from '@components/word-modal-content/word-modal-content';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
+import { setShowModal } from '@slices/modal-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
+import {
+  counterFromLocalStorage,
+  currientModeFromLocalStorage
+} from '@utils/localstorage-functionality';
 import { AppMode, IUser } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -16,14 +23,7 @@ import { difWordBase } from '@word-bases/dif';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch } from '../../services/store';
-import {
-  currientModeFromLocalStorage,
-  counterFromLocalStorage
-} from '../../utils/localstorage-functionality';
-import SettingModalContent from '@//components/setting-modal-content/setting-modal-content';
-import WordModalContent from '@//components/word-modal-content/word-modal-content';
-import { setShowModal } from '@//services/slices/modal-slice';
-import { User } from '@//User';
+import { User } from '../../user';
 
 const App = () => {
   const dispatch = useAppDispatch();

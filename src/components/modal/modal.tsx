@@ -1,12 +1,12 @@
 import React, { memo, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
+import { TModalProps } from '@utils-types';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
 import styles from './modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
-import { TModalProps } from '@//utils/types';
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
   const showModal = useAppSelector(selectModalState);
