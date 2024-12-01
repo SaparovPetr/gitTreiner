@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { RoundButton } from '@components/round-button/round-button';
 import { selectCollection, selectFirstWord } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';
+import { checkBotStatus, knockToAI } from '@utils/bot-api';
 import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
 import { TWordModalContentProps } from '@utils-types';
 import { Link } from 'react-router-dom';
@@ -26,57 +27,12 @@ const WordModalContent = ({
   useEffect(() => {
     // (заметка № 14)
     audioCallback(collection);
-    checkBotStatus();
+    checkBotStatus(setIsReady(true), setIsReady(false));
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
 
-  const checkBotStatus = () => {
-    fetch(`${localStorage.getItem(`linkToBot`)}/status`, {
-      method: 'GET'
-    })
-      .then((res) => {
-        if (res.ok) {
-          console.log(`сервер на связи`);
-          setIsReady(true);
-        }
-      })
-      .catch((err) => {
-        console.log(`Ошибка связи: ${err}`);
-        setIsReady(false);
-      });
-  };
-
-  const knockToAI = () => {
-    setIsLoading(true);
-    fetch(`${localStorage.getItem(`linkToBot`)}/predict`, {
-      method: 'POST',
-      body: JSON.stringify({
-        message: `${word.targetWord} - ${word.translating}`
-      }),
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'no-cors'
-      }
-    })
-      .then((res) => {
-        if (res.ok) {
-          return res.json();
-        }
-      })
-
-      .then((data) => {
-        setIsLoading(false);
-        copyTextToClipboard(data.result);
-        return data;
-      })
-
-      .catch((err) => {
-        console.log(`Ошибка генерации: ${err}`);
-      })
-
-      .finally(() => {
-        setIsLoading(false);
-      });
+  const clicToAiButton = () => {
+    knockToAI(setIsLoading(true), setIsLoading(false), word);
   };
 
   return (
@@ -90,13 +46,13 @@ const WordModalContent = ({
       />
       <div className={styles.buttonsZone}>
         {!isReady && (
-          <RoundButton onClickFunc={knockToAI} disabled>
+          <RoundButton onClickFunc={clicToAiButton} disabled>
             {isLoading ? <div className={styles.loader} /> : 'AI offline'}
           </RoundButton>
         )}
 
         {isReady && (
-          <RoundButton disabled={false} onClickFunc={knockToAI}>
+          <RoundButton disabled={false} onClickFunc={clicToAiButton}>
             {' '}
             {isLoading ? <div className={styles.loader} /> : 'create note'}{' '}
           </RoundButton>

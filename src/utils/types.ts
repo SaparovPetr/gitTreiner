@@ -1,6 +1,6 @@
 import { ReactElement, ReactNode } from 'react';
 
-/** тип объекта одного слова */
+/** тип одного слова */
 export type TOneWord = {
   targetWord: string;
   translating: string;
