@@ -31,7 +31,7 @@ const WordModalContent = ({
     copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
   }, []);
 
-  const clicToAiButton = () => {
+  const clickToAiButton = () => {
     knockToAI(setIsLoading(true), setIsLoading(false), word);
   };
 
@@ -46,13 +46,13 @@ const WordModalContent = ({
       />
       <div className={styles.buttonsZone}>
         {!isReady && (
-          <RoundButton onClickFunc={clicToAiButton} disabled>
+          <RoundButton onClickFunc={clickToAiButton} disabled>
             {isLoading ? <div className={styles.loader} /> : 'AI offline'}
           </RoundButton>
         )}
 
         {isReady && (
-          <RoundButton disabled={false} onClickFunc={clicToAiButton}>
+          <RoundButton disabled={false} onClickFunc={clickToAiButton}>
             {' '}
             {isLoading ? <div className={styles.loader} /> : 'create note'}{' '}
           </RoundButton>
