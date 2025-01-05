@@ -54,7 +54,7 @@
     font-size: 28px; 
 }
 
-@media (height <= 620px) {
+@media (orientation: landscape) and (any-hover: none) {
     .mainContainer {
         flex-direction: row;
         justify-content: space-between;

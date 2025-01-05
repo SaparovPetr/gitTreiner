@@ -32,7 +32,7 @@
   cursor: pointer;
 }
 
-@media (height <= 620px) {
+@media (orientation: landscape) and (any-hover: none) {
   .cardContainer { 
     min-height: 26px; 
   }

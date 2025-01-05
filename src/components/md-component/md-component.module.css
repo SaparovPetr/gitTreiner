@@ -16,7 +16,7 @@
     text-align: center;
 }
 
-@media (orientation: landscape) {
+@media (orientation: landscape) and (any-hover: none) {
     .mdContainer {
         max-width: 100%;
     }

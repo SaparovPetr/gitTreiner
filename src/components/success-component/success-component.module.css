@@ -12,7 +12,7 @@
     text-align: center;
 }
 
-@media (height <= 620px) {
+@media (orientation: landscape) and (any-hover: none) {
     .success{ 
         max-width: 534px;
         padding: 0 15%;
