@@ -1,14 +1,4 @@
-@keyframes slide {
-  from {
-    transform: translateX(15%);
-    opacity: 0;
-  }
 
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
 
 .cardContainer {
   display: flex;
@@ -35,5 +25,17 @@
 @media (orientation: landscape) and (any-hover: none) {
   .cardContainer { 
     min-height: 26px; 
+  }
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(15%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
   }
 }
