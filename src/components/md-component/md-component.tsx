@@ -18,7 +18,7 @@ export const MdComponent = ({ file }: MdComponentProps) => {
       const text = await response.text();
       setContent(text);
     } catch (err) {
-      setContent(`# ERROR! 😿 Enter your details in the settings!`);
+      setContent(`# Please enter your details in the settings!`);
     }
   };
 
