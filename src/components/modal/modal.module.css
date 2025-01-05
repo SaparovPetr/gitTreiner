@@ -13,7 +13,8 @@
   position: fixed;
   top: 41%;
   left: 50%;
-  padding: 19px 13px;
+  min-width: 274px;
+  padding: 19px 10px;
   background-color: #323131;
   border: 1px solid white;
   border-radius: 25px;

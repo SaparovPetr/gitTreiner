@@ -8,6 +8,8 @@
     color: white;
 }
 
+
+
 .mdContainer + div {
     width: 100%;
 }
@@ -22,3 +24,10 @@
         max-width: 100%;
     }
 }
+
+@media (any-hover: hover) {
+    .mdContainer::-webkit-scrollbar { 
+        width: 0; 
+    }
+}
+
