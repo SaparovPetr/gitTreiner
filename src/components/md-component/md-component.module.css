@@ -1,0 +1,23 @@
+.mdContainer {
+    width: 100%;
+    max-width: 46vh;
+    min-height: 7vh;
+    max-height: 50vh;
+    overflow: scroll;
+    color: white;
+}
+
+.mdContainer + div {
+    width: 100%;
+}
+
+.mdContainer h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+@media (orientation: landscape) {
+    .mdContainer {
+        max-width: 100%;
+    }
+}

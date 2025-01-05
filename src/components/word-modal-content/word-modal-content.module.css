@@ -29,7 +29,7 @@ iframe {
   width: 257px;
 }
 
-.loader {
+/* .loader {
   margin: 0 auto;
   border: 2px solid white;
   border-left-color: transparent;
@@ -61,7 +61,7 @@ iframe {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
 @media (height <= 620px) {  
   .modalContent {

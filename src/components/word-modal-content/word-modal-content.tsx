@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+import LoaderComponent from '@components/loader-component/loader-component';
+import MdComponent from '@components/md-component/md-component';
 import { RoundButton } from '@components/round-button/round-button';
 import { selectCollection, selectFirstWord } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';
@@ -21,6 +23,8 @@ const WordModalContent = ({
   const [isReady, setIsReady] = useState(false);
 
   const collection = useAppSelector(selectCollection);
+
+  const fileName = `${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`;
 
   // (заметка № 15)
   useEffect(() => {
@@ -85,20 +89,19 @@ const WordModalContent = ({
         {word.targetWord} - {word.translating}
       </div>
 
-      <iframe
-        src={`${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`}
-      />
+      {/* <iframe src={fileName} /> */}
+      <MdComponent file={fileName} />
       <div className={styles.buttonsZone}>
         {!isReady && (
           <RoundButton onClickFunc={knockToAI} disabled>
-            {isLoading ? <div className={styles.loader} /> : 'AI offline'}
+            {isLoading ? <LoaderComponent /> : 'AI offline'}
           </RoundButton>
         )}
 
         {isReady && (
           <RoundButton disabled={false} onClickFunc={knockToAI}>
             {' '}
-            {isLoading ? <div className={styles.loader} /> : 'create note'}{' '}
+            {isLoading ? <LoaderComponent /> : 'create note'}{' '}
           </RoundButton>
         )}
 

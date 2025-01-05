@@ -1,0 +1,36 @@
+/* stylelint-disable no-duplicate-selectors */
+
+.loader {
+    margin: 0 auto;
+    border: 2px solid white;
+    border-left-color: transparent;
+    border-radius: 50%;
+  }
+  
+  .loader {
+    width: 16px;
+    height: 16px;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-left-color: transparent;
+  }
+  
+  .loader {
+    width: 16px;
+    height: 16px;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-left-color: transparent;
+    animation: spinner 1s linear infinite;
+  }
+  
+  @keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
