@@ -19,7 +19,7 @@
     border-radius: 8px;
 }
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
     .label {
         display: none;
     }

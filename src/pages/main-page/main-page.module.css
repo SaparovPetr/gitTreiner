@@ -52,12 +52,12 @@
     font-size: 28px; 
 }
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
     .mainContainer {
         flex-direction: row;
         justify-content: space-between;
         align-items: center; 
-        padding: 13% 5%;
+        padding: 4% 5%;
     }
 
     .headerArea {

@@ -31,7 +31,7 @@
 }
 
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
     .modalHeading {
         display: none;
     }  

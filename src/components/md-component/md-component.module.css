@@ -19,7 +19,7 @@
     text-align: center;
 }
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
     .mdContainer {
         max-width: 100%;
     }

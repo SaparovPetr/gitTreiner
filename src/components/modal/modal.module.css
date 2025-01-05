@@ -26,7 +26,7 @@
   min-width: 300px;
 }
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
   .layoutComponent { 
     width: fit-content;
     min-width: 300px;

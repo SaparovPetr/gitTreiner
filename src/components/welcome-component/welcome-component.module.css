@@ -4,6 +4,7 @@
     gap: 15px;
     max-width:  500px;
     padding-top: 20px;
+    overflow: scroll;
     font-weight: bold;
     font-size: 18px;
     font-family: 'Suisse', sans-serif;
@@ -22,4 +23,13 @@ h1, h2 {
 .footnote {
     margin-top: 10px;
     font-size: 11px;
+}
+
+@media (height <= 620px) { 
+    .welcomeContainer {
+        gap: 10px;
+        padding-top: 10px;
+        font-size: 12px;     
+    }
+    
 }

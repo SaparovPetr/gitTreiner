@@ -30,7 +30,7 @@ iframe {
   width: 257px;
 }
 
-@media (orientation: landscape) and (any-hover: none) {
+@media (height <= 620px) {  
   .modalContent {
     gap: 8px;  
   }
