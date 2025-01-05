@@ -3,7 +3,8 @@
     max-width: 46vh;
     min-height: 7vh;
     max-height: 50vh;
-    overflow: scroll;
+    padding: 0 10px;
+    overflow-y: scroll;
     color: white;
 }
 
