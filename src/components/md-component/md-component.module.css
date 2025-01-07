@@ -1,21 +1,16 @@
 .mdContainer {
     width: 100%;
     max-width: 46vh;
-    min-height: 7vh;
     max-height: 50vh;
-    padding: 0 10px;
-    overflow-y: scroll;
+    overflow: auto;
     color: white;
 }
 
-
-
-.mdContainer + div {
-    width: 100%;
+.mdContainer h1 {
+    display:  none;
 }
 
-.mdContainer h1 {
-    font-size: 20px;
+.mdContainer h2 {
     text-align: center;
 }
 

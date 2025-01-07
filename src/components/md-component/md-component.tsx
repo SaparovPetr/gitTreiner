@@ -18,7 +18,7 @@ export const MdComponent = ({ file }: MdComponentProps) => {
       const text = await response.text();
       setContent(text);
     } catch (err) {
-      setContent(`# Please enter your details in the settings!`);
+      setContent(`## Please enter your details in the settings!`);
     }
   };
 
@@ -28,7 +28,6 @@ export const MdComponent = ({ file }: MdComponentProps) => {
 
   return (
     <div className={styles.mdContainer}>
-      {!content.length && <LoaderComponent />}
       <MarkDown>{content}</MarkDown>
     </div>
   );
