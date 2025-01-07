@@ -18,6 +18,10 @@
     display:  none;
 }
 
+.mdContainer > div {
+    padding: 0 20px;
+}
+
 @media (height <= 620px) {  
     .mdContainer {
         max-width: 100%;
