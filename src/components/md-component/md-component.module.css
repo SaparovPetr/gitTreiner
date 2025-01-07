@@ -14,6 +14,10 @@
     text-align: center;
 }
 
+.mdContainer:has(pre) {
+    display:  none;
+}
+
 @media (height <= 620px) {  
     .mdContainer {
         max-width: 100%;
