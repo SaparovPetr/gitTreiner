@@ -111,12 +111,12 @@ const WordModalContent = ({
               to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
               target='_blank'
             >
-              edit
+              ✏
             </Link>
           </RoundButton>
 
           <RoundButton disabled={false} onClickFunc={closeModal}>
-            close
+            ✕
           </RoundButton>
         </div>
       </div>

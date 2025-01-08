@@ -43,7 +43,7 @@ const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
       />
 
       <RoundButton disabled={false} onClickFunc={closeModal}>
-        close
+        ✕
       </RoundButton>
     </div>
   );
