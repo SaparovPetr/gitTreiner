@@ -1,8 +1,9 @@
 import { FC } from 'react';
 
+import Search from '@components/search/search';
 import SuccessComponent from '@components/success-component/success-component';
 import WelcomeComponent from '@components/welcome-component/welcome-component';
-import WordItem from '@components/word-item/word-item';
+// import WordItem from '@components/word-item/word-item';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { isFirstStart } from '@utils/localstorage-functionality';
@@ -69,7 +70,8 @@ export const MainPage: FC = () => {
             <p className={styles.text}>≡</p>
           </Link>
         </div>
-        <WordItem key={collection[0].id} {...collection[0]} />
+        {/* <WordItem key={collection[0].id} {...collection[0]} /> */}
+        <Search />
       </main>
     );
   }
