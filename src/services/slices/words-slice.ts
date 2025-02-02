@@ -20,10 +20,11 @@ export const wordsSlice = createSlice({
     makeCollection(state, action) {
       const collection = fetchCollection(action.payload);
       // (заметка № 5)
-      collection.map((element) => {
-        element.id = uuid.v4();
-      });
-      state.collection = collection;
+      const collectionWithIds = collection.map((element) => ({
+        ...element,
+        id: uuid.v4()
+      }));
+      state.collection = collectionWithIds;
     },
     removeWord(state, action) {
       state.collection = state.collection.filter(
