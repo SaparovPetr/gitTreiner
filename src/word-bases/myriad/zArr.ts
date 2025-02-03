@@ -1,4 +1,4 @@
-export const xArr = [
+export const zArr = [
   {
     targetWord: 'zairean',
     translation: 'заира',
