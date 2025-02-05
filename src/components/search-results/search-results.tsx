@@ -1,9 +1,11 @@
-import { ChangeEvent, ChangeEventHandler, useState } from 'react';
+import { ChangeEvent, ChangeEventHandler, useEffect, useState } from 'react';
 
+// eslint-disable-next-line import/order
 import { mapSearchResults } from '@utils/mapSearchResults';
-
 // import styles from './search.module.css';
 // import { aArr } from '../../word-bases/aArr';
+
+import { Link, useLocation } from 'react-router-dom';
 
 import { aArr } from '../../word-bases/myriad/aArr';
 import { bArr } from '../../word-bases/myriad/bArr';
@@ -33,68 +35,105 @@ import { xArr } from '../../word-bases/myriad/xArr';
 import { yArr } from '../../word-bases/myriad/yArr';
 import { zArr } from '../../word-bases/myriad/zArr';
 
-const SearchResults = ({ targetWord }: any) => {
-  const clickHandler = () => {
-    if (targetWord.startsWith('a')) {
-      console.log(mapSearchResults(targetWord, aArr));
-    } else if (targetWord.startsWith('b')) {
-      console.log(mapSearchResults(targetWord, bArr));
-    } else if (targetWord.startsWith('c')) {
-      console.log(mapSearchResults(targetWord, cArr));
-    } else if (targetWord.startsWith('d')) {
-      console.log(mapSearchResults(targetWord, dArr));
-    } else if (targetWord.startsWith('e')) {
-      console.log(mapSearchResults(targetWord, eArr));
-    } else if (targetWord.startsWith('f')) {
-      console.log(mapSearchResults(targetWord, fArr));
-    } else if (targetWord.startsWith('g')) {
-      console.log(mapSearchResults(targetWord, gArr));
-    } else if (targetWord.startsWith('h')) {
-      console.log(mapSearchResults(targetWord, hArr));
-    } else if (targetWord.startsWith('i')) {
-      console.log(mapSearchResults(targetWord, iArr));
-    } else if (targetWord.startsWith('j')) {
-      console.log(mapSearchResults(targetWord, jArr));
-    } else if (targetWord.startsWith('k')) {
-      console.log(mapSearchResults(targetWord, kArr));
-    } else if (targetWord.startsWith('l')) {
-      console.log(mapSearchResults(targetWord, lArr));
-    } else if (targetWord.startsWith('m')) {
-      console.log(mapSearchResults(targetWord, mArr));
-    } else if (targetWord.startsWith('n')) {
-      console.log(mapSearchResults(targetWord, nArr));
-    } else if (targetWord.startsWith('o')) {
-      console.log(mapSearchResults(targetWord, oArr));
-    } else if (targetWord.startsWith('p')) {
-      console.log(mapSearchResults(targetWord, pArr));
-    } else if (targetWord.startsWith('q')) {
-      console.log(mapSearchResults(targetWord, qArr));
-    } else if (targetWord.startsWith('r')) {
-      console.log(mapSearchResults(targetWord, rArr));
-    } else if (targetWord.startsWith('s')) {
-      console.log(mapSearchResults(targetWord, sArr));
-    } else if (targetWord.startsWith('t')) {
-      console.log(mapSearchResults(targetWord, tArr));
-    } else if (targetWord.startsWith('u')) {
-      console.log(mapSearchResults(targetWord, uArr));
-    } else if (targetWord.startsWith('v')) {
-      console.log(mapSearchResults(targetWord, vArr));
-    } else if (targetWord.startsWith('w')) {
-      console.log(mapSearchResults(targetWord, wArr));
-    } else if (targetWord.startsWith('x')) {
-      console.log(mapSearchResults(targetWord, xArr));
-    } else if (targetWord.startsWith('y')) {
-      console.log(mapSearchResults(targetWord, yArr));
-    } else if (targetWord.startsWith('z')) {
-      console.log(mapSearchResults(targetWord, zArr));
-    } else {
-      console.log(mapSearchResults(targetWord, difArr));
-    }
+const SearchResults = ({ dataFromInput }: any) => {
+  const [state, setState] = useState<any>();
+  const locationInTheApp = useLocation();
+
+  const makeList = (oneArr: any) => {
+    let arrWithRes = mapSearchResults(dataFromInput, oneArr).slice(0, 9);
+    let a: any = [];
+    arrWithRes.forEach((element: any) => {
+      let b = `${element.targetWord} - ${element.translation}`;
+      a.push(b);
+    });
+    console.log(a);
+    return a;
   };
+
+  useEffect(() => {
+    if (dataFromInput) {
+      if (dataFromInput.startsWith('a')) {
+        setState(makeList(aArr));
+      } else if (dataFromInput.startsWith('b')) {
+        setState(makeList(bArr));
+      } else if (dataFromInput.startsWith('c')) {
+        setState(makeList(cArr));
+      } else if (dataFromInput.startsWith('d')) {
+        setState(makeList(dArr));
+      } else if (dataFromInput.startsWith('e')) {
+        setState(makeList(eArr));
+      } else if (dataFromInput.startsWith('f')) {
+        setState(makeList(fArr));
+      } else if (dataFromInput.startsWith('g')) {
+        setState(makeList(gArr));
+      } else if (dataFromInput.startsWith('h')) {
+        setState(makeList(hArr));
+      } else if (dataFromInput.startsWith('i')) {
+        setState(makeList(iArr));
+      } else if (dataFromInput.startsWith('j')) {
+        setState(makeList(jArr));
+      } else if (dataFromInput.startsWith('k')) {
+        setState(makeList(kArr));
+      } else if (dataFromInput.startsWith('l')) {
+        setState(makeList(lArr));
+      } else if (dataFromInput.startsWith('m')) {
+        setState(makeList(mArr));
+      } else if (dataFromInput.startsWith('n')) {
+        setState(makeList(nArr));
+      } else if (dataFromInput.startsWith('o')) {
+        setState(makeList(oArr));
+      } else if (dataFromInput.startsWith('p')) {
+        setState(makeList(pArr));
+      } else if (dataFromInput.startsWith('q')) {
+        setState(makeList(qArr));
+      } else if (dataFromInput.startsWith('r')) {
+        setState(makeList(rArr));
+      } else if (dataFromInput.startsWith('s')) {
+        setState(makeList(sArr));
+      } else if (dataFromInput.startsWith('t')) {
+        setState(makeList(tArr));
+      } else if (dataFromInput.startsWith('u')) {
+        setState(makeList(uArr));
+      } else if (dataFromInput.startsWith('v')) {
+        setState(makeList(vArr));
+      } else if (dataFromInput.startsWith('w')) {
+        setState(makeList(wArr));
+      } else if (dataFromInput.startsWith('x')) {
+        setState(makeList(xArr));
+      } else if (dataFromInput.startsWith('y')) {
+        setState(makeList(yArr));
+      } else if (dataFromInput.startsWith('z')) {
+        setState(makeList(zArr));
+      } else {
+        setState(makeList(difArr));
+      }
+    }
+  }, [dataFromInput]);
 
   return (
     <>
-      <div onClick={clickHandler}>{'sdfg'}</div>
+      {state && (
+        <div>
+          <Link
+            to='/gitTreiner/word'
+            state={{ backgroundLocation: locationInTheApp }}
+          >
+            {state[0]}
+          </Link>
+
+          <div>{state[1]}</div>
+          <div>{state[2]}</div>
+          <div>{state[3]}</div>
+          <div>{state[4]}</div>
+          <div>{state[5]}</div>
+          <div>{state[6]}</div>
+          <div>{state[7]}</div>
+          <div>{state[8]}</div>
+          <div>{state[9]}</div>
+        </div>
+      )}
+
+      {/* <div onClick={makeList}>{'sdfg'}</div> */}
     </>
   );
 };

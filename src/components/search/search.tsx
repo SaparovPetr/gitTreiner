@@ -11,12 +11,12 @@ const Search = () => {
     e: ChangeEvent<HTMLInputElement>
   ) => {
     setValue(e.target.value);
-    console.log(value);
+    // console.log(value);
   };
 
   return (
     <>
-      <SearchResults targetWord={value} />
+      <SearchResults dataFromInput={value} />
 
       <label className={styles.label}>
         Search:
