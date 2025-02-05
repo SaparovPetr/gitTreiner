@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import LoaderComponent from '@components/loader-component/loader-component';
 import MdComponent from '@components/md-component/md-component';
 import { RoundButton } from '@components/round-button/round-button';
-import { selectCollection, selectFirstWord } from '@slices/words-slice';
+import { selectPickedWordObject } from '@slices/modal-content-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
 import { TWordModalContentProps } from '@utils-types';
@@ -17,21 +17,19 @@ const WordModalContent = ({
   linkToPublicFile,
   linkToRepo
 }: TWordModalContentProps) => {
-  const word = useAppSelector(selectFirstWord);
+  const word = useAppSelector(selectPickedWordObject);
 
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
 
-  const collection = useAppSelector(selectCollection);
-
-  const fileName = `${linkToPublicFile}${word.targetWord}%20-%20${word.translating}.md`;
+  const fileName = `${linkToPublicFile}${word?.targetWord}%20-%20${word?.translating}.md`;
 
   // (заметка № 15)
   useEffect(() => {
     // (заметка № 14)
-    audioCallback(collection);
+    audioCallback(word?.targetWord);
     checkBotStatus();
-    copyTextToClipboard(`${word.targetWord} - ${word.translating}`);
+    copyTextToClipboard(`${word?.targetWord} - ${word?.translating}`);
   }, []);
 
   const checkBotStatus = () => {
@@ -86,10 +84,9 @@ const WordModalContent = ({
   return (
     <div className={styles.modalContent}>
       <div className={styles.phraseZone}>
-        {word.targetWord} - {word.translating}
+        {word?.targetWord} - {word?.translating}
       </div>
 
-      {/* <iframe src={fileName} /> */}
       <MdComponent file={fileName} />
       <div className={styles.buttonsZone}>
         {!isReady && (
@@ -108,7 +105,7 @@ const WordModalContent = ({
         <div className={styles.twoButtons}>
           <RoundButton disabled={false}>
             <Link
-              to={`${linkToRepo}/edit/main/${word.targetWord.toLowerCase()}%20-%20${word.translating.toLowerCase()}.md`}
+              to={`${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`}
               target='_blank'
             >
               ✏
