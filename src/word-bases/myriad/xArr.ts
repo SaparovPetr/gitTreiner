@@ -1,476 +1,476 @@
 export const xArr = [
   {
     targetWord: 'x',
-    translation: 'десять',
+    translating: 'десять',
     partOfSpeechCode: 'j',
     skyId: '210652'
   },
-  { targetWord: 'x', translation: 'X', partOfSpeechCode: 'n', skyId: '210651' },
+  { targetWord: 'x', translating: 'X', partOfSpeechCode: 'n', skyId: '210651' },
   {
     targetWord: 'xanthium',
-    translation: 'дурнишник',
+    translating: 'дурнишник',
     partOfSpeechCode: 'n',
     skyId: '202853'
   },
   {
     targetWord: 'xerographic copier',
-    translation: 'ксерокс',
+    translating: 'ксерокс',
     partOfSpeechCode: 'n',
     skyId: '210884'
   },
   {
     targetWord: 'xerotes',
-    translation: 'сухость',
+    translating: 'сухость',
     partOfSpeechCode: 'n',
     skyId: '197379'
   },
   {
     targetWord: 'xiphosura',
-    translation: 'мечехвосты',
+    translating: 'мечехвосты',
     partOfSpeechCode: 'n',
     skyId: '198456'
   },
   {
     targetWord: 'x chromosome',
-    translation: 'x-хромосома',
+    translating: 'x-хромосома',
     partOfSpeechCode: 'n',
     skyId: '95434'
   },
   {
     targetWord: 'x marks the spot',
-    translation: 'это точное место',
+    translating: 'это точное место',
     partOfSpeechCode: 'ph',
     skyId: '240414'
   },
   {
     targetWord: 'x ray',
-    translation: 'рентгеновский снимок',
+    translating: 'рентгеновский снимок',
     partOfSpeechCode: 'n',
     skyId: '36481'
   },
   {
     targetWord: 'x ray',
-    translation: 'рентген',
+    translating: 'рентген',
     partOfSpeechCode: 'n',
     skyId: '36480'
   },
   {
     targetWord: 'x-axis',
-    translation: 'ось х',
+    translating: 'ось х',
     partOfSpeechCode: 'n',
     skyId: '27359'
   },
   {
     targetWord: 'x-height',
-    translation: 'высота строчных букв',
+    translating: 'высота строчных букв',
     partOfSpeechCode: 'n',
     skyId: '264873'
   },
   {
     targetWord: 'x-linked',
-    translation: 'х-хромосомой',
+    translating: 'х-хромосомой',
     partOfSpeechCode: 'j',
     skyId: '62372'
   },
   {
     targetWord: 'x-radiation',
-    translation: 'рентгеновский',
+    translating: 'рентгеновский',
     partOfSpeechCode: 'n',
     skyId: '127424'
   },
   {
     targetWord: 'x-ray diffraction',
-    translation: 'рентгеноструктурный анализ',
+    translating: 'рентгеноструктурный анализ',
     partOfSpeechCode: 'n',
     skyId: '118961'
   },
   {
     targetWord: 'x-ray film',
-    translation: 'рентгеновская плёнка',
+    translating: 'рентгеновская плёнка',
     partOfSpeechCode: 'n',
     skyId: '125073'
   },
   {
     targetWord: 'x-ray machine',
-    translation: 'рентген аппарат',
+    translating: 'рентген аппарат',
     partOfSpeechCode: 'n',
     skyId: '167894'
   },
   {
     targetWord: 'x-ray photograph',
-    translation: 'рентгеновский снимок',
+    translating: 'рентгеновский снимок',
     partOfSpeechCode: 'n',
     skyId: '7428'
   },
   {
     targetWord: 'x-ray vision',
-    translation: 'рентгеновское зрение',
+    translating: 'рентгеновское зрение',
     partOfSpeechCode: 'ph',
     skyId: '238617'
   },
   {
     targetWord: 'x-raying',
-    translation: 'рентгеноскопия',
+    translating: 'рентгеноскопия',
     partOfSpeechCode: 'n',
     skyId: '102204'
   },
   {
     targetWord: 'x-storey building',
-    translation: 'X-этажное здание',
+    translating: 'X-этажное здание',
     partOfSpeechCode: 'n',
     skyId: '263363'
   },
   {
     targetWord: 'xD',
-    translation: 'смеющийся с закрытыми глазами',
+    translating: 'смеющийся с закрытыми глазами',
     partOfSpeechCode: 'ph',
     skyId: '251900'
   },
   {
     targetWord: 'x_x',
-    translation: 'мёртвый',
+    translating: 'мёртвый',
     partOfSpeechCode: 'ph',
     skyId: '251896'
   },
   {
     targetWord: 'xanax',
-    translation: 'ксанакс',
+    translating: 'ксанакс',
     partOfSpeechCode: 'n',
     skyId: '171378'
   },
   {
     targetWord: 'xanthoma',
-    translation: 'ксантома',
+    translating: 'ксантома',
     partOfSpeechCode: 'n',
     skyId: '97206'
   },
   {
     targetWord: 'xanthomonad',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '100617'
   },
   {
     targetWord: 'xanthosoma',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '68221'
   },
   {
     targetWord: 'xantusiidae',
-    translation: 'ночная ящерица',
+    translating: 'ночная ящерица',
     partOfSpeechCode: 'n',
     skyId: '1321'
   },
   {
     targetWord: 'xe',
-    translation: 'ксенон',
+    translating: 'ксенон',
     partOfSpeechCode: 'n',
     skyId: '180048'
   },
   {
     targetWord: 'xenicus gilviventris',
-    translation: 'скальный длинноклювый крапивник',
+    translating: 'скальный длинноклювый крапивник',
     partOfSpeechCode: 'n',
     skyId: '19642'
   },
   {
     targetWord: 'xenon',
-    translation: 'ксенон',
+    translating: 'ксенон',
     partOfSpeechCode: 'n',
     skyId: '56901'
   },
   {
     targetWord: 'xenophobia',
-    translation: 'ненависть к иностранцам и всему иностранному',
+    translating: 'ненависть к иностранцам и всему иностранному',
     partOfSpeechCode: 'n',
     skyId: '183262'
   },
   {
     targetWord: 'xenophobic',
-    translation: 'ксенофобский',
+    translating: 'ксенофобский',
     partOfSpeechCode: 'j',
     skyId: '183261'
   },
   {
     targetWord: 'xenopus laevis',
-    translation: 'гладкая шпорцевая лягушка',
+    translating: 'гладкая шпорцевая лягушка',
     partOfSpeechCode: 'n',
     skyId: '53786'
   },
   {
     targetWord: 'xenorhyncus asiaticus',
-    translation: 'азиатский ябиру',
+    translating: 'азиатский ябиру',
     partOfSpeechCode: 'n',
     skyId: '225986'
   },
   {
     targetWord: 'xeranthemum annuum',
-    translation: 'аппиит',
+    translating: 'аппиит',
     partOfSpeechCode: 'n',
     skyId: '215882'
   },
   {
     targetWord: 'xeric',
-    translation: 'сухоустойчивый',
+    translating: 'сухоустойчивый',
     partOfSpeechCode: 'j',
     skyId: '73786'
   },
   {
     targetWord: 'xeroderma',
-    translation: 'ксеродерма',
+    translating: 'ксеродерма',
     partOfSpeechCode: 'n',
     skyId: '226568'
   },
   {
     targetWord: 'xerodermia',
-    translation: 'ксеродерма',
+    translating: 'ксеродерма',
     partOfSpeechCode: 'n',
     skyId: '217906'
   },
   {
     targetWord: 'xerography',
-    translation: 'электрография',
+    translating: 'электрография',
     partOfSpeechCode: 'n',
     skyId: '8607'
   },
   {
     targetWord: 'xerophthalmus',
-    translation: 'ксерофтальмия',
+    translating: 'ксерофтальмия',
     partOfSpeechCode: 'n',
     skyId: '23'
   },
   {
     targetWord: 'xerophytic',
-    translation: 'ксерофитных',
+    translating: 'ксерофитных',
     partOfSpeechCode: 'j',
     skyId: '192702'
   },
   {
     targetWord: 'xerox',
-    translation: 'ксерокопировать',
+    translating: 'ксерокопировать',
     partOfSpeechCode: 'v',
     skyId: '140768'
   },
   {
     targetWord: 'xerox',
-    translation: 'отксерокопированная копия',
+    translating: 'отксерокопированная копия',
     partOfSpeechCode: 'n',
     skyId: '140766'
   },
   {
     targetWord: 'xerox copy',
-    translation: 'ксерокопия',
+    translating: 'ксерокопия',
     partOfSpeechCode: 'n',
     skyId: '117358'
   },
   {
     targetWord: 'xerox machine',
-    translation: 'ксерокс',
+    translating: 'ксерокс',
     partOfSpeechCode: 'n',
     skyId: '174346'
   },
   {
     targetWord: 'xestobium rufovillosum',
-    translation: 'книжная вошь',
+    translating: 'книжная вошь',
     partOfSpeechCode: 'n',
     skyId: '5287'
   },
   {
     targetWord: 'xhosa',
-    translation: 'коса',
+    translating: 'коса',
     partOfSpeechCode: 'n',
     skyId: '132505'
   },
   {
     targetWord: 'xian',
-    translation: 'сиань',
+    translating: 'сиань',
     partOfSpeechCode: 'n',
     skyId: '117932'
   },
   {
     targetWord: 'xii',
-    translation: 'двенадцатый',
+    translating: 'двенадцатый',
     partOfSpeechCode: 'j',
     skyId: '85721'
   },
   {
     targetWord: 'xiii',
-    translation: 'тринадцатый',
+    translating: 'тринадцатый',
     partOfSpeechCode: 'j',
     skyId: '9018'
   },
   {
     targetWord: 'xiphias gladius',
-    translation: 'меч-рыба',
+    translating: 'меч-рыба',
     partOfSpeechCode: 'n',
     skyId: '32127'
   },
   {
     targetWord: 'xiphoid process',
-    translation: 'мечевидный отросток',
+    translating: 'мечевидный отросток',
     partOfSpeechCode: 'n',
     skyId: '61725'
   },
   {
     targetWord: 'xiphosurus polyphemus',
-    translation: 'краб-подкова',
+    translating: 'краб-подкова',
     partOfSpeechCode: 'n',
     skyId: '107065'
   },
   {
     targetWord: 'xishuangbanna dai',
-    translation: 'лы',
+    translating: 'лы',
     partOfSpeechCode: 'n',
     skyId: '12070'
   },
   {
     targetWord: 'xizang',
-    translation: 'тибет',
+    translating: 'тибет',
     partOfSpeechCode: 'n',
     skyId: '99977'
   },
   {
     targetWord: 'xmas',
-    translation: 'Рождество',
+    translating: 'Рождество',
     partOfSpeechCode: 'n',
     skyId: '186936'
   },
   {
     targetWord: 'xt',
-    translation: 'взаимопроникновение',
+    translating: 'взаимопроникновение',
     partOfSpeechCode: 'n',
     skyId: '180062'
   },
   {
     targetWord: 'xtc',
-    translation: 'экстази',
+    translating: 'экстази',
     partOfSpeechCode: 'n',
     skyId: '85054'
   },
   {
     targetWord: 'xv',
-    translation: 'XV',
+    translating: 'XV',
     partOfSpeechCode: 'j',
     skyId: '180061'
   },
   {
     targetWord: 'xvii',
-    translation: 'XVII',
+    translating: 'XVII',
     partOfSpeechCode: 'j',
     skyId: '21602'
   },
   {
     targetWord: 'xx',
-    translation: 'ХХ',
+    translating: 'ХХ',
     partOfSpeechCode: 'j',
     skyId: '180051'
   },
   {
     targetWord: 'xx',
-    translation: 'ХХ',
+    translating: 'ХХ',
     partOfSpeechCode: 'n',
     skyId: '180051'
   },
   {
     targetWord: 'xxx',
-    translation: 'ххх',
+    translating: 'ххх',
     partOfSpeechCode: 'j',
     skyId: '135611'
   },
   {
     targetWord: 'xxx',
-    translation: 'ххх',
+    translating: 'ххх',
     partOfSpeechCode: 'n',
     skyId: '135611'
   },
   {
     targetWord: 'xxy',
-    translation: 'xxy',
+    translating: 'xxy',
     partOfSpeechCode: 'n',
     skyId: '135608'
   },
   {
     targetWord: 'xy',
-    translation: 'xy',
+    translating: 'xy',
     partOfSpeechCode: 'n',
     skyId: '180052'
   },
   {
     targetWord: 'xylaria',
-    translation: 'ксилария',
+    translating: 'ксилария',
     partOfSpeechCode: 'n',
     skyId: '95205'
   },
   {
     targetWord: 'xylem',
-    translation: 'ксилема',
+    translating: 'ксилема',
     partOfSpeechCode: 'n',
     skyId: '56908'
   },
   {
     targetWord: 'xylene',
-    translation: 'ксилон',
+    translating: 'ксилон',
     partOfSpeechCode: 'n',
     skyId: '144846'
   },
   {
     targetWord: 'xylene solvent',
-    translation: 'растворитель ксилол',
+    translating: 'растворитель ксилол',
     partOfSpeechCode: 'n',
     skyId: '247661'
   },
   {
     targetWord: 'xylocaine',
-    translation: 'лидокаин',
+    translating: 'лидокаин',
     partOfSpeechCode: 'n',
     skyId: '102701'
   },
   {
     targetWord: 'xylocopa',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '51259'
   },
   {
     targetWord: 'xylol',
-    translation: 'ксилолы',
+    translating: 'ксилолы',
     partOfSpeechCode: 'n',
     skyId: '82297'
   },
   {
     targetWord: 'xylophone',
-    translation: 'ксилофон',
+    translating: 'ксилофон',
     partOfSpeechCode: 'n',
     skyId: '219400'
   },
   {
     targetWord: 'xylosma',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '196645'
   },
   {
     targetWord: 'xyphophorus helleri',
-    translation: 'меченосца',
+    translating: 'меченосца',
     partOfSpeechCode: 'n',
     skyId: '151713'
   },
   {
     targetWord: 'xyridales',
-    translation: 'чтобы',
+    translating: 'чтобы',
     partOfSpeechCode: 'n',
     skyId: '84696'
   },
   {
     targetWord: 'xyris',
-    translation: 'ксирис',
+    translating: 'ксирис',
     partOfSpeechCode: 'n',
     skyId: '29226'
   },
   {
     targetWord: 'xyy',
-    translation: 'xyy синдром',
+    translating: 'xyy синдром',
     partOfSpeechCode: 'n',
     skyId: '93440'
   }

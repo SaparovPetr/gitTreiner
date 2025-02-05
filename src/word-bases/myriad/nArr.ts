@@ -1,3170 +1,3170 @@
 export const nArr = [
   {
     targetWord: 'n.b.',
-    translation: 'нотабене',
+    translating: 'нотабене',
     partOfSpeechCode: 'n',
     skyId: '211890'
   },
   {
     targetWord: 'nagging',
-    translation: 'ворчливый',
+    translating: 'ворчливый',
     partOfSpeechCode: 'j',
     skyId: '196012'
   },
   {
     targetWord: 'naias',
-    translation: 'наяда',
+    translating: 'наяда',
     partOfSpeechCode: 'n',
     skyId: '212069'
   },
   {
     targetWord: 'naive art',
-    translation: 'ар брют',
+    translating: 'ар брют',
     partOfSpeechCode: 'n',
     skyId: '204851'
   },
   {
     targetWord: 'najadaceae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '199118'
   },
   {
     targetWord: 'nantua',
-    translation: 'креветочная паста',
+    translating: 'креветочная паста',
     partOfSpeechCode: 'n',
     skyId: '204669'
   },
   {
     targetWord: 'napalm',
-    translation: 'напалм',
+    translating: 'напалм',
     partOfSpeechCode: 'n',
     skyId: '199704'
   },
   {
     targetWord: 'napkin ring',
-    translation: 'кольцо для салфетки',
+    translating: 'кольцо для салфетки',
     partOfSpeechCode: 'n',
     skyId: '201018'
   },
   {
     targetWord: 'narcissistic',
-    translation: 'самовлюбленный',
+    translating: 'самовлюбленный',
     partOfSpeechCode: 'j',
     skyId: '201916'
   },
   {
     targetWord: 'narcotic',
-    translation: 'наркотический',
+    translating: 'наркотический',
     partOfSpeechCode: 'j',
     skyId: '199032'
   },
   {
     targetWord: 'narcotic',
-    translation: 'наркотик',
+    translating: 'наркотик',
     partOfSpeechCode: 'n',
     skyId: '199029'
   },
   {
     targetWord: 'narrow wale',
-    translation: 'в мелкий рубчик ',
+    translating: 'в мелкий рубчик ',
     partOfSpeechCode: 'n',
     skyId: '195421'
   },
   {
     targetWord: 'narrowboat',
-    translation: 'узкая канальная лодка',
+    translating: 'узкая канальная лодка',
     partOfSpeechCode: 'n',
     skyId: '196763'
   },
   {
     targetWord: 'narrowbody aircraft',
-    translation: 'узкофюзеляжный самолёт',
+    translating: 'узкофюзеляжный самолёт',
     partOfSpeechCode: 'n',
     skyId: '202485'
   },
   {
     targetWord: 'narrowness',
-    translation: 'небольшая маржа',
+    translating: 'небольшая маржа',
     partOfSpeechCode: 'n',
     skyId: '213047'
   },
   {
     targetWord: 'narrowness',
-    translation: 'ограниченность',
+    translating: 'ограниченность',
     partOfSpeechCode: 'n',
     skyId: '213045'
   },
   {
     targetWord: 'narrowness',
-    translation: 'узость',
+    translating: 'узость',
     partOfSpeechCode: 'n',
     skyId: '213046'
   },
   {
     targetWord: 'nasal',
-    translation: 'гнусавый',
+    translating: 'гнусавый',
     partOfSpeechCode: 'j',
     skyId: '203388'
   },
   {
     targetWord: 'nasal',
-    translation: 'носовой',
+    translating: 'носовой',
     partOfSpeechCode: 'j',
     skyId: '203387'
   },
   {
     targetWord: 'nasal',
-    translation: 'носовая кость',
+    translating: 'носовая кость',
     partOfSpeechCode: 'n',
     skyId: '203386'
   },
   {
     targetWord: 'native australian',
-    translation: 'австралийские аборигены',
+    translating: 'австралийские аборигены',
     partOfSpeechCode: 'n',
     skyId: '213128'
   },
   {
     targetWord: 'nativistic',
-    translation: 'nativistic',
+    translating: 'nativistic',
     partOfSpeechCode: 'j',
     skyId: '195299'
   },
   {
     targetWord: 'natural number',
-    translation: 'натуральное число',
+    translating: 'натуральное число',
     partOfSpeechCode: 'n',
     skyId: '211684'
   },
   {
     targetWord: 'naturalistic',
-    translation: 'натуралистический',
+    translating: 'натуралистический',
     partOfSpeechCode: 'j',
     skyId: '198097'
   },
   {
     targetWord: 'naughty',
-    translation: 'непослушный ',
+    translating: 'непослушный ',
     partOfSpeechCode: 'j',
     skyId: '202987'
   },
   {
     targetWord: 'naughty',
-    translation: 'непристойный',
+    translating: 'непристойный',
     partOfSpeechCode: 'j',
     skyId: '202986'
   },
   {
     targetWord: 'naumachy',
-    translation: 'навмахия',
+    translating: 'навмахия',
     partOfSpeechCode: 'n',
     skyId: '211295'
   },
   {
     targetWord: 'nautch',
-    translation: 'танца',
+    translating: 'танца',
     partOfSpeechCode: 'n',
     skyId: '193994'
   },
   {
     targetWord: 'nautical mile',
-    translation: 'морская миля',
+    translating: 'морская миля',
     partOfSpeechCode: 'n',
     skyId: '195824'
   },
   {
     targetWord: 'naval academy',
-    translation: 'военно-морская академия',
+    translating: 'военно-морская академия',
     partOfSpeechCode: 'n',
     skyId: '204750'
   },
   {
     targetWord: 'navigable',
-    translation: 'судоходный',
+    translating: 'судоходный',
     partOfSpeechCode: 'j',
     skyId: '200799'
   },
   {
     targetWord: 'navigation',
-    translation: 'мореходство',
+    translating: 'мореходство',
     partOfSpeechCode: 'n',
     skyId: '196605'
   },
   {
     targetWord: 'navigation',
-    translation: 'навигация',
+    translating: 'навигация',
     partOfSpeechCode: 'n',
     skyId: '235568'
   },
   {
     targetWord: 'neatness',
-    translation: 'опрятность',
+    translating: 'опрятность',
     partOfSpeechCode: 'n',
     skyId: '198058'
   },
   {
     targetWord: 'neatness',
-    translation: 'аккуратность',
+    translating: 'аккуратность',
     partOfSpeechCode: 'n',
     skyId: '198057'
   },
   {
     targetWord: 'nebuliser',
-    translation: 'распылитель',
+    translating: 'распылитель',
     partOfSpeechCode: 'n',
     skyId: '213512'
   },
   {
     targetWord: 'necessarily',
-    translation: 'неминуемо',
+    translating: 'неминуемо',
     partOfSpeechCode: 'r',
     skyId: '194167'
   },
   {
     targetWord: 'necessarily',
-    translation: 'обязательно',
+    translating: 'обязательно',
     partOfSpeechCode: 'r',
     skyId: '194166'
   },
   {
     targetWord: 'necklace',
-    translation: 'ожерелье',
+    translating: 'ожерелье',
     partOfSpeechCode: 'n',
     skyId: '197564'
   },
   {
     targetWord: 'necklet',
-    translation: 'ожерелье',
+    translating: 'ожерелье',
     partOfSpeechCode: 'n',
     skyId: '193932'
   },
   {
     targetWord: 'necromania',
-    translation: 'некрофилия',
+    translating: 'некрофилия',
     partOfSpeechCode: 'n',
     skyId: '197704'
   },
   {
     targetWord: 'neem',
-    translation: 'ним',
+    translating: 'ним',
     partOfSpeechCode: 'n',
     skyId: '212282'
   },
   {
     targetWord: 'negev desert',
-    translation: 'пустыня Негев',
+    translating: 'пустыня Негев',
     partOfSpeechCode: 'n',
     skyId: '198065'
   },
   {
     targetWord: 'negligee',
-    translation: 'женский халат',
+    translating: 'женский халат',
     partOfSpeechCode: 'n',
     skyId: '217630'
   },
   {
     targetWord: 'neighbor',
-    translation: 'соседний объект',
+    translating: 'соседний объект',
     partOfSpeechCode: 'n',
     skyId: '202326'
   },
   {
     targetWord: 'neighbor',
-    translation: 'сосед',
+    translating: 'сосед',
     partOfSpeechCode: 'n',
     skyId: '202325'
   },
   {
     targetWord: 'neighborly',
-    translation: 'добрососедский',
+    translating: 'добрососедский',
     partOfSpeechCode: 'j',
     skyId: '193782'
   },
   {
     targetWord: 'nelson',
-    translation: 'нельсон ',
+    translating: 'нельсон ',
     partOfSpeechCode: 'n',
     skyId: '202536'
   },
   {
     targetWord: 'nephrite',
-    translation: 'нефрит',
+    translating: 'нефрит',
     partOfSpeechCode: 'n',
     skyId: '212775'
   },
   {
     targetWord: 'nerve tissue',
-    translation: 'нервная ткань',
+    translating: 'нервная ткань',
     partOfSpeechCode: 'n',
     skyId: '212042'
   },
   {
     targetWord: 'nerveless',
-    translation: 'немощный',
+    translating: 'немощный',
     partOfSpeechCode: 'j',
     skyId: '196843'
   },
   {
     targetWord: 'nerveless',
-    translation: 'спокойный',
+    translating: 'спокойный',
     partOfSpeechCode: 'j',
     skyId: '196842'
   },
   {
     targetWord: 'ness',
-    translation: 'мыс',
+    translating: 'мыс',
     partOfSpeechCode: 'n',
     skyId: '194812'
   },
   {
     targetWord: 'nest',
-    translation: 'уютно устроиться',
+    translating: 'уютно устроиться',
     partOfSpeechCode: 'v',
     skyId: '194809'
   },
   {
     targetWord: 'nest',
-    translation: 'вставлять',
+    translating: 'вставлять',
     partOfSpeechCode: 'v',
     skyId: '194808'
   },
   {
     targetWord: 'nest',
-    translation: 'гнездиться',
+    translating: 'гнездиться',
     partOfSpeechCode: 'v',
     skyId: '194807'
   },
   {
     targetWord: 'nest',
-    translation: 'группа подобных предметов',
+    translating: 'группа подобных предметов',
     partOfSpeechCode: 'n',
     skyId: '194806'
   },
   {
     targetWord: 'nest',
-    translation: 'притон',
+    translating: 'притон',
     partOfSpeechCode: 'n',
     skyId: '194805'
   },
   {
     targetWord: 'nest',
-    translation: 'уютный уголок',
+    translating: 'уютный уголок',
     partOfSpeechCode: 'n',
     skyId: '194804'
   },
   {
     targetWord: 'nest',
-    translation: 'пулеметное гнездо',
+    translating: 'пулеметное гнездо',
     partOfSpeechCode: 'n',
     skyId: '194803'
   },
   {
     targetWord: 'nest',
-    translation: 'гнездо',
+    translating: 'гнездо',
     partOfSpeechCode: 'n',
     skyId: '194802'
   },
   {
     targetWord: 'nestling',
-    translation: 'ребенок',
+    translating: 'ребенок',
     partOfSpeechCode: 'n',
     skyId: '195111'
   },
   {
     targetWord: 'nestling',
-    translation: 'птенец',
+    translating: 'птенец',
     partOfSpeechCode: 'n',
     skyId: '195110'
   },
   {
     targetWord: 'nestor',
-    translation: 'Несторы',
+    translating: 'Несторы',
     partOfSpeechCode: 'n',
     skyId: '212511'
   },
   {
     targetWord: 'netmail',
-    translation: 'чтобы нетмейлом',
+    translating: 'чтобы нетмейлом',
     partOfSpeechCode: 'v',
     skyId: '203507'
   },
   {
     targetWord: 'neurological disorder',
-    translation: 'неврологическое нарушение',
+    translating: 'неврологическое нарушение',
     partOfSpeechCode: 'n',
     skyId: '194880'
   },
   {
     targetWord: 'neuromuscular',
-    translation: 'нейромускульный',
+    translating: 'нейромускульный',
     partOfSpeechCode: 'j',
     skyId: '203162'
   },
   {
     targetWord: 'new world mouse',
-    translation: 'новая мышь мира',
+    translating: 'новая мышь мира',
     partOfSpeechCode: 'n',
     skyId: '200622'
   },
   {
     targetWord: 'new world vulture',
-    translation: 'американские грифы',
+    translating: 'американские грифы',
     partOfSpeechCode: 'n',
     skyId: '200488'
   },
   {
     targetWord: 'news conference',
-    translation: 'пресс-конференция',
+    translating: 'пресс-конференция',
     partOfSpeechCode: 'n',
     skyId: '212181'
   },
   {
     targetWord: 'newsworthiness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '211501'
   },
   {
     targetWord: 'newsworthy',
-    translation: 'достойный освещения в печати',
+    translating: 'достойный освещения в печати',
     partOfSpeechCode: 'j',
     skyId: '211234'
   },
   {
     targetWord: 'next friend',
-    translation: 'заступник',
+    translating: 'заступник',
     partOfSpeechCode: 'n',
     skyId: '210765'
   },
   {
     targetWord: 'nexus',
-    translation: 'цепь',
+    translating: 'цепь',
     partOfSpeechCode: 'n',
     skyId: '193750'
   },
   {
     targetWord: 'nexus',
-    translation: 'связь',
+    translating: 'связь',
     partOfSpeechCode: 'n',
     skyId: '193749'
   },
   {
     targetWord: 'nibbler',
-    translation: 'зубастик',
+    translating: 'зубастик',
     partOfSpeechCode: 'n',
     skyId: '196282'
   },
   {
     targetWord: 'nicad',
-    translation: 'никель-кадмиевый аккумулятор',
+    translating: 'никель-кадмиевый аккумулятор',
     partOfSpeechCode: 'n',
     skyId: '203547'
   },
   {
     targetWord: 'nidulariales',
-    translation: 'чтобы',
+    translating: 'чтобы',
     partOfSpeechCode: 'n',
     skyId: '200631'
   },
   {
     targetWord: 'night latch',
-    translation: 'ночь защелкой',
+    translating: 'ночь защелкой',
     partOfSpeechCode: 'n',
     skyId: '199209'
   },
   {
     targetWord: 'night-light',
-    translation: 'ночник',
+    translating: 'ночник',
     partOfSpeechCode: 'n',
     skyId: '202224'
   },
   {
     targetWord: 'nightcrawler',
-    translation: 'земляной червь',
+    translating: 'земляной червь',
     partOfSpeechCode: 'n',
     skyId: '196078'
   },
   {
     targetWord: 'nightshade',
-    translation: 'паслён',
+    translating: 'паслён',
     partOfSpeechCode: 'n',
     skyId: '195148'
   },
   {
     targetWord: 'nightwear',
-    translation: 'ночное белье',
+    translating: 'ночное белье',
     partOfSpeechCode: 'n',
     skyId: '197600'
   },
   {
     targetWord: 'ninety-nine',
-    translation: 'девяносто девять',
+    translating: 'девяносто девять',
     partOfSpeechCode: 'crd',
     skyId: '228068'
   },
   {
     targetWord: 'nip',
-    translation: 'щипать',
+    translating: 'щипать',
     partOfSpeechCode: 'v',
     skyId: '196429'
   },
   {
     targetWord: 'nip',
-    translation: 'зажать в клещи',
+    translating: 'зажать в клещи',
     partOfSpeechCode: 'v',
     skyId: '196431'
   },
   {
     targetWord: 'nip',
-    translation: 'откусывать',
+    translating: 'откусывать',
     partOfSpeechCode: 'v',
     skyId: '196430'
   },
   {
     targetWord: 'nipping',
-    translation: 'морозный',
+    translating: 'морозный',
     partOfSpeechCode: 'j',
     skyId: '196433'
   },
   {
     targetWord: 'nitric oxide',
-    translation: 'оксид азота',
+    translating: 'оксид азота',
     partOfSpeechCode: 'n',
     skyId: '199306'
   },
   {
     targetWord: 'nitrile',
-    translation: 'нитрилы',
+    translating: 'нитрилы',
     partOfSpeechCode: 'n',
     skyId: '204340'
   },
   {
     targetWord: 'noble metal',
-    translation: 'благородный металл',
+    translating: 'благородный металл',
     partOfSpeechCode: 'n',
     skyId: '202890'
   },
   {
     targetWord: 'nobleman',
-    translation: 'дворянин',
+    translating: 'дворянин',
     partOfSpeechCode: 'n',
     skyId: '198607'
   },
   {
     targetWord: 'noli-me-tangere',
-    translation: 'недотрога-меня-',
+    translating: 'недотрога-меня-',
     partOfSpeechCode: 'n',
     skyId: '194605'
   },
   {
     targetWord: 'non-proliferation',
-    translation: 'нераспространение',
+    translating: 'нераспространение',
     partOfSpeechCode: 'n',
     skyId: '198438'
   },
   {
     targetWord: 'nonbeliever',
-    translation: 'неверующий',
+    translating: 'неверующий',
     partOfSpeechCode: 'n',
     skyId: '195670'
   },
   {
     targetWord: 'noncoding dna',
-    translation: 'интрон',
+    translating: 'интрон',
     partOfSpeechCode: 'n',
     skyId: '193959'
   },
   {
     targetWord: 'noncritical',
-    translation: 'некритический',
+    translating: 'некритический',
     partOfSpeechCode: 'j',
     skyId: '194718'
   },
   {
     targetWord: 'nonevent',
-    translation: 'скучное мероприятие',
+    translating: 'скучное мероприятие',
     partOfSpeechCode: 'n',
     skyId: '194322'
   },
   {
     targetWord: 'nonnomadic',
-    translation: 'nonnomadic',
+    translating: 'nonnomadic',
     partOfSpeechCode: 'j',
     skyId: '197097'
   },
   {
     targetWord: 'nonperformance',
-    translation: 'неисполнение',
+    translating: 'неисполнение',
     partOfSpeechCode: 'n',
     skyId: '195770'
   },
   {
     targetWord: 'nonreturnable',
-    translation: 'не подлежащий возврату',
+    translating: 'не подлежащий возврату',
     partOfSpeechCode: 'j',
     skyId: '211500'
   },
   {
     targetWord: 'nonspecific',
-    translation: 'неспецифический',
+    translating: 'неспецифический',
     partOfSpeechCode: 'j',
     skyId: '210509'
   },
   {
     targetWord: 'nontextual matter',
-    translation: 'нетекстовый материал',
+    translating: 'нетекстовый материал',
     partOfSpeechCode: 'n',
     skyId: '212198'
   },
   {
     targetWord: 'noose',
-    translation: 'завязывать на узел',
+    translating: 'завязывать на узел',
     partOfSpeechCode: 'v',
     skyId: '198722'
   },
   {
     targetWord: 'noose',
-    translation: 'петля',
+    translating: 'петля',
     partOfSpeechCode: 'v',
     skyId: '198721'
   },
   {
     targetWord: 'noose',
-    translation: 'петля',
+    translating: 'петля',
     partOfSpeechCode: 'n',
     skyId: '198721'
   },
   {
     targetWord: 'normalisation',
-    translation: 'нормализации',
+    translating: 'нормализации',
     partOfSpeechCode: 'n',
     skyId: '212718'
   },
   {
     targetWord: 'north carolina',
-    translation: 'Северная Каролина ',
+    translating: 'Северная Каролина ',
     partOfSpeechCode: 'n',
     skyId: '198593'
   },
   {
     targetWord: 'northamptonshire',
-    translation: 'Нортгемптоншир',
+    translating: 'Нортгемптоншир',
     partOfSpeechCode: 'n',
     skyId: '213114'
   },
   {
     targetWord: 'northbound',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '203245'
   },
   {
     targetWord: 'northeastern',
-    translation: 'северовосточный',
+    translating: 'северовосточный',
     partOfSpeechCode: 'j',
     skyId: '203655'
   },
   {
     targetWord: 'northeastern',
-    translation: 'северо-восточный',
+    translating: 'северо-восточный',
     partOfSpeechCode: 'j',
     skyId: '203654'
   },
   {
     targetWord: 'northeastward',
-    translation: 'на северо-восток',
+    translating: 'на северо-восток',
     partOfSpeechCode: 'r',
     skyId: '200981'
   },
   {
     targetWord: 'northeastward',
-    translation: 'запад',
+    translating: 'запад',
     partOfSpeechCode: 'n',
     skyId: '200979'
   },
   {
     targetWord: 'northern ireland',
-    translation: 'Северная Ирландия',
+    translating: 'Северная Ирландия',
     partOfSpeechCode: 'n',
     skyId: '197000'
   },
   {
     targetWord: 'northwards',
-    translation: 'на север',
+    translating: 'на север',
     partOfSpeechCode: 'r',
     skyId: '201142'
   },
   {
     targetWord: 'northwards',
-    translation: 'север',
+    translating: 'север',
     partOfSpeechCode: 'n',
     skyId: '201141'
   },
   {
     targetWord: 'nosebleed',
-    translation: 'носовое кровотечение',
+    translating: 'носовое кровотечение',
     partOfSpeechCode: 'n',
     skyId: '232903'
   },
   {
     targetWord: 'not bad',
-    translation: 'неплохой',
+    translating: 'неплохой',
     partOfSpeechCode: 'j',
     skyId: '197576'
   },
   {
     targetWord: 'notecase',
-    translation: 'кошелёк',
+    translating: 'кошелёк',
     partOfSpeechCode: 'n',
     skyId: '204210'
   },
   {
     targetWord: 'nothing',
-    translation: 'ничуть не',
+    translating: 'ничуть не',
     partOfSpeechCode: 'r',
     skyId: '196151'
   },
   {
     targetWord: 'nothing',
-    translation: 'ничего',
+    translating: 'ничего',
     partOfSpeechCode: 'prn',
     skyId: '236095'
   },
   {
     targetWord: 'noticeableness',
-    translation: 'заметность',
+    translating: 'заметность',
     partOfSpeechCode: 'n',
     skyId: '196155'
   },
   {
     targetWord: 'notify',
-    translation: 'уведомлять',
+    translating: 'уведомлять',
     partOfSpeechCode: 'v',
     skyId: '211499'
   },
   {
     targetWord: 'notochord',
-    translation: 'хорда',
+    translating: 'хорда',
     partOfSpeechCode: 'n',
     skyId: '195855'
   },
   {
     targetWord: 'notophthalmus viridescens',
-    translation: 'зеленоватый тритон',
+    translating: 'зеленоватый тритон',
     partOfSpeechCode: 'n',
     skyId: '198995'
   },
   {
     targetWord: 'noun phrase',
-    translation: 'именное словосочетание',
+    translating: 'именное словосочетание',
     partOfSpeechCode: 'n',
     skyId: '201196'
   },
   {
     targetWord: 'nowhere',
-    translation: 'нигде',
+    translating: 'нигде',
     partOfSpeechCode: 'r',
     skyId: '204020'
   },
   {
     targetWord: 'nowhere',
-    translation: 'нигде',
+    translating: 'нигде',
     partOfSpeechCode: 'n',
     skyId: '204020'
   },
   {
     targetWord: 'nuclear fission',
-    translation: 'ядерное деление',
+    translating: 'ядерное деление',
     partOfSpeechCode: 'n',
     skyId: '211662'
   },
   {
     targetWord: 'nuclear power',
-    translation: 'атомная энергия',
+    translating: 'атомная энергия',
     partOfSpeechCode: 'n',
     skyId: '196783'
   },
   {
     targetWord: 'nucleosynthesis',
-    translation: 'нуклеосинтез',
+    translating: 'нуклеосинтез',
     partOfSpeechCode: 'n',
     skyId: '212313'
   },
   {
     targetWord: 'nude mouse',
-    translation: 'мышь с мутацией',
+    translating: 'мышь с мутацией',
     partOfSpeechCode: 'n',
     skyId: '196710'
   },
   {
     targetWord: 'nudeness',
-    translation: 'нагота',
+    translating: 'нагота',
     partOfSpeechCode: 'n',
     skyId: '198785'
   },
   {
     targetWord: 'nudnik',
-    translation: 'зануда',
+    translating: 'зануда',
     partOfSpeechCode: 'n',
     skyId: '195322'
   },
   {
     targetWord: 'nullah',
-    translation: 'высохшее русло',
+    translating: 'высохшее русло',
     partOfSpeechCode: 'n',
     skyId: '211848'
   },
   {
     targetWord: 'nursing bottle',
-    translation: 'бутылочка с питательной смесью',
+    translating: 'бутылочка с питательной смесью',
     partOfSpeechCode: 'n',
     skyId: '194988'
   },
   {
     targetWord: 'nutbrown',
-    translation: 'каштановый',
+    translating: 'каштановый',
     partOfSpeechCode: 'j',
     skyId: '196869'
   },
   {
     targetWord: 'nutmeg geranium',
-    translation: 'яблоко герань',
+    translating: 'яблоко герань',
     partOfSpeechCode: 'n',
     skyId: '211027'
   },
   {
     targetWord: 'nuzzle',
-    translation: 'рыть рылом',
+    translating: 'рыть рылом',
     partOfSpeechCode: 'v',
     skyId: '202062'
   },
   {
     targetWord: 'nuzzle',
-    translation: 'тереться носом',
+    translating: 'тереться носом',
     partOfSpeechCode: 'v',
     skyId: '202061'
   },
   {
     targetWord: 'nuzzle',
-    translation: 'приютиться',
+    translating: 'приютиться',
     partOfSpeechCode: 'v',
     skyId: '202060'
   },
   {
     targetWord: 'nymphalid butterfly',
-    translation: 'кисть ногой бабочку',
+    translating: 'кисть ногой бабочку',
     partOfSpeechCode: 'n',
     skyId: '202694'
   },
   {
     targetWord: 'nymphomaniac',
-    translation: 'нимфоманка',
+    translating: 'нимфоманка',
     partOfSpeechCode: 'n',
     skyId: '202153'
   },
   {
     targetWord: 'nyssa',
-    translation: 'нисского',
+    translating: 'нисского',
     partOfSpeechCode: 'n',
     skyId: '203439'
   },
-  { targetWord: 'n', translation: 'N', partOfSpeechCode: 'n', skyId: '22576' },
+  { targetWord: 'n', translating: 'N', partOfSpeechCode: 'n', skyId: '22576' },
   {
     targetWord: 'n',
-    translation: 'нормальность',
+    translating: 'нормальность',
     partOfSpeechCode: 'n',
     skyId: '22575'
   },
   {
     targetWord: 'n',
-    translation: 'север',
+    translating: 'север',
     partOfSpeechCode: 'n',
     skyId: '22573'
   },
   {
     targetWord: 'n-th',
-    translation: 'энный',
+    translating: 'энный',
     partOfSpeechCode: 'j',
     skyId: '42674'
   },
   {
     targetWord: 'n-type semiconductor',
-    translation: 'полупроводника л-типа',
+    translating: 'полупроводника л-типа',
     partOfSpeechCode: 'n',
     skyId: '217593'
   },
   {
     targetWord: 'n. y. stock exchange',
-    translation: 'Нью-Йоркская фондовая биржа',
+    translating: 'Нью-Йоркская фондовая биржа',
     partOfSpeechCode: 'n',
     skyId: '72084'
   },
   {
     targetWord: 'na',
-    translation: 'натрий',
+    translating: 'натрий',
     partOfSpeechCode: 'n',
     skyId: '165031'
   },
   {
     targetWord: 'naan',
-    translation: 'лепёшка наан',
+    translating: 'лепёшка наан',
     partOfSpeechCode: 'n',
     skyId: '130655'
   },
   {
     targetWord: 'nab',
-    translation: 'стащить',
+    translating: 'стащить',
     partOfSpeechCode: 'v',
     skyId: '96995'
   },
   {
     targetWord: 'nab',
-    translation: 'задержать',
+    translating: 'задержать',
     partOfSpeechCode: 'v',
     skyId: '96994'
   },
   {
     targetWord: 'nab',
-    translation: 'выводить из игры',
+    translating: 'выводить из игры',
     partOfSpeechCode: 'v',
     skyId: '96993'
   },
   {
     targetWord: 'nabalus',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '44726'
   },
   {
     targetWord: 'nabob',
-    translation: 'набоб',
+    translating: 'набоб',
     partOfSpeechCode: 'n',
     skyId: '42585'
   },
   {
     targetWord: 'nacelle',
-    translation: 'гондола',
+    translating: 'гондола',
     partOfSpeechCode: 'n',
     skyId: '10445'
   },
   {
     targetWord: 'nacho',
-    translation: 'начо',
+    translating: 'начо',
     partOfSpeechCode: 'n',
     skyId: '161631'
   },
   {
     targetWord: 'nachos',
-    translation: 'начос',
+    translating: 'начос',
     partOfSpeechCode: 'n',
     skyId: '233385'
   },
   {
     targetWord: 'nacre',
-    translation: 'перламутр',
+    translating: 'перламутр',
     partOfSpeechCode: 'n',
     skyId: '88930'
   },
   {
     targetWord: 'nacreous',
-    translation: 'перламутровый',
+    translating: 'перламутровый',
     partOfSpeechCode: 'j',
     skyId: '42628'
   },
   {
     targetWord: 'nad',
-    translation: 'никотинамидадениндинуклеотид',
+    translating: 'никотинамидадениндинуклеотид',
     partOfSpeechCode: 'n',
     skyId: '97003'
   },
   {
     targetWord: 'nada',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'n',
     skyId: '147845'
   },
   {
     targetWord: 'nadir',
-    translation: 'Надир',
+    translating: 'Надир',
     partOfSpeechCode: 'n',
     skyId: '137195'
   },
   {
     targetWord: 'nadir',
-    translation: 'упадок',
+    translating: 'упадок',
     partOfSpeechCode: 'n',
     skyId: '137194'
   },
   {
     targetWord: 'naemorhedus goral',
-    translation: 'горал',
+    translating: 'горал',
     partOfSpeechCode: 'n',
     skyId: '56101'
   },
   {
     targetWord: 'nag',
-    translation: 'пилить',
+    translating: 'пилить',
     partOfSpeechCode: 'v',
     skyId: '196011'
   },
   {
     targetWord: 'nag',
-    translation: 'ворчать',
+    translating: 'ворчать',
     partOfSpeechCode: 'v',
     skyId: '196010'
   },
   {
     targetWord: 'nag',
-    translation: 'изводить',
+    translating: 'изводить',
     partOfSpeechCode: 'v',
     skyId: '196009'
   },
   {
     targetWord: 'nag',
-    translation: 'кляча',
+    translating: 'кляча',
     partOfSpeechCode: 'n',
     skyId: '96999'
   },
   {
     targetWord: 'nag',
-    translation: 'придира',
+    translating: 'придира',
     partOfSpeechCode: 'n',
     skyId: '96998'
   },
   {
     targetWord: 'nagano',
-    translation: 'Нагано',
+    translating: 'Нагано',
     partOfSpeechCode: 'n',
     skyId: '173990'
   },
   {
     targetWord: 'nageia nagi',
-    translation: 'наги',
+    translating: 'наги',
     partOfSpeechCode: 'n',
     skyId: '108830'
   },
   {
     targetWord: 'nagger',
-    translation: 'придира',
+    translating: 'придира',
     partOfSpeechCode: 'n',
     skyId: '142577'
   },
   {
     targetWord: 'nagging doubt',
-    translation: 'мучительные сомнения',
+    translating: 'мучительные сомнения',
     partOfSpeechCode: 'ph',
     skyId: '253718'
   },
   {
     targetWord: 'nagging pain',
-    translation: 'ноющая боль',
+    translating: 'ноющая боль',
     partOfSpeechCode: 'ph',
     skyId: '264637'
   },
   {
     targetWord: 'nagging shrew',
-    translation: 'ворчливая карга',
+    translating: 'ворчливая карга',
     partOfSpeechCode: 'n',
     skyId: '235425'
   },
   {
     targetWord: 'nagi',
-    translation: 'наги',
+    translating: 'наги',
     partOfSpeechCode: 'n',
     skyId: '105084'
   },
   {
     targetWord: 'nah',
-    translation: 'не ',
+    translating: 'не ',
     partOfSpeechCode: 'exc',
     skyId: '227951'
   },
   {
     targetWord: 'nahuatl',
-    translation: 'астекские языки',
+    translating: 'астекские языки',
     partOfSpeechCode: 'n',
     skyId: '183198'
   },
   {
     targetWord: 'naiad family',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '63625'
   },
   {
     targetWord: 'naiadaceae',
-    translation: 'наяда семьи',
+    translating: 'наяда семьи',
     partOfSpeechCode: 'n',
     skyId: '24996'
   },
   {
     targetWord: 'naif',
-    translation: 'наивный',
+    translating: 'наивный',
     partOfSpeechCode: 'j',
     skyId: '21581'
   },
   {
     targetWord: 'naif',
-    translation: 'наивный',
+    translating: 'наивный',
     partOfSpeechCode: 'n',
     skyId: '21581'
   },
   {
     targetWord: 'naiki',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '10067'
   },
   {
     targetWord: 'nail',
-    translation: 'забивать',
+    translating: 'забивать',
     partOfSpeechCode: 'v',
     skyId: '127958'
   },
   {
     targetWord: 'nail',
-    translation: 'обнаруживать',
+    translating: 'обнаруживать',
     partOfSpeechCode: 'v',
     skyId: '127957'
   },
   {
     targetWord: 'nail',
-    translation: 'справиться',
+    translating: 'справиться',
     partOfSpeechCode: 'v',
     skyId: '127956'
   },
   {
     targetWord: 'nail',
-    translation: 'прибить',
+    translating: 'прибить',
     partOfSpeechCode: 'v',
     skyId: '127952'
   },
   {
     targetWord: 'nail',
-    translation: 'забрать',
+    translating: 'забрать',
     partOfSpeechCode: 'v',
     skyId: '127955'
   },
   {
     targetWord: 'nail',
-    translation: 'прибивать',
+    translating: 'прибивать',
     partOfSpeechCode: 'v',
     skyId: '127954'
   },
   {
     targetWord: 'nail',
-    translation: 'арестовать',
+    translating: 'арестовать',
     partOfSpeechCode: 'v',
     skyId: '127953'
   },
   {
     targetWord: 'nail',
-    translation: 'нейл',
+    translating: 'нейл',
     partOfSpeechCode: 'n',
     skyId: '127951'
   },
   {
     targetWord: 'nail',
-    translation: 'гвоздь',
+    translating: 'гвоздь',
     partOfSpeechCode: 'n',
     skyId: '127950'
   },
   {
     targetWord: 'nail',
-    translation: 'ноготь',
+    translating: 'ноготь',
     partOfSpeechCode: 'n',
     skyId: '127949'
   },
   {
     targetWord: 'nail artist',
-    translation: 'мастер ногтевого сервиса',
+    translating: 'мастер ногтевого сервиса',
     partOfSpeechCode: 'n',
     skyId: '266480'
   },
   {
     targetWord: 'nail bar',
-    translation: 'маникюрный салон',
+    translating: 'маникюрный салон',
     partOfSpeechCode: 'ph',
     skyId: '229558'
   },
   {
     targetWord: 'nail clippers',
-    translation: 'кусачки для ногтей',
+    translating: 'кусачки для ногтей',
     partOfSpeechCode: 'n',
     skyId: '233691'
   },
   {
     targetWord: 'nail down',
-    translation: 'требовать выполнения',
+    translating: 'требовать выполнения',
     partOfSpeechCode: 'ph',
     skyId: '242121'
   },
   {
     targetWord: 'nail down',
-    translation: 'точно определять',
+    translating: 'точно определять',
     partOfSpeechCode: 'v',
     skyId: '177472'
   },
   {
     targetWord: 'nail down',
-    translation: 'прибивать',
+    translating: 'прибивать',
     partOfSpeechCode: 'v',
     skyId: '177473'
   },
   {
     targetWord: 'nail down',
-    translation: 'получать должность',
+    translating: 'получать должность',
     partOfSpeechCode: 'v',
     skyId: '177471'
   },
   {
     targetWord: 'nail enamel',
-    translation: 'лак для ногтей',
+    translating: 'лак для ногтей',
     partOfSpeechCode: 'n',
     skyId: '156667'
   },
   {
     targetWord: 'nail file',
-    translation: 'пилочка для ногтей',
+    translating: 'пилочка для ногтей',
     partOfSpeechCode: 'ph',
     skyId: '261492'
   },
   {
     targetWord: 'nail polish',
-    translation: 'лак для ногтей',
+    translating: 'лак для ногтей',
     partOfSpeechCode: 'n',
     skyId: '174917'
   },
   {
     targetWord: 'nail technician',
-    translation: 'мастер маникюра',
+    translating: 'мастер маникюра',
     partOfSpeechCode: 'n',
     skyId: '261491'
   },
   {
     targetWord: 'nail varnish',
-    translation: 'лак для ногтей',
+    translating: 'лак для ногтей',
     partOfSpeechCode: 'n',
     skyId: '215187'
   },
   {
     targetWord: 'nail-biter',
-    translation: 'что-то, что заставляет понервничать',
+    translating: 'что-то, что заставляет понервничать',
     partOfSpeechCode: 'n',
     skyId: '258892'
   },
   {
     targetWord: 'nail-biting',
-    translation: 'напряжённый',
+    translating: 'напряжённый',
     partOfSpeechCode: 'j',
     skyId: '29624'
   },
   {
     targetWord: 'nail-biting adventure',
-    translation: 'захватывающее дух приключение',
+    translating: 'захватывающее дух приключение',
     partOfSpeechCode: 'n',
     skyId: '257548'
   },
   {
     targetWord: 'nail-tailed kangaroo',
-    translation: 'когтехвостые кенгуру',
+    translating: 'когтехвостые кенгуру',
     partOfSpeechCode: 'n',
     skyId: '26303'
   },
   {
     targetWord: 'nail-tailed wallaby',
-    translation: 'когтехвостые кенгуру',
+    translating: 'когтехвостые кенгуру',
     partOfSpeechCode: 'n',
     skyId: '192833'
   },
   {
     targetWord: 'nailbrush',
-    translation: 'щёточка для ногтей',
+    translating: 'щёточка для ногтей',
     partOfSpeechCode: 'n',
     skyId: '184467'
   },
   {
     targetWord: 'nailer',
-    translation: 'гвоздильщик',
+    translating: 'гвоздильщик',
     partOfSpeechCode: 'n',
     skyId: '54551'
   },
   {
     targetWord: 'nailfile',
-    translation: 'пилочка для ногтей',
+    translating: 'пилочка для ногтей',
     partOfSpeechCode: 'n',
     skyId: '329'
   },
   {
     targetWord: 'nailhead',
-    translation: 'Nailhead',
+    translating: 'Nailhead',
     partOfSpeechCode: 'n',
     skyId: '23638'
   },
   {
     targetWord: 'nailhead',
-    translation: 'декоративный гвоздь ',
+    translating: 'декоративный гвоздь ',
     partOfSpeechCode: 'n',
     skyId: '23637'
   },
   {
     targetWord: 'nailing',
-    translation: 'гвоздевание',
+    translating: 'гвоздевание',
     partOfSpeechCode: 'n',
     skyId: '258923'
   },
   {
     targetWord: 'nailrod',
-    translation: 'астра шероховатостебельная',
+    translating: 'астра шероховатостебельная',
     partOfSpeechCode: 'n',
     skyId: '84461'
   },
   {
     targetWord: 'nails',
-    translation: 'ногти',
+    translating: 'ногти',
     partOfSpeechCode: 'ph',
     skyId: '230807'
   },
   {
     targetWord: 'nainsook',
-    translation: 'нансук',
+    translating: 'нансук',
     partOfSpeechCode: 'n',
     skyId: '215030'
   },
   {
     targetWord: 'naira',
-    translation: 'найра',
+    translating: 'найра',
     partOfSpeechCode: 'n',
     skyId: '161526'
   },
   {
     targetWord: 'naive',
-    translation: 'неосведомленный',
+    translating: 'неосведомленный',
     partOfSpeechCode: 'j',
     skyId: '150271'
   },
   {
     targetWord: 'naive',
-    translation: 'неопытный',
+    translating: 'неопытный',
     partOfSpeechCode: 'j',
     skyId: '150270'
   },
   {
     targetWord: 'naive',
-    translation: 'простой',
+    translating: 'простой',
     partOfSpeechCode: 'j',
     skyId: '150269'
   },
   {
     targetWord: 'naive',
-    translation: 'наивный',
+    translating: 'наивный',
     partOfSpeechCode: 'j',
     skyId: '150272'
   },
   {
     targetWord: 'naive realism',
-    translation: 'наивный реализм',
+    translating: 'наивный реализм',
     partOfSpeechCode: 'n',
     skyId: '157765'
   },
   {
     targetWord: 'naively',
-    translation: 'наивно',
+    translating: 'наивно',
     partOfSpeechCode: 'r',
     skyId: '69140'
   },
   {
     targetWord: 'naiveness',
-    translation: 'наивность',
+    translating: 'наивность',
     partOfSpeechCode: 'n',
     skyId: '191808'
   },
   {
     targetWord: 'naivete',
-    translation: 'наивность',
+    translating: 'наивность',
     partOfSpeechCode: 'n',
     skyId: '23526'
   },
   {
     targetWord: 'naivety',
-    translation: 'наивность',
+    translating: 'наивность',
     partOfSpeechCode: 'n',
     skyId: '23530'
   },
   {
     targetWord: 'naja',
-    translation: 'кобра',
+    translating: 'кобра',
     partOfSpeechCode: 'n',
     skyId: '189537'
   },
   {
     targetWord: 'naja haje',
-    translation: 'египетская кобра',
+    translating: 'египетская кобра',
     partOfSpeechCode: 'n',
     skyId: '89439'
   },
   {
     targetWord: 'naja hannah',
-    translation: 'королевская кобра',
+    translating: 'королевская кобра',
     partOfSpeechCode: 'n',
     skyId: '57743'
   },
   {
     targetWord: 'naja naja',
-    translation: 'очковая змея',
+    translating: 'очковая змея',
     partOfSpeechCode: 'n',
     skyId: '17540'
   },
   {
     targetWord: 'najas',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '96978'
   },
   {
     targetWord: 'najas',
-    translation: 'наяда',
+    translating: 'наяда',
     partOfSpeechCode: 'n',
     skyId: '96977'
   },
   {
     targetWord: 'naked',
-    translation: 'голый',
+    translating: 'голый',
     partOfSpeechCode: 'j',
     skyId: '223399'
   },
   {
     targetWord: 'naked',
-    translation: 'неприкрытый',
+    translating: 'неприкрытый',
     partOfSpeechCode: 'j',
     skyId: '240125'
   },
   {
     targetWord: 'naked',
-    translation: 'невооружённый',
+    translating: 'невооружённый',
     partOfSpeechCode: 'j',
     skyId: '223397'
   },
   {
     targetWord: 'naked',
-    translation: 'обнажённый',
+    translating: 'обнажённый',
     partOfSpeechCode: 'j',
     skyId: '223396'
   },
   {
     targetWord: 'naked',
-    translation: 'обнаженный',
+    translating: 'обнаженный',
     partOfSpeechCode: 'j',
     skyId: '223395'
   },
   {
     targetWord: 'naked eye',
-    translation: 'невооружённый глаз',
+    translating: 'невооружённый глаз',
     partOfSpeechCode: 'ph',
     skyId: '135250'
   },
   {
     targetWord: 'naked lady',
-    translation: 'амариллис',
+    translating: 'амариллис',
     partOfSpeechCode: 'n',
     skyId: '142721'
   },
   {
     targetWord: 'naked mole rat',
-    translation: 'голый землекоп',
+    translating: 'голый землекоп',
     partOfSpeechCode: 'n',
     skyId: '144166'
   },
   {
     targetWord: 'naked truth',
-    translation: 'чистая правда',
+    translating: 'чистая правда',
     partOfSpeechCode: 'ph',
     skyId: '231819'
   },
   {
     targetWord: 'nakedly',
-    translation: 'голо',
+    translating: 'голо',
     partOfSpeechCode: 'r',
     skyId: '172534'
   },
   {
     targetWord: 'nakedly',
-    translation: 'обнаженно',
+    translating: 'обнаженно',
     partOfSpeechCode: 'r',
     skyId: '172533'
   },
   {
     targetWord: 'nakedness',
-    translation: 'открытость',
+    translating: 'открытость',
     partOfSpeechCode: 'n',
     skyId: '47053'
   },
   {
     targetWord: 'nakedness',
-    translation: 'оголенность',
+    translating: 'оголенность',
     partOfSpeechCode: 'n',
     skyId: '47052'
   },
   {
     targetWord: 'nakedness',
-    translation: 'нагота',
+    translating: 'нагота',
     partOfSpeechCode: 'n',
     skyId: '47051'
   },
   {
     targetWord: 'nakedwood',
-    translation: 'евгения',
+    translating: 'евгения',
     partOfSpeechCode: 'n',
     skyId: '57044'
   },
   {
     targetWord: 'nalline',
-    translation: 'налорфин',
+    translating: 'налорфин',
     partOfSpeechCode: 'n',
     skyId: '173213'
   },
   {
     targetWord: 'naloxone',
-    translation: 'налоксон',
+    translating: 'налоксон',
     partOfSpeechCode: 'n',
     skyId: '111856'
   },
   {
     targetWord: 'naltrexone',
-    translation: 'налтрексон',
+    translating: 'налтрексон',
     partOfSpeechCode: 'n',
     skyId: '35079'
   },
   {
     targetWord: 'namby-pamby',
-    translation: 'слабохарактерный',
+    translating: 'слабохарактерный',
     partOfSpeechCode: 'j',
     skyId: '21423'
   },
   {
     targetWord: 'namby-pamby',
-    translation: 'размазня',
+    translating: 'размазня',
     partOfSpeechCode: 'n',
     skyId: '21422'
   },
   {
     targetWord: 'name',
-    translation: 'название',
+    translating: 'название',
     partOfSpeechCode: 'n',
     skyId: '253780'
   },
   {
     targetWord: 'name',
-    translation: 'наименование',
+    translating: 'наименование',
     partOfSpeechCode: 'n',
     skyId: '247583'
   },
   {
     targetWord: 'name',
-    translation: 'упоминать',
+    translating: 'упоминать',
     partOfSpeechCode: 'v',
     skyId: '161709'
   },
   {
     targetWord: 'name',
-    translation: 'назначать',
+    translating: 'назначать',
     partOfSpeechCode: 'v',
     skyId: '161707'
   },
   {
     targetWord: 'name',
-    translation: 'называть',
+    translating: 'называть',
     partOfSpeechCode: 'v',
     skyId: '161712'
   },
   {
     targetWord: 'name',
-    translation: 'семейство',
+    translating: 'семейство',
     partOfSpeechCode: 'n',
     skyId: '161700'
   },
   {
     targetWord: 'name',
-    translation: 'репутация',
+    translating: 'репутация',
     partOfSpeechCode: 'n',
     skyId: '161699'
   },
   {
     targetWord: 'name',
-    translation: 'имя',
+    translating: 'имя',
     partOfSpeechCode: 'n',
     skyId: '161703'
   },
   {
     targetWord: 'name after',
-    translation: 'называть в честь',
+    translating: 'называть в честь',
     partOfSpeechCode: 'v',
     skyId: '235861'
   },
   {
     targetWord: 'name and address',
-    translation: 'почтовый адрес',
+    translating: 'почтовый адрес',
     partOfSpeechCode: 'n',
     skyId: '97126'
   },
   {
     targetWord: 'name calling',
-    translation: 'брань',
+    translating: 'брань',
     partOfSpeechCode: 'n',
     skyId: '40691'
   },
   {
     targetWord: 'name day',
-    translation: 'именины',
+    translating: 'именины',
     partOfSpeechCode: 'n',
     skyId: '31761'
   },
   {
     targetWord: 'name dropper',
-    translation: 'человек, намекающий на свои связи в высшем свете',
+    translating: 'человек, намекающий на свои связи в высшем свете',
     partOfSpeechCode: 'n',
     skyId: '159565'
   },
   {
     targetWord: 'name not a rope in his house that was hanged',
-    translation: 'В доме повешенного о веревке не говорят',
+    translating: 'В доме повешенного о веревке не говорят',
     partOfSpeechCode: 'ph',
     skyId: '243199'
   },
   {
     targetWord: 'name part',
-    translation: 'главный персонаж',
+    translating: 'главный персонаж',
     partOfSpeechCode: 'n',
     skyId: '14706'
   },
   {
     targetWord: 'name tag',
-    translation: 'бейдж',
+    translating: 'бейдж',
     partOfSpeechCode: 'n',
     skyId: '171005'
   },
   {
     targetWord: 'name-calling',
-    translation: 'обзывательство',
+    translating: 'обзывательство',
     partOfSpeechCode: 'n',
     skyId: '266072'
   },
   {
     targetWord: 'name-dropping',
-    translation: 'хвастовство связями',
+    translating: 'хвастовство связями',
     partOfSpeechCode: 'n',
     skyId: '48481'
   },
   {
     targetWord: 'nameless',
-    translation: 'неназванный',
+    translating: 'неназванный',
     partOfSpeechCode: 'j',
     skyId: '183070'
   },
   {
     targetWord: 'namelessness',
-    translation: 'анонимность',
+    translating: 'анонимность',
     partOfSpeechCode: 'n',
     skyId: '22082'
   },
   {
     targetWord: 'namely',
-    translation: 'а именно',
+    translating: 'а именно',
     partOfSpeechCode: 'r',
     skyId: '240127'
   },
   {
     targetWord: 'nameplate',
-    translation: 'именная табличка',
+    translating: 'именная табличка',
     partOfSpeechCode: 'n',
     skyId: '42530'
   },
   {
     targetWord: 'namer',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '161696'
   },
   {
     targetWord: 'namesake',
-    translation: 'тезка',
+    translating: 'тезка',
     partOfSpeechCode: 'n',
     skyId: '75399'
   },
   {
     targetWord: 'naming',
-    translation: 'назначение',
+    translating: 'назначение',
     partOfSpeechCode: 'n',
     skyId: '122608'
   },
   {
     targetWord: 'naming',
-    translation: 'называние',
+    translating: 'называние',
     partOfSpeechCode: 'n',
     skyId: '122607'
   },
   {
     targetWord: 'nammad',
-    translation: 'расшитый войлочный коврик',
+    translating: 'расшитый войлочный коврик',
     partOfSpeechCode: 'n',
     skyId: '13457'
   },
   {
     targetWord: 'nampa',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '43760'
   },
   {
     targetWord: 'namur',
-    translation: 'намюр',
+    translating: 'намюр',
     partOfSpeechCode: 'n',
     skyId: '110275'
   },
   {
     targetWord: 'nan',
-    translation: 'наан',
+    translating: 'наан',
     partOfSpeechCode: 'n',
     skyId: '97010'
   },
   {
     targetWord: 'nan',
-    translation: 'бабушка',
+    translating: 'бабушка',
     partOfSpeechCode: 'n',
     skyId: '97008'
   },
   {
     targetWord: 'nance',
-    translation: 'гомик',
+    translating: 'гомик',
     partOfSpeechCode: 'n',
     skyId: '34385'
   },
   {
     targetWord: 'nancy',
-    translation: 'нэнси',
+    translating: 'нэнси',
     partOfSpeechCode: 'n',
     skyId: '34392'
   },
   {
     targetWord: 'nandu',
-    translation: 'дарвинов нанду',
+    translating: 'дарвинов нанду',
     partOfSpeechCode: 'n',
     skyId: '17678'
   },
   {
     targetWord: 'nanism',
-    translation: 'карлик',
+    translating: 'карлик',
     partOfSpeechCode: 'n',
     skyId: '152016'
   },
   {
     targetWord: 'nankeen',
-    translation: 'китайки',
+    translating: 'китайки',
     partOfSpeechCode: 'n',
     skyId: '225096'
   },
   {
     targetWord: 'nanking',
-    translation: 'нанкин',
+    translating: 'нанкин',
     partOfSpeechCode: 'n',
     skyId: '19192'
   },
   {
     targetWord: 'nanna',
-    translation: 'бабушка',
+    translating: 'бабушка',
     partOfSpeechCode: 'n',
     skyId: '42981'
   },
   {
     targetWord: 'nanny',
-    translation: 'няня',
+    translating: 'няня',
     partOfSpeechCode: 'n',
     skyId: '43025'
   },
   {
     targetWord: 'nanny',
-    translation: 'коза',
+    translating: 'коза',
     partOfSpeechCode: 'n',
     skyId: '43026'
   },
   {
     targetWord: 'nanny-goat',
-    translation: 'коза',
+    translating: 'коза',
     partOfSpeechCode: 'n',
     skyId: '62631'
   },
   {
     targetWord: 'nano-influencer',
-    translation: 'наноинфлюенсер',
+    translating: 'наноинфлюенсер',
     partOfSpeechCode: 'n',
     skyId: '261555'
   },
   {
     targetWord: 'nanocephalic',
-    translation: 'nanocephalic',
+    translating: 'nanocephalic',
     partOfSpeechCode: 'j',
     skyId: '70578'
   },
   {
     targetWord: 'nanocephaly',
-    translation: 'микроцефалия',
+    translating: 'микроцефалия',
     partOfSpeechCode: 'n',
     skyId: '93282'
   },
   {
     targetWord: 'nanogram',
-    translation: 'нанограмм',
+    translating: 'нанограмм',
     partOfSpeechCode: 'n',
     skyId: '97274'
   },
   {
     targetWord: 'nanoinfluencers',
-    translation: 'микроблогеры',
+    translating: 'микроблогеры',
     partOfSpeechCode: 'n',
     skyId: '261570'
   },
   {
     targetWord: 'nanometer',
-    translation: 'нанометр',
+    translating: 'нанометр',
     partOfSpeechCode: 'n',
     skyId: '180851'
   },
   {
     targetWord: 'nanometre',
-    translation: 'нанометр',
+    translating: 'нанометр',
     partOfSpeechCode: 'n',
     skyId: '87643'
   },
   {
     targetWord: 'nanomia',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '179812'
   },
   {
     targetWord: 'nanosecond',
-    translation: 'наносекунда',
+    translating: 'наносекунда',
     partOfSpeechCode: 'n',
     skyId: '61666'
   },
   {
     targetWord: 'nanotechnology',
-    translation: 'нанотехнология',
+    translating: 'нанотехнология',
     partOfSpeechCode: 'n',
     skyId: '63595'
   },
   {
     targetWord: 'nanus',
-    translation: 'карлик',
+    translating: 'карлик',
     partOfSpeechCode: 'n',
     skyId: '67391'
   },
   {
     targetWord: 'nap',
-    translation: 'наполеон',
+    translating: 'наполеон',
     partOfSpeechCode: 'n',
     skyId: '97020'
   },
   {
     targetWord: 'nap',
-    translation: 'короткий сон',
+    translating: 'короткий сон',
     partOfSpeechCode: 'n',
     skyId: '97019'
   },
   {
     targetWord: 'nap',
-    translation: 'ворс',
+    translating: 'ворс',
     partOfSpeechCode: 'n',
     skyId: '97018'
   },
   {
     targetWord: 'nap',
-    translation: 'сон',
+    translating: 'сон',
     partOfSpeechCode: 'n',
     skyId: '97016'
   },
   {
     targetWord: 'nap',
-    translation: 'вздремнуть',
+    translating: 'вздремнуть',
     partOfSpeechCode: 'v',
     skyId: '139344'
   },
   {
     targetWord: 'nap time',
-    translation: 'тихий час',
+    translating: 'тихий час',
     partOfSpeechCode: 'n',
     skyId: '236994'
   },
   {
     targetWord: 'napa',
-    translation: 'пекинская капуста',
+    translating: 'пекинская капуста',
     partOfSpeechCode: 'n',
     skyId: '127070'
   },
   {
     targetWord: 'nape',
-    translation: 'задняя часть шеи',
+    translating: 'задняя часть шеи',
     partOfSpeechCode: 'n',
     skyId: '96432'
   },
   {
     targetWord: 'napery',
-    translation: 'столовое бельё',
+    translating: 'столовое бельё',
     partOfSpeechCode: 'n',
     skyId: '112988'
   },
   {
     targetWord: 'naphtha',
-    translation: 'лигроин',
+    translating: 'лигроин',
     partOfSpeechCode: 'n',
     skyId: '27799'
   },
   {
     targetWord: 'naphthalene',
-    translation: 'нафталин',
+    translating: 'нафталин',
     partOfSpeechCode: 'n',
     skyId: '157810'
   },
   {
     targetWord: 'naphthoquinone',
-    translation: 'витамин k',
+    translating: 'витамин k',
     partOfSpeechCode: 'n',
     skyId: '225987'
   },
   {
     targetWord: "napier's bones",
-    translation: 'палочки непера',
+    translating: 'палочки непера',
     partOfSpeechCode: 'n',
     skyId: '65142'
   },
   {
     targetWord: "napier's rods",
-    translation: 'палочки непера',
+    translating: 'палочки непера',
     partOfSpeechCode: 'n',
     skyId: '40670'
   },
   {
     targetWord: 'napkin',
-    translation: 'подгузник',
+    translating: 'подгузник',
     partOfSpeechCode: 'n',
     skyId: '158683'
   },
   {
     targetWord: 'napkin',
-    translation: 'салфетка',
+    translating: 'салфетка',
     partOfSpeechCode: 'n',
     skyId: '158682'
   },
   {
     targetWord: 'naples garlic',
-    translation: 'лук неаполитанский',
+    translating: 'лук неаполитанский',
     partOfSpeechCode: 'n',
     skyId: '76428'
   },
   {
     targetWord: 'napoleon',
-    translation: 'наполеон',
+    translating: 'наполеон',
     partOfSpeechCode: 'n',
     skyId: '67369'
   },
   {
     targetWord: 'napoleonic',
-    translation: 'наполеоновский',
+    translating: 'наполеоновский',
     partOfSpeechCode: 'j',
     skyId: '21189'
   },
   {
     targetWord: 'napped',
-    translation: 'ворсовой',
+    translating: 'ворсовой',
     partOfSpeechCode: 'j',
     skyId: '139345'
   },
   {
     targetWord: 'nappies',
-    translation: 'подгузники',
+    translating: 'подгузники',
     partOfSpeechCode: 'ph',
     skyId: '231359'
   },
   {
     targetWord: 'napping',
-    translation: 'недостаточно бдительный',
+    translating: 'недостаточно бдительный',
     partOfSpeechCode: 'j',
     skyId: '88412'
   },
   {
     targetWord: 'nappy',
-    translation: 'пушистый',
+    translating: 'пушистый',
     partOfSpeechCode: 'j',
     skyId: '137656'
   },
   {
     targetWord: 'nappy',
-    translation: 'подгузник',
+    translating: 'подгузник',
     partOfSpeechCode: 'n',
     skyId: '137655'
   },
   {
     targetWord: 'naprosyn',
-    translation: 'напроксен',
+    translating: 'напроксен',
     partOfSpeechCode: 'n',
     skyId: '56076'
   },
   {
     targetWord: 'naproxen',
-    translation: 'напроксен',
+    translating: 'напроксен',
     partOfSpeechCode: 'n',
     skyId: '124542'
   },
   {
     targetWord: 'napu',
-    translation: 'сапс',
+    translating: 'сапс',
     partOfSpeechCode: 'n',
     skyId: '96420'
   },
   {
     targetWord: 'naranjilla',
-    translation: 'наранхилла',
+    translating: 'наранхилла',
     partOfSpeechCode: 'n',
     skyId: '20893'
   },
   {
     targetWord: 'narc',
-    translation: 'сотрудник службы по борьбе с наркотиками',
+    translating: 'сотрудник службы по борьбе с наркотиками',
     partOfSpeechCode: 'n',
     skyId: '76976'
   },
   {
     targetWord: 'narcan',
-    translation: 'налоксон',
+    translating: 'налоксон',
     partOfSpeechCode: 'n',
     skyId: '85317'
   },
   {
     targetWord: 'narcism',
-    translation: 'нарциссизм',
+    translating: 'нарциссизм',
     partOfSpeechCode: 'n',
     skyId: '154045'
   },
   {
     targetWord: 'narcissism',
-    translation: 'нарциссизм',
+    translating: 'нарциссизм',
     partOfSpeechCode: 'n',
     skyId: '103803'
   },
   {
     targetWord: 'narcissist',
-    translation: 'нарцисс',
+    translating: 'нарцисс',
     partOfSpeechCode: 'n',
     skyId: '103824'
   },
   {
     targetWord: 'narcissistic personality',
-    translation: 'нарциссическая личность',
+    translating: 'нарциссическая личность',
     partOfSpeechCode: 'n',
     skyId: '32335'
   },
   {
     targetWord: 'narcissus',
-    translation: 'нарцисс',
+    translating: 'нарцисс',
     partOfSpeechCode: 'n',
     skyId: '117431'
   },
   {
     targetWord: 'narcissus jonquilla',
-    translation: 'жонкиль',
+    translating: 'жонкиль',
     partOfSpeechCode: 'n',
     skyId: '72480'
   },
   {
     targetWord: 'narcissus pseudonarcissus',
-    translation: 'нарцисс ложный',
+    translating: 'нарцисс ложный',
     partOfSpeechCode: 'n',
     skyId: '22472'
   },
   {
     targetWord: 'narcist',
-    translation: 'самовлюблённый человек',
+    translating: 'самовлюблённый человек',
     partOfSpeechCode: 'n',
     skyId: '25724'
   },
   {
     targetWord: 'narcolepsy',
-    translation: 'нарколепсия',
+    translating: 'нарколепсия',
     partOfSpeechCode: 'n',
     skyId: '126764'
   },
   {
     targetWord: 'narcoleptic',
-    translation: 'нарколептический',
+    translating: 'нарколептический',
     partOfSpeechCode: 'j',
     skyId: '48328'
   },
   {
     targetWord: 'narcoleptic',
-    translation: 'снотворное',
+    translating: 'снотворное',
     partOfSpeechCode: 'n',
     skyId: '48327'
   },
   {
     targetWord: 'narcoleptic',
-    translation: 'нарколе́птик',
+    translating: 'нарколе́птик',
     partOfSpeechCode: 'n',
     skyId: '48326'
   },
   {
     targetWord: 'narcosis',
-    translation: 'наркоз',
+    translating: 'наркоз',
     partOfSpeechCode: 'n',
     skyId: '65020'
   },
   {
     targetWord: 'narcotize',
-    translation: 'усыплять',
+    translating: 'усыплять',
     partOfSpeechCode: 'v',
     skyId: '111428'
   },
   {
     targetWord: 'nard',
-    translation: 'нард',
+    translating: 'нард',
     partOfSpeechCode: 'n',
     skyId: '13031'
   },
   {
     targetWord: 'nardil',
-    translation: 'фенелзин',
+    translating: 'фенелзин',
     partOfSpeechCode: 'n',
     skyId: '100086'
   },
   {
     targetWord: 'nardo',
-    translation: 'общие',
+    translating: 'общие',
     partOfSpeechCode: 'n',
     skyId: '42469'
   },
   {
     targetWord: 'nardoo',
-    translation: 'общие',
+    translating: 'общие',
     partOfSpeechCode: 'n',
     skyId: '125527'
   },
   {
     targetWord: 'narghile',
-    translation: 'кальян',
+    translating: 'кальян',
     partOfSpeechCode: 'n',
     skyId: '129214'
   },
   {
     targetWord: 'nargileh',
-    translation: 'кальян',
+    translating: 'кальян',
     partOfSpeechCode: 'n',
     skyId: '48445'
   },
   {
     targetWord: 'naris',
-    translation: 'ноздря',
+    translating: 'ноздря',
     partOfSpeechCode: 'n',
     skyId: '140225'
   },
   {
     targetWord: 'nark',
-    translation: 'раздражать',
+    translating: 'раздражать',
     partOfSpeechCode: 'v',
     skyId: '13028'
   },
   {
     targetWord: 'nark',
-    translation: 'наркотиков агента',
+    translating: 'наркотиков агента',
     partOfSpeechCode: 'n',
     skyId: '13027'
   },
   {
     targetWord: 'nark',
-    translation: 'шпик',
+    translating: 'шпик',
     partOfSpeechCode: 'n',
     skyId: '13026'
   },
   {
     targetWord: 'narrate',
-    translation: 'повествовать',
+    translating: 'повествовать',
     partOfSpeechCode: 'v',
     skyId: '105735'
   },
   {
     targetWord: 'narrate',
-    translation: 'комментировать',
+    translating: 'комментировать',
     partOfSpeechCode: 'v',
     skyId: '105734'
   },
   {
     targetWord: 'narration',
-    translation: 'история',
+    translating: 'история',
     partOfSpeechCode: 'n',
     skyId: '16021'
   },
   {
     targetWord: 'narration',
-    translation: 'повествование',
+    translating: 'повествование',
     partOfSpeechCode: 'n',
     skyId: '16023'
   },
   {
     targetWord: 'narration',
-    translation: 'изложение',
+    translating: 'изложение',
     partOfSpeechCode: 'n',
     skyId: '16022'
   },
   {
     targetWord: 'narrative',
-    translation: 'излагающий',
+    translating: 'излагающий',
     partOfSpeechCode: 'j',
     skyId: '83364'
   },
   {
     targetWord: 'narrative',
-    translation: 'повествование',
+    translating: 'повествование',
     partOfSpeechCode: 'n',
     skyId: '83363'
   },
   {
     targetWord: 'narrator',
-    translation: 'рассказчик',
+    translating: 'рассказчик',
     partOfSpeechCode: 'n',
     skyId: '16996'
   },
   {
     targetWord: 'narrow',
-    translation: 'тщательный',
+    translating: 'тщательный',
     partOfSpeechCode: 'j',
     skyId: '159898'
   },
   {
     targetWord: 'narrow',
-    translation: 'недалёкий',
+    translating: 'недалёкий',
     partOfSpeechCode: 'j',
     skyId: '159896'
   },
   {
     targetWord: 'narrow',
-    translation: 'ограниченный',
+    translating: 'ограниченный',
     partOfSpeechCode: 'j',
     skyId: '159895'
   },
   {
     targetWord: 'narrow',
-    translation: 'узкий',
+    translating: 'узкий',
     partOfSpeechCode: 'j',
     skyId: '159897'
   },
   {
     targetWord: 'narrow',
-    translation: 'теснина',
+    translating: 'теснина',
     partOfSpeechCode: 'n',
     skyId: '159889'
   },
   {
     targetWord: 'narrow',
-    translation: 'сжиматься',
+    translating: 'сжиматься',
     partOfSpeechCode: 'v',
     skyId: '181367'
   },
   {
     targetWord: 'narrow',
-    translation: 'ограничивать',
+    translating: 'ограничивать',
     partOfSpeechCode: 'v',
     skyId: '181366'
   },
   {
     targetWord: 'narrow',
-    translation: 'чётко устанавливать',
+    translating: 'чётко устанавливать',
     partOfSpeechCode: 'v',
     skyId: '181365'
   },
   {
     targetWord: 'narrow',
-    translation: 'сужать',
+    translating: 'сужать',
     partOfSpeechCode: 'v',
     skyId: '181364'
   },
   {
     targetWord: 'narrow boat',
-    translation: 'судно для каналов',
+    translating: 'судно для каналов',
     partOfSpeechCode: 'n',
     skyId: '11430'
   },
   {
     targetWord: 'narrow down',
-    translation: 'отслеживать',
+    translating: 'отслеживать',
     partOfSpeechCode: 'v',
     skyId: '262210'
   },
   {
     targetWord: 'narrow down',
-    translation: 'сокращать',
+    translating: 'сокращать',
     partOfSpeechCode: 'v',
     skyId: '262209'
   },
   {
     targetWord: 'narrow down',
-    translation: 'концентрироваться',
+    translating: 'концентрироваться',
     partOfSpeechCode: 'v',
     skyId: '8495'
   },
   {
     targetWord: 'narrow down',
-    translation: 'конкретизировать',
+    translating: 'конкретизировать',
     partOfSpeechCode: 'v',
     skyId: '8494'
   },
   {
     targetWord: 'narrow escape',
-    translation: 'на волосок от гибели',
+    translating: 'на волосок от гибели',
     partOfSpeechCode: 'n',
     skyId: '103768'
   },
   {
     targetWord: 'narrow margin',
-    translation: 'небольшая маржа',
+    translating: 'небольшая маржа',
     partOfSpeechCode: 'n',
     skyId: '213968'
   },
   {
     targetWord: 'narrow-band duplex filter',
-    translation: 'дуплексный узкополосный фильтр',
+    translating: 'дуплексный узкополосный фильтр',
     partOfSpeechCode: 'n',
     skyId: '250403'
   },
   {
     targetWord: 'narrow-body',
-    translation: 'узкофюзеляжный самолёт',
+    translating: 'узкофюзеляжный самолёт',
     partOfSpeechCode: 'n',
     skyId: '121731'
   },
   {
     targetWord: 'narrow-body aircraft',
-    translation: 'узкофюзеляжный самолёт',
+    translating: 'узкофюзеляжный самолёт',
     partOfSpeechCode: 'n',
     skyId: '223982'
   },
   {
     targetWord: 'narrow-minded',
-    translation: 'ограниченный',
+    translating: 'ограниченный',
     partOfSpeechCode: 'j',
     skyId: '80701'
   },
   {
     targetWord: 'narrow-minded',
-    translation: 'узкомыслящий',
+    translating: 'узкомыслящий',
     partOfSpeechCode: 'j',
     skyId: '80700'
   },
   {
     targetWord: 'narrow-mindedly',
-    translation: 'ограниченно',
+    translating: 'ограниченно',
     partOfSpeechCode: 'r',
     skyId: '28770'
   },
   {
     targetWord: 'narrow-mindedness',
-    translation: 'ограниченность',
+    translating: 'ограниченность',
     partOfSpeechCode: 'n',
     skyId: '142272'
   },
   {
     targetWord: 'narrow-mouthed',
-    translation: 'обладающий узким ртом',
+    translating: 'обладающий узким ртом',
     partOfSpeechCode: 'j',
     skyId: '137645'
   },
   {
     targetWord: 'narrowed',
-    translation: 'суженный',
+    translating: 'суженный',
     partOfSpeechCode: 'j',
     skyId: '181369'
   },
   {
     targetWord: 'narrowing',
-    translation: 'сжатие',
+    translating: 'сжатие',
     partOfSpeechCode: 'n',
     skyId: '81586'
   },
   {
     targetWord: 'narrowing',
-    translation: 'сужение',
+    translating: 'сужение',
     partOfSpeechCode: 'n',
     skyId: '81587'
   },
   {
     targetWord: 'narrowly',
-    translation: 'едва',
+    translating: 'едва',
     partOfSpeechCode: 'r',
     skyId: '238638'
   },
   {
     targetWord: 'narrowly',
-    translation: 'точно',
+    translating: 'точно',
     partOfSpeechCode: 'r',
     skyId: '131388'
   },
   {
     targetWord: 'narthex',
-    translation: 'нартекс',
+    translating: 'нартекс',
     partOfSpeechCode: 'n',
     skyId: '91128'
   },
   {
     targetWord: 'narwal',
-    translation: 'нарвал',
+    translating: 'нарвал',
     partOfSpeechCode: 'n',
     skyId: '152465'
   },
   {
     targetWord: 'narwhal',
-    translation: 'нарвал',
+    translating: 'нарвал',
     partOfSpeechCode: 'n',
     skyId: '11321'
   },
   {
     targetWord: 'narwhale',
-    translation: 'нарвал',
+    translating: 'нарвал',
     partOfSpeechCode: 'n',
     skyId: '128629'
   },
   {
     targetWord: 'nary',
-    translation: 'нисколько',
+    translating: 'нисколько',
     partOfSpeechCode: 'j',
     skyId: '71533'
   },
   {
     targetWord: 'nasal bone',
-    translation: 'носовая кость',
+    translating: 'носовая кость',
     partOfSpeechCode: 'n',
     skyId: '227325'
   },
   {
     targetWord: 'nasal cavity',
-    translation: 'носовая полость',
+    translating: 'носовая полость',
     partOfSpeechCode: 'n',
     skyId: '9445'
   },
   {
     targetWord: 'nasal cell',
-    translation: 'назальная клетка',
+    translating: 'назальная клетка',
     partOfSpeechCode: 'n',
     skyId: '258075'
   },
   {
     targetWord: 'nasale',
-    translation: 'чтобы nasale',
+    translating: 'чтобы nasale',
     partOfSpeechCode: 'v',
     skyId: '170353'
   },
   {
     targetWord: 'nasalis',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '184714'
   },
   {
     targetWord: 'nasalis larvatus',
-    translation: 'носач',
+    translating: 'носач',
     partOfSpeechCode: 'n',
     skyId: '180227'
   },
   {
     targetWord: 'nasalization',
-    translation: 'назализация',
+    translating: 'назализация',
     partOfSpeechCode: 'n',
     skyId: '87035'
   },
   {
     targetWord: 'nasalize',
-    translation: 'говорить в нос',
+    translating: 'говорить в нос',
     partOfSpeechCode: 'v',
     skyId: '171268'
   },
   {
     targetWord: 'nasally',
-    translation: 'гнусавый',
+    translating: 'гнусавый',
     partOfSpeechCode: 'j',
     skyId: '232477'
   },
   {
     targetWord: 'nasally',
-    translation: 'интраназально',
+    translating: 'интраназально',
     partOfSpeechCode: 'r',
     skyId: '10038'
   },
   {
     targetWord: 'nascence',
-    translation: 'рождение',
+    translating: 'рождение',
     partOfSpeechCode: 'n',
     skyId: '221499'
   },
   {
     targetWord: 'nascency',
-    translation: 'рождение',
+    translating: 'рождение',
     partOfSpeechCode: 'n',
     skyId: '190008'
   },
   {
     targetWord: 'nascent',
-    translation: 'зарождающийся',
+    translating: 'зарождающийся',
     partOfSpeechCode: 'j',
     skyId: '36212'
   },
   {
     targetWord: 'naseby',
-    translation: 'сражение при несби',
+    translating: 'сражение при несби',
     partOfSpeechCode: 'n',
     skyId: '5072'
   },
   {
     targetWord: 'nasopharyngeal',
-    translation: 'носоглоточный',
+    translating: 'носоглоточный',
     partOfSpeechCode: 'j',
     skyId: '181385'
   },
   {
     targetWord: 'nasopharynx',
-    translation: 'носоглотка',
+    translating: 'носоглотка',
     partOfSpeechCode: 'n',
     skyId: '83754'
   },
   {
     targetWord: 'nasotracheal tube',
-    translation: 'носотрахеальная трубка',
+    translating: 'носотрахеальная трубка',
     partOfSpeechCode: 'n',
     skyId: '97441'
   },
   {
     targetWord: 'nastily',
-    translation: 'с омерзением',
+    translating: 'с омерзением',
     partOfSpeechCode: 'r',
     skyId: '57352'
   },
   {
     targetWord: 'nastiness',
-    translation: 'злобность',
+    translating: 'злобность',
     partOfSpeechCode: 'n',
     skyId: '214010'
   },
   {
     targetWord: 'nastiness',
-    translation: 'скверность',
+    translating: 'скверность',
     partOfSpeechCode: 'n',
     skyId: '214011'
   },
   {
     targetWord: 'nastiness',
-    translation: 'гадость',
+    translating: 'гадость',
     partOfSpeechCode: 'n',
     skyId: '214009'
   },
   {
     targetWord: 'nasturtium',
-    translation: 'настурция',
+    translating: 'настурция',
     partOfSpeechCode: 'n',
     skyId: '169745'
   },
   {
     targetWord: 'nasturtium family',
-    translation: 'настурция семьи',
+    translating: 'настурция семьи',
     partOfSpeechCode: 'n',
     skyId: '110811'
   },
   {
     targetWord: 'nasty',
-    translation: 'жестокий',
+    translating: 'жестокий',
     partOfSpeechCode: 'j',
     skyId: '243847'
   },
   {
     targetWord: 'nasty',
-    translation: 'мерзкий',
+    translating: 'мерзкий',
     partOfSpeechCode: 'j',
     skyId: '178554'
   },
   {
     targetWord: 'nasty',
-    translation: 'неприличный',
+    translating: 'неприличный',
     partOfSpeechCode: 'j',
     skyId: '178553'
   },
   {
     targetWord: 'nasty',
-    translation: 'опасный',
+    translating: 'опасный',
     partOfSpeechCode: 'j',
     skyId: '178552'
   },
   {
     targetWord: 'nasty',
-    translation: 'злобный',
+    translating: 'злобный',
     partOfSpeechCode: 'j',
     skyId: '178551'
   },
   {
     targetWord: 'nasty habit',
-    translation: 'дурная привычка',
+    translating: 'дурная привычка',
     partOfSpeechCode: 'ph',
     skyId: '239089'
   },
   {
     targetWord: 'nasty shock',
-    translation: 'неприятный шок',
+    translating: 'неприятный шок',
     partOfSpeechCode: 'n',
     skyId: '239091'
   },
   {
     targetWord: 'nasua',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '135760'
   },
   {
     targetWord: 'nasua narica',
-    translation: 'коати-мунди',
+    translating: 'коати-мунди',
     partOfSpeechCode: 'n',
     skyId: '17816'
   },
   {
     targetWord: 'natal',
-    translation: 'относящийся к рождению',
+    translating: 'относящийся к рождению',
     partOfSpeechCode: 'j',
     skyId: '150310'
   },
   {
     targetWord: 'natal',
-    translation: 'Наталь',
+    translating: 'Наталь',
     partOfSpeechCode: 'n',
     skyId: '150309'
   },
   {
     targetWord: 'natal',
-    translation: 'Натал',
+    translating: 'Натал',
     partOfSpeechCode: 'n',
     skyId: '150308'
   },
   {
     targetWord: 'natal chart',
-    translation: 'натальная карта',
+    translating: 'натальная карта',
     partOfSpeechCode: 'n',
     skyId: '265421'
   },
   {
     targetWord: 'natal day',
-    translation: 'день рождения',
+    translating: 'день рождения',
     partOfSpeechCode: 'n',
     skyId: '171127'
   },
   {
     targetWord: 'natality',
-    translation: 'рождаемость',
+    translating: 'рождаемость',
     partOfSpeechCode: 'n',
     skyId: '19574'
   },
   {
     targetWord: 'natation',
-    translation: 'плавание',
+    translating: 'плавание',
     partOfSpeechCode: 'n',
     skyId: '219351'
   },
   {
     targetWord: 'natator',
-    translation: 'австралийская зелёная черепаха',
+    translating: 'австралийская зелёная черепаха',
     partOfSpeechCode: 'n',
     skyId: '217141'
   },
   {
     targetWord: 'natchez',
-    translation: 'натчез',
+    translating: 'натчез',
     partOfSpeechCode: 'n',
     skyId: '70352'
   },
   {
     targetWord: 'nates',
-    translation: 'ягодицы',
+    translating: 'ягодицы',
     partOfSpeechCode: 'n',
     skyId: '42296'
   },
   {
     targetWord: 'nation',
-    translation: 'нация',
+    translating: 'нация',
     partOfSpeechCode: 'n',
     skyId: '172641'
   },
   {
     targetWord: 'nation',
-    translation: 'государство',
+    translating: 'государство',
     partOfSpeechCode: 'n',
     skyId: '172638'
   },
   {
     targetWord: 'nation',
-    translation: 'народ',
+    translating: 'народ',
     partOfSpeechCode: 'n',
     skyId: '172639'
   },
   {
     targetWord: 'national',
-    translation: 'внутригосударственный',
+    translating: 'внутригосударственный',
     partOfSpeechCode: 'j',
     skyId: '49193'
   },
   {
     targetWord: 'national',
-    translation: 'государственный',
+    translating: 'государственный',
     partOfSpeechCode: 'j',
     skyId: '49192'
   },
   {
     targetWord: 'national',
-    translation: 'национальный',
+    translating: 'национальный',
     partOfSpeechCode: 'j',
     skyId: '49195'
   },
   {
     targetWord: 'national',
-    translation: 'гражданин',
+    translating: 'гражданин',
     partOfSpeechCode: 'n',
     skyId: '49188'
   },
   {
     targetWord: 'national acclaim',
-    translation: 'национальное признание',
+    translating: 'национальное признание',
     partOfSpeechCode: 'n',
     skyId: '236356'
   },
   {
     targetWord: 'national anthem',
-    translation: 'государственный гимн',
+    translating: 'государственный гимн',
     partOfSpeechCode: 'n',
     skyId: '103429'
   },
   {
     targetWord: 'national baseball hall of fame',
-    translation: 'национальный зал славы бейсбола',
+    translating: 'национальный зал славы бейсбола',
     partOfSpeechCode: 'n',
     skyId: '115244'
   },
   {
     targetWord: 'national debt',
-    translation: 'национальный государственный долг',
+    translating: 'национальный государственный долг',
     partOfSpeechCode: 'n',
     skyId: '159561'
   },
   {
     targetWord: 'national dish',
-    translation: 'национальное блюдо',
+    translating: 'национальное блюдо',
     partOfSpeechCode: 'ph',
     skyId: '231561'
   },
   {
     targetWord: 'national flag',
-    translation: 'государственный флаг',
+    translating: 'государственный флаг',
     partOfSpeechCode: 'n',
     skyId: '229998'
   },
   {
     targetWord: 'national guard',
-    translation: 'Национальная гвардия США',
+    translating: 'Национальная гвардия США',
     partOfSpeechCode: 'n',
     skyId: '186210'
   },
   {
     targetWord: 'national holiday',
-    translation: 'государственный праздник',
+    translating: 'государственный праздник',
     partOfSpeechCode: 'n',
     skyId: '8636'
   },
   {
     targetWord: 'national leader',
-    translation: 'глава правительства',
+    translating: 'глава правительства',
     partOfSpeechCode: 'n',
     skyId: '14869'
   },
   {
     targetWord: 'national monument',
-    translation: 'национальным памятником',
+    translating: 'национальным памятником',
     partOfSpeechCode: 'n',
     skyId: '150086'
   },
   {
     targetWord: 'national newspaper',
-    translation: 'национальная газета',
+    translating: 'национальная газета',
     partOfSpeechCode: 'n',
     skyId: '263126'
   },
   {
     targetWord: 'national park',
-    translation: 'национальный парк',
+    translating: 'национальный парк',
     partOfSpeechCode: 'n',
     skyId: '83979'
   },
   {
     targetWord: 'national scrutiny',
-    translation: 'национальная проверка на соответствие',
+    translating: 'национальная проверка на соответствие',
     partOfSpeechCode: 'n',
     skyId: '250447'
   },
   {
     targetWord: 'national socialist',
-    translation: 'национал-социалистический',
+    translating: 'национал-социалистический',
     partOfSpeechCode: 'j',
     skyId: '25219'
   },
   {
     targetWord: 'national stereotype',
-    translation: 'национальный стереотип',
+    translating: 'национальный стереотип',
     partOfSpeechCode: 'ph',
     skyId: '231659'
   },
   {
     targetWord: 'nationalisation',
-    translation: 'национализация',
+    translating: 'национализация',
     partOfSpeechCode: 'n',
     skyId: '178290'
   },
   {
     targetWord: 'nationalism',
-    translation: 'национализм',
+    translating: 'национализм',
     partOfSpeechCode: 'n',
     skyId: '147226'
   },
   {
     targetWord: 'nationalism',
-    translation: 'патриотизм',
+    translating: 'патриотизм',
     partOfSpeechCode: 'n',
     skyId: '147223'
   },
   {
     targetWord: 'nationalist',
-    translation: 'националистический',
+    translating: 'националистический',
     partOfSpeechCode: 'j',
     skyId: '147199'
   },
   {
     targetWord: 'nationalist',
-    translation: 'националист',
+    translating: 'националист',
     partOfSpeechCode: 'n',
     skyId: '147198'
   },
   {
     targetWord: 'nationalist',
-    translation: 'патриот',
+    translating: 'патриот',
     partOfSpeechCode: 'n',
     skyId: '147197'
   },
   {
     targetWord: 'nationalistic',
-    translation: 'националистический',
+    translating: 'националистический',
     partOfSpeechCode: 'j',
     skyId: '151171'
   },
   {
     targetWord: 'nationality',
-    translation: 'гражданство',
+    translating: 'гражданство',
     partOfSpeechCode: 'n',
     skyId: '130249'
   },
   {
     targetWord: 'nationality',
-    translation: 'национальность',
+    translating: 'национальность',
     partOfSpeechCode: 'n',
     skyId: '130248'
   },
   {
     targetWord: 'nationalization',
-    translation: 'национализация',
+    translating: 'национализация',
     partOfSpeechCode: 'n',
     skyId: '168710'
   },
   {
     targetWord: 'nationalize',
-    translation: 'национализировать',
+    translating: 'национализировать',
     partOfSpeechCode: 'v',
     skyId: '215190'
   },
   {
     targetWord: 'nationhood',
-    translation: 'государственность',
+    translating: 'государственность',
     partOfSpeechCode: 'n',
     skyId: '88810'
   },
   {
     targetWord: 'nationwide',
-    translation: 'по всей стране',
+    translating: 'по всей стране',
     partOfSpeechCode: 'r',
     skyId: '119486'
   },
   {
     targetWord: 'nationwide',
-    translation: 'общенациональный',
+    translating: 'общенациональный',
     partOfSpeechCode: 'j',
     skyId: '119485'
   },
   {
     targetWord: 'native',
-    translation: 'местный, местного происхождения',
+    translating: 'местный, местного происхождения',
     partOfSpeechCode: 'j',
     skyId: '263013'
   },
   {
     targetWord: 'native',
-    translation: 'местный ',
+    translating: 'местный ',
     partOfSpeechCode: 'j',
     skyId: '247742'
   },
   {
     targetWord: 'native',
-    translation: 'природный',
+    translating: 'природный',
     partOfSpeechCode: 'j',
     skyId: '79594'
   },
   {
     targetWord: 'native',
-    translation: 'коренной',
+    translating: 'коренной',
     partOfSpeechCode: 'j',
     skyId: '79593'
   },
   {
     targetWord: 'native',
-    translation: 'врождённый',
+    translating: 'врождённый',
     partOfSpeechCode: 'j',
     skyId: '79592'
   },
   {
     targetWord: 'native',
-    translation: 'родной',
+    translating: 'родной',
     partOfSpeechCode: 'j',
     skyId: '79591'
   },
   {
     targetWord: 'native',
-    translation: 'уроженец',
+    translating: 'уроженец',
     partOfSpeechCode: 'n',
     skyId: '79589'
   },
   {
     targetWord: 'native',
-    translation: 'местный',
+    translating: 'местный',
     partOfSpeechCode: 'n',
     skyId: '79588'
   },
   {
     targetWord: 'native advertising',
-    translation: 'нативная реклама',
+    translating: 'нативная реклама',
     partOfSpeechCode: 'n',
     skyId: '255583'
   },
   {
     targetWord: 'native american',
-    translation: 'представитель коренного населения Америки',
+    translating: 'представитель коренного населения Америки',
     partOfSpeechCode: 'n',
     skyId: '108462'
   },
   {
     targetWord: 'native bear',
-    translation: 'коала',
+    translating: 'коала',
     partOfSpeechCode: 'n',
     skyId: '219141'
   },
   {
     targetWord: 'native cat',
-    translation: 'крапчатая сумчатая куница',
+    translating: 'крапчатая сумчатая куница',
     partOfSpeechCode: 'n',
     skyId: '55753'
   },
   {
     targetWord: 'native country',
-    translation: 'родина',
+    translating: 'родина',
     partOfSpeechCode: 'n',
     skyId: '239095'
   },
   {
     targetWord: 'native land',
-    translation: 'родина',
+    translating: 'родина',
     partOfSpeechCode: 'n',
     skyId: '17179'
   },
   {
     targetWord: 'native language',
-    translation: 'родной язык',
+    translating: 'родной язык',
     partOfSpeechCode: 'n',
     skyId: '182591'
   },
   {
     targetWord: 'native plant',
-    translation: 'аборигенное растение',
+    translating: 'аборигенное растение',
     partOfSpeechCode: 'n',
     skyId: '258109'
   },
   {
     targetWord: 'native speaker',
-    translation: 'носитель языка',
+    translating: 'носитель языка',
     partOfSpeechCode: 'n',
     skyId: '41508'
   },
   {
     targetWord: 'native sulfur',
-    translation: 'самородной серы',
+    translating: 'самородной серы',
     partOfSpeechCode: 'n',
     skyId: '76444'
   },
   {
     targetWord: 'native sulphur',
-    translation: 'самородной серы',
+    translating: 'самородной серы',
     partOfSpeechCode: 'n',
     skyId: '94028'
   },
   {
     targetWord: 'native support',
-    translation: 'встроенная поддержка',
+    translating: 'встроенная поддержка',
     partOfSpeechCode: 'n',
     skyId: '258979'
   },
   {
     targetWord: 'native-born',
-    translation: 'коренной',
+    translating: 'коренной',
     partOfSpeechCode: 'j',
     skyId: '23812'
   },
   {
     targetWord: 'nativism',
-    translation: 'нативизм',
+    translating: 'нативизм',
     partOfSpeechCode: 'n',
     skyId: '173450'
   },
   {
     targetWord: 'nativist',
-    translation: 'нативисты',
+    translating: 'нативисты',
     partOfSpeechCode: 'j',
     skyId: '173468'
   },
   {
     targetWord: 'nativity',
-    translation: 'Рождество',
+    translating: 'Рождество',
     partOfSpeechCode: 'n',
     skyId: '215747'
   },
   {
     targetWord: 'nativity',
-    translation: 'рождение',
+    translating: 'рождение',
     partOfSpeechCode: 'n',
     skyId: '215746'
   },
   {
     targetWord: 'nativity play',
-    translation: 'рождественская пьеса',
+    translating: 'рождественская пьеса',
     partOfSpeechCode: 'n',
     skyId: '261641'
   },
   {
     targetWord: 'natrix',
-    translation: 'уж',
+    translating: 'уж',
     partOfSpeechCode: 'n',
     skyId: '222182'
   },
   {
     targetWord: 'natrix natrix',
-    translation: 'обыкновенный уж',
+    translating: 'обыкновенный уж',
     partOfSpeechCode: 'n',
     skyId: '218644'
   },
   {
     targetWord: 'natter',
-    translation: 'болтовня',
+    translating: 'болтовня',
     partOfSpeechCode: 'n',
     skyId: '231987'
   },
   {
     targetWord: 'natter',
-    translation: 'болтать',
+    translating: 'болтать',
     partOfSpeechCode: 'v',
     skyId: '101692'
   },
   {
     targetWord: 'natterjack',
-    translation: 'камышовая жаба',
+    translating: 'камышовая жаба',
     partOfSpeechCode: 'n',
     skyId: '7529'
   },
   {
     targetWord: 'nattily',
-    translation: 'опрятно',
+    translating: 'опрятно',
     partOfSpeechCode: 'r',
     skyId: '109085'
   },
   {
     targetWord: 'natty',
-    translation: 'опрятный',
+    translating: 'опрятный',
     partOfSpeechCode: 'j',
     skyId: '219386'
   },
   {
     targetWord: 'natural',
-    translation: 'врожденный',
+    translating: 'врожденный',
     partOfSpeechCode: 'j',
     skyId: '240129'
   },
   {
     targetWord: 'natural',
-    translation: 'самородный',
+    translating: 'самородный',
     partOfSpeechCode: 'j',
     skyId: '172527'
   },
   {
     targetWord: 'natural',
-    translation: 'чистый (о тоне без альтераций)',
+    translating: 'чистый (о тоне без альтераций)',
     partOfSpeechCode: 'j',
     skyId: '172523'
   },
   {
     targetWord: 'natural',
-    translation: 'обычный ',
+    translating: 'обычный ',
     partOfSpeechCode: 'j',
     skyId: '172522'
   },
   {
     targetWord: 'natural',
-    translation: 'естественный',
+    translating: 'естественный',
     partOfSpeechCode: 'j',
     skyId: '172524'
   },
   {
     targetWord: 'natural',
-    translation: 'натуральный',
+    translating: 'натуральный',
     partOfSpeechCode: 'j',
     skyId: '172528'
   },
   {
     targetWord: 'natural',
-    translation: 'природный',
+    translating: 'природный',
     partOfSpeechCode: 'j',
     skyId: '172525'
   },
   {
     targetWord: 'natural',
-    translation: 'Natural',
+    translating: 'Natural',
     partOfSpeechCode: 'n',
     skyId: '172518'
   },
   {
     targetWord: 'natural',
-    translation: 'бекар',
+    translating: 'бекар',
     partOfSpeechCode: 'n',
     skyId: '172517'
   },
   {
     targetWord: 'natural',
-    translation: 'подходящий человек',
+    translating: 'подходящий человек',
     partOfSpeechCode: 'n',
     skyId: '172516'
   },
   {
     targetWord: 'natural ability',
-    translation: 'врождённая способность',
+    translating: 'врождённая способность',
     partOfSpeechCode: 'n',
     skyId: '16147'
   },
@@ -3176,1969 +3176,1969 @@ export const nArr = [
   },
   {
     targetWord: 'natural beauty',
-    translation: 'природная красота',
+    translating: 'природная красота',
     partOfSpeechCode: 'n',
     skyId: '255720'
   },
   {
     targetWord: 'natural cause',
-    translation: 'естественная причина',
+    translating: 'естественная причина',
     partOfSpeechCode: 'ph',
     skyId: '239097'
   },
   {
     targetWord: 'natural cement',
-    translation: 'естественный цемент',
+    translating: 'естественный цемент',
     partOfSpeechCode: 'n',
     skyId: '248678'
   },
   {
     targetWord: 'natural childbirth',
-    translation: 'естественные роды',
+    translating: 'естественные роды',
     partOfSpeechCode: 'n',
     skyId: '161758'
   },
   {
     targetWord: 'natural circulation',
-    translation: 'естественная циркуляция',
+    translating: 'естественная циркуляция',
     partOfSpeechCode: 'n',
     skyId: '248130'
   },
   {
     targetWord: 'natural circulation of primary coolant',
-    translation: 'естественная циркуляция теплоносителя первого контура',
+    translating: 'естественная циркуляция теплоносителя первого контура',
     partOfSpeechCode: 'n',
     skyId: '248133'
   },
   {
     targetWord: 'natural conditions',
-    translation: 'естественные условия',
+    translating: 'естественные условия',
     partOfSpeechCode: 'n',
     skyId: '260959'
   },
   {
     targetWord: 'natural cooling',
-    translation: 'естественное охлаждение',
+    translating: 'естественное охлаждение',
     partOfSpeechCode: 'n',
     skyId: '248134'
   },
   {
     targetWord: 'natural disaster',
-    translation: 'стихийное бедствие',
+    translating: 'стихийное бедствие',
     partOfSpeechCode: 'ph',
     skyId: '232605'
   },
   {
     targetWord: 'natural enclosure',
-    translation: 'естественное ограждение',
+    translating: 'естественное ограждение',
     partOfSpeechCode: 'n',
     skyId: '85507'
   },
   {
     targetWord: 'natural endowment',
-    translation: 'врождённый талант',
+    translating: 'врождённый талант',
     partOfSpeechCode: 'n',
     skyId: '183391'
   },
   {
     targetWord: 'natural event',
-    translation: 'естественное событие',
+    translating: 'естественное событие',
     partOfSpeechCode: 'n',
     skyId: '104840'
   },
   {
     targetWord: 'natural exposure',
-    translation: 'природное облучение',
+    translating: 'природное облучение',
     partOfSpeechCode: 'n',
     skyId: '249299'
   },
   {
     targetWord: 'natural frequency',
-    translation: 'собственная частота',
+    translating: 'собственная частота',
     partOfSpeechCode: 'n',
     skyId: '248136'
   },
   {
     targetWord: 'natural gas',
-    translation: 'природный газ',
+    translating: 'природный газ',
     partOfSpeechCode: 'n',
     skyId: '101251'
   },
   {
     targetWord: 'natural habitat',
-    translation: 'естественная среда обитания',
+    translating: 'естественная среда обитания',
     partOfSpeechCode: 'n',
     skyId: '232161'
   },
   {
     targetWord: 'natural history museum',
-    translation: 'музей естествознания',
+    translating: 'музей естествознания',
     partOfSpeechCode: 'ph',
     skyId: '266296'
   },
   {
     targetWord: 'natural immunity',
-    translation: 'врождённый иммунитет',
+    translating: 'врождённый иммунитет',
     partOfSpeechCode: 'n',
     skyId: '34475'
   },
   {
     targetWord: 'natural irradiation',
-    translation: 'природное облучение',
+    translating: 'природное облучение',
     partOfSpeechCode: 'n',
     skyId: '246384'
   },
   {
     targetWord: 'natural language',
-    translation: 'естественный язык',
+    translating: 'естественный язык',
     partOfSpeechCode: 'n',
     skyId: '95727'
   },
   {
     targetWord: 'natural language processing',
-    translation: 'обработка естественного языка',
+    translating: 'обработка естественного языка',
     partOfSpeechCode: 'n',
     skyId: '262900'
   },
   {
     targetWord: 'natural law',
-    translation: 'естественное право',
+    translating: 'естественное право',
     partOfSpeechCode: 'n',
     skyId: '51728'
   },
   {
     targetWord: 'natural light',
-    translation: 'дневной свет',
+    translating: 'дневной свет',
     partOfSpeechCode: 'n',
     skyId: '245385'
   },
   {
     targetWord: 'natural logarithm',
-    translation: 'натуральный логарифм',
+    translating: 'натуральный логарифм',
     partOfSpeechCode: 'n',
     skyId: '192633'
   },
   {
     targetWord: 'natural look',
-    translation: 'естественный вид',
+    translating: 'естественный вид',
     partOfSpeechCode: 'ph',
     skyId: '229796'
   },
   {
     targetWord: 'natural order',
-    translation: 'естественный порядок',
+    translating: 'естественный порядок',
     partOfSpeechCode: 'n',
     skyId: '37109'
   },
   {
     targetWord: 'natural oscillation',
-    translation: 'собственное колебание',
+    translating: 'собственное колебание',
     partOfSpeechCode: 'n',
     skyId: '248141'
   },
   {
     targetWord: 'natural person',
-    translation: 'физическое лицо',
+    translating: 'физическое лицо',
     partOfSpeechCode: 'n',
     skyId: '263799'
   },
   {
     targetWord: 'natural phenomenon',
-    translation: 'природное явление',
+    translating: 'природное явление',
     partOfSpeechCode: 'n',
     skyId: '108718'
   },
   {
     targetWord: 'natural philosophy',
-    translation: 'физика',
+    translating: 'физика',
     partOfSpeechCode: 'n',
     skyId: '126327'
   },
   {
     targetWord: 'natural radiation source',
-    translation: 'источник природного излучения',
+    translating: 'источник природного излучения',
     partOfSpeechCode: 'n',
     skyId: '246472'
   },
   {
     targetWord: 'natural resource',
-    translation: 'природный ресурс',
+    translating: 'природный ресурс',
     partOfSpeechCode: 'n',
     skyId: '186649'
   },
   {
     targetWord: 'natural resources',
-    translation: 'природные ресурсы',
+    translating: 'природные ресурсы',
     partOfSpeechCode: 'n',
     skyId: '73781'
   },
   {
     targetWord: 'natural rubber',
-    translation: 'резина',
+    translating: 'резина',
     partOfSpeechCode: 'n',
     skyId: '159578'
   },
   {
     targetWord: 'natural science',
-    translation: 'естествознание',
+    translating: 'естествознание',
     partOfSpeechCode: 'n',
     skyId: '29366'
   },
   {
     targetWord: 'natural scientist',
-    translation: 'естествоиспытатель',
+    translating: 'естествоиспытатель',
     partOfSpeechCode: 'n',
     skyId: '19941'
   },
   {
     targetWord: 'natural selection',
-    translation: 'естественный отбор',
+    translating: 'естественный отбор',
     partOfSpeechCode: 'n',
     skyId: '7038'
   },
   {
     targetWord: 'natural spring',
-    translation: 'природный источник',
+    translating: 'природный источник',
     partOfSpeechCode: 'n',
     skyId: '74627'
   },
   {
     targetWord: 'natural state',
-    translation: 'естественное состояние',
+    translating: 'естественное состояние',
     partOfSpeechCode: 'n',
     skyId: '133485'
   },
   {
     targetWord: 'natural talent',
-    translation: 'природный дар',
+    translating: 'природный дар',
     partOfSpeechCode: 'n',
     skyId: '231755'
   },
   {
     targetWord: 'natural uranium',
-    translation: 'природный уран',
+    translating: 'природный уран',
     partOfSpeechCode: 'n',
     skyId: '246473'
   },
   {
     targetWord: 'natural vibration',
-    translation: 'собственное колебание',
+    translating: 'собственное колебание',
     partOfSpeechCode: 'n',
     skyId: '248139'
   },
   {
     targetWord: 'natural wonder',
-    translation: 'чудо природы',
+    translating: 'чудо природы',
     partOfSpeechCode: 'n',
     skyId: '241713'
   },
   {
     targetWord: 'natural world',
-    translation: 'мир природы',
+    translating: 'мир природы',
     partOfSpeechCode: 'n',
     skyId: '264079'
   },
   {
     targetWord: 'natural-born',
-    translation: 'прирождённый',
+    translating: 'прирождённый',
     partOfSpeechCode: 'j',
     skyId: '265161'
   },
   {
     targetWord: 'naturalisation',
-    translation: 'натурализация',
+    translating: 'натурализация',
     partOfSpeechCode: 'n',
     skyId: '83360'
   },
   {
     targetWord: 'naturalise',
-    translation: 'натурализоваться',
+    translating: 'натурализоваться',
     partOfSpeechCode: 'v',
     skyId: '156028'
   },
   {
     targetWord: 'naturalism',
-    translation: 'реализм',
+    translating: 'реализм',
     partOfSpeechCode: 'n',
     skyId: '156047'
   },
   {
     targetWord: 'naturalism',
-    translation: 'натурализм',
+    translating: 'натурализм',
     partOfSpeechCode: 'n',
     skyId: '156046'
   },
   {
     targetWord: 'naturalist',
-    translation: 'натуралист',
+    translating: 'натуралист',
     partOfSpeechCode: 'n',
     skyId: '156013'
   },
   {
     targetWord: 'naturalization',
-    translation: 'натурализация',
+    translating: 'натурализация',
     partOfSpeechCode: 'n',
     skyId: '122570'
   },
   {
     targetWord: 'naturalize',
-    translation: 'привыкать ',
+    translating: 'привыкать ',
     partOfSpeechCode: 'v',
     skyId: '193252'
   },
   {
     targetWord: 'naturalize',
-    translation: 'получить гражданство',
+    translating: 'получить гражданство',
     partOfSpeechCode: 'v',
     skyId: '193250'
   },
   {
     targetWord: 'naturalized',
-    translation: 'акклиматизированный',
+    translating: 'акклиматизированный',
     partOfSpeechCode: 'j',
     skyId: '193256'
   },
   {
     targetWord: 'naturalized',
-    translation: 'натурализованный',
+    translating: 'натурализованный',
     partOfSpeechCode: 'j',
     skyId: '193255'
   },
   {
     targetWord: 'naturally',
-    translation: 'от рождения',
+    translating: 'от рождения',
     partOfSpeechCode: 'r',
     skyId: '148896'
   },
   {
     targetWord: 'naturally',
-    translation: 'естественно',
+    translating: 'естественно',
     partOfSpeechCode: 'r',
     skyId: '148897'
   },
   {
     targetWord: 'naturally',
-    translation: 'как и ожидалось',
+    translating: 'как и ожидалось',
     partOfSpeechCode: 'r',
     skyId: '148894'
   },
   {
     targetWord: 'naturalness',
-    translation: 'естественность',
+    translating: 'естественность',
     partOfSpeechCode: 'n',
     skyId: '86013'
   },
   {
     targetWord: 'nature',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '1178'
   },
   {
     targetWord: 'nature',
-    translation: 'характер',
+    translating: 'характер',
     partOfSpeechCode: 'n',
     skyId: '1177'
   },
   {
     targetWord: 'nature',
-    translation: 'природа',
+    translating: 'природа',
     partOfSpeechCode: 'n',
     skyId: '1176'
   },
   {
     targetWord: 'nature',
-    translation: 'суть',
+    translating: 'суть',
     partOfSpeechCode: 'n',
     skyId: '1174'
   },
   {
     targetWord: 'nature abhors a vacuum',
-    translation: 'Свято место пусто не бывает',
+    translating: 'Свято место пусто не бывает',
     partOfSpeechCode: 'ph',
     skyId: '243198'
   },
   {
     targetWord: 'nature reserve',
-    translation: 'природный заповедник',
+    translating: 'природный заповедник',
     partOfSpeechCode: 'n',
     skyId: '233180'
   },
   {
     targetWord: 'nature study',
-    translation: 'изучение природы',
+    translating: 'изучение природы',
     partOfSpeechCode: 'n',
     skyId: '52866'
   },
   {
     targetWord: 'nature versus nurture',
-    translation: 'природа против воспитания',
+    translating: 'природа против воспитания',
     partOfSpeechCode: 'ph',
     skyId: '263579'
   },
   {
     targetWord: 'naturism',
-    translation: 'натуризм',
+    translating: 'натуризм',
     partOfSpeechCode: 'n',
     skyId: '92026'
   },
   {
     targetWord: 'naturist',
-    translation: 'нудист',
+    translating: 'нудист',
     partOfSpeechCode: 'n',
     skyId: '166893'
   },
   {
     targetWord: 'naturistic',
-    translation: 'naturistic',
+    translating: 'naturistic',
     partOfSpeechCode: 'j',
     skyId: '79416'
   },
   {
     targetWord: 'naturopath',
-    translation: 'натуропат',
+    translating: 'натуропат',
     partOfSpeechCode: 'n',
     skyId: '101536'
   },
   {
     targetWord: 'naturopathy',
-    translation: 'натуропатия',
+    translating: 'натуропатия',
     partOfSpeechCode: 'n',
     skyId: '97700'
   },
   {
     targetWord: 'nauch',
-    translation: 'науч',
+    translating: 'науч',
     partOfSpeechCode: 'n',
     skyId: '188818'
   },
   {
     targetWord: 'nauclea',
-    translation: 'науклея',
+    translating: 'науклея',
     partOfSpeechCode: 'n',
     skyId: '131673'
   },
   {
     targetWord: 'nauclea diderrichii',
-    translation: 'науклея дидерриха',
+    translating: 'науклея дидерриха',
     partOfSpeechCode: 'n',
     skyId: '149756'
   },
   {
     targetWord: 'naught',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'prn',
     skyId: '193303'
   },
   {
     targetWord: 'naught',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'n',
     skyId: '193303'
   },
   {
     targetWord: 'naught',
-    translation: 'ноль',
+    translating: 'ноль',
     partOfSpeechCode: 'n',
     skyId: '193302'
   },
   {
     targetWord: 'naughtily',
-    translation: 'непослушно',
+    translating: 'непослушно',
     partOfSpeechCode: 'r',
     skyId: '189541'
   },
   {
     targetWord: 'naughtiness',
-    translation: 'непослушание',
+    translating: 'непослушание',
     partOfSpeechCode: 'n',
     skyId: '179672'
   },
   {
     targetWord: 'naumachia',
-    translation: 'навмахия',
+    translating: 'навмахия',
     partOfSpeechCode: 'n',
     skyId: '89906'
   },
   {
     targetWord: 'naupathia',
-    translation: 'морская болезнь',
+    translating: 'морская болезнь',
     partOfSpeechCode: 'n',
     skyId: '125189'
   },
   {
     targetWord: 'nauru',
-    translation: 'науру',
+    translating: 'науру',
     partOfSpeechCode: 'n',
     skyId: '223473'
   },
   {
     targetWord: 'nauruan',
-    translation: 'науруанец',
+    translating: 'науруанец',
     partOfSpeechCode: 'n',
     skyId: '154555'
   },
   {
     targetWord: 'nausea',
-    translation: 'тошнота',
+    translating: 'тошнота',
     partOfSpeechCode: 'n',
     skyId: '125594'
   },
   {
     targetWord: 'nauseant',
-    translation: 'рвотное средство',
+    translating: 'рвотное средство',
     partOfSpeechCode: 'n',
     skyId: '164891'
   },
   {
     targetWord: 'nauseate',
-    translation: 'вызывать тошноту',
+    translating: 'вызывать тошноту',
     partOfSpeechCode: 'v',
     skyId: '122227'
   },
   {
     targetWord: 'nauseated',
-    translation: 'тошнотворный',
+    translating: 'тошнотворный',
     partOfSpeechCode: 'j',
     skyId: '190154'
   },
   {
     targetWord: 'nauseating',
-    translation: 'тошнотворный',
+    translating: 'тошнотворный',
     partOfSpeechCode: 'j',
     skyId: '122228'
   },
   {
     targetWord: 'nauseous',
-    translation: 'тошнотворный',
+    translating: 'тошнотворный',
     partOfSpeechCode: 'j',
     skyId: '60946'
   },
   {
     targetWord: 'nautch dance',
-    translation: 'науч',
+    translating: 'науч',
     partOfSpeechCode: 'n',
     skyId: '67995'
   },
   {
     targetWord: 'nautical',
-    translation: 'мореходный',
+    translating: 'мореходный',
     partOfSpeechCode: 'j',
     skyId: '175649'
   },
   {
     targetWord: 'nautilidae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '139471'
   },
   {
     targetWord: 'nautilus',
-    translation: 'наутилус',
+    translating: 'наутилус',
     partOfSpeechCode: 'n',
     skyId: '67655'
   },
   {
     targetWord: 'nautilus',
-    translation: 'аргонавты',
+    translating: 'аргонавты',
     partOfSpeechCode: 'n',
     skyId: '67654'
   },
   {
     targetWord: 'nautilus',
-    translation: 'атомная подводная лодка',
+    translating: 'атомная подводная лодка',
     partOfSpeechCode: 'n',
     skyId: '67653'
   },
   {
     targetWord: 'nav station',
-    translation: 'навигационная станция',
+    translating: 'навигационная станция',
     partOfSpeechCode: 'n',
     skyId: '266925'
   },
   {
     targetWord: 'naval',
-    translation: 'военно-морской',
+    translating: 'военно-морской',
     partOfSpeechCode: 'j',
     skyId: '138227'
   },
   {
     targetWord: 'naval division',
-    translation: 'военно-морской отдел',
+    translating: 'военно-морской отдел',
     partOfSpeechCode: 'n',
     skyId: '100133'
   },
   {
     targetWord: 'naval equipment',
-    translation: 'военно-морская техника',
+    translating: 'военно-морская техника',
     partOfSpeechCode: 'n',
     skyId: '137161'
   },
   {
     targetWord: 'naval forces',
-    translation: 'военно-морской флот',
+    translating: 'военно-морской флот',
     partOfSpeechCode: 'n',
     skyId: '116652'
   },
   {
     targetWord: 'naval gun',
-    translation: 'корабельная артиллерия',
+    translating: 'корабельная артиллерия',
     partOfSpeechCode: 'n',
     skyId: '151482'
   },
   {
     targetWord: 'naval missile',
-    translation: 'военно-морская ракета',
+    translating: 'военно-морская ракета',
     partOfSpeechCode: 'n',
     skyId: '177806'
   },
   {
     targetWord: 'naval officer',
-    translation: 'военно-морской офицер',
+    translating: 'военно-морской офицер',
     partOfSpeechCode: 'n',
     skyId: '20744'
   },
   {
     targetWord: 'naval radar',
-    translation: 'морской радар',
+    translating: 'морской радар',
     partOfSpeechCode: 'n',
     skyId: '98004'
   },
   {
     targetWord: 'naval tactical data system',
-    translation: 'морская тактическая система ',
+    translating: 'морская тактическая система ',
     partOfSpeechCode: 'n',
     skyId: '132152'
   },
   {
     targetWord: 'naval weaponry',
-    translation: 'морских вооружений',
+    translating: 'морских вооружений',
     partOfSpeechCode: 'n',
     skyId: '224964'
   },
   {
     targetWord: 'navarino',
-    translation: 'наваринское сражение',
+    translating: 'наваринское сражение',
     partOfSpeechCode: 'n',
     skyId: '46897'
   },
   {
     targetWord: 'nave',
-    translation: 'неф',
+    translating: 'неф',
     partOfSpeechCode: 'n',
     skyId: '71432'
   },
   {
     targetWord: 'navel',
-    translation: 'центр',
+    translating: 'центр',
     partOfSpeechCode: 'n',
     skyId: '79857'
   },
   {
     targetWord: 'navel',
-    translation: 'пупок',
+    translating: 'пупок',
     partOfSpeechCode: 'n',
     skyId: '79856'
   },
   {
     targetWord: 'navel point',
-    translation: 'центр',
+    translating: 'центр',
     partOfSpeechCode: 'n',
     skyId: '49967'
   },
   {
     targetWord: 'navel-gazing',
-    translation: 'самокопание',
+    translating: 'самокопание',
     partOfSpeechCode: 'n',
     skyId: '104246'
   },
   {
     targetWord: 'navigability',
-    translation: 'навигационные качества',
+    translating: 'навигационные качества',
     partOfSpeechCode: 'n',
     skyId: '94418'
   },
   {
     targetWord: 'navigate',
-    translation: 'ориентироваться',
+    translating: 'ориентироваться',
     partOfSpeechCode: 'v',
     skyId: '231878'
   },
   {
     targetWord: 'navigate',
-    translation: 'направлять',
+    translating: 'направлять',
     partOfSpeechCode: 'v',
     skyId: '64714'
   },
   {
     targetWord: 'navigate',
-    translation: 'производить навигацию',
+    translating: 'производить навигацию',
     partOfSpeechCode: 'v',
     skyId: '64713'
   },
   {
     targetWord: 'navigate',
-    translation: 'совершать плавание',
+    translating: 'совершать плавание',
     partOfSpeechCode: 'v',
     skyId: '64712'
   },
   {
     targetWord: 'navigate a site',
-    translation: 'использовать сайт, просматривать сайт',
+    translating: 'использовать сайт, просматривать сайт',
     partOfSpeechCode: 'ph',
     skyId: '263541'
   },
   {
     targetWord: 'navigation strategy',
-    translation: 'стратегия прокладки маршрута',
+    translating: 'стратегия прокладки маршрута',
     partOfSpeechCode: 'n',
     skyId: '258778'
   },
   {
     targetWord: 'navigational',
-    translation: 'навигационный',
+    translating: 'навигационный',
     partOfSpeechCode: 'j',
     skyId: '54127'
   },
   {
     targetWord: 'navigational chart',
-    translation: 'морская навигационная карта',
+    translating: 'морская навигационная карта',
     partOfSpeechCode: 'n',
     skyId: '129276'
   },
   {
     targetWord: 'navigational instrument',
-    translation: 'навигационный прибор',
+    translating: 'навигационный прибор',
     partOfSpeechCode: 'n',
     skyId: '759'
   },
   {
     targetWord: 'navigational system',
-    translation: 'навигационная система',
+    translating: 'навигационная система',
     partOfSpeechCode: 'n',
     skyId: '43522'
   },
   {
     targetWord: 'navigator',
-    translation: 'навигатор',
+    translating: 'навигатор',
     partOfSpeechCode: 'n',
     skyId: '234236'
   },
   {
     targetWord: 'navigator',
-    translation: 'штурман',
+    translating: 'штурман',
     partOfSpeechCode: 'n',
     skyId: '178313'
   },
   {
     targetWord: 'navratilova',
-    translation: 'Мартина Навратилова',
+    translating: 'Мартина Навратилова',
     partOfSpeechCode: 'n',
     skyId: '126671'
   },
   {
     targetWord: 'navvy',
-    translation: 'землекоп',
+    translating: 'землекоп',
     partOfSpeechCode: 'n',
     skyId: '188517'
   },
   {
     targetWord: 'navy',
-    translation: 'тёмно-синий',
+    translating: 'тёмно-синий',
     partOfSpeechCode: 'n',
     skyId: '71449'
   },
   {
     targetWord: 'navy',
-    translation: 'военно-морской флот',
+    translating: 'военно-морской флот',
     partOfSpeechCode: 'n',
     skyId: '71450'
   },
   {
     targetWord: 'navy base',
-    translation: 'военно-морская база',
+    translating: 'военно-морская база',
     partOfSpeechCode: 'n',
     skyId: '86113'
   },
   {
     targetWord: 'navy bean',
-    translation: 'фасоль обыкновенная',
+    translating: 'фасоль обыкновенная',
     partOfSpeechCode: 'n',
     skyId: '187408'
   },
   {
     targetWord: 'navy blue',
-    translation: 'темно-синий',
+    translating: 'темно-синий',
     partOfSpeechCode: 'n',
     skyId: '171460'
   },
   {
     targetWord: 'navy cross',
-    translation: 'военно-морской крест США',
+    translating: 'военно-морской крест США',
     partOfSpeechCode: 'n',
     skyId: '54193'
   },
   {
     targetWord: 'navy department',
-    translation: 'военно-морское министерство США',
+    translating: 'военно-морское министерство США',
     partOfSpeechCode: 'n',
     skyId: '12692'
   },
   {
     targetWord: 'navy man',
-    translation: 'военно-морской флот человек',
+    translating: 'военно-морской флот человек',
     partOfSpeechCode: 'n',
     skyId: '41417'
   },
   {
     targetWord: 'navy seal',
-    translation: 'моряк военно-морского флота США',
+    translating: 'моряк военно-морского флота США',
     partOfSpeechCode: 'n',
     skyId: '88952'
   },
   {
     targetWord: 'navy yard',
-    translation: 'военно-морская верфь',
+    translating: 'военно-морская верфь',
     partOfSpeechCode: 'n',
     skyId: '8438'
   },
   {
     targetWord: 'nawl',
-    translation: 'нет',
+    translating: 'нет',
     partOfSpeechCode: 'ph',
     skyId: '260792'
   },
   {
     targetWord: 'nay',
-    translation: 'более того',
+    translating: 'более того',
     partOfSpeechCode: 'r',
     skyId: '97035'
   },
   {
     targetWord: 'nay',
-    translation: 'отрицательный ответ',
+    translating: 'отрицательный ответ',
     partOfSpeechCode: 'n',
     skyId: '97034'
   },
   {
     targetWord: 'naysay',
-    translation: 'отрицать',
+    translating: 'отрицать',
     partOfSpeechCode: 'v',
     skyId: '233518'
   },
   {
     targetWord: 'naysayer',
-    translation: 'негативист',
+    translating: 'негативист',
     partOfSpeechCode: 'n',
     skyId: '126427'
   },
   {
     targetWord: 'nazarene',
-    translation: 'назорей',
+    translating: 'назорей',
     partOfSpeechCode: 'n',
     skyId: '97556'
   },
   {
     targetWord: 'nazareth',
-    translation: 'назарет',
+    translating: 'назарет',
     partOfSpeechCode: 'n',
     skyId: '80725'
   },
   {
     targetWord: 'nazi',
-    translation: 'нацистский',
+    translating: 'нацистский',
     partOfSpeechCode: 'j',
     skyId: '129973'
   },
   {
     targetWord: 'nazi',
-    translation: 'нацист',
+    translating: 'нацист',
     partOfSpeechCode: 'n',
     skyId: '250627'
   },
   {
     targetWord: 'nazi germany',
-    translation: 'Нацистская Германия',
+    translating: 'Нацистская Германия',
     partOfSpeechCode: 'n',
     skyId: '62923'
   },
   {
     targetWord: 'nazification',
-    translation: 'денацификации',
+    translating: 'денацификации',
     partOfSpeechCode: 'n',
     skyId: '67434'
   },
   {
     targetWord: 'nb',
-    translation: 'ниобий',
+    translating: 'ниобий',
     partOfSpeechCode: 'n',
     skyId: '165032'
   },
   {
     targetWord: 'nc',
-    translation: 'северная каролина',
+    translating: 'северная каролина',
     partOfSpeechCode: 'n',
     skyId: '165034'
   },
   {
     targetWord: 'nd',
-    translation: 'северная дакота',
+    translating: 'северная дакота',
     partOfSpeechCode: 'n',
     skyId: '165036'
   },
   {
     targetWord: 'nd',
-    translation: 'неодимий',
+    translating: 'неодимий',
     partOfSpeechCode: 'n',
     skyId: '165035'
   },
   {
     targetWord: 'ne',
-    translation: 'северо-восток',
+    translating: 'северо-восток',
     partOfSpeechCode: 'n',
     skyId: '165038'
   },
   {
     targetWord: 'ne',
-    translation: 'неон',
+    translating: 'неон',
     partOfSpeechCode: 'n',
     skyId: '165037'
   },
   {
     targetWord: 'ne plus ultra',
-    translation: 'непревзойдённый',
+    translating: 'непревзойдённый',
     partOfSpeechCode: 'n',
     skyId: '17230'
   },
   {
     targetWord: "ne'er",
-    translation: 'никогда',
+    translating: 'никогда',
     partOfSpeechCode: 'r',
     skyId: '184683'
   },
   {
     targetWord: "ne'er-do-well",
-    translation: 'бездельник',
+    translating: 'бездельник',
     partOfSpeechCode: 'n',
     skyId: '149262'
   },
   {
     targetWord: 'neandertal man',
-    translation: 'неандерталец',
+    translating: 'неандерталец',
     partOfSpeechCode: 'n',
     skyId: '77293'
   },
   {
     targetWord: 'neanderthal',
-    translation: 'неандертальский',
+    translating: 'неандертальский',
     partOfSpeechCode: 'j',
     skyId: '145978'
   },
   {
     targetWord: 'neanderthal man',
-    translation: 'неандерталец',
+    translating: 'неандерталец',
     partOfSpeechCode: 'n',
     skyId: '54116'
   },
   {
     targetWord: 'near',
-    translation: 'близко',
+    translating: 'близко',
     partOfSpeechCode: 'r',
     skyId: '254773'
   },
   {
     targetWord: 'near',
-    translation: 'близок к',
+    translating: 'близок к',
     partOfSpeechCode: 'prp',
     skyId: '241814'
   },
   {
     targetWord: 'near',
-    translation: 'скоро',
+    translating: 'скоро',
     partOfSpeechCode: 'r',
     skyId: '238658'
   },
   {
     targetWord: 'near',
-    translation: 'к',
+    translating: 'к',
     partOfSpeechCode: 'prp',
     skyId: '238653'
   },
   {
     targetWord: 'near',
-    translation: 'около',
+    translating: 'около',
     partOfSpeechCode: 'prp',
     skyId: '254774'
   },
   {
     targetWord: 'near',
-    translation: 'рядом',
+    translating: 'рядом',
     partOfSpeechCode: 'r',
     skyId: '44061'
   },
   {
     targetWord: 'near',
-    translation: 'почти',
+    translating: 'почти',
     partOfSpeechCode: 'r',
     skyId: '44062'
   },
   {
     targetWord: 'near',
-    translation: 'скупой',
+    translating: 'скупой',
     partOfSpeechCode: 'j',
     skyId: '140844'
   },
   {
     targetWord: 'near',
-    translation: 'близкий',
+    translating: 'близкий',
     partOfSpeechCode: 'j',
     skyId: '254778'
   },
   {
     targetWord: 'near',
-    translation: 'приближаться',
+    translating: 'приближаться',
     partOfSpeechCode: 'v',
     skyId: '254777'
   },
   {
     targetWord: 'near at hand',
-    translation: 'под рукой',
+    translating: 'под рукой',
     partOfSpeechCode: 'ph',
     skyId: '255799'
   },
   {
     targetWord: 'near beer',
-    translation: 'безалкогольное пиво',
+    translating: 'безалкогольное пиво',
     partOfSpeechCode: 'n',
     skyId: '186693'
   },
   {
     targetWord: 'near here / in the centre',
-    translation: 'тут рядом / в центре',
+    translating: 'тут рядом / в центре',
     partOfSpeechCode: 'ph',
     skyId: '228644'
   },
   {
     targetWord: 'near miss',
-    translation: 'событие, близкое к аварийной ситуации',
+    translating: 'событие, близкое к аварийной ситуации',
     partOfSpeechCode: 'n',
     skyId: '222382'
   },
   {
     targetWord: 'near the sea',
-    translation: 'у моря',
+    translating: 'у моря',
     partOfSpeechCode: 'n',
     skyId: '241637'
   },
   {
     targetWord: 'near thing',
-    translation: 'опасность, которой едва удалось избежать',
+    translating: 'опасность, которой едва удалось избежать',
     partOfSpeechCode: 'n',
     skyId: '79419'
   },
   {
     targetWord: 'near-blind',
-    translation: 'почти слепой',
+    translating: 'почти слепой',
     partOfSpeechCode: 'j',
     skyId: '88652'
   },
   {
     targetWord: 'near-death experience',
-    translation: 'ситуация, близкая к смерти',
+    translating: 'ситуация, близкая к смерти',
     partOfSpeechCode: 'n',
     skyId: '36263'
   },
   {
     targetWord: 'near-extinction',
-    translation: 'практически полное вымирание',
+    translating: 'практически полное вымирание',
     partOfSpeechCode: 'n',
     skyId: '264054'
   },
   {
     targetWord: 'nearer',
-    translation: 'более близкий',
+    translating: 'более близкий',
     partOfSpeechCode: 'j',
     skyId: '254779'
   },
   {
     targetWord: 'nearer',
-    translation: 'ближе',
+    translating: 'ближе',
     partOfSpeechCode: 'r',
     skyId: '254780'
   },
   {
     targetWord: 'nearest',
-    translation: 'ближайший',
+    translating: 'ближайший',
     partOfSpeechCode: 'j',
     skyId: '254781'
   },
   {
     targetWord: 'nearest',
-    translation: 'ближе всего',
+    translating: 'ближе всего',
     partOfSpeechCode: 'r',
     skyId: '241410'
   },
   {
     targetWord: 'nearest system bus',
-    translation: 'ближайшая системная шина',
+    translating: 'ближайшая системная шина',
     partOfSpeechCode: 'n',
     skyId: '250483'
   },
   {
     targetWord: 'nearly',
-    translation: 'приблизительно',
+    translating: 'приблизительно',
     partOfSpeechCode: 'r',
     skyId: '252190'
   },
   {
     targetWord: 'nearly',
-    translation: 'близко',
+    translating: 'близко',
     partOfSpeechCode: 'r',
     skyId: '73722'
   },
   {
     targetWord: 'nearly',
-    translation: 'почти',
+    translating: 'почти',
     partOfSpeechCode: 'r',
     skyId: '73721'
   },
   {
     targetWord: 'nearly as...as',
-    translation: 'почти такой же...как',
+    translating: 'почти такой же...как',
     partOfSpeechCode: 'ph',
     skyId: '236434'
   },
   {
     targetWord: 'nearness',
-    translation: 'близость',
+    translating: 'близость',
     partOfSpeechCode: 'n',
     skyId: '120139'
   },
   {
     targetWord: 'nearside',
-    translation: 'левая сторона',
+    translating: 'левая сторона',
     partOfSpeechCode: 'n',
     skyId: '4781'
   },
   {
     targetWord: 'nearsighted',
-    translation: 'близорукий',
+    translating: 'близорукий',
     partOfSpeechCode: 'j',
     skyId: '126505'
   },
   {
     targetWord: 'nearsightedness',
-    translation: 'близорукость',
+    translating: 'близорукость',
     partOfSpeechCode: 'n',
     skyId: '1666'
   },
   {
     targetWord: 'neat',
-    translation: 'складный, искусный',
+    translating: 'складный, искусный',
     partOfSpeechCode: 'j',
     skyId: '263211'
   },
   {
     targetWord: 'neat',
-    translation: 'неразбавленный',
+    translating: 'неразбавленный',
     partOfSpeechCode: 'j',
     skyId: '44070'
   },
   {
     targetWord: 'neat',
-    translation: 'отличный',
+    translating: 'отличный',
     partOfSpeechCode: 'j',
     skyId: '44069'
   },
   {
     targetWord: 'neat',
-    translation: 'умелый',
+    translating: 'умелый',
     partOfSpeechCode: 'j',
     skyId: '44068'
   },
   {
     targetWord: 'neat',
-    translation: 'аккуратный',
+    translating: 'аккуратный',
     partOfSpeechCode: 'j',
     skyId: '44065'
   },
   {
     targetWord: 'neat and tidy',
-    translation: 'аккуратный и опрятный',
+    translating: 'аккуратный и опрятный',
     partOfSpeechCode: 'j',
     skyId: '239102'
   },
   {
     targetWord: 'neat as a pin',
-    translation: 'аккуратный ',
+    translating: 'аккуратный ',
     partOfSpeechCode: 'ph',
     skyId: '242120'
   },
   {
     targetWord: 'neat design',
-    translation: 'лаконичный дизайн',
+    translating: 'лаконичный дизайн',
     partOfSpeechCode: 'ph',
     skyId: '255869'
   },
   {
     targetWord: 'neaten',
-    translation: 'приводить в порядок',
+    translating: 'приводить в порядок',
     partOfSpeechCode: 'v',
     skyId: '190685'
   },
   {
     targetWord: 'neatly',
-    translation: 'аккуратно',
+    translating: 'аккуратно',
     partOfSpeechCode: 'r',
     skyId: '122882'
   },
   {
     targetWord: 'neatnik',
-    translation: 'чистюля',
+    translating: 'чистюля',
     partOfSpeechCode: 'n',
     skyId: '263792'
   },
   {
     targetWord: 'neb',
-    translation: 'клюв',
+    translating: 'клюв',
     partOfSpeechCode: 'n',
     skyId: '156074'
   },
   {
     targetWord: 'neb',
-    translation: 'нос',
+    translating: 'нос',
     partOfSpeechCode: 'n',
     skyId: '156073'
   },
   {
     targetWord: 'nebbech',
-    translation: 'никчемный человек',
+    translating: 'никчемный человек',
     partOfSpeechCode: 'n',
     skyId: '133615'
   },
   {
     targetWord: 'nebbish',
-    translation: 'никчемный человек',
+    translating: 'никчемный человек',
     partOfSpeechCode: 'n',
     skyId: '13458'
   },
   {
     targetWord: 'nebraska fern',
-    translation: 'болиголов пятнистый',
+    translating: 'болиголов пятнистый',
     partOfSpeechCode: 'n',
     skyId: '181058'
   },
   {
     targetWord: 'nebuchadnezzar',
-    translation: 'навуходоносор',
+    translating: 'навуходоносор',
     partOfSpeechCode: 'n',
     skyId: '216569'
   },
   {
     targetWord: 'nebula',
-    translation: 'раствор для ингалятора',
+    translating: 'раствор для ингалятора',
     partOfSpeechCode: 'n',
     skyId: '219773'
   },
   {
     targetWord: 'nebula',
-    translation: 'туманность',
+    translating: 'туманность',
     partOfSpeechCode: 'n',
     skyId: '219776'
   },
   {
     targetWord: 'nebular',
-    translation: 'небулярный',
+    translating: 'небулярный',
     partOfSpeechCode: 'j',
     skyId: '133474'
   },
   {
     targetWord: 'nebule',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '219781'
   },
   {
     targetWord: 'nebulizer',
-    translation: 'распылитель',
+    translating: 'распылитель',
     partOfSpeechCode: 'n',
     skyId: '20793'
   },
   {
     targetWord: 'nebulose',
-    translation: 'неясный',
+    translating: 'неясный',
     partOfSpeechCode: 'j',
     skyId: '41412'
   },
   {
     targetWord: 'nebulous',
-    translation: 'расплывчатый',
+    translating: 'расплывчатый',
     partOfSpeechCode: 'j',
     skyId: '184086'
   },
   {
     targetWord: 'nebulous',
-    translation: 'смутный',
+    translating: 'смутный',
     partOfSpeechCode: 'j',
     skyId: '184084'
   },
   {
     targetWord: 'necessarily',
-    translation: '(не) обязательно',
+    translating: '(не) обязательно',
     partOfSpeechCode: 'r',
     skyId: '238660'
   },
   {
     targetWord: 'necessary',
-    translation: 'неизбежный',
+    translating: 'неизбежный',
     partOfSpeechCode: 'j',
     skyId: '126814'
   },
   {
     targetWord: 'necessary',
-    translation: 'необходимый',
+    translating: 'необходимый',
     partOfSpeechCode: 'j',
     skyId: '126813'
   },
   {
     targetWord: 'necessitate',
-    translation: 'делать необходимым',
+    translating: 'делать необходимым',
     partOfSpeechCode: 'v',
     skyId: '77769'
   },
   {
     targetWord: 'necessitate',
-    translation: 'требовать',
+    translating: 'требовать',
     partOfSpeechCode: 'v',
     skyId: '77768'
   },
   {
     targetWord: 'necessity',
-    translation: 'предмет первой необходимости',
+    translating: 'предмет первой необходимости',
     partOfSpeechCode: 'n',
     skyId: '240133'
   },
   {
     targetWord: 'necessity',
-    translation: 'необходимость',
+    translating: 'необходимость',
     partOfSpeechCode: 'n',
     skyId: '175273'
   },
   {
     targetWord: 'necessity',
-    translation: 'потребность',
+    translating: 'потребность',
     partOfSpeechCode: 'n',
     skyId: '175274'
   },
   {
     targetWord: 'necessity is the mother of invention',
-    translation: 'Голь на выдумки хитра',
+    translating: 'Голь на выдумки хитра',
     partOfSpeechCode: 'ph',
     skyId: '243191'
   },
   {
     targetWord: 'necessity knows no law',
-    translation: 'Нужда свой закон пишет. Нужда крепче закона',
+    translating: 'Нужда свой закон пишет. Нужда крепче закона',
     partOfSpeechCode: 'ph',
     skyId: '243190'
   },
   {
     targetWord: 'neck',
-    translation: 'воротник',
+    translating: 'воротник',
     partOfSpeechCode: 'n',
     skyId: '186724'
   },
   {
     targetWord: 'neck',
-    translation: 'коса',
+    translating: 'коса',
     partOfSpeechCode: 'n',
     skyId: '186721'
   },
   {
     targetWord: 'neck',
-    translation: 'шея',
+    translating: 'шея',
     partOfSpeechCode: 'n',
     skyId: '186723'
   },
   {
     targetWord: 'neck',
-    translation: 'обниматься',
+    translating: 'обниматься',
     partOfSpeechCode: 'v',
     skyId: '186725'
   },
   {
     targetWord: 'neck and neck',
-    translation: 'ноздря в ноздрю',
+    translating: 'ноздря в ноздрю',
     partOfSpeechCode: 'r',
     skyId: '54378'
   },
   {
     targetWord: 'neck and neck',
-    translation: 'ноздря в ноздрю',
+    translating: 'ноздря в ноздрю',
     partOfSpeechCode: 'j',
     skyId: '54378'
   },
   {
     targetWord: 'neck bone',
-    translation: 'шейный позвонок',
+    translating: 'шейный позвонок',
     partOfSpeechCode: 'n',
     skyId: '214780'
   },
   {
     targetWord: 'neck brace',
-    translation: 'ортопедический воротник',
+    translating: 'ортопедический воротник',
     partOfSpeechCode: 'n',
     skyId: '123525'
   },
   {
     targetWord: 'neck of the woods',
-    translation: 'местность',
+    translating: 'местность',
     partOfSpeechCode: 'ph',
     skyId: '181398'
   },
   {
     targetWord: 'neck opening',
-    translation: 'горлышко',
+    translating: 'горлышко',
     partOfSpeechCode: 'n',
     skyId: '187455'
   },
   {
     targetWord: 'neck or nothing',
-    translation: 'Эх, была не была!',
+    translating: 'Эх, была не была!',
     partOfSpeechCode: 'ph',
     skyId: '243170'
   },
   {
     targetWord: 'neck ruff',
-    translation: 'колье',
+    translating: 'колье',
     partOfSpeechCode: 'n',
     skyId: '223241'
   },
   {
     targetWord: 'neck-deep',
-    translation: 'по шею в чем-то',
+    translating: 'по шею в чем-то',
     partOfSpeechCode: 'j',
     skyId: '40453'
   },
   {
     targetWord: 'neckband',
-    translation: 'ожерелье',
+    translating: 'ожерелье',
     partOfSpeechCode: 'n',
     skyId: '43828'
   },
   {
     targetWord: 'neckband',
-    translation: 'ворот',
+    translating: 'ворот',
     partOfSpeechCode: 'n',
     skyId: '43827'
   },
   {
     targetWord: 'neckband',
-    translation: 'шейным',
+    translating: 'шейным',
     partOfSpeechCode: 'n',
     skyId: '43826'
   },
   {
     targetWord: 'neckcloth',
-    translation: 'шейный платок',
+    translating: 'шейный платок',
     partOfSpeechCode: 'n',
     skyId: '119837'
   },
   {
     targetWord: 'neckerchief',
-    translation: 'шейный платок',
+    translating: 'шейный платок',
     partOfSpeechCode: 'n',
     skyId: '130147'
   },
   {
     targetWord: 'necking',
-    translation: 'ласки',
+    translating: 'ласки',
     partOfSpeechCode: 'n',
     skyId: '40265'
   },
   {
     targetWord: 'neckless',
-    translation: 'без шеи',
+    translating: 'без шеи',
     partOfSpeechCode: 'j',
     skyId: '5910'
   },
   {
     targetWord: 'neckline',
-    translation: 'вырез',
+    translating: 'вырез',
     partOfSpeechCode: 'n',
     skyId: '232842'
   },
   {
     targetWord: 'neckpiece',
-    translation: 'горжетка',
+    translating: 'горжетка',
     partOfSpeechCode: 'n',
     skyId: '49889'
   },
   {
     targetWord: 'necktie',
-    translation: 'галстук',
+    translating: 'галстук',
     partOfSpeechCode: 'n',
     skyId: '64733'
   },
   {
     targetWord: 'neckwear',
-    translation: 'галстук',
+    translating: 'галстук',
     partOfSpeechCode: 'n',
     skyId: '179612'
   },
   {
     targetWord: 'necrology',
-    translation: 'некролог',
+    translating: 'некролог',
     partOfSpeechCode: 'n',
     skyId: '26658'
   },
   {
     targetWord: 'necromancer',
-    translation: 'некромант',
+    translating: 'некромант',
     partOfSpeechCode: 'n',
     skyId: '232942'
   },
   {
     targetWord: 'necromancy',
-    translation: 'некромантия',
+    translating: 'некромантия',
     partOfSpeechCode: 'n',
     skyId: '172082'
   },
   {
     targetWord: 'necromantic',
-    translation: 'некромантов',
+    translating: 'некромантов',
     partOfSpeechCode: 'j',
     skyId: '131292'
   },
   {
     targetWord: 'necromantic',
-    translation: 'некромантический',
+    translating: 'некромантический',
     partOfSpeechCode: 'j',
     skyId: '131291'
   },
   {
     targetWord: 'necrophilia',
-    translation: 'некрофилия',
+    translating: 'некрофилия',
     partOfSpeechCode: 'n',
     skyId: '225681'
   },
   {
     targetWord: 'necrophilism',
-    translation: 'некрофилия',
+    translating: 'некрофилия',
     partOfSpeechCode: 'n',
     skyId: '31890'
   },
   {
     targetWord: 'necropolis',
-    translation: 'некрополь',
+    translating: 'некрополь',
     partOfSpeechCode: 'n',
     skyId: '26334'
   },
   {
     targetWord: 'necropsy',
-    translation: 'вскрытие трупа',
+    translating: 'вскрытие трупа',
     partOfSpeechCode: 'n',
     skyId: '31386'
   },
   {
     targetWord: 'necrose',
-    translation: 'чтобы некрозу',
+    translating: 'чтобы некрозу',
     partOfSpeechCode: 'v',
     skyId: '172987'
   },
   {
     targetWord: 'necrosis',
-    translation: 'омертвение',
+    translating: 'омертвение',
     partOfSpeechCode: 'n',
     skyId: '170373'
   },
   {
     targetWord: 'necrotic',
-    translation: 'некротический',
+    translating: 'некротический',
     partOfSpeechCode: 'j',
     skyId: '143719'
   },
   {
     targetWord: 'nectar',
-    translation: 'напиток богов',
+    translating: 'напиток богов',
     partOfSpeechCode: 'n',
     skyId: '100662'
   },
   {
     targetWord: 'nectar',
-    translation: 'фруктовый сок',
+    translating: 'фруктовый сок',
     partOfSpeechCode: 'n',
     skyId: '100661'
   },
   {
     targetWord: 'nectar',
-    translation: 'нектар',
+    translating: 'нектар',
     partOfSpeechCode: 'n',
     skyId: '100660'
   },
   {
     targetWord: 'nectarine',
-    translation: 'нектарин',
+    translating: 'нектарин',
     partOfSpeechCode: 'n',
     skyId: '80813'
   },
   {
     targetWord: 'nectarine tree',
-    translation: 'нектарин дерева',
+    translating: 'нектарин дерева',
     partOfSpeechCode: 'n',
     skyId: '185198'
   },
   {
     targetWord: 'nectary',
-    translation: 'нектар',
+    translating: 'нектар',
     partOfSpeechCode: 'n',
     skyId: '111256'
   },
   {
     targetWord: 'necturus maculosus',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '76535'
   },
   {
     targetWord: 'nee',
-    translation: 'урождённый',
+    translating: 'урождённый',
     partOfSpeechCode: 'j',
     skyId: '156072'
   },
   {
     targetWord: 'need',
-    translation: 'быть должным',
+    translating: 'быть должным',
     partOfSpeechCode: 'md',
     skyId: '254856'
   },
   {
     targetWord: 'need',
-    translation: 'нужда',
+    translating: 'нужда',
     partOfSpeechCode: 'n',
     skyId: '212290'
   },
   {
     targetWord: 'need',
-    translation: 'потребность',
+    translating: 'потребность',
     partOfSpeechCode: 'n',
     skyId: '212289'
   },
   {
     targetWord: 'need',
-    translation: 'необходимость',
+    translating: 'необходимость',
     partOfSpeechCode: 'n',
     skyId: '212288'
   },
   {
     targetWord: 'need',
-    translation: 'бедствовать',
+    translating: 'бедствовать',
     partOfSpeechCode: 'v',
     skyId: '212293'
   },
   {
     targetWord: 'need',
-    translation: 'нуждаться',
+    translating: 'нуждаться',
     partOfSpeechCode: 'v',
     skyId: '241413'
   },
   {
     targetWord: 'need badly',
-    translation: 'сильно нуждаться',
+    translating: 'сильно нуждаться',
     partOfSpeechCode: 'ph',
     skyId: '239106'
   },
   {
     targetWord: 'need for',
-    translation: 'потребность в',
+    translating: 'потребность в',
     partOfSpeechCode: 'n',
     skyId: '237200'
   },
   {
     targetWord: 'need help with',
-    translation: 'нуждаться в помощи c',
+    translating: 'нуждаться в помощи c',
     partOfSpeechCode: 'ph',
     skyId: '263892'
   },
   {
     targetWord: 'need help with your luggage',
-    translation: 'нужна помощь с багажом',
+    translating: 'нужна помощь с багажом',
     partOfSpeechCode: 'ph',
     skyId: '228608'
   },
   {
     targetWord: 'need like a hole in the head',
-    translation: 'совершенно ненужная вещь',
+    translating: 'совершенно ненужная вещь',
     partOfSpeechCode: 'ph',
     skyId: '242119'
   },
   {
     targetWord: 'need makes the old wife trot',
-    translation: 'Нужда скачет, нужда пляшет, нужда песенки поет',
+    translating: 'Нужда скачет, нужда пляшет, нужда песенки поет',
     partOfSpeechCode: 'ph',
     skyId: '243167'
   },
   {
     targetWord: 'need some help on',
-    translation: 'нуждаться в помощи в ',
+    translating: 'нуждаться в помощи в ',
     partOfSpeechCode: 'ph',
     skyId: '245939'
   },
   {
     targetWord: 'need space',
-    translation: 'нуждаться в свободном пространстве',
+    translating: 'нуждаться в свободном пространстве',
     partOfSpeechCode: 'ph',
     skyId: '251102'
   },
   {
     targetWord: 'needed',
-    translation: 'нужный',
+    translating: 'нужный',
     partOfSpeechCode: 'j',
     skyId: '773'
   },
   {
     targetWord: 'needer',
-    translation: 'нуждающийся',
+    translating: 'нуждающийся',
     partOfSpeechCode: 'n',
     skyId: '764'
   },
   {
     targetWord: 'needful',
-    translation: 'необходимый',
+    translating: 'необходимый',
     partOfSpeechCode: 'j',
     skyId: '46438'
   },
   {
     targetWord: 'needfully',
-    translation: 'необходимо',
+    translating: 'необходимо',
     partOfSpeechCode: 'r',
     skyId: '170475'
   },
   {
     targetWord: 'neediness',
-    translation: 'необеспеченность',
+    translating: 'необеспеченность',
     partOfSpeechCode: 'n',
     skyId: '167089'
   },
   {
     targetWord: 'needle',
-    translation: 'медицинская игла',
+    translating: 'медицинская игла',
     partOfSpeechCode: 'n',
     skyId: '241812'
   },
   {
     targetWord: 'needle',
-    translation: 'граммофонная игла',
+    translating: 'граммофонная игла',
     partOfSpeechCode: 'n',
     skyId: '160403'
   },
   {
     targetWord: 'needle',
-    translation: 'стрелка',
+    translating: 'стрелка',
     partOfSpeechCode: 'n',
     skyId: '160401'
   },
   {
     targetWord: 'needle',
-    translation: 'игла',
+    translating: 'игла',
     partOfSpeechCode: 'n',
     skyId: '160402'
   },
   {
     targetWord: 'needle',
-    translation: 'колоть',
+    translating: 'колоть',
     partOfSpeechCode: 'v',
     skyId: '160405'
   },
   {
     targetWord: 'needle',
-    translation: 'досаждать',
+    translating: 'досаждать',
     partOfSpeechCode: 'v',
     skyId: '160404'
   },
   {
     targetWord: 'needle bearing',
-    translation: 'роликовый подшипник',
+    translating: 'роликовый подшипник',
     partOfSpeechCode: 'n',
     skyId: '41079'
   },
   {
     targetWord: 'needle wood',
-    translation: 'игл дерева',
+    translating: 'игл дерева',
     partOfSpeechCode: 'n',
     skyId: '171871'
   },
   {
     targetWord: 'needle-shaped',
-    translation: 'игольчатый',
+    translating: 'игольчатый',
     partOfSpeechCode: 'j',
     skyId: '107794'
   },
   {
     targetWord: 'needlecraft',
-    translation: 'вышивка',
+    translating: 'вышивка',
     partOfSpeechCode: 'n',
     skyId: '189915'
   },
   {
     targetWord: 'needlefish',
-    translation: 'морская игла',
+    translating: 'морская игла',
     partOfSpeechCode: 'n',
     skyId: '22450'
   },
   {
     targetWord: 'needlefish',
-    translation: 'сарган',
+    translating: 'сарган',
     partOfSpeechCode: 'n',
     skyId: '22449'
   },
   {
     targetWord: 'needlelike',
-    translation: 'иглообразный',
+    translating: 'иглообразный',
     partOfSpeechCode: 'j',
     skyId: '173330'
   },
   {
     targetWord: 'needlenose pliers',
-    translation: 'плоскогубцы',
+    translating: 'плоскогубцы',
     partOfSpeechCode: 'n',
     skyId: '152581'
   },
   {
     targetWord: 'needlepoint',
-    translation: 'вышивка гарусом',
+    translating: 'вышивка гарусом',
     partOfSpeechCode: 'n',
     skyId: '165340'
   },
   {
     targetWord: 'needlepoint',
-    translation: 'игольное кружево',
+    translating: 'игольное кружево',
     partOfSpeechCode: 'n',
     skyId: '165339'
   },
   {
     targetWord: 'needlepoint embroidery',
-    translation: 'кружевная вышивка',
+    translating: 'кружевная вышивка',
     partOfSpeechCode: 'n',
     skyId: '181481'
   },
   {
     targetWord: 'needless',
-    translation: 'излишний',
+    translating: 'излишний',
     partOfSpeechCode: 'j',
     skyId: '224693'
   },
   {
     targetWord: 'needless',
-    translation: 'граммофонная иголка',
+    translating: 'граммофонная иголка',
     partOfSpeechCode: 'n',
     skyId: '224690'
   },
   {
     targetWord: 'needless',
-    translation: 'стре́лка',
+    translating: 'стре́лка',
     partOfSpeechCode: 'n',
     skyId: '224688'
   },
   {
     targetWord: 'needless',
-    translation: 'листок',
+    translating: 'листок',
     partOfSpeechCode: 'n',
     skyId: '224687'
   },
   {
     targetWord: 'needless to say',
-    translation: 'само собой разумеется',
+    translating: 'само собой разумеется',
     partOfSpeechCode: 'ph',
     skyId: '239540'
   },
   {
     targetWord: 'needlessly',
-    translation: 'напрасно',
+    translating: 'напрасно',
     partOfSpeechCode: 'r',
     skyId: '144697'
   },
   {
     targetWord: 'needlewoman',
-    translation: 'портниха',
+    translating: 'портниха',
     partOfSpeechCode: 'n',
     skyId: '105102'
   },
   {
     targetWord: 'needlework',
-    translation: 'рукоделие',
+    translating: 'рукоделие',
     partOfSpeechCode: 'n',
     skyId: '32511'
   },
   {
     targetWord: 'needs',
-    translation: 'непременно',
+    translating: 'непременно',
     partOfSpeechCode: 'r',
     skyId: '18348'
   },
   {
     targetWord: 'needs must',
-    translation: 'Нужда требует',
+    translating: 'Нужда требует',
     partOfSpeechCode: 'ph',
     skyId: '243165'
   },
   {
     targetWord: 'needs must when the devil drives',
-    translation: 'Плетью обуха не перешибешь',
+    translating: 'Плетью обуха не перешибешь',
     partOfSpeechCode: 'ph',
     skyId: '243164'
   },
   {
     targetWord: 'needy',
-    translation: 'нуждающийся',
+    translating: 'нуждающийся',
     partOfSpeechCode: 'j',
     skyId: '232552'
   },
   {
     targetWord: 'needy',
-    translation: 'нуждающиеся',
+    translating: 'нуждающиеся',
     partOfSpeechCode: 'n',
     skyId: '18352'
   },
   {
     targetWord: 'neem tree',
-    translation: 'ним',
+    translating: 'ним',
     partOfSpeechCode: 'n',
     skyId: '90206'
   },
   {
     targetWord: 'nefariously',
-    translation: 'гнусно',
+    translating: 'гнусно',
     partOfSpeechCode: 'r',
     skyId: '33604'
   },
   {
     targetWord: 'nefazodone',
-    translation: 'нефазодон',
+    translating: 'нефазодон',
     partOfSpeechCode: 'n',
     skyId: '110427'
   },
   {
     targetWord: 'negaprion brevirostris',
-    translation: 'лимонная акула',
+    translating: 'лимонная акула',
     partOfSpeechCode: 'n',
     skyId: '17722'
   },
   {
     targetWord: 'negara brunei darussalam',
-    translation: 'бруней',
+    translating: 'бруней',
     partOfSpeechCode: 'n',
     skyId: '226677'
   },
   {
     targetWord: 'negate',
-    translation: 'сводить на нет',
+    translating: 'сводить на нет',
     partOfSpeechCode: 'v',
     skyId: '170199'
   },
   {
     targetWord: 'negate',
-    translation: 'отрицать',
+    translating: 'отрицать',
     partOfSpeechCode: 'v',
     skyId: '170198'
   },
@@ -5150,1759 +5150,1759 @@ export const nArr = [
   },
   {
     targetWord: 'negation',
-    translation: 'логическая операция отрицания',
+    translating: 'логическая операция отрицания',
     partOfSpeechCode: 'n',
     skyId: '147717'
   },
   {
     targetWord: 'negation',
-    translation: 'отрицание',
+    translating: 'отрицание',
     partOfSpeechCode: 'n',
     skyId: '147716'
   },
   {
     targetWord: 'negative',
-    translation: 'негативный, отрицательный',
+    translating: 'негативный, отрицательный',
     partOfSpeechCode: 'j',
     skyId: '64229'
   },
   {
     targetWord: 'negative',
-    translation: 'возражать',
+    translating: 'возражать',
     partOfSpeechCode: 'v',
     skyId: '64220'
   },
   {
     targetWord: 'negative',
-    translation: 'отрицательный',
+    translating: 'отрицательный',
     partOfSpeechCode: 'j',
     skyId: '236081'
   },
   {
     targetWord: 'negative',
-    translation: 'негатив',
+    translating: 'негатив',
     partOfSpeechCode: 'n',
     skyId: '64219'
   },
   {
     targetWord: 'negative',
-    translation: 'отрицание',
+    translating: 'отрицание',
     partOfSpeechCode: 'n',
     skyId: '64218'
   },
   {
     targetWord: 'negative attitude',
-    translation: 'негативное отношение',
+    translating: 'негативное отношение',
     partOfSpeechCode: 'n',
     skyId: '239108'
   },
   {
     targetWord: 'negative attitude',
-    translation: 'негативное отношение',
+    translating: 'негативное отношение',
     partOfSpeechCode: 'ph',
     skyId: '239108'
   },
   {
     targetWord: 'negative charge',
-    translation: 'отрицательный заряд',
+    translating: 'отрицательный заряд',
     partOfSpeechCode: 'n',
     skyId: '45596'
   },
   {
     targetWord: 'negative correlation',
-    translation: 'косвенная взаимосвязь',
+    translating: 'косвенная взаимосвязь',
     partOfSpeechCode: 'n',
     skyId: '15458'
   },
   {
     targetWord: 'negative feedback',
-    translation: 'отрицательная обратная связь',
+    translating: 'отрицательная обратная связь',
     partOfSpeechCode: 'n',
     skyId: '260631'
   },
   {
     targetWord: 'negative feedback',
-    translation: 'негативный отзыв',
+    translating: 'негативный отзыв',
     partOfSpeechCode: 'n',
     skyId: '256885'
   },
   {
     targetWord: 'negative feedback circuit',
-    translation: 'цепь обратной связи ',
+    translating: 'цепь обратной связи ',
     partOfSpeechCode: 'n',
     skyId: '16953'
   },
   {
     targetWord: 'negative identification',
-    translation: 'идентификация ',
+    translating: 'идентификация ',
     partOfSpeechCode: 'n',
     skyId: '23517'
   },
   {
     targetWord: 'negative magnetic pole',
-    translation: 'отрицательный магнитный полюс',
+    translating: 'отрицательный магнитный полюс',
     partOfSpeechCode: 'n',
     skyId: '91367'
   },
   {
     targetWord: 'negative muon',
-    translation: 'мюон',
+    translating: 'мюон',
     partOfSpeechCode: 'n',
     skyId: '20904'
   },
   {
     targetWord: 'negative pole',
-    translation: 'отрицательный магнитный полюс',
+    translating: 'отрицательный магнитный полюс',
     partOfSpeechCode: 'n',
     skyId: '169595'
   },
   {
     targetWord: 'negative pole',
-    translation: 'отрицательный полюс',
+    translating: 'отрицательный полюс',
     partOfSpeechCode: 'n',
     skyId: '169594'
   },
   {
     targetWord: 'negative reinforcer',
-    translation: 'отрицательное подкрепление',
+    translating: 'отрицательное подкрепление',
     partOfSpeechCode: 'n',
     skyId: '100761'
   },
   {
     targetWord: 'negative sequence protection',
-    translation: 'защита от обратной последовательности',
+    translating: 'защита от обратной последовательности',
     partOfSpeechCode: 'n',
     skyId: '248258'
   },
   {
     targetWord: 'negativeness',
-    translation: 'негативизм',
+    translating: 'негативизм',
     partOfSpeechCode: 'n',
     skyId: '179589'
   },
   {
     targetWord: 'negativeness',
-    translation: 'негативность',
+    translating: 'негативность',
     partOfSpeechCode: 'n',
     skyId: '179590'
   },
   {
     targetWord: 'negativism',
-    translation: 'негативизм',
+    translating: 'негативизм',
     partOfSpeechCode: 'n',
     skyId: '184816'
   },
   {
     targetWord: 'negativity',
-    translation: 'негативность',
+    translating: 'негативность',
     partOfSpeechCode: 'n',
     skyId: '117068'
   },
   {
     targetWord: 'negatron',
-    translation: 'электрон',
+    translating: 'электрон',
     partOfSpeechCode: 'n',
     skyId: '222587'
   },
   {
     targetWord: 'neglect',
-    translation: 'халатность',
+    translating: 'халатность',
     partOfSpeechCode: 'n',
     skyId: '115554'
   },
   {
     targetWord: 'neglect',
-    translation: 'запущенность',
+    translating: 'запущенность',
     partOfSpeechCode: 'n',
     skyId: '115551'
   },
   {
     targetWord: 'neglect',
-    translation: 'пренебрежение',
+    translating: 'пренебрежение',
     partOfSpeechCode: 'n',
     skyId: '115553'
   },
   {
     targetWord: 'neglect',
-    translation: 'игнорировать',
+    translating: 'игнорировать',
     partOfSpeechCode: 'v',
     skyId: '115558'
   },
   {
     targetWord: 'neglect',
-    translation: 'забрасывать',
+    translating: 'забрасывать',
     partOfSpeechCode: 'v',
     skyId: '115556'
   },
   {
     targetWord: 'neglect',
-    translation: 'пренебрегать',
+    translating: 'пренебрегать',
     partOfSpeechCode: 'v',
     skyId: '115557'
   },
   {
     targetWord: 'neglect of duty',
-    translation: 'пренебрежение должностными обязанностями',
+    translating: 'пренебрежение должностными обязанностями',
     partOfSpeechCode: 'n',
     skyId: '5608'
   },
   {
     targetWord: 'neglected',
-    translation: 'пренебрегаемый',
+    translating: 'пренебрегаемый',
     partOfSpeechCode: 'j',
     skyId: '255886'
   },
   {
     targetWord: 'neglected',
-    translation: 'запущенный',
+    translating: 'запущенный',
     partOfSpeechCode: 'j',
     skyId: '32518'
   },
   {
     targetWord: 'neglecter',
-    translation: 'равнодушный человек',
+    translating: 'равнодушный человек',
     partOfSpeechCode: 'n',
     skyId: '32543'
   },
   {
     targetWord: 'neglectful',
-    translation: 'небрежный',
+    translating: 'небрежный',
     partOfSpeechCode: 'j',
     skyId: '19683'
   },
   {
     targetWord: 'neglectful',
-    translation: 'невнимательный',
+    translating: 'невнимательный',
     partOfSpeechCode: 'j',
     skyId: '19682'
   },
   {
     targetWord: 'neglectfully',
-    translation: 'пренебрежительно',
+    translating: 'пренебрежительно',
     partOfSpeechCode: 'r',
     skyId: '43416'
   },
   {
     targetWord: 'neglectfulness',
-    translation: 'пренебрежение',
+    translating: 'пренебрежение',
     partOfSpeechCode: 'n',
     skyId: '25610'
   },
   {
     targetWord: 'negligence',
-    translation: 'халатность',
+    translating: 'халатность',
     partOfSpeechCode: 'n',
     skyId: '91495'
   },
   {
     targetWord: 'negligent',
-    translation: 'небрежный',
+    translating: 'небрежный',
     partOfSpeechCode: 'j',
     skyId: '169204'
   },
   {
     targetWord: 'negligently',
-    translation: 'небрежно',
+    translating: 'небрежно',
     partOfSpeechCode: 'r',
     skyId: '183947'
   },
   {
     targetWord: 'negligible',
-    translation: 'незначительный',
+    translating: 'незначительный',
     partOfSpeechCode: 'j',
     skyId: '67732'
   },
   {
     targetWord: 'negligible effect',
-    translation: 'незначительное влияние',
+    translating: 'незначительное влияние',
     partOfSpeechCode: 'n',
     skyId: '263237'
   },
   {
     targetWord: 'negociate',
-    translation: 'вести переговоры',
+    translating: 'вести переговоры',
     partOfSpeechCode: 'v',
     skyId: '139330'
   },
   {
     targetWord: 'negociate',
-    translation: 'обсуждать',
+    translating: 'обсуждать',
     partOfSpeechCode: 'v',
     skyId: '139328'
   },
   {
     targetWord: 'negociate',
-    translation: 'чтобы обсудить',
+    translating: 'чтобы обсудить',
     partOfSpeechCode: 'v',
     skyId: '139329'
   },
   {
     targetWord: 'negociate',
-    translation: 'справляться',
+    translating: 'справляться',
     partOfSpeechCode: 'v',
     skyId: '139325'
   },
   {
     targetWord: 'negotiable',
-    translation: 'передаваемый ',
+    translating: 'передаваемый ',
     partOfSpeechCode: 'j',
     skyId: '91715'
   },
   {
     targetWord: 'negotiable',
-    translation: 'подлежащий пересмотру',
+    translating: 'подлежащий пересмотру',
     partOfSpeechCode: 'j',
     skyId: '91714'
   },
   {
     targetWord: 'negotiable',
-    translation: 'доступный',
+    translating: 'доступный',
     partOfSpeechCode: 'j',
     skyId: '91713'
   },
   {
     targetWord: 'negotiant',
-    translation: 'негоциант',
+    translating: 'негоциант',
     partOfSpeechCode: 'n',
     skyId: '85762'
   },
   {
     targetWord: 'negotiate',
-    translation: 'договориться',
+    translating: 'договориться',
     partOfSpeechCode: 'v',
     skyId: '255818'
   },
   {
     targetWord: 'negotiate',
-    translation: 'преодолевать',
+    translating: 'преодолевать',
     partOfSpeechCode: 'v',
     skyId: '110896'
   },
   {
     targetWord: 'negotiate',
-    translation: 'вести переговоры',
+    translating: 'вести переговоры',
     partOfSpeechCode: 'v',
     skyId: '110895'
   },
   {
     targetWord: 'negotiated',
-    translation: 'согласованный',
+    translating: 'согласованный',
     partOfSpeechCode: 'j',
     skyId: '252048'
   },
   {
     targetWord: 'negotiating prices and delivery times',
-    translation: 'обсуждение цен и сроков поставки',
+    translating: 'обсуждение цен и сроков поставки',
     partOfSpeechCode: 'ph',
     skyId: '252748'
   },
   {
     targetWord: 'negotiation',
-    translation: 'ведение переговоров',
+    translating: 'ведение переговоров',
     partOfSpeechCode: 'n',
     skyId: '36781'
   },
   {
     targetWord: 'negotiation',
-    translation: 'переговоры',
+    translating: 'переговоры',
     partOfSpeechCode: 'n',
     skyId: '36780'
   },
   {
     targetWord: 'negotiation skills',
-    translation: 'навык ведения переговоров',
+    translating: 'навык ведения переговоров',
     partOfSpeechCode: 'n',
     skyId: '264778'
   },
   {
     targetWord: 'negotiations',
-    translation: 'переговоры',
+    translating: 'переговоры',
     partOfSpeechCode: 'n',
     skyId: '232090'
   },
   {
     targetWord: 'negotiator',
-    translation: 'участник переговоров',
+    translating: 'участник переговоров',
     partOfSpeechCode: 'n',
     skyId: '24992'
   },
   {
     targetWord: 'negress',
-    translation: 'негритянка',
+    translating: 'негритянка',
     partOfSpeechCode: 'n',
     skyId: '23402'
   },
   {
     targetWord: 'negro',
-    translation: 'негритянский',
+    translating: 'негритянский',
     partOfSpeechCode: 'j',
     skyId: '104918'
   },
   {
     targetWord: 'negro',
-    translation: 'негр',
+    translating: 'негр',
     partOfSpeechCode: 'n',
     skyId: '104917'
   },
   {
     targetWord: 'negro spiritual',
-    translation: 'спиричуэлс',
+    translating: 'спиричуэлс',
     partOfSpeechCode: 'n',
     skyId: '149679'
   },
   {
     targetWord: 'negro vine',
-    translation: 'негр лозы',
+    translating: 'негр лозы',
     partOfSpeechCode: 'n',
     skyId: '58266'
   },
   {
     targetWord: 'negroid',
-    translation: 'негроидный',
+    translating: 'негроидный',
     partOfSpeechCode: 'j',
     skyId: '138584'
   },
   {
     targetWord: 'negroid',
-    translation: 'негр',
+    translating: 'негр',
     partOfSpeechCode: 'n',
     skyId: '138583'
   },
   {
     targetWord: 'negus',
-    translation: 'негус',
+    translating: 'негус',
     partOfSpeechCode: 'n',
     skyId: '147412'
   },
   {
     targetWord: 'neigh',
-    translation: 'ржать',
+    translating: 'ржать',
     partOfSpeechCode: 'v',
     skyId: '88534'
   },
   {
     targetWord: 'neigh',
-    translation: 'ржание',
+    translating: 'ржание',
     partOfSpeechCode: 'n',
     skyId: '88533'
   },
   {
     targetWord: 'neighbor',
-    translation: 'соседствовать',
+    translating: 'соседствовать',
     partOfSpeechCode: 'v',
     skyId: '202327'
   },
   {
     targetWord: 'neighbor',
-    translation: 'находиться рядом',
+    translating: 'находиться рядом',
     partOfSpeechCode: 'v',
     skyId: '202328'
   },
   {
     targetWord: 'neighborhood',
-    translation: 'окрестность',
+    translating: 'окрестность',
     partOfSpeechCode: 'n',
     skyId: '216990'
   },
   {
     targetWord: 'neighborhood',
-    translation: 'примерное количество',
+    translating: 'примерное количество',
     partOfSpeechCode: 'n',
     skyId: '216989'
   },
   {
     targetWord: 'neighborhood',
-    translation: 'соседство',
+    translating: 'соседство',
     partOfSpeechCode: 'n',
     skyId: '216988'
   },
   {
     targetWord: 'neighborhood',
-    translation: 'окрестности ',
+    translating: 'окрестности ',
     partOfSpeechCode: 'n',
     skyId: '229712'
   },
   {
     targetWord: 'neighboring',
-    translation: 'соседние',
+    translating: 'соседние',
     partOfSpeechCode: 'j',
     skyId: '51685'
   },
   {
     targetWord: 'neighborliness',
-    translation: 'добрососедство',
+    translating: 'добрососедство',
     partOfSpeechCode: 'n',
     skyId: '227115'
   },
   {
     targetWord: 'neighbour',
-    translation: 'соседствовать',
+    translating: 'соседствовать',
     partOfSpeechCode: 'v',
     skyId: '91347'
   },
   {
     targetWord: 'neighbour',
-    translation: 'соседний предмет',
+    translating: 'соседний предмет',
     partOfSpeechCode: 'n',
     skyId: '91345'
   },
   {
     targetWord: 'neighbour',
-    translation: 'сосед',
+    translating: 'сосед',
     partOfSpeechCode: 'n',
     skyId: '91344'
   },
   {
     targetWord: 'neighbourhood',
-    translation: 'соседство',
+    translating: 'соседство',
     partOfSpeechCode: 'n',
     skyId: '172756'
   },
   {
     targetWord: 'neighbourhood',
-    translation: 'район',
+    translating: 'район',
     partOfSpeechCode: 'n',
     skyId: '172755'
   },
   {
     targetWord: 'neighbouring',
-    translation: 'соседний',
+    translating: 'соседний',
     partOfSpeechCode: 'j',
     skyId: '238661'
   },
   {
     targetWord: 'neighbourliness',
-    translation: 'добрососедские отношения',
+    translating: 'добрососедские отношения',
     partOfSpeechCode: 'n',
     skyId: '151149'
   },
   {
     targetWord: 'neighbourly',
-    translation: 'добрососедский',
+    translating: 'добрососедский',
     partOfSpeechCode: 'j',
     skyId: '253289'
   },
   {
     targetWord: 'neighbours',
-    translation: 'соседи',
+    translating: 'соседи',
     partOfSpeechCode: 'ph',
     skyId: '230120'
   },
   {
     targetWord: 'neisseria gonorrhoeae',
-    translation: 'гонококки',
+    translating: 'гонококки',
     partOfSpeechCode: 'n',
     skyId: '178122'
   },
   {
     targetWord: 'neither',
-    translation: 'тоже не',
+    translating: 'тоже не',
     partOfSpeechCode: 'r',
     skyId: '238666'
   },
   {
     targetWord: 'neither',
-    translation: 'ни один',
+    translating: 'ни один',
     partOfSpeechCode: 'prn',
     skyId: '238667'
   },
   {
     targetWord: 'neither',
-    translation: 'ни один',
+    translating: 'ни один',
     partOfSpeechCode: 'j',
     skyId: '238667'
   },
   {
     targetWord: 'neither do I',
-    translation: 'я тоже нет',
+    translating: 'я тоже нет',
     partOfSpeechCode: 'ph',
     skyId: '243563'
   },
   {
     targetWord: 'neither fish nor flesh',
-    translation: 'Ни то, ни се.',
+    translating: 'Ни то, ни се.',
     partOfSpeechCode: 'ph',
     skyId: '243163'
   },
   {
     targetWord: 'neither fish nor fowl',
-    translation: 'ни рыба ни мясо',
+    translating: 'ни рыба ни мясо',
     partOfSpeechCode: 'ph',
     skyId: '242118'
   },
   {
     targetWord: 'neither here nor there',
-    translation: 'не имеет значения',
+    translating: 'не имеет значения',
     partOfSpeechCode: 'phi',
     skyId: '253812'
   },
   {
     targetWord: 'neither here nor there',
-    translation: 'так себе',
+    translating: 'так себе',
     partOfSpeechCode: 'phi',
     skyId: '234402'
   },
   {
     targetWord: 'neither rhyme nor reason',
-    translation: 'Ни складу, ни ладу',
+    translating: 'Ни складу, ни ладу',
     partOfSpeechCode: 'ph',
     skyId: '243390'
   },
   {
     targetWord: 'neither … nor',
-    translation: 'ни ... ни',
+    translating: 'ни ... ни',
     partOfSpeechCode: 'cjc',
     skyId: '239541'
   },
   {
     targetWord: 'nekton',
-    translation: 'нектон',
+    translating: 'нектон',
     partOfSpeechCode: 'n',
     skyId: '102976'
   },
   {
     targetWord: 'nelumbo',
-    translation: 'лотос',
+    translating: 'лотос',
     partOfSpeechCode: 'n',
     skyId: '93406'
   },
   {
     targetWord: 'nelumbo nucifera',
-    translation: 'лотос орехоносный',
+    translating: 'лотос орехоносный',
     partOfSpeechCode: 'n',
     skyId: '23917'
   },
   {
     targetWord: 'nem con',
-    translation: 'единогласно',
+    translating: 'единогласно',
     partOfSpeechCode: 'r',
     skyId: '35944'
   },
   {
     targetWord: 'nematode',
-    translation: 'нематоды',
+    translating: 'нематоды',
     partOfSpeechCode: 'n',
     skyId: '94141'
   },
   {
     targetWord: 'nematode worm',
-    translation: 'нематодный червь',
+    translating: 'нематодный червь',
     partOfSpeechCode: 'n',
     skyId: '184'
   },
   {
     targetWord: 'nemea',
-    translation: 'немея',
+    translating: 'немея',
     partOfSpeechCode: 'n',
     skyId: '150668'
   },
   {
     targetWord: 'nemertea',
-    translation: 'немертины',
+    translating: 'немертины',
     partOfSpeechCode: 'n',
     skyId: '225857'
   },
   {
     targetWord: 'nemertean',
-    translation: 'немертины',
+    translating: 'немертины',
     partOfSpeechCode: 'n',
     skyId: '44824'
   },
   {
     targetWord: 'nemertina',
-    translation: 'немертины',
+    translating: 'немертины',
     partOfSpeechCode: 'n',
     skyId: '117257'
   },
   {
     targetWord: 'nemertine',
-    translation: 'немертины',
+    translating: 'немертины',
     partOfSpeechCode: 'n',
     skyId: '24375'
   },
   {
     targetWord: 'nemesis',
-    translation: 'возмездие',
+    translating: 'возмездие',
     partOfSpeechCode: 'n',
     skyId: '265269'
   },
   {
     targetWord: 'nemesis',
-    translation: 'непримиримый противник',
+    translating: 'непримиримый противник',
     partOfSpeechCode: 'n',
     skyId: '262116'
   },
   {
     targetWord: 'nemine contradicente',
-    translation: 'единогласно',
+    translating: 'единогласно',
     partOfSpeechCode: 'r',
     skyId: '115401'
   },
   {
     targetWord: 'nemophila',
-    translation: 'немофила',
+    translating: 'немофила',
     partOfSpeechCode: 'n',
     skyId: '140428'
   },
   {
     targetWord: 'nenets',
-    translation: 'ненец',
+    translating: 'ненец',
     partOfSpeechCode: 'n',
     skyId: '154904'
   },
   {
     targetWord: 'nentsi',
-    translation: 'ненцы',
+    translating: 'ненцы',
     partOfSpeechCode: 'n',
     skyId: '41892'
   },
   {
     targetWord: 'nentsy',
-    translation: 'ненцы',
+    translating: 'ненцы',
     partOfSpeechCode: 'n',
     skyId: '41900'
   },
   {
     targetWord: 'neo',
-    translation: 'нео',
+    translating: 'нео',
     partOfSpeechCode: 'j',
     skyId: '156066'
   },
   {
     targetWord: 'neo-darwinian',
-    translation: 'неодарвинистская',
+    translating: 'неодарвинистская',
     partOfSpeechCode: 'j',
     skyId: '96921'
   },
   {
     targetWord: 'neo-lamarckian',
-    translation: 'нео',
+    translating: 'нео',
     partOfSpeechCode: 'j',
     skyId: '101992'
   },
   {
     targetWord: 'neobiotic',
-    translation: 'неомицин',
+    translating: 'неомицин',
     partOfSpeechCode: 'n',
     skyId: '118612'
   },
   {
     targetWord: 'neoclassical',
-    translation: 'неоклассический',
+    translating: 'неоклассический',
     partOfSpeechCode: 'j',
     skyId: '265315'
   },
   {
     targetWord: 'neoclassicism',
-    translation: 'неоклассицизм',
+    translating: 'неоклассицизм',
     partOfSpeechCode: 'n',
     skyId: '51275'
   },
   {
     targetWord: 'neocortex',
-    translation: 'неокортекс',
+    translating: 'неокортекс',
     partOfSpeechCode: 'n',
     skyId: '41045'
   },
   {
     targetWord: 'neodymium',
-    translation: 'неодим',
+    translating: 'неодим',
     partOfSpeechCode: 'n',
     skyId: '90702'
   },
   {
     targetWord: 'neofiber',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '93066'
   },
   {
     targetWord: 'neofiber alleni',
-    translation: 'флорида водяная крыса',
+    translating: 'флорида водяная крыса',
     partOfSpeechCode: 'n',
     skyId: '75128'
   },
   {
     targetWord: 'neoliberal',
-    translation: 'неолиберальный',
+    translating: 'неолиберальный',
     partOfSpeechCode: 'j',
     skyId: '6885'
   },
   {
     targetWord: 'neoliberalism',
-    translation: 'неолиберализм',
+    translating: 'неолиберализм',
     partOfSpeechCode: 'n',
     skyId: '178673'
   },
   {
     targetWord: 'neolith',
-    translation: 'каменное орудие ',
+    translating: 'каменное орудие ',
     partOfSpeechCode: 'n',
     skyId: '57481'
   },
   {
     targetWord: 'neolithic',
-    translation: 'неолита',
+    translating: 'неолита',
     partOfSpeechCode: 'j',
     skyId: '77709'
   },
   {
     targetWord: 'neolithic',
-    translation: 'неолит',
+    translating: 'неолит',
     partOfSpeechCode: 'n',
     skyId: '77708'
   },
   {
     targetWord: 'neologism',
-    translation: 'неологизм',
+    translating: 'неологизм',
     partOfSpeechCode: 'n',
     skyId: '126178'
   },
   {
     targetWord: 'neology',
-    translation: 'неологизм',
+    translating: 'неологизм',
     partOfSpeechCode: 'n',
     skyId: '115089'
   },
   {
     targetWord: 'neomycin',
-    translation: 'неомицин',
+    translating: 'неомицин',
     partOfSpeechCode: 'n',
     skyId: '150455'
   },
   {
     targetWord: 'neomys anomalus',
-    translation: 'малая кутора',
+    translating: 'малая кутора',
     partOfSpeechCode: 'n',
     skyId: '35137'
   },
   {
     targetWord: 'neomys fodiens',
-    translation: 'обыкновенная кутора',
+    translating: 'обыкновенная кутора',
     partOfSpeechCode: 'n',
     skyId: '46328'
   },
   {
     targetWord: 'neon',
-    translation: 'неон',
+    translating: 'неон',
     partOfSpeechCode: 'n',
     skyId: '10467'
   },
   {
     targetWord: 'neon induction lamp',
-    translation: 'неоновая лампа',
+    translating: 'неоновая лампа',
     partOfSpeechCode: 'n',
     skyId: '105240'
   },
   {
     targetWord: 'neon lamp',
-    translation: 'неоновая лампа',
+    translating: 'неоновая лампа',
     partOfSpeechCode: 'n',
     skyId: '166708'
   },
   {
     targetWord: 'neon lighting',
-    translation: 'неоновое освещение',
+    translating: 'неоновое освещение',
     partOfSpeechCode: 'n',
     skyId: '234620'
   },
   {
     targetWord: 'neon tube',
-    translation: 'неоновая лампа',
+    translating: 'неоновая лампа',
     partOfSpeechCode: 'n',
     skyId: '174904'
   },
   {
     targetWord: 'neonatal',
-    translation: 'неонатальный',
+    translating: 'неонатальный',
     partOfSpeechCode: 'j',
     skyId: '112327'
   },
   {
     targetWord: 'neonate',
-    translation: 'новорожденный',
+    translating: 'новорожденный',
     partOfSpeechCode: 'n',
     skyId: '80661'
   },
   {
     targetWord: 'neonatology',
-    translation: 'неонатология',
+    translating: 'неонатология',
     partOfSpeechCode: 'n',
     skyId: '186486'
   },
   {
     targetWord: 'neophron percnopterus',
-    translation: 'стервятник обыкновенный',
+    translating: 'стервятник обыкновенный',
     partOfSpeechCode: 'n',
     skyId: '141772'
   },
   {
     targetWord: 'neophyte',
-    translation: 'новообращённый',
+    translating: 'новообращённый',
     partOfSpeechCode: 'n',
     skyId: '102970'
   },
   {
     targetWord: 'neophyte',
-    translation: 'неофит',
+    translating: 'неофит',
     partOfSpeechCode: 'n',
     skyId: '102969'
   },
   {
     targetWord: 'neoplasia',
-    translation: 'неоплазии',
+    translating: 'неоплазии',
     partOfSpeechCode: 'n',
     skyId: '155934'
   },
   {
     targetWord: 'neoplasm',
-    translation: 'новообразование',
+    translating: 'новообразование',
     partOfSpeechCode: 'n',
     skyId: '150365'
   },
   {
     targetWord: 'neoplastic',
-    translation: 'неопластический',
+    translating: 'неопластический',
     partOfSpeechCode: 'j',
     skyId: '81252'
   },
   {
     targetWord: 'neoplatonism',
-    translation: 'неоплатонизм',
+    translating: 'неоплатонизм',
     partOfSpeechCode: 'n',
     skyId: '46852'
   },
   {
     targetWord: 'neoprene',
-    translation: 'хлоропреновый каучук',
+    translating: 'хлоропреновый каучук',
     partOfSpeechCode: 'n',
     skyId: '181278'
   },
   {
     targetWord: 'neotenic',
-    translation: 'неотенических',
+    translating: 'неотенических',
     partOfSpeechCode: 'j',
     skyId: '133720'
   },
   {
     targetWord: 'neotoma',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '12426'
   },
   {
     targetWord: 'neotoma cinerea',
-    translation: 'древесная крыса',
+    translating: 'древесная крыса',
     partOfSpeechCode: 'n',
     skyId: '168859'
   },
   {
     targetWord: 'neotoma floridana',
-    translation: 'восточной',
+    translating: 'восточной',
     partOfSpeechCode: 'n',
     skyId: '140473'
   },
   {
     targetWord: 'neotoma fuscipes',
-    translation: 'темно-ногами',
+    translating: 'темно-ногами',
     partOfSpeechCode: 'n',
     skyId: '185352'
   },
   {
     targetWord: 'nepa',
-    translation: 'непско',
+    translating: 'непско',
     partOfSpeechCode: 'n',
     skyId: '9891'
   },
   {
     targetWord: 'nepal trumpet flower',
-    translation: 'грандифлора',
+    translating: 'грандифлора',
     partOfSpeechCode: 'n',
     skyId: '171301'
   },
   {
     targetWord: 'nepalese',
-    translation: 'непальский',
+    translating: 'непальский',
     partOfSpeechCode: 'j',
     skyId: '168408'
   },
   {
     targetWord: 'nepalese',
-    translation: 'непалец',
+    translating: 'непалец',
     partOfSpeechCode: 'n',
     skyId: '168407'
   },
   {
     targetWord: 'nepenthes',
-    translation: 'непентес',
+    translating: 'непентес',
     partOfSpeechCode: 'n',
     skyId: '92399'
   },
   {
     targetWord: 'nepeta cataria',
-    translation: 'котовник',
+    translating: 'котовник',
     partOfSpeechCode: 'n',
     skyId: '28802'
   },
   {
     targetWord: 'nephelium',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '185459'
   },
   {
     targetWord: 'nephelium lappaceum',
-    translation: 'рамбутан',
+    translating: 'рамбутан',
     partOfSpeechCode: 'n',
     skyId: '110324'
   },
   {
     targetWord: 'nephelium litchi',
-    translation: 'личи китайского',
+    translating: 'личи китайского',
     partOfSpeechCode: 'n',
     skyId: '149802'
   },
   {
     targetWord: 'nephelium longana',
-    translation: 'лонган',
+    translating: 'лонган',
     partOfSpeechCode: 'n',
     skyId: '155088'
   },
   {
     targetWord: 'nephelium mutabile',
-    translation: 'пуласан',
+    translating: 'пуласан',
     partOfSpeechCode: 'n',
     skyId: '34629'
   },
   {
     targetWord: 'nephelometry',
-    translation: 'нефелометрия',
+    translating: 'нефелометрия',
     partOfSpeechCode: 'n',
     skyId: '259304'
   },
   {
     targetWord: 'nephew',
-    translation: 'племянник',
+    translating: 'племянник',
     partOfSpeechCode: 'n',
     skyId: '92796'
   },
   {
     targetWord: 'nephoscope',
-    translation: 'нефоскоп',
+    translating: 'нефоскоп',
     partOfSpeechCode: 'n',
     skyId: '178503'
   },
   {
     targetWord: 'nephralgia',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '102049'
   },
   {
     targetWord: 'nephrectomy',
-    translation: 'нефрэктомии',
+    translating: 'нефрэктомии',
     partOfSpeechCode: 'n',
     skyId: '126766'
   },
   {
     targetWord: 'nephrolepis exaltata',
-    translation: 'бостонский папоротник',
+    translating: 'бостонский папоротник',
     partOfSpeechCode: 'n',
     skyId: '84157'
   },
   {
     targetWord: 'nephrolepis exaltata bostoniensis',
-    translation: 'бостонский папоротник',
+    translating: 'бостонский папоротник',
     partOfSpeechCode: 'n',
     skyId: '166038'
   },
   {
     targetWord: 'nephron',
-    translation: 'нефрон',
+    translating: 'нефрон',
     partOfSpeechCode: 'n',
     skyId: '17583'
   },
   {
     targetWord: 'nephrops norvegicus',
-    translation: 'норвежский омар',
+    translating: 'норвежский омар',
     partOfSpeechCode: 'n',
     skyId: '37014'
   },
   {
     targetWord: 'nepidae',
-    translation: 'водяные скорпионы',
+    translating: 'водяные скорпионы',
     partOfSpeechCode: 'n',
     skyId: '90713'
   },
   {
     targetWord: 'nepotism',
-    translation: 'кумовство',
+    translating: 'кумовство',
     partOfSpeechCode: 'n',
     skyId: '161309'
   },
   {
     targetWord: 'nepotist',
-    translation: 'человек, оказывающий протекцию своим родственникам',
+    translating: 'человек, оказывающий протекцию своим родственникам',
     partOfSpeechCode: 'n',
     skyId: '161313'
   },
   {
     targetWord: 'nerd',
-    translation: 'зануда',
+    translating: 'зануда',
     partOfSpeechCode: 'n',
     skyId: '6789'
   },
   {
     targetWord: 'nerdish',
-    translation: 'нудный',
+    translating: 'нудный',
     partOfSpeechCode: 'j',
     skyId: '261011'
   },
   {
     targetWord: 'nerita',
-    translation: 'нерита',
+    translating: 'нерита',
     partOfSpeechCode: 'n',
     skyId: '56813'
   },
   {
     targetWord: 'nerita peloronta',
-    translation: 'кровотечение зубов',
+    translating: 'кровотечение зубов',
     partOfSpeechCode: 'n',
     skyId: '109926'
   },
   {
     targetWord: 'neritic',
-    translation: 'прибрежно',
+    translating: 'прибрежно',
     partOfSpeechCode: 'j',
     skyId: '81176'
   },
   {
     targetWord: 'neritid',
-    translation: 'брюхоногих',
+    translating: 'брюхоногих',
     partOfSpeechCode: 'n',
     skyId: '81171'
   },
   {
     targetWord: 'neritid gastropod',
-    translation: 'брюхоногих',
+    translating: 'брюхоногих',
     partOfSpeechCode: 'n',
     skyId: '146806'
   },
   {
     targetWord: 'neritina',
-    translation: 'неритина',
+    translating: 'неритина',
     partOfSpeechCode: 'n',
     skyId: '82144'
   },
   {
     targetWord: 'nerium oleander',
-    translation: 'олеандр',
+    translating: 'олеандр',
     partOfSpeechCode: 'n',
     skyId: '146031'
   },
   {
     targetWord: 'nerodia sipedon',
-    translation: 'полосатый уж',
+    translating: 'полосатый уж',
     partOfSpeechCode: 'n',
     skyId: '175386'
   },
   {
     targetWord: 'nerve',
-    translation: 'дерзость',
+    translating: 'дерзость',
     partOfSpeechCode: 'n',
     skyId: '157450'
   },
   {
     targetWord: 'nerve',
-    translation: 'сила духа',
+    translating: 'сила духа',
     partOfSpeechCode: 'n',
     skyId: '157449'
   },
   {
     targetWord: 'nerve',
-    translation: 'нерв',
+    translating: 'нерв',
     partOfSpeechCode: 'n',
     skyId: '157448'
   },
   {
     targetWord: 'nerve',
-    translation: 'придавать силу',
+    translating: 'придавать силу',
     partOfSpeechCode: 'v',
     skyId: '157451'
   },
   {
     targetWord: 'nerve cell',
-    translation: 'нервная клетка',
+    translating: 'нервная клетка',
     partOfSpeechCode: 'n',
     skyId: '161655'
   },
   {
     targetWord: 'nerve center',
-    translation: 'нервный центр',
+    translating: 'нервный центр',
     partOfSpeechCode: 'n',
     skyId: '97377'
   },
   {
     targetWord: 'nerve centre',
-    translation: 'нервный центр',
+    translating: 'нервный центр',
     partOfSpeechCode: 'n',
     skyId: '7903'
   },
   {
     targetWord: 'nerve end',
-    translation: 'нерва конца',
+    translating: 'нерва конца',
     partOfSpeechCode: 'n',
     skyId: '185768'
   },
   {
     targetWord: 'nerve ending',
-    translation: 'нервное окончание',
+    translating: 'нервное окончание',
     partOfSpeechCode: 'n',
     skyId: '120717'
   },
   {
     targetWord: 'nerve fiber',
-    translation: 'нервное волокно',
+    translating: 'нервное волокно',
     partOfSpeechCode: 'n',
     skyId: '151289'
   },
   {
     targetWord: 'nerve-racking',
-    translation: 'действующий на нервы',
+    translating: 'действующий на нервы',
     partOfSpeechCode: 'j',
     skyId: '92092'
   },
   {
     targetWord: 'nerve-wracking',
-    translation: 'действующий на нервы',
+    translating: 'действующий на нервы',
     partOfSpeechCode: 'j',
     skyId: '153039'
   },
   {
     targetWord: 'nervelessly',
-    translation: 'nervelessly',
+    translating: 'nervelessly',
     partOfSpeechCode: 'r',
     skyId: '155484'
   },
   {
     targetWord: 'nervelessness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '188173'
   },
   {
     targetWord: 'nerves',
-    translation: 'нервозность',
+    translating: 'нервозность',
     partOfSpeechCode: 'n',
     skyId: '63620'
   },
   {
     targetWord: 'nerves',
-    translation: 'самообладание',
+    translating: 'самообладание',
     partOfSpeechCode: 'n',
     skyId: '63619'
   },
   {
     targetWord: 'nerves',
-    translation: 'нервный пучок',
+    translating: 'нервный пучок',
     partOfSpeechCode: 'n',
     skyId: '63618'
   },
   {
     targetWord: 'nerves',
-    translation: 'сила духа',
+    translating: 'сила духа',
     partOfSpeechCode: 'n',
     skyId: '63617'
   },
   {
     targetWord: 'nerves',
-    translation: 'нервы',
+    translating: 'нервы',
     partOfSpeechCode: 'n',
     skyId: '63616'
   },
   {
     targetWord: 'nervous',
-    translation: 'нервозный',
+    translating: 'нервозный',
     partOfSpeechCode: 'j',
     skyId: '255365'
   },
   {
     targetWord: 'nervous',
-    translation: 'нервный ',
+    translating: 'нервный ',
     partOfSpeechCode: 'j',
     skyId: '55380'
   },
   {
     targetWord: 'nervous',
-    translation: 'взволнованный',
+    translating: 'взволнованный',
     partOfSpeechCode: 'j',
     skyId: '55382'
   },
   {
     targetWord: 'nervous breakdown',
-    translation: 'нервный срыв',
+    translating: 'нервный срыв',
     partOfSpeechCode: 'n',
     skyId: '44796'
   },
   {
     targetWord: 'nervous disorder',
-    translation: 'неврологическое заболевание',
+    translating: 'неврологическое заболевание',
     partOfSpeechCode: 'n',
     skyId: '125277'
   },
   {
     targetWord: 'nervous exhaustion',
-    translation: 'неврастения',
+    translating: 'неврастения',
     partOfSpeechCode: 'n',
     skyId: '1892'
   },
   {
     targetWord: 'nervous system',
-    translation: 'нервная система',
+    translating: 'нервная система',
     partOfSpeechCode: 'n',
     skyId: '188822'
   },
   {
     targetWord: 'nervous tissue',
-    translation: 'нервная ткань',
+    translating: 'нервная ткань',
     partOfSpeechCode: 'n',
     skyId: '1093'
   },
   {
     targetWord: 'nervous wreck',
-    translation: 'человек на грани нервного срыва',
+    translating: 'человек на грани нервного срыва',
     partOfSpeechCode: 'n',
     skyId: '239117'
   },
   {
     targetWord: 'nervously',
-    translation: 'нервно',
+    translating: 'нервно',
     partOfSpeechCode: 'r',
     skyId: '89098'
   },
   {
     targetWord: 'nervousness',
-    translation: 'нервность',
+    translating: 'нервность',
     partOfSpeechCode: 'n',
     skyId: '19779'
   },
   {
     targetWord: 'nervousness',
-    translation: 'нервозность',
+    translating: 'нервозность',
     partOfSpeechCode: 'n',
     skyId: '240134'
   },
   {
     targetWord: 'nervure',
-    translation: 'жилка',
+    translating: 'жилка',
     partOfSpeechCode: 'n',
     skyId: '139438'
   },
   {
     targetWord: 'nervus',
-    translation: 'нерв',
+    translating: 'нерв',
     partOfSpeechCode: 'n',
     skyId: '71363'
   },
   {
     targetWord: 'nervus facialis',
-    translation: 'лицевой нерв',
+    translating: 'лицевой нерв',
     partOfSpeechCode: 'n',
     skyId: '187949'
   },
   {
     targetWord: 'nervus trigeminus',
-    translation: 'тройничный нерв',
+    translating: 'тройничный нерв',
     partOfSpeechCode: 'n',
     skyId: '188956'
   },
   {
     targetWord: 'nervus vagus',
-    translation: 'блуждающий нерв',
+    translating: 'блуждающий нерв',
     partOfSpeechCode: 'n',
     skyId: '164622'
   },
   {
     targetWord: 'nervy',
-    translation: 'нервный',
+    translating: 'нервный',
     partOfSpeechCode: 'j',
     skyId: '157487'
   },
   {
     targetWord: 'nescient',
-    translation: 'не знающий',
+    translating: 'не знающий',
     partOfSpeechCode: 'j',
     skyId: '47545'
   },
   {
     targetWord: 'nesokia',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '96196'
   },
   {
     targetWord: 'nest egg',
-    translation: 'накопление',
+    translating: 'накопление',
     partOfSpeechCode: 'n',
     skyId: '33882'
   },
   {
     targetWord: 'nested loop',
-    translation: 'вложенный цикл',
+    translating: 'вложенный цикл',
     partOfSpeechCode: 'n',
     skyId: '261952'
   },
   {
     targetWord: 'nester',
-    translation: 'птица, свившая гнездо',
+    translating: 'птица, свившая гнездо',
     partOfSpeechCode: 'n',
     skyId: '30969'
   },
   {
     targetWord: 'nesting place',
-    translation: 'место гнездовья',
+    translating: 'место гнездовья',
     partOfSpeechCode: 'n',
     skyId: '152176'
   },
   {
     targetWord: 'nestle',
-    translation: 'уютно устроиться',
+    translating: 'уютно устроиться',
     partOfSpeechCode: 'v',
     skyId: '195114'
   },
   {
     targetWord: 'nestle',
-    translation: 'угнездиться',
+    translating: 'угнездиться',
     partOfSpeechCode: 'v',
     skyId: '195113'
   },
   {
     targetWord: 'nestle',
-    translation: 'удобно устроиться',
+    translating: 'удобно устроиться',
     partOfSpeechCode: 'v',
     skyId: '195112'
   },
   {
     targetWord: 'nestled',
-    translation: 'приютившийся',
+    translating: 'приютившийся',
     partOfSpeechCode: 'j',
     skyId: '67841'
   },
   {
     targetWord: 'nestor notabilis',
-    translation: 'кеа',
+    translating: 'кеа',
     partOfSpeechCode: 'n',
     skyId: '223922'
   },
   {
     targetWord: 'net',
-    translation: 'конечный',
+    translating: 'конечный',
     partOfSpeechCode: 'j',
     skyId: '156105'
   },
   {
     targetWord: 'net',
-    translation: 'чистый ',
+    translating: 'чистый ',
     partOfSpeechCode: 'j',
     skyId: '156104'
   },
   {
     targetWord: 'net',
-    translation: 'ухватить',
+    translating: 'ухватить',
     partOfSpeechCode: 'v',
     skyId: '160335'
   },
   {
     targetWord: 'net',
-    translation: 'приносить доход',
+    translating: 'приносить доход',
     partOfSpeechCode: 'v',
     skyId: '160333'
   },
   {
     targetWord: 'net',
-    translation: 'получать чистую прибыль',
+    translating: 'получать чистую прибыль',
     partOfSpeechCode: 'v',
     skyId: '160332'
   },
   {
     targetWord: 'net',
-    translation: 'сеть',
+    translating: 'сеть',
     partOfSpeechCode: 'n',
     skyId: '156099'
   },
   {
     targetWord: 'net',
-    translation: 'сетка',
+    translating: 'сетка',
     partOfSpeechCode: 'n',
     skyId: '156098'
   },
   {
     targetWord: 'net',
-    translation: 'ворота',
+    translating: 'ворота',
     partOfSpeechCode: 'n',
     skyId: '156097'
   },
   {
     targetWord: 'net',
-    translation: 'чистый доход',
+    translating: 'чистый доход',
     partOfSpeechCode: 'n',
     skyId: '156096'
   },
   {
     targetWord: 'net',
-    translation: 'сети',
+    translating: 'сети',
     partOfSpeechCode: 'n',
     skyId: '156095'
   },
   {
     targetWord: 'net',
-    translation: 'компьютерная сеть',
+    translating: 'компьютерная сеть',
     partOfSpeechCode: 'n',
     skyId: '156094'
   },
   {
     targetWord: 'net ball',
-    translation: 'чистая мячом',
+    translating: 'чистая мячом',
     partOfSpeechCode: 'n',
     skyId: '118633'
   },
   {
     targetWord: 'net earnings',
-    translation: 'чистая прибыль',
+    translating: 'чистая прибыль',
     partOfSpeechCode: 'n',
     skyId: '264190'
   },
   {
     targetWord: 'net income',
-    translation: 'чистый доход',
+    translating: 'чистый доход',
     partOfSpeechCode: 'n',
     skyId: '53721'
   },
   {
     targetWord: 'net junkie',
-    translation: 'интернет-зависимый',
+    translating: 'интернет-зависимый',
     partOfSpeechCode: 'n',
     skyId: '255891'
   },
   {
     targetWord: 'net profit',
-    translation: 'чистая прибыль',
+    translating: 'чистая прибыль',
     partOfSpeechCode: 'n',
     skyId: '75326'
   },
   {
     targetWord: 'net result',
-    translation: 'конечный результат',
+    translating: 'конечный результат',
     partOfSpeechCode: 'ph',
     skyId: '239135'
   },
   {
     targetWord: 'net revenue',
-    translation: 'чистый доход',
+    translating: 'чистый доход',
     partOfSpeechCode: 'ph',
     skyId: '231637'
   },
   {
     targetWord: 'net shopper',
-    translation: 'авоська',
+    translating: 'авоська',
     partOfSpeechCode: 'n',
     skyId: '261321'
   },
   {
     targetWord: 'net volume',
-    translation: 'полезный объем',
+    translating: 'полезный объем',
     partOfSpeechCode: 'n',
     skyId: '248143'
   },
   {
     targetWord: 'net worth',
-    translation: 'собственный капитал; чистые активы',
+    translating: 'собственный капитал; чистые активы',
     partOfSpeechCode: 'n',
     skyId: '239136'
   },
   {
     targetWord: 'netball',
-    translation: 'нетбол',
+    translating: 'нетбол',
     partOfSpeechCode: 'n',
     skyId: '51819'
   },
   {
     targetWord: 'nether',
-    translation: 'нижний',
+    translating: 'нижний',
     partOfSpeechCode: 'j',
     skyId: '143919'
   },
   {
     targetWord: 'nether region',
-    translation: 'геенна огненная',
+    translating: 'геенна огненная',
     partOfSpeechCode: 'n',
     skyId: '77118'
   },
   {
     targetWord: 'netherlander',
-    translation: 'нидерландец',
+    translating: 'нидерландец',
     partOfSpeechCode: 'n',
     skyId: '31895'
   },
   {
     targetWord: 'netherworld',
-    translation: 'загробный мир',
+    translating: 'загробный мир',
     partOfSpeechCode: 'n',
     skyId: '11810'
   },
   {
     targetWord: 'netiquette',
-    translation: 'сетевой этикет',
+    translating: 'сетевой этикет',
     partOfSpeechCode: 'n',
     skyId: '265308'
   },
   {
     targetWord: 'netkeeper',
-    translation: 'вратарем',
+    translating: 'вратарем',
     partOfSpeechCode: 'n',
     skyId: '131010'
   },
   {
     targetWord: 'netkeeper',
-    translation: 'вратарь',
+    translating: 'вратарь',
     partOfSpeechCode: 'n',
     skyId: '131009'
   },
   {
     targetWord: 'netminder',
-    translation: 'вратарь',
+    translating: 'вратарь',
     partOfSpeechCode: 'n',
     skyId: '65930'
   },
   {
     targetWord: 'nett',
-    translation: 'сальдо',
+    translating: 'сальдо',
     partOfSpeechCode: 'j',
     skyId: '178036'
   },
   {
     targetWord: 'nett',
-    translation: 'в нетто',
+    translating: 'в нетто',
     partOfSpeechCode: 'v',
     skyId: '178035'
   },
   {
     targetWord: 'netted',
-    translation: 'сетчатый',
+    translating: 'сетчатый',
     partOfSpeechCode: 'j',
     skyId: '160336'
   },
   {
     targetWord: 'netting',
-    translation: 'создание сети',
+    translating: 'создание сети',
     partOfSpeechCode: 'n',
     skyId: '159494'
   },
   {
     targetWord: 'netting',
-    translation: 'сетка',
+    translating: 'сетка',
     partOfSpeechCode: 'n',
     skyId: '159493'
   },
   {
     targetWord: 'nettle',
-    translation: 'раздражать',
+    translating: 'раздражать',
     partOfSpeechCode: 'v',
     skyId: '26000'
   },
   {
     targetWord: 'nettle',
-    translation: 'обжигать крапивой',
+    translating: 'обжигать крапивой',
     partOfSpeechCode: 'v',
     skyId: '25999'
   },
   {
     targetWord: 'nettle',
-    translation: 'крапива',
+    translating: 'крапива',
     partOfSpeechCode: 'n',
     skyId: '947'
   },
   {
     targetWord: 'nettle tree',
-    translation: 'крапива дерева',
+    translating: 'крапива дерева',
     partOfSpeechCode: 'n',
     skyId: '77401'
   },
   {
     targetWord: 'nettled',
-    translation: 'уязвлённый',
+    translating: 'уязвлённый',
     partOfSpeechCode: 'j',
     skyId: '26001'
   },
   {
     targetWord: 'nettlesome',
-    translation: 'раздражительный',
+    translating: 'раздражительный',
     partOfSpeechCode: 'j',
     skyId: '52318'
   },
   {
     targetWord: 'nettlesome',
-    translation: 'раздражающий',
+    translating: 'раздражающий',
     partOfSpeechCode: 'j',
     skyId: '52317'
   },
   {
     targetWord: 'network',
-    translation: 'телесеть ',
+    translating: 'телесеть ',
     partOfSpeechCode: 'n',
     skyId: '240137'
   },
   {
     targetWord: 'network',
-    translation: 'круг ',
+    translating: 'круг ',
     partOfSpeechCode: 'n',
     skyId: '240136'
   },
   {
     targetWord: 'network',
-    translation: 'компьютерная сеть',
+    translating: 'компьютерная сеть',
     partOfSpeechCode: 'n',
     skyId: '235114'
   },
   {
     targetWord: 'network',
-    translation: 'сеть',
+    translating: 'сеть',
     partOfSpeechCode: 'n',
     skyId: '235064'
   },
   {
     targetWord: 'network administrator',
-    translation: 'сетевой администратор',
+    translating: 'сетевой администратор',
     partOfSpeechCode: 'ph',
     skyId: '251466'
   },
   {
     targetWord: 'network army',
-    translation: 'сеть армии',
+    translating: 'сеть армии',
     partOfSpeechCode: 'n',
     skyId: '157009'
   },
   {
     targetWord: 'network efficiency',
-    translation: 'эффективность использования сети',
+    translating: 'эффективность использования сети',
     partOfSpeechCode: 'n',
     skyId: '258548'
   },
   {
     targetWord: 'network marketing',
-    translation: 'сетевой маркетинг',
+    translating: 'сетевой маркетинг',
     partOfSpeechCode: 'n',
     skyId: '257617'
   },
   {
     targetWord: 'network security',
-    translation: 'сетевая безопасность',
+    translating: 'сетевая безопасность',
     partOfSpeechCode: 'ph',
     skyId: '266823'
   },
   {
     targetWord: 'network topology',
-    translation: 'топология сети',
+    translating: 'топология сети',
     partOfSpeechCode: 'n',
     skyId: '167033'
   },
@@ -6915,831 +6915,831 @@ export const nArr = [
   },
   {
     targetWord: 'networking',
-    translation: 'объединение компьютеров в единую сеть',
+    translating: 'объединение компьютеров в единую сеть',
     partOfSpeechCode: 'n',
     skyId: '251841'
   },
   {
     targetWord: 'networking',
-    translation: 'сеть профессиональных знакомств',
+    translating: 'сеть профессиональных знакомств',
     partOfSpeechCode: 'n',
     skyId: '240139'
   },
   {
     targetWord: 'networking event',
-    translation: 'мероприятие для создания и укрепления деловых связей',
+    translating: 'мероприятие для создания и укрепления деловых связей',
     partOfSpeechCode: 'ph',
     skyId: '264741'
   },
   {
     targetWord: 'neural',
-    translation: 'нейронный',
+    translating: 'нейронный',
     partOfSpeechCode: 'j',
     skyId: '134056'
   },
   {
     targetWord: 'neural',
-    translation: 'нервный',
+    translating: 'нервный',
     partOfSpeechCode: 'j',
     skyId: '134055'
   },
   {
     targetWord: 'neural arch',
-    translation: 'нейральная дуга',
+    translating: 'нейральная дуга',
     partOfSpeechCode: 'n',
     skyId: '219111'
   },
   {
     targetWord: 'neural net',
-    translation: 'искусственная нейронная сеть',
+    translating: 'искусственная нейронная сеть',
     partOfSpeechCode: 'n',
     skyId: '150529'
   },
   {
     targetWord: 'neural net',
-    translation: 'нейронная сеть',
+    translating: 'нейронная сеть',
     partOfSpeechCode: 'n',
     skyId: '150528'
   },
   {
     targetWord: 'neural network',
-    translation: 'нейронная сеть',
+    translating: 'нейронная сеть',
     partOfSpeechCode: 'n',
     skyId: '185250'
   },
   {
     targetWord: 'neuralgia',
-    translation: 'невралгия',
+    translating: 'невралгия',
     partOfSpeechCode: 'n',
     skyId: '43573'
   },
   {
     targetWord: 'neuralgic',
-    translation: 'невралгический',
+    translating: 'невралгический',
     partOfSpeechCode: 'j',
     skyId: '109124'
   },
   {
     targetWord: 'neuralgy',
-    translation: 'невралгия',
+    translating: 'невралгия',
     partOfSpeechCode: 'n',
     skyId: '92778'
   },
   {
     targetWord: 'neurasthenia',
-    translation: 'неврастения',
+    translating: 'неврастения',
     partOfSpeechCode: 'n',
     skyId: '84579'
   },
   {
     targetWord: 'neurasthenic',
-    translation: 'неврастеник',
+    translating: 'неврастеник',
     partOfSpeechCode: 'j',
     skyId: '54529'
   },
   {
     targetWord: 'neurasthenic',
-    translation: 'неврастения',
+    translating: 'неврастения',
     partOfSpeechCode: 'n',
     skyId: '54528'
   },
   {
     targetWord: 'neurilemoma',
-    translation: 'нейрофиброма',
+    translating: 'нейрофиброма',
     partOfSpeechCode: 'n',
     skyId: '163526'
   },
   {
     targetWord: 'neurinoma',
-    translation: 'невриномы',
+    translating: 'невриномы',
     partOfSpeechCode: 'n',
     skyId: '159514'
   },
   {
     targetWord: 'neuritis',
-    translation: 'неврит',
+    translating: 'неврит',
     partOfSpeechCode: 'n',
     skyId: '33005'
   },
   {
     targetWord: 'neuroanatomy',
-    translation: 'нейроанатомия',
+    translating: 'нейроанатомия',
     partOfSpeechCode: 'n',
     skyId: '125921'
   },
   {
     targetWord: 'neurobiologist',
-    translation: 'нейробиолог',
+    translating: 'нейробиолог',
     partOfSpeechCode: 'n',
     skyId: '34843'
   },
   {
     targetWord: 'neurobiology',
-    translation: 'нейробиология',
+    translating: 'нейробиология',
     partOfSpeechCode: 'n',
     skyId: '140176'
   },
   {
     targetWord: 'neurochemical',
-    translation: 'нейрохимический',
+    translating: 'нейрохимический',
     partOfSpeechCode: 'j',
     skyId: '266137'
   },
   {
     targetWord: 'neurocomputer',
-    translation: 'нейрокомпьютер',
+    translating: 'нейрокомпьютер',
     partOfSpeechCode: 'n',
     skyId: '250136'
   },
   {
     targetWord: 'neurodegenerative',
-    translation: 'нейродегенеративный',
+    translating: 'нейродегенеративный',
     partOfSpeechCode: 'j',
     skyId: '264900'
   },
   {
     targetWord: 'neurofibromatosis',
-    translation: 'нейрофиброматоз',
+    translating: 'нейрофиброматоз',
     partOfSpeechCode: 'n',
     skyId: '63962'
   },
   {
     targetWord: 'neurogenesis',
-    translation: 'нейрогенез',
+    translating: 'нейрогенез',
     partOfSpeechCode: 'n',
     skyId: '66785'
   },
   {
     targetWord: 'neurogenic',
-    translation: 'нейрогенный',
+    translating: 'нейрогенный',
     partOfSpeechCode: 'j',
     skyId: '56102'
   },
   {
     targetWord: 'neuroglia',
-    translation: 'нейроглия',
+    translating: 'нейроглия',
     partOfSpeechCode: 'n',
     skyId: '96030'
   },
   {
     targetWord: 'neuroglial',
-    translation: 'нейроглии',
+    translating: 'нейроглии',
     partOfSpeechCode: 'j',
     skyId: '158702'
   },
   {
     targetWord: 'neuroleptic',
-    translation: 'антипсихотические препараты',
+    translating: 'антипсихотические препараты',
     partOfSpeechCode: 'n',
     skyId: '57435'
   },
   {
     targetWord: 'neurologic',
-    translation: 'неврологический',
+    translating: 'неврологический',
     partOfSpeechCode: 'j',
     skyId: '24553'
   },
   {
     targetWord: 'neurological',
-    translation: 'неврологический',
+    translating: 'неврологический',
     partOfSpeechCode: 'j',
     skyId: '50499'
   },
   {
     targetWord: 'neurologist',
-    translation: 'невролог',
+    translating: 'невролог',
     partOfSpeechCode: 'n',
     skyId: '233'
   },
   {
     targetWord: 'neurology',
-    translation: 'неврология',
+    translating: 'неврология',
     partOfSpeechCode: 'n',
     skyId: '117327'
   },
   {
     targetWord: 'neurolysin',
-    translation: 'нейротоксин',
+    translating: 'нейротоксин',
     partOfSpeechCode: 'n',
     skyId: '92971'
   },
   {
     targetWord: 'neuroma',
-    translation: 'неврома',
+    translating: 'неврома',
     partOfSpeechCode: 'n',
     skyId: '125564'
   },
   {
     targetWord: 'neuromotor',
-    translation: 'нейромоторные',
+    translating: 'нейромоторные',
     partOfSpeechCode: 'j',
     skyId: '111942'
   },
   {
     targetWord: 'neuron',
-    translation: 'нейрон',
+    translating: 'нейрон',
     partOfSpeechCode: 'n',
     skyId: '42340'
   },
   {
     targetWord: 'neuronal',
-    translation: 'нейронный',
+    translating: 'нейронный',
     partOfSpeechCode: 'j',
     skyId: '47990'
   },
   {
     targetWord: 'neuronic',
-    translation: 'нейронный',
+    translating: 'нейронный',
     partOfSpeechCode: 'j',
     skyId: '163351'
   },
   {
     targetWord: 'neuropathy',
-    translation: 'нейропатия',
+    translating: 'нейропатия',
     partOfSpeechCode: 'n',
     skyId: '126702'
   },
   {
     targetWord: 'neurophysiology',
-    translation: 'нейрофизиология',
+    translating: 'нейрофизиология',
     partOfSpeechCode: 'n',
     skyId: '52027'
   },
   {
     targetWord: 'neuroplasticity',
-    translation: 'нейропластичность',
+    translating: 'нейропластичность',
     partOfSpeechCode: 'n',
     skyId: '264679'
   },
   {
     targetWord: 'neuropsychiatric',
-    translation: 'психоневрологический',
+    translating: 'психоневрологический',
     partOfSpeechCode: 'j',
     skyId: '139621'
   },
   {
     targetWord: 'neuropsychiatry',
-    translation: 'нейропсихиатрия',
+    translating: 'нейропсихиатрия',
     partOfSpeechCode: 'n',
     skyId: '9314'
   },
   {
     targetWord: 'neuropsychological',
-    translation: 'нейропсихологический',
+    translating: 'нейропсихологический',
     partOfSpeechCode: 'j',
     skyId: '4304'
   },
   {
     targetWord: 'neuropsychology',
-    translation: 'нейропсихология',
+    translating: 'нейропсихология',
     partOfSpeechCode: 'n',
     skyId: '219867'
   },
   {
     targetWord: 'neuroptera',
-    translation: 'насекомых',
+    translating: 'насекомых',
     partOfSpeechCode: 'n',
     skyId: '143979'
   },
   {
     targetWord: 'neuropteran',
-    translation: 'насекомых',
+    translating: 'насекомых',
     partOfSpeechCode: 'n',
     skyId: '214672'
   },
   {
     targetWord: 'neuropteron',
-    translation: 'насекомых',
+    translating: 'насекомых',
     partOfSpeechCode: 'n',
     skyId: '181109'
   },
   {
     targetWord: 'neuropterous insect',
-    translation: 'насекомых',
+    translating: 'насекомых',
     partOfSpeechCode: 'n',
     skyId: '187181'
   },
   {
     targetWord: 'neuroscience',
-    translation: 'нейрофизиология',
+    translating: 'нейрофизиология',
     partOfSpeechCode: 'n',
     skyId: '215060'
   },
   {
     targetWord: 'neuroscientist',
-    translation: 'нейробиолог',
+    translating: 'нейробиолог',
     partOfSpeechCode: 'n',
     skyId: '78638'
   },
   {
     targetWord: 'neurosis',
-    translation: 'невроз',
+    translating: 'невроз',
     partOfSpeechCode: 'n',
     skyId: '21149'
   },
   {
     targetWord: 'neurosurgeon',
-    translation: 'нейрохирург',
+    translating: 'нейрохирург',
     partOfSpeechCode: 'n',
     skyId: '105724'
   },
   {
     targetWord: 'neurosurgery',
-    translation: 'нейрохирургия',
+    translating: 'нейрохирургия',
     partOfSpeechCode: 'n',
     skyId: '5464'
   },
   {
     targetWord: 'neurotic',
-    translation: 'невротический',
+    translating: 'невротический',
     partOfSpeechCode: 'j',
     skyId: '20195'
   },
   {
     targetWord: 'neurotic',
-    translation: 'нервный',
+    translating: 'нервный',
     partOfSpeechCode: 'j',
     skyId: '20196'
   },
   {
     targetWord: 'neurotic',
-    translation: 'невротик',
+    translating: 'невротик',
     partOfSpeechCode: 'n',
     skyId: '20194'
   },
   {
     targetWord: 'neurotically',
-    translation: 'нервно',
+    translating: 'нервно',
     partOfSpeechCode: 'r',
     skyId: '105845'
   },
   {
     targetWord: 'neuroticism',
-    translation: 'невроз',
+    translating: 'невроз',
     partOfSpeechCode: 'n',
     skyId: '100224'
   },
   {
     targetWord: 'neurotoxin',
-    translation: 'нейротоксин',
+    translating: 'нейротоксин',
     partOfSpeechCode: 'n',
     skyId: '84158'
   },
   {
     targetWord: 'neurotransmitter',
-    translation: 'нейромедиатор',
+    translating: 'нейромедиатор',
     partOfSpeechCode: 'n',
     skyId: '97701'
   },
   {
     targetWord: 'neuter',
-    translation: 'средний',
+    translating: 'средний',
     partOfSpeechCode: 'j',
     skyId: '145293'
   },
   {
     targetWord: 'neuter',
-    translation: 'средний род',
+    translating: 'средний род',
     partOfSpeechCode: 'n',
     skyId: '145291'
   },
   {
     targetWord: 'neuter',
-    translation: 'кастрировать',
+    translating: 'кастрировать',
     partOfSpeechCode: 'v',
     skyId: '145292'
   },
   {
     targetWord: 'neutered',
-    translation: 'кастрированный',
+    translating: 'кастрированный',
     partOfSpeechCode: 'j',
     skyId: '213793'
   },
   {
     targetWord: 'neutering',
-    translation: 'стерилизация',
+    translating: 'стерилизация',
     partOfSpeechCode: 'n',
     skyId: '89800'
   },
   {
     targetWord: 'neutral',
-    translation: 'нейтральный ',
+    translating: 'нейтральный ',
     partOfSpeechCode: 'j',
     skyId: '240140'
   },
   {
     targetWord: 'neutral',
-    translation: 'посредственный',
+    translating: 'посредственный',
     partOfSpeechCode: 'j',
     skyId: '70764'
   },
   {
     targetWord: 'neutral',
-    translation: 'нейтральный',
+    translating: 'нейтральный',
     partOfSpeechCode: 'j',
     skyId: '70765'
   },
   {
     targetWord: 'neutral',
-    translation: 'нейтральная сторона',
+    translating: 'нейтральная сторона',
     partOfSpeechCode: 'n',
     skyId: '70758'
   },
   {
     targetWord: 'neutral axis',
-    translation: 'нейтральная линия',
+    translating: 'нейтральная линия',
     partOfSpeechCode: 'n',
     skyId: '258858'
   },
   {
     targetWord: 'neutral grounding cabinet',
-    translation: 'шкаф заземления нейтрали',
+    translating: 'шкаф заземления нейтрали',
     partOfSpeechCode: 'n',
     skyId: '248257'
   },
   {
     targetWord: 'neutral point arrangement',
-    translation: 'организация нейтрали',
+    translating: 'организация нейтрали',
     partOfSpeechCode: 'n',
     skyId: '248482'
   },
   {
     targetWord: 'neutral spirits',
-    translation: 'нейтрального зернового спирта',
+    translating: 'нейтрального зернового спирта',
     partOfSpeechCode: 'n',
     skyId: '179145'
   },
   {
     targetWord: 'neutralise',
-    translation: 'нейтрализовать',
+    translating: 'нейтрализовать',
     partOfSpeechCode: 'v',
     skyId: '67065'
   },
   {
     targetWord: 'neutralise',
-    translation: 'ликвидировать',
+    translating: 'ликвидировать',
     partOfSpeechCode: 'v',
     skyId: '67063'
   },
   {
     targetWord: 'neutrality',
-    translation: 'нейтральность',
+    translating: 'нейтральность',
     partOfSpeechCode: 'n',
     skyId: '48047'
   },
   {
     targetWord: 'neutrality',
-    translation: 'нейтралитет',
+    translating: 'нейтралитет',
     partOfSpeechCode: 'n',
     skyId: '48046'
   },
   {
     targetWord: 'neutralization',
-    translation: 'нейтрализация',
+    translating: 'нейтрализация',
     partOfSpeechCode: 'n',
     skyId: '156629'
   },
   {
     targetWord: 'neutralization plant distribution cabinet',
-    translation: 'распределительный шкаф установки нейтрализации',
+    translating: 'распределительный шкаф установки нейтрализации',
     partOfSpeechCode: 'n',
     skyId: '246167'
   },
   {
     targetWord: 'neutralization tank',
-    translation: 'бак-нейтрализатор',
+    translating: 'бак-нейтрализатор',
     partOfSpeechCode: 'n',
     skyId: '246168'
   },
   {
     targetWord: 'neutralize',
-    translation: 'нейтрализовать',
+    translating: 'нейтрализовать',
     partOfSpeechCode: 'v',
     skyId: '190639'
   },
   {
     targetWord: 'neutralize',
-    translation: 'убивать',
+    translating: 'убивать',
     partOfSpeechCode: 'v',
     skyId: '190637'
   },
   {
     targetWord: 'neutralize',
-    translation: 'уравновешивать',
+    translating: 'уравновешивать',
     partOfSpeechCode: 'v',
     skyId: '190635'
   },
   {
     targetWord: 'neutralize',
-    translation: 'обезвреживать',
+    translating: 'обезвреживать',
     partOfSpeechCode: 'v',
     skyId: '190634'
   },
   {
     targetWord: 'neutralized',
-    translation: 'нейтрализованный',
+    translating: 'нейтрализованный',
     partOfSpeechCode: 'j',
     skyId: '130869'
   },
   {
     targetWord: 'neutrino',
-    translation: 'нейтрино',
+    translating: 'нейтрино',
     partOfSpeechCode: 'n',
     skyId: '85277'
   },
   {
     targetWord: 'neutron',
-    translation: 'нейтрон',
+    translating: 'нейтрон',
     partOfSpeechCode: 'n',
     skyId: '103681'
   },
   {
     targetWord: 'neutron bomb',
-    translation: 'нейтронная бомба',
+    translating: 'нейтронная бомба',
     partOfSpeechCode: 'n',
     skyId: '23949'
   },
   {
     targetWord: 'neutron counter',
-    translation: 'счетчик нейтронов',
+    translating: 'счетчик нейтронов',
     partOfSpeechCode: 'n',
     skyId: '250404'
   },
   {
     targetWord: 'neutron flux',
-    translation: 'нейтронный поток',
+    translating: 'нейтронный поток',
     partOfSpeechCode: 'n',
     skyId: '19487'
   },
   {
     targetWord: 'neutron flux density gradient',
-    translation: 'градиент плотности нейтронного потока',
+    translating: 'градиент плотности нейтронного потока',
     partOfSpeechCode: 'n',
     skyId: '248144'
   },
   {
     targetWord: 'neutron flux detector',
-    translation: 'устройство детектирования нейтронного потока',
+    translating: 'устройство детектирования нейтронного потока',
     partOfSpeechCode: 'n',
     skyId: '250405'
   },
   {
     targetWord: 'neutron flux power protection amplifier',
-    translation: 'усилитель защиты по мощности нейтронного потока',
+    translating: 'усилитель защиты по мощности нейтронного потока',
     partOfSpeechCode: 'n',
     skyId: '250484'
   },
   {
     targetWord: 'neutron flux variation rate protection amplifier',
-    translation: 'усилитель защиты по скорости изменения нейтронного потока',
+    translating: 'усилитель защиты по скорости изменения нейтронного потока',
     partOfSpeechCode: 'n',
     skyId: '250485'
   },
   {
     targetWord: 'neutron power signal processing cabinet',
-    translation: 'шкаф обработки сигналов по нейтронной мощности',
+    translating: 'шкаф обработки сигналов по нейтронной мощности',
     partOfSpeechCode: 'n',
     skyId: '250727'
   },
   {
     targetWord: 'neutron power signal processing device',
-    translation: 'устройство обработки сигналов по нейтронной мощности',
+    translating: 'устройство обработки сигналов по нейтронной мощности',
     partOfSpeechCode: 'n',
     skyId: '250407'
   },
   {
     targetWord: 'neutron sources',
-    translation: 'источники нейтронов',
+    translating: 'источники нейтронов',
     partOfSpeechCode: 'n',
     skyId: '245632'
   },
   {
     targetWord: 'neutron-physical',
-    translation: 'нейтронно-физический',
+    translating: 'нейтронно-физический',
     partOfSpeechCode: 'j',
     skyId: '250014'
   },
   {
     targetWord: 'neutronography',
-    translation: 'нейтронная дефектоскопия',
+    translating: 'нейтронная дефектоскопия',
     partOfSpeechCode: 'n',
     skyId: '247301'
   },
   {
     targetWord: 'neutropenia',
-    translation: 'нейтропения',
+    translating: 'нейтропения',
     partOfSpeechCode: 'n',
     skyId: '59575'
   },
   {
     targetWord: 'neutrophil',
-    translation: 'нейтрофил',
+    translating: 'нейтрофил',
     partOfSpeechCode: 'n',
     skyId: '184288'
   },
   {
     targetWord: 'neutrophile',
-    translation: 'нейтрофилов',
+    translating: 'нейтрофилов',
     partOfSpeechCode: 'n',
     skyId: '148701'
   },
   {
     targetWord: 'neva',
-    translation: 'Нева',
+    translating: 'Нева',
     partOfSpeechCode: 'n',
     skyId: '93354'
   },
   {
     targetWord: 'nevada',
-    translation: 'Невада',
+    translating: 'Невада',
     partOfSpeechCode: 'n',
     skyId: '99717'
   },
   {
     targetWord: 'neve',
-    translation: 'фирн',
+    translating: 'фирн',
     partOfSpeechCode: 'n',
     skyId: '93353'
   },
   {
     targetWord: 'never',
-    translation: 'ни за что',
+    translating: 'ни за что',
     partOfSpeechCode: 'r',
     skyId: '42980'
   },
   {
     targetWord: 'never',
-    translation: 'никогда',
+    translating: 'никогда',
     partOfSpeechCode: 'r',
     skyId: '238672'
   },
   {
     targetWord: 'never again',
-    translation: 'никогда снова',
+    translating: 'никогда снова',
     partOfSpeechCode: 'r',
     skyId: '129544'
   },
   {
     targetWord: 'never become',
-    translation: 'никогда не стать',
+    translating: 'никогда не стать',
     partOfSpeechCode: 'ph',
     skyId: '262033'
   },
   {
     targetWord:
       'never cast dirt into that fountain of which you have sometime drunk',
-    translation: 'Не плюй в колодец, из которого пьёшь',
+    translating: 'Не плюй в колодец, из которого пьёшь',
     partOfSpeechCode: 'ph',
     skyId: '243412'
   },
   {
     targetWord: 'never know',
-    translation: 'никогда не знать',
+    translating: 'никогда не знать',
     partOfSpeechCode: 'v',
     skyId: '239147'
   },
   {
     targetWord: 'never mind',
-    translation: 'не волнуйся, ничего страшного',
+    translating: 'не волнуйся, ничего страшного',
     partOfSpeechCode: 'r',
     skyId: '234812'
   },
   {
     targetWord: 'never offer to teach fish to swim',
-    translation: 'не учи ученого',
+    translating: 'не учи ученого',
     partOfSpeechCode: 'ph',
     skyId: '243466'
   },
   {
     targetWord:
       'never put off till tomorrow what you can do (can be done) today',
-    translation: 'Сегодняшней работы на завтра не откладывай',
+    translating: 'Сегодняшней работы на завтра не откладывай',
     partOfSpeechCode: 'ph',
     skyId: '243269'
   },
   {
     targetWord: 'never say die',
-    translation: 'Надежда умирает последней',
+    translating: 'Надежда умирает последней',
     partOfSpeechCode: 'ph',
     skyId: '243172'
   },
   {
     targetWord: 'never too much of a good thing',
-    translation: 'Каши маслом не испортишь',
+    translating: 'Каши маслом не испортишь',
     partOfSpeechCode: 'ph',
     skyId: '243502'
   },
   {
     targetWord: 'never try to prove what nobody doubts',
-    translation: 'Не ломись в открытые ворота',
+    translating: 'Не ломись в открытые ворота',
     partOfSpeechCode: 'ph',
     skyId: '243510'
   },
   {
     targetWord: 'never write what you dare not sign',
-    translation: 'Что написано пером, того не вырубишь топором',
+    translating: 'Что написано пером, того не вырубишь топором',
     partOfSpeechCode: 'ph',
     skyId: '243802'
   },
   {
     targetWord: 'never-ending',
-    translation: 'нескончаемый',
+    translating: 'нескончаемый',
     partOfSpeechCode: 'j',
     skyId: '138453'
   },
   {
     targetWord: 'never-never',
-    translation: 'внутренняя часть австралийского континента',
+    translating: 'внутренняя часть австралийского континента',
     partOfSpeechCode: 'n',
     skyId: '69676'
   },
   {
     targetWord: 'never-never',
-    translation: 'покупка в рассрочку',
+    translating: 'покупка в рассрочку',
     partOfSpeechCode: 'n',
     skyId: '69675'
   },
   {
     targetWord: 'nevermore',
-    translation: 'никогда больше',
+    translating: 'никогда больше',
     partOfSpeechCode: 'r',
     skyId: '91374'
   },
   {
     targetWord: 'nevertheless',
-    translation: 'тем не менее',
+    translating: 'тем не менее',
     partOfSpeechCode: 'r',
     skyId: '134057'
   },
   {
     targetWord: 'nevis',
-    translation: 'невис',
+    translating: 'невис',
     partOfSpeechCode: 'n',
     skyId: '101038'
   },
   {
     targetWord: 'nevus',
-    translation: 'родимое пятно',
+    translating: 'родимое пятно',
     partOfSpeechCode: 'n',
     skyId: '35014'
   },
   {
     targetWord: 'new',
-    translation: 'незнакомый',
+    translating: 'незнакомый',
     partOfSpeechCode: 'j',
     skyId: '156092'
   },
   {
     targetWord: 'new',
-    translation: 'свежий',
+    translating: 'свежий',
     partOfSpeechCode: 'j',
     skyId: '156091'
   },
   {
     targetWord: 'new',
-    translation: 'современный',
+    translating: 'современный',
     partOfSpeechCode: 'j',
     skyId: '156090'
   },
   {
     targetWord: 'new',
-    translation: 'другой',
+    translating: 'другой',
     partOfSpeechCode: 'j',
     skyId: '156088'
   },
   {
     targetWord: 'new',
-    translation: 'новый',
+    translating: 'новый',
     partOfSpeechCode: 'j',
     skyId: '156093'
   },
   {
     targetWord: 'new / another dimension',
-    translation: 'новое/другое измерение, новый/другой аспект',
+    translating: 'новое/другое измерение, новый/другой аспект',
     partOfSpeechCode: 'n',
     skyId: '263601'
   },
   {
     targetWord: 'new amsterdam',
-    translation: 'Новый Амстердам',
+    translating: 'Новый Амстердам',
     partOfSpeechCode: 'n',
     skyId: '144864'
   },
   {
     targetWord: 'new ballgame',
-    translation: 'новая ситуация ',
+    translating: 'новая ситуация ',
     partOfSpeechCode: 'n',
     skyId: '173483'
   },
   {
     targetWord: 'new blood',
-    translation: 'свежая кровь ',
+    translating: 'свежая кровь ',
     partOfSpeechCode: 'ph',
     skyId: '242117'
   },
   {
     targetWord: 'new broom sweeps clean',
-    translation: 'новая метла по новому метет',
+    translating: 'новая метла по новому метет',
     partOfSpeechCode: 'ph',
     skyId: '244152'
   },
@@ -7751,2731 +7751,2731 @@ export const nArr = [
   },
   {
     targetWord: 'new building',
-    translation: 'новое здание',
+    translating: 'новое здание',
     partOfSpeechCode: 'ph',
     skyId: '231137'
   },
   {
     targetWord: 'new caledonian',
-    translation: 'новой каледонии',
+    translating: 'новой каледонии',
     partOfSpeechCode: 'j',
     skyId: '216016'
   },
   {
     targetWord: 'new deal',
-    translation: 'ещё один шанс',
+    translating: 'ещё один шанс',
     partOfSpeechCode: 'ph',
     skyId: '252708'
   },
   {
     targetWord: 'new edition',
-    translation: 'переиздание',
+    translating: 'переиздание',
     partOfSpeechCode: 'n',
     skyId: '33536'
   },
   {
     targetWord: 'new england',
-    translation: 'Нью-Ингленд',
+    translating: 'Нью-Ингленд',
     partOfSpeechCode: 'n',
     skyId: '91512'
   },
   {
     targetWord: 'new fuel assembly',
-    translation: 'свежая тепловыделяющая сборка',
+    translating: 'свежая тепловыделяющая сборка',
     partOfSpeechCode: 'n',
     skyId: '245633'
   },
   {
     targetWord: 'new fuel storage transportation lock equipment',
-    translation: 'оборудование транспортного шлюза хранилища свежего топлива',
+    translating: 'оборудование транспортного шлюза хранилища свежего топлива',
     partOfSpeechCode: 'n',
     skyId: '246744'
   },
   {
     targetWord: 'new generation',
-    translation: 'новое поколение',
+    translating: 'новое поколение',
     partOfSpeechCode: 'n',
     skyId: '239151'
   },
   {
     targetWord: 'new job',
-    translation: 'новая работа',
+    translating: 'новая работа',
     partOfSpeechCode: 'n',
     skyId: '239152'
   },
   {
     targetWord: 'new line',
-    translation: 'новая строка',
+    translating: 'новая строка',
     partOfSpeechCode: 'n',
     skyId: '69005'
   },
   {
     targetWord: 'new look',
-    translation: 'нью-лук',
+    translating: 'нью-лук',
     partOfSpeechCode: 'n',
     skyId: '119233'
   },
   {
     targetWord: 'new lords, new laws',
-    translation: 'новые хозяева, новые порядки',
+    translating: 'новые хозяева, новые порядки',
     partOfSpeechCode: 'ph',
     skyId: '244151'
   },
   {
     targetWord: 'new money',
-    translation: 'новые деньги',
+    translating: 'новые деньги',
     partOfSpeechCode: 'n',
     skyId: '255120'
   },
   {
     targetWord: 'new moon',
-    translation: 'новолуние',
+    translating: 'новолуние',
     partOfSpeechCode: 'n',
     skyId: '174197'
   },
   {
     targetWord: 'new penny',
-    translation: 'британский пенни',
+    translating: 'британский пенни',
     partOfSpeechCode: 'n',
     skyId: '64884'
   },
   {
     targetWord: 'new phase of the moon',
-    translation: 'новолуние',
+    translating: 'новолуние',
     partOfSpeechCode: 'n',
     skyId: '99381'
   },
   {
     targetWord: 'new testament',
-    translation: 'Новый Завет',
+    translating: 'Новый Завет',
     partOfSpeechCode: 'n',
     skyId: '176644'
   },
   {
     targetWord: 'new version',
-    translation: 'новая версия',
+    translating: 'новая версия',
     partOfSpeechCode: 'n',
     skyId: '250493'
   },
   {
     targetWord: 'new wave',
-    translation: 'Нью-вэйв',
+    translating: 'Нью-вэйв',
     partOfSpeechCode: 'n',
     skyId: '217448'
   },
   {
     targetWord: 'new world',
-    translation: 'Новый Свет ',
+    translating: 'Новый Свет ',
     partOfSpeechCode: 'n',
     skyId: '133367'
   },
   {
     targetWord: 'new world anteater',
-    translation: 'муравьед',
+    translating: 'муравьед',
     partOfSpeechCode: 'n',
     skyId: '94908'
   },
   {
     targetWord: 'new world beaver',
-    translation: 'канадский бобр',
+    translating: 'канадский бобр',
     partOfSpeechCode: 'n',
     skyId: '114601'
   },
   {
     targetWord: 'new world chat',
-    translation: 'новый мир чате',
+    translating: 'новый мир чате',
     partOfSpeechCode: 'n',
     skyId: '193667'
   },
   {
     targetWord: 'new world coral snake',
-    translation: 'арлекин-змея',
+    translating: 'арлекин-змея',
     partOfSpeechCode: 'n',
     skyId: '135901'
   },
   {
     targetWord: 'new world flycatcher',
-    translation: 'мухоловка',
+    translating: 'мухоловка',
     partOfSpeechCode: 'n',
     skyId: '2558'
   },
   {
     targetWord: 'new world goldfinch',
-    translation: 'американский чиж',
+    translating: 'американский чиж',
     partOfSpeechCode: 'n',
     skyId: '9753'
   },
   {
     targetWord: 'new world least weasel',
-    translation: 'новый мир ласка',
+    translating: 'новый мир ласка',
     partOfSpeechCode: 'n',
     skyId: '108367'
   },
   {
     targetWord: 'new world monkey',
-    translation: 'широконосые обезьяны',
+    translating: 'широконосые обезьяны',
     partOfSpeechCode: 'n',
     skyId: '89579'
   },
   {
     targetWord: 'new world opah',
-    translation: 'новый мир',
+    translating: 'новый мир',
     partOfSpeechCode: 'n',
     skyId: '145156'
   },
   {
     targetWord: 'new world oriole',
-    translation: 'цветные трупиалы',
+    translating: 'цветные трупиалы',
     partOfSpeechCode: 'n',
     skyId: '219428'
   },
   {
     targetWord: 'new world porcupine',
-    translation: 'американские дикобразы',
+    translating: 'американские дикобразы',
     partOfSpeechCode: 'n',
     skyId: '152909'
   },
   {
     targetWord: 'new world sparrow',
-    translation: 'американский воробей',
+    translating: 'американский воробей',
     partOfSpeechCode: 'n',
     skyId: '143940'
   },
   {
     targetWord: 'new world tapir',
-    translation: 'равнинный тапир',
+    translating: 'равнинный тапир',
     partOfSpeechCode: 'n',
     skyId: '49991'
   },
   {
     targetWord: 'new world warbler',
-    translation: 'пеночка-трещотка',
+    translating: 'пеночка-трещотка',
     partOfSpeechCode: 'n',
     skyId: '137704'
   },
   {
     targetWord: "new year's",
-    translation: 'день Нового года',
+    translating: 'день Нового года',
     partOfSpeechCode: 'n',
     skyId: '68741'
   },
   {
     targetWord: "new year's day",
-    translation: 'первый день нового года',
+    translating: 'первый день нового года',
     partOfSpeechCode: 'n',
     skyId: '11043'
   },
   {
     targetWord: "new year's eve",
-    translation: 'канун Нового года',
+    translating: 'канун Нового года',
     partOfSpeechCode: 'n',
     skyId: '63502'
   },
   {
     targetWord: 'new york city',
-    translation: 'Нью-Йорк',
+    translating: 'Нью-Йорк',
     partOfSpeechCode: 'n',
     skyId: '90250'
   },
   {
     targetWord: 'new zealand beech',
-    translation: 'новая зеландия бука',
+    translating: 'новая зеландия бука',
     partOfSpeechCode: 'n',
     skyId: '133588'
   },
   {
     targetWord: 'new zealand dacryberry',
-    translation: 'ногоплодник дакридиевидный',
+    translating: 'ногоплодник дакридиевидный',
     partOfSpeechCode: 'n',
     skyId: '131837'
   },
   {
     targetWord: 'new zealand mountain pine',
-    translation: 'сосна ',
+    translating: 'сосна ',
     partOfSpeechCode: 'n',
     skyId: '97139'
   },
   {
     targetWord: 'new zealand spinach',
-    translation: 'шпинат новозеландский',
+    translating: 'шпинат новозеландский',
     partOfSpeechCode: 'n',
     skyId: '152916'
   },
   {
     targetWord: 'new zealand white pine',
-    translation: 'ногоплодник дакридиевидный',
+    translating: 'ногоплодник дакридиевидный',
     partOfSpeechCode: 'n',
     skyId: '174585'
   },
   {
     targetWord: 'new zealand wren',
-    translation: 'новозеландские крапивники',
+    translating: 'новозеландские крапивники',
     partOfSpeechCode: 'n',
     skyId: '82998'
   },
   {
     targetWord: 'new-made',
-    translation: 'новоиспеченный',
+    translating: 'новоиспеченный',
     partOfSpeechCode: 'j',
     skyId: '89084'
   },
   {
     targetWord: 'new-sprung',
-    translation: 'новоявленный',
+    translating: 'новоявленный',
     partOfSpeechCode: 'j',
     skyId: '160765'
   },
   {
     targetWord: 'newbie',
-    translation: 'новичок',
+    translating: 'новичок',
     partOfSpeechCode: 'n',
     skyId: '86824'
   },
   {
     targetWord: 'newborn',
-    translation: 'новорожденный',
+    translating: 'новорожденный',
     partOfSpeechCode: 'j',
     skyId: '160764'
   },
   {
     targetWord: 'newborn',
-    translation: 'новорождённый',
+    translating: 'новорождённый',
     partOfSpeechCode: 'n',
     skyId: '160763'
   },
   {
     targetWord: 'newborn baby',
-    translation: 'новорождённый',
+    translating: 'новорождённый',
     partOfSpeechCode: 'n',
     skyId: '189495'
   },
   {
     targetWord: 'newborn infant',
-    translation: 'новорождённый',
+    translating: 'новорождённый',
     partOfSpeechCode: 'n',
     skyId: '68042'
   },
   {
     targetWord: 'newcastle',
-    translation: 'ньюкасл-апон-тайн',
+    translating: 'ньюкасл-апон-тайн',
     partOfSpeechCode: 'n',
     skyId: '164749'
   },
   {
     targetWord: 'newcomer',
-    translation: 'приезжий',
+    translating: 'приезжий',
     partOfSpeechCode: 'n',
     skyId: '135954'
   },
   {
     targetWord: 'newcomer',
-    translation: 'новичок',
+    translating: 'новичок',
     partOfSpeechCode: 'n',
     skyId: '135953'
   },
   {
     targetWord: 'newel',
-    translation: 'колонна винтовой лестницы',
+    translating: 'колонна винтовой лестницы',
     partOfSpeechCode: 'n',
     skyId: '96907'
   },
   {
     targetWord: 'newel',
-    translation: 'опорная стойка перил',
+    translating: 'опорная стойка перил',
     partOfSpeechCode: 'n',
     skyId: '96906'
   },
   {
     targetWord: 'newel post',
-    translation: 'перила',
+    translating: 'перила',
     partOfSpeechCode: 'n',
     skyId: '50902'
   },
   {
     targetWord: 'newfangled',
-    translation: 'новомодный',
+    translating: 'новомодный',
     partOfSpeechCode: 'j',
     skyId: '90257'
   },
   {
     targetWord: 'newfound',
-    translation: 'новообретенный',
+    translating: 'новообретенный',
     partOfSpeechCode: 'j',
     skyId: '66753'
   },
   {
     targetWord: 'newfoundland',
-    translation: 'Ньюфаундленд',
+    translating: 'Ньюфаундленд',
     partOfSpeechCode: 'n',
     skyId: '184893'
   },
   {
     targetWord: 'newfoundland',
-    translation: 'ньюфаундленд',
+    translating: 'ньюфаундленд',
     partOfSpeechCode: 'n',
     skyId: '184892'
   },
   {
     targetWord: 'newfoundland dog',
-    translation: 'ньюфаундленд',
+    translating: 'ньюфаундленд',
     partOfSpeechCode: 'n',
     skyId: '79616'
   },
   {
     targetWord: 'newgate',
-    translation: 'ньюгейтская тюрьма',
+    translating: 'ньюгейтская тюрьма',
     partOfSpeechCode: 'n',
     skyId: '219491'
   },
   {
     targetWord: 'newly',
-    translation: 'недавно',
+    translating: 'недавно',
     partOfSpeechCode: 'r',
     skyId: '22012'
   },
   {
     targetWord: 'newly dug grave',
-    translation: 'свежевырытая могила',
+    translating: 'свежевырытая могила',
     partOfSpeechCode: 'ph',
     skyId: '262089'
   },
   {
     targetWord: 'newlywed',
-    translation: 'новобрачный',
+    translating: 'новобрачный',
     partOfSpeechCode: 'n',
     skyId: '13385'
   },
   {
     targetWord: 'newmarket',
-    translation: 'останавливается',
+    translating: 'останавливается',
     partOfSpeechCode: 'n',
     skyId: '121772'
   },
   {
     targetWord: 'newness',
-    translation: 'новизна',
+    translating: 'новизна',
     partOfSpeechCode: 'n',
     skyId: '183050'
   },
   {
     targetWord: 'newport',
-    translation: 'Ньюпорт',
+    translating: 'Ньюпорт',
     partOfSpeechCode: 'n',
     skyId: '187787'
   },
   {
     targetWord: 'news',
-    translation: 'новость',
+    translating: 'новость',
     partOfSpeechCode: 'n',
     skyId: '254614'
   },
   {
     targetWord: 'news',
-    translation: 'новости',
+    translating: 'новости',
     partOfSpeechCode: 'n',
     skyId: '135525'
   },
   {
     targetWord: 'news article',
-    translation: 'статья новостей',
+    translating: 'статья новостей',
     partOfSpeechCode: 'n',
     skyId: '124434'
   },
   {
     targetWord: 'news bulletin',
-    translation: 'информационный бюллетень',
+    translating: 'информационный бюллетень',
     partOfSpeechCode: 'n',
     skyId: '59792'
   },
   {
     targetWord: 'news event',
-    translation: 'сенсационное событие',
+    translating: 'сенсационное событие',
     partOfSpeechCode: 'n',
     skyId: '210265'
   },
   {
     targetWord: 'news feed',
-    translation: 'лента новостей',
+    translating: 'лента новостей',
     partOfSpeechCode: 'n',
     skyId: '262229'
   },
   {
     targetWord: 'news gathering',
-    translation: 'сбор информации ',
+    translating: 'сбор информации ',
     partOfSpeechCode: 'n',
     skyId: '231979'
   },
   {
     targetWord: 'news item',
-    translation: 'новостная статья',
+    translating: 'новостная статья',
     partOfSpeechCode: 'n',
     skyId: '218408'
   },
   {
     targetWord: 'news leak',
-    translation: 'утечка новостей',
+    translating: 'утечка новостей',
     partOfSpeechCode: 'n',
     skyId: '165524'
   },
   {
     targetWord: 'news magazine',
-    translation: 'общественно-политический журнал',
+    translating: 'общественно-политический журнал',
     partOfSpeechCode: 'n',
     skyId: '155976'
   },
   {
     targetWord: 'news media',
-    translation: 'средства массовой информации',
+    translating: 'средства массовой информации',
     partOfSpeechCode: 'n',
     skyId: '77826'
   },
   {
     targetWord: 'news program',
-    translation: 'новостная программа',
+    translating: 'новостная программа',
     partOfSpeechCode: 'n',
     skyId: '154261'
   },
   {
     targetWord: 'news reader',
-    translation: 'новостной диктор',
+    translating: 'новостной диктор',
     partOfSpeechCode: 'n',
     skyId: '57042'
   },
   {
     targetWord: 'news report',
-    translation: 'репортаж',
+    translating: 'репортаж',
     partOfSpeechCode: 'n',
     skyId: '74653'
   },
   {
     targetWord: 'news show',
-    translation: 'новости',
+    translating: 'новости',
     partOfSpeechCode: 'n',
     skyId: '111053'
   },
   {
     targetWord: 'news story',
-    translation: 'новость',
+    translating: 'новость',
     partOfSpeechCode: 'n',
     skyId: '130661'
   },
   {
     targetWord: 'newsagent',
-    translation: 'газетный киоск',
+    translating: 'газетный киоск',
     partOfSpeechCode: 'n',
     skyId: '68350'
   },
   {
     targetWord: 'newsagent’s',
-    translation: 'газетный киоск',
+    translating: 'газетный киоск',
     partOfSpeechCode: 'n',
     skyId: '230037'
   },
   {
     targetWord: 'newsboy',
-    translation: 'разносчик газет',
+    translating: 'разносчик газет',
     partOfSpeechCode: 'n',
     skyId: '3522'
   },
   {
     targetWord: 'newsbreak',
-    translation: 'информационный повод',
+    translating: 'информационный повод',
     partOfSpeechCode: 'n',
     skyId: '146428'
   },
   {
     targetWord: 'newscast',
-    translation: 'передача последних известий',
+    translating: 'передача последних известий',
     partOfSpeechCode: 'n',
     skyId: '133907'
   },
   {
     targetWord: 'newscaster',
-    translation: 'диктор',
+    translating: 'диктор',
     partOfSpeechCode: 'n',
     skyId: '216651'
   },
   {
     targetWord: 'newsdealer',
-    translation: 'газетчик',
+    translating: 'газетчик',
     partOfSpeechCode: 'n',
     skyId: '182616'
   },
   {
     targetWord: 'newsfeed',
-    translation: 'лента новостей',
+    translating: 'лента новостей',
     partOfSpeechCode: 'n',
     skyId: '259946'
   },
   {
     targetWord: 'newsflash',
-    translation: 'новость дня',
+    translating: 'новость дня',
     partOfSpeechCode: 'n',
     skyId: '108972'
   },
   {
     targetWord: 'newsletter',
-    translation: 'новостная рассылка',
+    translating: 'новостная рассылка',
     partOfSpeechCode: 'n',
     skyId: '240141'
   },
   {
     targetWord: 'newsletter',
-    translation: 'информационное письмо',
+    translating: 'информационное письмо',
     partOfSpeechCode: 'n',
     skyId: '54922'
   },
   {
     targetWord: 'newsman',
-    translation: 'репортёр',
+    translating: 'репортёр',
     partOfSpeechCode: 'n',
     skyId: '218496'
   },
   {
     targetWord: 'newsmonger',
-    translation: 'сплетник',
+    translating: 'сплетник',
     partOfSpeechCode: 'n',
     skyId: '216050'
   },
   {
     targetWord: 'newspaper',
-    translation: 'газета',
+    translating: 'газета',
     partOfSpeechCode: 'n',
     skyId: '116103'
   },
   {
     targetWord: 'newspaper ad',
-    translation: 'газетное объявление',
+    translating: 'газетное объявление',
     partOfSpeechCode: 'n',
     skyId: '137728'
   },
   {
     targetWord: 'newspaper advertisement',
-    translation: 'объявление в газете',
+    translating: 'объявление в газете',
     partOfSpeechCode: 'n',
     skyId: '20452'
   },
   {
     targetWord: 'newspaper article',
-    translation: 'статья в газете',
+    translating: 'статья в газете',
     partOfSpeechCode: 'ph',
     skyId: '231047'
   },
   {
     targetWord: 'newspaper article',
-    translation: 'газетная статья',
+    translating: 'газетная статья',
     partOfSpeechCode: 'n',
     skyId: '168743'
   },
   {
     targetWord: 'newspaper clipping',
-    translation: 'газетная вырезка',
+    translating: 'газетная вырезка',
     partOfSpeechCode: 'n',
     skyId: '95078'
   },
   {
     targetWord: 'newspaper column',
-    translation: 'газетная колонка',
+    translating: 'газетная колонка',
     partOfSpeechCode: 'n',
     skyId: '222447'
   },
   {
     targetWord: 'newspaper headline',
-    translation: 'газетный заголовок',
+    translating: 'газетный заголовок',
     partOfSpeechCode: 'n',
     skyId: '192139'
   },
   {
     targetWord: 'newspaper publisher',
-    translation: 'медиамагнат',
+    translating: 'медиамагнат',
     partOfSpeechCode: 'n',
     skyId: '9365'
   },
   {
     targetWord: 'newspaper publisher',
-    translation: 'издатель газеты',
+    translating: 'издатель газеты',
     partOfSpeechCode: 'n',
     skyId: '9364'
   },
   {
     targetWord: 'newspaper readers',
-    translation: 'читатели газеты, газетные подписчики',
+    translating: 'читатели газеты, газетные подписчики',
     partOfSpeechCode: 'n',
     skyId: '263127'
   },
   {
     targetWord: 'newspaperman',
-    translation: 'журналист',
+    translating: 'журналист',
     partOfSpeechCode: 'n',
     skyId: '31509'
   },
   {
     targetWord: 'newspaperwoman',
-    translation: 'иностранный корреспондент',
+    translating: 'иностранный корреспондент',
     partOfSpeechCode: 'n',
     skyId: '166095'
   },
   {
     targetWord: 'newspeak',
-    translation: 'новояз',
+    translating: 'новояз',
     partOfSpeechCode: 'n',
     skyId: '180737'
   },
   {
     targetWord: 'newsperson',
-    translation: 'журналист',
+    translating: 'журналист',
     partOfSpeechCode: 'n',
     skyId: '79700'
   },
   {
     targetWord: 'newsprint',
-    translation: 'газетная бумага',
+    translating: 'газетная бумага',
     partOfSpeechCode: 'n',
     skyId: '135930'
   },
   {
     targetWord: 'newsreader',
-    translation: 'диктор',
+    translating: 'диктор',
     partOfSpeechCode: 'n',
     skyId: '187892'
   },
   {
     targetWord: 'newsroom',
-    translation: 'читальный зал с периодикой',
+    translating: 'читальный зал с периодикой',
     partOfSpeechCode: 'n',
     skyId: '6775'
   },
   {
     targetWord: 'newsroom',
-    translation: 'отдел новостей',
+    translating: 'отдел новостей',
     partOfSpeechCode: 'n',
     skyId: '6774'
   },
   {
     targetWord: 'newsroom',
-    translation: 'ньюзрум',
+    translating: 'ньюзрум',
     partOfSpeechCode: 'n',
     skyId: '6773'
   },
   {
     targetWord: 'newssheet',
-    translation: 'информационный бюллетень',
+    translating: 'информационный бюллетень',
     partOfSpeechCode: 'n',
     skyId: '77797'
   },
   {
     targetWord: 'newsstand',
-    translation: 'газетный киоск',
+    translating: 'газетный киоск',
     partOfSpeechCode: 'n',
     skyId: '220155'
   },
   {
     targetWord: 'newsstand operator',
-    translation: 'продавец газет',
+    translating: 'продавец газет',
     partOfSpeechCode: 'n',
     skyId: '13047'
   },
   {
     targetWord: 'newsvendor',
-    translation: 'продавец газет',
+    translating: 'продавец газет',
     partOfSpeechCode: 'n',
     skyId: '73176'
   },
   {
     targetWord: 'newswire',
-    translation: 'лента новостей',
+    translating: 'лента новостей',
     partOfSpeechCode: 'n',
     skyId: '231983'
   },
   {
     targetWord: 'newswoman',
-    translation: 'журналистка',
+    translating: 'журналистка',
     partOfSpeechCode: 'n',
     skyId: '147329'
   },
   {
     targetWord: 'newswriter',
-    translation: 'корреспондент',
+    translating: 'корреспондент',
     partOfSpeechCode: 'n',
     skyId: '186523'
   },
   {
     targetWord: 'newsy',
-    translation: 'любопытный',
+    translating: 'любопытный',
     partOfSpeechCode: 'j',
     skyId: '21383'
   },
   {
     targetWord: 'newsy',
-    translation: 'новостной',
+    translating: 'новостной',
     partOfSpeechCode: 'j',
     skyId: '21382'
   },
   {
     targetWord: 'newt',
-    translation: 'тритон',
+    translating: 'тритон',
     partOfSpeechCode: 'n',
     skyId: '231421'
   },
   {
     targetWord: 'newton',
-    translation: 'ньютон',
+    translating: 'ньютон',
     partOfSpeechCode: 'n',
     skyId: '8686'
   },
   {
     targetWord: 'newtonian',
-    translation: 'ньютоновская',
+    translating: 'ньютоновская',
     partOfSpeechCode: 'j',
     skyId: '34728'
   },
   {
     targetWord: 'next',
-    translation: 'следующий',
+    translating: 'следующий',
     partOfSpeechCode: 'n',
     skyId: '243851'
   },
   {
     targetWord: 'next',
-    translation: 'в следующий раз',
+    translating: 'в следующий раз',
     partOfSpeechCode: 'r',
     skyId: '241420'
   },
   {
     targetWord: 'next',
-    translation: 'затем',
+    translating: 'затем',
     partOfSpeechCode: 'r',
     skyId: '118695'
   },
   {
     targetWord: 'next',
-    translation: 'следующий',
+    translating: 'следующий',
     partOfSpeechCode: 'j',
     skyId: '243851'
   },
   {
     targetWord: 'next best',
-    translation: 'уступающий самому лучшему',
+    translating: 'уступающий самому лучшему',
     partOfSpeechCode: 'n',
     skyId: '231783'
   },
   {
     targetWord: 'next big thing',
-    translation: 'потенциальный прорыв, большое событие',
+    translating: 'потенциальный прорыв, большое событие',
     partOfSpeechCode: 'ph',
     skyId: '265310'
   },
   {
     targetWord: 'next door',
-    translation: 'по соседству',
+    translating: 'по соседству',
     partOfSpeechCode: 'r',
     skyId: '45236'
   },
   {
     targetWord: 'next month',
-    translation: 'следующий месяц',
+    translating: 'следующий месяц',
     partOfSpeechCode: 'ph',
     skyId: '230279'
   },
   {
     targetWord: 'next of kin',
-    translation: 'ближайший родственник',
+    translating: 'ближайший родственник',
     partOfSpeechCode: 'n',
     skyId: '95154'
   },
   {
     targetWord: 'next step',
-    translation: 'следующий шаг',
+    translating: 'следующий шаг',
     partOfSpeechCode: 'n',
     skyId: '264008'
   },
   {
     targetWord: 'next thing you know',
-    translation: 'в следующий миг',
+    translating: 'в следующий миг',
     partOfSpeechCode: 'ph',
     skyId: '262101'
   },
   {
     targetWord: 'next time',
-    translation: 'в следующий раз',
+    translating: 'в следующий раз',
     partOfSpeechCode: 'r',
     skyId: '239156'
   },
   {
     targetWord: 'next to',
-    translation: 'после',
+    translating: 'после',
     partOfSpeechCode: 'prp',
     skyId: '254028'
   },
   {
     targetWord: 'next to',
-    translation: 'по сравнению с',
+    translating: 'по сравнению с',
     partOfSpeechCode: 'prp',
     skyId: '254027'
   },
   {
     targetWord: 'next to',
-    translation: 'почти',
+    translating: 'почти',
     partOfSpeechCode: 'r',
     skyId: '254026'
   },
   {
     targetWord: 'next to',
-    translation: 'около',
+    translating: 'около',
     partOfSpeechCode: 'prp',
     skyId: '229549'
   },
   {
     targetWord: 'next to me',
-    translation: 'рядом со мной',
+    translating: 'рядом со мной',
     partOfSpeechCode: 'ph',
     skyId: '230252'
   },
   {
     targetWord: 'next to nothing',
-    translation: 'почти что ничего',
+    translating: 'почти что ничего',
     partOfSpeechCode: 'ph',
     skyId: '235767'
   },
   {
     targetWord: 'next year',
-    translation: 'следующий год',
+    translating: 'следующий год',
     partOfSpeechCode: 'ph',
     skyId: '230280'
   },
   {
     targetWord: 'next-door',
-    translation: 'соседний',
+    translating: 'соседний',
     partOfSpeechCode: 'j',
     skyId: '237034'
   },
   {
     targetWord: 'next-door neighbour',
-    translation: 'сосед напротив',
+    translating: 'сосед напротив',
     partOfSpeechCode: 'n',
     skyId: '239158'
   },
   {
     targetWord: 'next-generation',
-    translation: 'следующего поколения',
+    translating: 'следующего поколения',
     partOfSpeechCode: 'j',
     skyId: '259870'
   },
   {
     targetWord: 'next-to-last',
-    translation: 'предвыпускной',
+    translating: 'предвыпускной',
     partOfSpeechCode: 'j',
     skyId: '137641'
   },
   {
     targetWord: 'next-to-last',
-    translation: 'предпоследний',
+    translating: 'предпоследний',
     partOfSpeechCode: 'j',
     skyId: '137640'
   },
   {
     targetWord: 'ney',
-    translation: 'Мишель Ней',
+    translating: 'Мишель Ней',
     partOfSpeechCode: 'n',
     skyId: '156081'
   },
   {
     targetWord: 'ngl (not gonna lie)',
-    translation: 'если честно',
+    translating: 'если честно',
     partOfSpeechCode: 'abb',
     skyId: '262311'
   },
   {
     targetWord: 'ngo',
-    translation: 'неправительственная организация',
+    translating: 'неправительственная организация',
     partOfSpeechCode: 'n',
     skyId: '80126'
   },
   {
     targetWord: 'ni',
-    translation: 'никель',
+    translating: 'никель',
     partOfSpeechCode: 'n',
     skyId: '81187'
   },
   {
     targetWord: 'ni-hard',
-    translation: 'ni-жесткий',
+    translating: 'ni-жесткий',
     partOfSpeechCode: 'n',
     skyId: '216136'
   },
   {
     targetWord: 'ni-hard iron',
-    translation: 'ni-жесткий',
+    translating: 'ni-жесткий',
     partOfSpeechCode: 'n',
     skyId: '215120'
   },
   {
     targetWord: 'niacin',
-    translation: 'никотиновая кислота',
+    translating: 'никотиновая кислота',
     partOfSpeechCode: 'n',
     skyId: '18011'
   },
   {
     targetWord: 'niamey',
-    translation: 'ниамей',
+    translating: 'ниамей',
     partOfSpeechCode: 'n',
     skyId: '117775'
   },
   {
     targetWord: 'nibble',
-    translation: 'есть маленькими кусочками',
+    translating: 'есть маленькими кусочками',
     partOfSpeechCode: 'v',
     skyId: '89448'
   },
   {
     targetWord: 'nibble',
-    translation: 'покусывать',
+    translating: 'покусывать',
     partOfSpeechCode: 'v',
     skyId: '89447'
   },
   {
     targetWord: 'nibble',
-    translation: 'грызть',
+    translating: 'грызть',
     partOfSpeechCode: 'v',
     skyId: '89446'
   },
   {
     targetWord: 'nibble',
-    translation: 'покусывание',
+    translating: 'покусывание',
     partOfSpeechCode: 'n',
     skyId: '89445'
   },
   {
     targetWord: 'nibble',
-    translation: 'чуточка',
+    translating: 'чуточка',
     partOfSpeechCode: 'n',
     skyId: '89444'
   },
   {
     targetWord: 'niblet',
-    translation: 'зёрнышко',
+    translating: 'зёрнышко',
     partOfSpeechCode: 'n',
     skyId: '254868'
   },
   {
     targetWord: 'niblet',
-    translation: 'кусочек',
+    translating: 'кусочек',
     partOfSpeechCode: 'n',
     skyId: '254867'
   },
   {
     targetWord: 'niblick',
-    translation: 'клюшка для гольфа',
+    translating: 'клюшка для гольфа',
     partOfSpeechCode: 'n',
     skyId: '98133'
   },
   {
     targetWord: 'nicaea',
-    translation: 'первый никейский собор',
+    translating: 'первый никейский собор',
     partOfSpeechCode: 'n',
     skyId: '174777'
   },
   {
     targetWord: 'nice',
-    translation: 'точный',
+    translating: 'точный',
     partOfSpeechCode: 'j',
     skyId: '26600'
   },
   {
     targetWord: 'nice',
-    translation: 'любезный',
+    translating: 'любезный',
     partOfSpeechCode: 'j',
     skyId: '236548'
   },
   {
     targetWord: 'nice',
-    translation: 'приятный',
+    translating: 'приятный',
     partOfSpeechCode: 'j',
     skyId: '26598'
   },
   {
     targetWord: 'nice one',
-    translation: 'ты просто молодец',
+    translating: 'ты просто молодец',
     partOfSpeechCode: 'ph',
     skyId: '261267'
   },
   {
     targetWord: 'nice time',
-    translation: 'прекрасное время',
+    translating: 'прекрасное время',
     partOfSpeechCode: 'n',
     skyId: '239161'
   },
   {
     targetWord: 'nicely',
-    translation: 'отлично',
+    translating: 'отлично',
     partOfSpeechCode: 'r',
     skyId: '238674'
   },
   {
     targetWord: 'nicely',
-    translation: 'мило',
+    translating: 'мило',
     partOfSpeechCode: 'r',
     skyId: '1072'
   },
   {
     targetWord: 'niceness',
-    translation: 'любезность',
+    translating: 'любезность',
     partOfSpeechCode: 'n',
     skyId: '158034'
   },
   {
     targetWord: 'nicety',
-    translation: 'тонкость',
+    translating: 'тонкость',
     partOfSpeechCode: 'n',
     skyId: '101955'
   },
   {
     targetWord: 'nicety',
-    translation: 'утонченность',
+    translating: 'утонченность',
     partOfSpeechCode: 'n',
     skyId: '101954'
   },
   {
     targetWord: 'niche',
-    translation: 'ниша',
+    translating: 'ниша',
     partOfSpeechCode: 'n',
     skyId: '127421'
   },
   {
     targetWord: 'niche',
-    translation: 'углубление',
+    translating: 'углубление',
     partOfSpeechCode: 'n',
     skyId: '127420'
   },
   {
     targetWord: 'niche',
-    translation: 'надлежащее место',
+    translating: 'надлежащее место',
     partOfSpeechCode: 'n',
     skyId: '231868'
   },
   {
     targetWord: 'niche holidays',
-    translation: 'отпуск с особыми интересами',
+    translating: 'отпуск с особыми интересами',
     partOfSpeechCode: 'ph',
     skyId: '231602'
   },
   {
     targetWord: 'niche market',
-    translation: 'нишевой рынок',
+    translating: 'нишевой рынок',
     partOfSpeechCode: 'n',
     skyId: '263672'
   },
   {
     targetWord: 'niche marketing',
-    translation: 'нишевой маркетинг',
+    translating: 'нишевой маркетинг',
     partOfSpeechCode: 'n',
     skyId: '259107'
   },
   {
     targetWord: 'nicholas',
-    translation: 'Николай Чудотворец',
+    translating: 'Николай Чудотворец',
     partOfSpeechCode: 'n',
     skyId: '97230'
   },
   {
     targetWord: 'nick',
-    translation: 'стащить',
+    translating: 'стащить',
     partOfSpeechCode: 'v',
     skyId: '252291'
   },
   {
     targetWord: 'nick',
-    translation: 'успешно спариваться',
+    translating: 'успешно спариваться',
     partOfSpeechCode: 'v',
     skyId: '26589'
   },
   {
     targetWord: 'nick',
-    translation: 'англизировать',
+    translating: 'англизировать',
     partOfSpeechCode: 'v',
     skyId: '26588'
   },
   {
     targetWord: 'nick',
-    translation: 'делать насечку',
+    translating: 'делать насечку',
     partOfSpeechCode: 'v',
     skyId: '26587'
   },
   {
     targetWord: 'nick',
-    translation: 'порезать',
+    translating: 'порезать',
     partOfSpeechCode: 'v',
     skyId: '26586'
   },
   {
     targetWord: 'nick',
-    translation: 'надрез',
+    translating: 'надрез',
     partOfSpeechCode: 'n',
     skyId: '26585'
   },
   {
     targetWord: 'nick',
-    translation: 'тюрьма',
+    translating: 'тюрьма',
     partOfSpeechCode: 'n',
     skyId: '26584'
   },
   {
     targetWord: 'nick',
-    translation: 'зарубка',
+    translating: 'зарубка',
     partOfSpeechCode: 'n',
     skyId: '26583'
   },
   {
     targetWord: 'nickel',
-    translation: 'никелирова́ть',
+    translating: 'никелирова́ть',
     partOfSpeechCode: 'v',
     skyId: '176158'
   },
   {
     targetWord: 'nickel',
-    translation: 'марихуана',
+    translating: 'марихуана',
     partOfSpeechCode: 'n',
     skyId: '176157'
   },
   {
     targetWord: 'nickel',
-    translation: 'пять центов',
+    translating: 'пять центов',
     partOfSpeechCode: 'n',
     skyId: '176156'
   },
   {
     targetWord: 'nickel',
-    translation: 'никель',
+    translating: 'никель',
     partOfSpeechCode: 'n',
     skyId: '176155'
   },
   {
     targetWord: 'nickel alloy',
-    translation: 'никелевый сплав',
+    translating: 'никелевый сплав',
     partOfSpeechCode: 'n',
     skyId: '85561'
   },
   {
     targetWord: 'nickel note',
-    translation: 'никель примечание',
+    translating: 'никель примечание',
     partOfSpeechCode: 'n',
     skyId: '165945'
   },
   {
     targetWord: 'nickel-and-dime',
-    translation: 'постоянно просить деньги',
+    translating: 'постоянно просить деньги',
     partOfSpeechCode: 'ph',
     skyId: '242116'
   },
   {
     targetWord: 'nickel-and-dime',
-    translation: 'плохо оплачиваемый',
+    translating: 'плохо оплачиваемый',
     partOfSpeechCode: 'j',
     skyId: '167042'
   },
   {
     targetWord: 'nickel-and-dime',
-    translation: 'сквалыжничать',
+    translating: 'сквалыжничать',
     partOfSpeechCode: 'j',
     skyId: '167041'
   },
   {
     targetWord: 'nickel-plated',
-    translation: 'никелированный',
+    translating: 'никелированный',
     partOfSpeechCode: 'ph',
     skyId: '231277'
   },
   {
     targetWord: 'nickelodeon',
-    translation: 'патефон-автомат',
+    translating: 'патефон-автомат',
     partOfSpeechCode: 'n',
     skyId: '255126'
   },
   {
     targetWord: 'nickelodeon',
-    translation: 'музыкальный автомат',
+    translating: 'музыкальный автомат',
     partOfSpeechCode: 'n',
     skyId: '54486'
   },
   {
     targetWord: 'nicker',
-    translation: 'ржать',
+    translating: 'ржать',
     partOfSpeechCode: 'v',
     skyId: '84406'
   },
   {
     targetWord: 'nicker',
-    translation: 'ржание',
+    translating: 'ржание',
     partOfSpeechCode: 'n',
     skyId: '84405'
   },
   {
     targetWord: 'nicker nut',
-    translation: 'гайкой',
+    translating: 'гайкой',
     partOfSpeechCode: 'n',
     skyId: '181478'
   },
   {
     targetWord: 'nicker seed',
-    translation: 'гайкой',
+    translating: 'гайкой',
     partOfSpeechCode: 'n',
     skyId: '31021'
   },
   {
     targetWord: 'nicknack',
-    translation: 'безделушка',
+    translating: 'безделушка',
     partOfSpeechCode: 'n',
     skyId: '30398'
   },
   {
     targetWord: 'nickname',
-    translation: 'давать прозвище',
+    translating: 'давать прозвище',
     partOfSpeechCode: 'v',
     skyId: '5085'
   },
   {
     targetWord: 'nickname',
-    translation: 'прозвище',
+    translating: 'прозвище',
     partOfSpeechCode: 'n',
     skyId: '240142'
   },
   {
     targetWord: 'nicol prism',
-    translation: 'призма николя',
+    translating: 'призма николя',
     partOfSpeechCode: 'n',
     skyId: '24957'
   },
   {
     targetWord: 'nicosia',
-    translation: 'Никосия',
+    translating: 'Никосия',
     partOfSpeechCode: 'n',
     skyId: '72888'
   },
   {
     targetWord: 'nicotiana',
-    translation: 'табак ',
+    translating: 'табак ',
     partOfSpeechCode: 'n',
     skyId: '33691'
   },
   {
     targetWord: 'nicotine',
-    translation: 'никотин',
+    translating: 'никотин',
     partOfSpeechCode: 'n',
     skyId: '82244'
   },
   {
     targetWord: 'nicotine addiction',
-    translation: 'никотиновая зависимость',
+    translating: 'никотиновая зависимость',
     partOfSpeechCode: 'n',
     skyId: '179154'
   },
   {
     targetWord: 'nicotinic acid',
-    translation: 'никотиновая кислота',
+    translating: 'никотиновая кислота',
     partOfSpeechCode: 'n',
     skyId: '140124'
   },
   {
     targetWord: 'nictation',
-    translation: 'мигание',
+    translating: 'мигание',
     partOfSpeechCode: 'n',
     skyId: '116417'
   },
   {
     targetWord: 'nictitation',
-    translation: 'мигание',
+    translating: 'мигание',
     partOfSpeechCode: 'n',
     skyId: '109821'
   },
   {
     targetWord: 'nidus',
-    translation: 'очаг',
+    translating: 'очаг',
     partOfSpeechCode: 'n',
     skyId: '146473'
   },
   {
     targetWord: 'niece',
-    translation: 'племянница',
+    translating: 'племянница',
     partOfSpeechCode: 'n',
     skyId: '33642'
   },
   {
     targetWord: 'nielsen rating',
-    translation: 'рейтинг Нильсена',
+    translating: 'рейтинг Нильсена',
     partOfSpeechCode: 'ph',
     skyId: '232976'
   },
   {
     targetWord: 'niff',
-    translation: 'вонь',
+    translating: 'вонь',
     partOfSpeechCode: 'n',
     skyId: '43575'
   },
   {
     targetWord: 'nifty',
-    translation: 'отличный',
+    translating: 'отличный',
     partOfSpeechCode: 'j',
     skyId: '174461'
   },
   {
     targetWord: 'nigella',
-    translation: 'чернушка',
+    translating: 'чернушка',
     partOfSpeechCode: 'n',
     skyId: '144294'
   },
   {
     targetWord: 'niger river',
-    translation: 'река Нигер',
+    translating: 'река Нигер',
     partOfSpeechCode: 'n',
     skyId: '155384'
   },
   {
     targetWord: 'nigerian capital',
-    translation: 'столица Нигерии',
+    translating: 'столица Нигерии',
     partOfSpeechCode: 'n',
     skyId: '76182'
   },
   {
     targetWord: 'nigerian monetary unit',
-    translation: 'нигерийские денежной единицы',
+    translating: 'нигерийские денежной единицы',
     partOfSpeechCode: 'n',
     skyId: '20530'
   },
   {
     targetWord: 'nigga',
-    translation: 'нигга',
+    translating: 'нигга',
     partOfSpeechCode: 'n',
     skyId: '227444'
   },
   {
     targetWord: 'niggard',
-    translation: 'скряга',
+    translating: 'скряга',
     partOfSpeechCode: 'n',
     skyId: '83664'
   },
   {
     targetWord: 'niggardly',
-    translation: 'скупой',
+    translating: 'скупой',
     partOfSpeechCode: 'j',
     skyId: '150871'
   },
   {
     targetWord: 'nigger',
-    translation: 'негр',
+    translating: 'негр',
     partOfSpeechCode: 'n',
     skyId: '177698'
   },
   {
     targetWord: 'niggle',
-    translation: 'придираться',
+    translating: 'придираться',
     partOfSpeechCode: 'v',
     skyId: '75687'
   },
   {
     targetWord: 'niggle',
-    translation: 'переживать (по мелочам)',
+    translating: 'переживать (по мелочам)',
     partOfSpeechCode: 'v',
     skyId: '75686'
   },
   {
     targetWord: 'niggler',
-    translation: 'придира',
+    translating: 'придира',
     partOfSpeechCode: 'n',
     skyId: '21632'
   },
   {
     targetWord: 'niggling',
-    translation: 'пустячный',
+    translating: 'пустячный',
     partOfSpeechCode: 'j',
     skyId: '75688'
   },
   {
     targetWord: 'nigh',
-    translation: 'почти',
+    translating: 'почти',
     partOfSpeechCode: 'r',
     skyId: '85117'
   },
   {
     targetWord: 'nigh',
-    translation: 'близко',
+    translating: 'близко',
     partOfSpeechCode: 'r',
     skyId: '85116'
   },
   {
     targetWord: 'nigh',
-    translation: 'левый',
+    translating: 'левый',
     partOfSpeechCode: 'j',
     skyId: '85115'
   },
   {
     targetWord: 'nigh',
-    translation: 'близкий',
+    translating: 'близкий',
     partOfSpeechCode: 'j',
     skyId: '85114'
   },
   {
     targetWord: 'nigher',
-    translation: 'близкий',
+    translating: 'близкий',
     partOfSpeechCode: 'j',
     skyId: '32547'
   },
   {
     targetWord: 'nighest',
-    translation: 'nighest',
+    translating: 'nighest',
     partOfSpeechCode: 'r',
     skyId: '102294'
   },
   {
     targetWord: 'nighest',
-    translation: 'близкий',
+    translating: 'близкий',
     partOfSpeechCode: 'j',
     skyId: '102292'
   },
   {
     targetWord: 'night',
-    translation: 'спокойной ночи!',
+    translating: 'спокойной ночи!',
     partOfSpeechCode: 'exc',
     skyId: '260783'
   },
   {
     targetWord: 'night',
-    translation: 'вечер',
+    translating: 'вечер',
     partOfSpeechCode: 'n',
     skyId: '236550'
   },
   {
     targetWord: 'night',
-    translation: 'темнота',
+    translating: 'темнота',
     partOfSpeechCode: 'n',
     skyId: '8787'
   },
   {
     targetWord: 'night',
-    translation: 'сон',
+    translating: 'сон',
     partOfSpeechCode: 'n',
     skyId: '8785'
   },
   {
     targetWord: 'night',
-    translation: 'невежество',
+    translating: 'невежество',
     partOfSpeechCode: 'n',
     skyId: '8784'
   },
   {
     targetWord: 'night',
-    translation: 'ночь',
+    translating: 'ночь',
     partOfSpeechCode: 'n',
     skyId: '8788'
   },
   {
     targetWord: 'night bird',
-    translation: 'ночная птица',
+    translating: 'ночная птица',
     partOfSpeechCode: 'n',
     skyId: '63889'
   },
   {
     targetWord: 'night club',
-    translation: 'ночной клуб',
+    translating: 'ночной клуб',
     partOfSpeechCode: 'n',
     skyId: '58412'
   },
   {
     targetWord: 'night cycle',
-    translation: 'ночной цикл',
+    translating: 'ночной цикл',
     partOfSpeechCode: 'n',
     skyId: '264159'
   },
   {
     targetWord: 'night heron',
-    translation: 'кваква',
+    translating: 'кваква',
     partOfSpeechCode: 'n',
     skyId: '162959'
   },
   {
     targetWord: 'night jasmine',
-    translation: 'ночью жасмина',
+    translating: 'ночью жасмина',
     partOfSpeechCode: 'n',
     skyId: '47377'
   },
   {
     targetWord: 'night jessamine',
-    translation: 'ночью жасмина',
+    translating: 'ночью жасмина',
     partOfSpeechCode: 'n',
     skyId: '45716'
   },
   {
     targetWord: 'night life',
-    translation: 'ночная жизнь',
+    translating: 'ночная жизнь',
     partOfSpeechCode: 'n',
     skyId: '179732'
   },
   {
     targetWord: 'night lizard',
-    translation: 'ночные ящерицы',
+    translating: 'ночные ящерицы',
     partOfSpeechCode: 'n',
     skyId: '71151'
   },
   {
     targetWord: 'night out',
-    translation: 'ночь вне дома ',
+    translating: 'ночь вне дома ',
     partOfSpeechCode: 'n',
     skyId: '240525'
   },
   {
     targetWord: 'night owl',
-    translation: 'сова',
+    translating: 'сова',
     partOfSpeechCode: 'ph',
     skyId: '182294'
   },
   {
     targetWord: 'night raven',
-    translation: 'ночь ворона',
+    translating: 'ночь ворона',
     partOfSpeechCode: 'n',
     skyId: '226146'
   },
   {
     targetWord: 'night raven',
-    translation: 'кваква',
+    translating: 'кваква',
     partOfSpeechCode: 'n',
     skyId: '226145'
   },
   {
     targetWord: 'night school',
-    translation: 'вечерняя школа',
+    translating: 'вечерняя школа',
     partOfSpeechCode: 'n',
     skyId: '150278'
   },
   {
     targetWord: 'night shift',
-    translation: 'ночная смена',
+    translating: 'ночная смена',
     partOfSpeechCode: 'n',
     skyId: '48504'
   },
   {
     targetWord: 'night sky',
-    translation: 'ночное небо',
+    translating: 'ночное небо',
     partOfSpeechCode: 'n',
     skyId: '264784'
   },
   {
     targetWord: 'night snake',
-    translation: 'ночной уж гюнтера',
+    translating: 'ночной уж гюнтера',
     partOfSpeechCode: 'n',
     skyId: '61338'
   },
   {
     targetWord: 'night soil',
-    translation: 'ночное золото',
+    translating: 'ночное золото',
     partOfSpeechCode: 'n',
     skyId: '50346'
   },
   {
     targetWord: 'night terror',
-    translation: 'ночной ужас',
+    translating: 'ночной ужас',
     partOfSpeechCode: 'n',
     skyId: '40092'
   },
   {
     targetWord: 'night vision',
-    translation: 'ночное зрение',
+    translating: 'ночное зрение',
     partOfSpeechCode: 'n',
     skyId: '167482'
   },
   {
     targetWord: 'night watch',
-    translation: 'ночной дозор',
+    translating: 'ночной дозор',
     partOfSpeechCode: 'n',
     skyId: '152846'
   },
   {
     targetWord: 'night watchman',
-    translation: 'ночной сторож',
+    translating: 'ночной сторож',
     partOfSpeechCode: 'n',
     skyId: '88985'
   },
   {
     targetWord: 'night-robe',
-    translation: 'ночная рубашка',
+    translating: 'ночная рубашка',
     partOfSpeechCode: 'n',
     skyId: '111527'
   },
   {
     targetWord: 'night-vision goggles',
-    translation: 'очки ночного видения',
+    translating: 'очки ночного видения',
     partOfSpeechCode: 'n',
     skyId: '232747'
   },
   {
     targetWord: 'nightbird',
-    translation: 'сова',
+    translating: 'сова',
     partOfSpeechCode: 'n',
     skyId: '78239'
   },
   {
     targetWord: 'nightcap',
-    translation: 'последнее соревнование дня',
+    translating: 'последнее соревнование дня',
     partOfSpeechCode: 'n',
     skyId: '78609'
   },
   {
     targetWord: 'nightcap',
-    translation: 'ночной колпак',
+    translating: 'ночной колпак',
     partOfSpeechCode: 'n',
     skyId: '78608'
   },
   {
     targetWord: 'nightcap',
-    translation: 'стаканчик спиртного на ночь',
+    translating: 'стаканчик спиртного на ночь',
     partOfSpeechCode: 'n',
     skyId: '78607'
   },
   {
     targetWord: 'nightclothes',
-    translation: 'ночное бельё',
+    translating: 'ночное бельё',
     partOfSpeechCode: 'n',
     skyId: '115236'
   },
   {
     targetWord: 'nightclub',
-    translation: 'ночной клуб',
+    translating: 'ночной клуб',
     partOfSpeechCode: 'n',
     skyId: '14182'
   },
   {
     targetWord: 'nightdress',
-    translation: 'ночная сорочка',
+    translating: 'ночная сорочка',
     partOfSpeechCode: 'n',
     skyId: '687'
   },
   {
     targetWord: 'nighted',
-    translation: 'застигнутый ночью',
+    translating: 'застигнутый ночью',
     partOfSpeechCode: 'j',
     skyId: '137502'
   },
   {
     targetWord: 'nightfall',
-    translation: 'сумерки',
+    translating: 'сумерки',
     partOfSpeechCode: 'n',
     skyId: '105282'
   },
   {
     targetWord: 'nightgown',
-    translation: 'ночная сорочка',
+    translating: 'ночная сорочка',
     partOfSpeechCode: 'n',
     skyId: '141567'
   },
   {
     targetWord: 'nighthawk',
-    translation: 'североамериканский козодой',
+    translating: 'североамериканский козодой',
     partOfSpeechCode: 'n',
     skyId: '5649'
   },
   {
     targetWord: 'nighthawk',
-    translation: 'сова',
+    translating: 'сова',
     partOfSpeechCode: 'n',
     skyId: '5648'
   },
   {
     targetWord: 'nightie',
-    translation: 'ночная рубашка',
+    translating: 'ночная рубашка',
     partOfSpeechCode: 'n',
     skyId: '86916'
   },
   {
     targetWord: 'nightingales will not sing in a cage',
-    translation: 'птичке ветка дороже золотой клетки',
+    translating: 'птичке ветка дороже золотой клетки',
     partOfSpeechCode: 'ph',
     skyId: '244150'
   },
   {
     targetWord: 'nightjar',
-    translation: 'настоящие козодои',
+    translating: 'настоящие козодои',
     partOfSpeechCode: 'n',
     skyId: '44246'
   },
   {
     targetWord: 'nightlife',
-    translation: 'ночная жизнь',
+    translating: 'ночная жизнь',
     partOfSpeechCode: 'n',
     skyId: '9918'
   },
   {
     targetWord: 'nightlife',
-    translation: 'ночное развлечение',
+    translating: 'ночное развлечение',
     partOfSpeechCode: 'n',
     skyId: '9917'
   },
   {
     targetWord: 'nightlong',
-    translation: 'весь',
+    translating: 'весь',
     partOfSpeechCode: 'j',
     skyId: '161801'
   },
   {
     targetWord: 'nightly',
-    translation: 'вечером',
+    translating: 'вечером',
     partOfSpeechCode: 'r',
     skyId: '70437'
   },
   {
     targetWord: 'nightly',
-    translation: 'ночной',
+    translating: 'ночной',
     partOfSpeechCode: 'j',
     skyId: '70436'
   },
   {
     targetWord: 'nightmare',
-    translation: 'кошмарный сон',
+    translating: 'кошмарный сон',
     partOfSpeechCode: 'n',
     skyId: '126432'
   },
   {
     targetWord: 'nightmare',
-    translation: 'кошмар ',
+    translating: 'кошмар ',
     partOfSpeechCode: 'n',
     skyId: '126431'
   },
   {
     targetWord: 'nightmare fuel',
-    translation: 'то, что будет сниться в кошмарах',
+    translating: 'то, что будет сниться в кошмарах',
     partOfSpeechCode: 'phi',
     skyId: '262310'
   },
   {
     targetWord: 'nightmarish',
-    translation: 'кошмарный',
+    translating: 'кошмарный',
     partOfSpeechCode: 'j',
     skyId: '85275'
   },
   {
     targetWord: 'nightshirt',
-    translation: 'мужская ночная рубашка',
+    translating: 'мужская ночная рубашка',
     partOfSpeechCode: 'n',
     skyId: '182094'
   },
   {
     targetWord: 'nightspot',
-    translation: 'ночной клуб',
+    translating: 'ночной клуб',
     partOfSpeechCode: 'n',
     skyId: '146034'
   },
   {
     targetWord: 'nightstand',
-    translation: 'прикроватная тумбочка',
+    translating: 'прикроватная тумбочка',
     partOfSpeechCode: 'n',
     skyId: '237613'
   },
   {
     targetWord: 'nightstick',
-    translation: 'полицейская дубинка',
+    translating: 'полицейская дубинка',
     partOfSpeechCode: 'n',
     skyId: '217890'
   },
   {
     targetWord: 'nighttime',
-    translation: 'ночное время',
+    translating: 'ночное время',
     partOfSpeechCode: 'n',
     skyId: '214189'
   },
   {
     targetWord: 'nighttime speed limit',
-    translation: 'ограничение скорости в ночное время',
+    translating: 'ограничение скорости в ночное время',
     partOfSpeechCode: 'ph',
     skyId: '234198'
   },
   {
     targetWord: 'nightwalker',
-    translation: 'земляной червь',
+    translating: 'земляной червь',
     partOfSpeechCode: 'n',
     skyId: '150369'
   },
   {
     targetWord: 'nigra',
-    translation: 'нигга',
+    translating: 'нигга',
     partOfSpeechCode: 'n',
     skyId: '218579'
   },
   {
     targetWord: 'nih',
-    translation: 'Национальный институт здравоохранения',
+    translating: 'Национальный институт здравоохранения',
     partOfSpeechCode: 'n',
     skyId: '106544'
   },
   {
     targetWord: 'nihil',
-    translation: 'ничего не должен',
+    translating: 'ничего не должен',
     partOfSpeechCode: 'n',
     skyId: '154675'
   },
   {
     targetWord: 'nihilism',
-    translation: 'нигилизм',
+    translating: 'нигилизм',
     partOfSpeechCode: 'n',
     skyId: '151120'
   },
   {
     targetWord: 'nihilist',
-    translation: 'нигилист',
+    translating: 'нигилист',
     partOfSpeechCode: 'n',
     skyId: '151128'
   },
   {
     targetWord: 'nihilistic',
-    translation: 'нигилистический',
+    translating: 'нигилистический',
     partOfSpeechCode: 'j',
     skyId: '184134'
   },
   {
     targetWord: 'nihility',
-    translation: 'шуньята',
+    translating: 'шуньята',
     partOfSpeechCode: 'n',
     skyId: '134093'
   },
   {
     targetWord: 'nile',
-    translation: 'Нил',
+    translating: 'Нил',
     partOfSpeechCode: 'n',
     skyId: '10240'
   },
   {
     targetWord: 'nile crocodile',
-    translation: 'нильский крокодил',
+    translating: 'нильский крокодил',
     partOfSpeechCode: 'n',
     skyId: '151549'
   },
   {
     targetWord: 'nilgai',
-    translation: 'нильгау',
+    translating: 'нильгау',
     partOfSpeechCode: 'n',
     skyId: '177553'
   },
   {
     targetWord: 'nilotic',
-    translation: 'Nilotic',
+    translating: 'Nilotic',
     partOfSpeechCode: 'j',
     skyId: '190882'
   },
   {
     targetWord: 'nim',
-    translation: 'ним',
+    translating: 'ним',
     partOfSpeechCode: 'n',
     skyId: '142076'
   },
   {
     targetWord: 'nim tree',
-    translation: 'ним',
+    translating: 'ним',
     partOfSpeechCode: 'n',
     skyId: '124197'
   },
   {
     targetWord: 'nimble',
-    translation: 'сообразительный',
+    translating: 'сообразительный',
     partOfSpeechCode: 'j',
     skyId: '190084'
   },
   {
     targetWord: 'nimble',
-    translation: 'шустрый',
+    translating: 'шустрый',
     partOfSpeechCode: 'j',
     skyId: '190083'
   },
   {
     targetWord: 'nimbleness',
-    translation: 'проворство',
+    translating: 'проворство',
     partOfSpeechCode: 'n',
     skyId: '155159'
   },
   {
     targetWord: 'nimbly',
-    translation: 'проворно',
+    translating: 'проворно',
     partOfSpeechCode: 'r',
     skyId: '4835'
   },
   {
     targetWord: 'nimbus',
-    translation: 'нимб',
+    translating: 'нимб',
     partOfSpeechCode: 'n',
     skyId: '46753'
   },
   {
     targetWord: 'nimbus',
-    translation: 'дождевое облако',
+    translating: 'дождевое облако',
     partOfSpeechCode: 'n',
     skyId: '46752'
   },
   {
     targetWord: 'nimbus cloud',
-    translation: 'дождевое облако',
+    translating: 'дождевое облако',
     partOfSpeechCode: 'n',
     skyId: '222301'
   },
   {
     targetWord: 'nimby',
-    translation: 'не на моём заднем дворе',
+    translating: 'не на моём заднем дворе',
     partOfSpeechCode: 'n',
     skyId: '178984'
   },
   {
     targetWord: 'nimiety',
-    translation: 'излишек',
+    translating: 'излишек',
     partOfSpeechCode: 'n',
     skyId: '39626'
   },
   {
     targetWord: 'niminy-piminy',
-    translation: 'чопорный',
+    translating: 'чопорный',
     partOfSpeechCode: 'j',
     skyId: '158552'
   },
   {
     targetWord: 'nin-sin',
-    translation: 'женьшень',
+    translating: 'женьшень',
     partOfSpeechCode: 'n',
     skyId: '49187'
   },
   {
     targetWord: 'nina from carolina',
-    translation: '9',
+    translating: '9',
     partOfSpeechCode: 'n',
     skyId: '9804'
   },
   {
     targetWord: 'nincompoop',
-    translation: 'дурачок',
+    translating: 'дурачок',
     partOfSpeechCode: 'n',
     skyId: '139134'
   },
   {
     targetWord: 'nine',
-    translation: 'девятка',
+    translating: 'девятка',
     partOfSpeechCode: 'n',
     skyId: '254258'
   },
   {
     targetWord: 'nine',
-    translation: 'девять',
+    translating: 'девять',
     partOfSpeechCode: 'n',
     skyId: '188122'
   },
   {
     targetWord: 'nine',
-    translation: 'девять',
+    translating: 'девять',
     partOfSpeechCode: 'crd',
     skyId: '188122'
   },
   {
     targetWord: "nine days' wonder",
-    translation: 'кратковременная сенсация',
+    translating: 'кратковременная сенсация',
     partOfSpeechCode: 'ph',
     skyId: '242114'
   },
   {
     targetWord: 'nine iron',
-    translation: 'железная клюшка ',
+    translating: 'железная клюшка ',
     partOfSpeechCode: 'n',
     skyId: '137605'
   },
   {
     targetWord: 'nine times',
-    translation: 'девять раз',
+    translating: 'девять раз',
     partOfSpeechCode: 'r',
     skyId: '91609'
   },
   {
     targetWord: 'nine-banded armadillo',
-    translation: 'девятипоясной броненосец',
+    translating: 'девятипоясной броненосец',
     partOfSpeechCode: 'n',
     skyId: '28040'
   },
   {
     targetWord: 'nine-fold',
-    translation: 'девятикратный',
+    translating: 'девятикратный',
     partOfSpeechCode: 'j',
     skyId: '80244'
   },
   {
     targetWord: 'nine-to-five job',
-    translation: 'нормированный рабочий день',
+    translating: 'нормированный рабочий день',
     partOfSpeechCode: 'ph',
     skyId: '242112'
   },
   {
     targetWord: 'ninefold',
-    translation: 'девятикратный',
+    translating: 'девятикратный',
     partOfSpeechCode: 'r',
     skyId: '52998'
   },
   {
     targetWord: 'ninepin',
-    translation: 'растранжирить',
+    translating: 'растранжирить',
     partOfSpeechCode: 'n',
     skyId: '112194'
   },
   {
     targetWord: 'ninepins',
-    translation: 'кегли',
+    translating: 'кегли',
     partOfSpeechCode: 'n',
     skyId: '94379'
   },
   {
     targetWord: 'ninepins',
-    translation: 'боулинг',
+    translating: 'боулинг',
     partOfSpeechCode: 'n',
     skyId: '94378'
   },
   {
     targetWord: 'niner',
-    translation: 'девять',
+    translating: 'девять',
     partOfSpeechCode: 'n',
     skyId: '188121'
   },
   {
     targetWord: 'nineteen',
-    translation: 'девятнадцать',
+    translating: 'девятнадцать',
     partOfSpeechCode: 'n',
     skyId: '187055'
   },
   {
     targetWord: 'nineteen',
-    translation: 'девятнадцать',
+    translating: 'девятнадцать',
     partOfSpeechCode: 'crd',
     skyId: '187055'
   },
   {
     targetWord: 'nineteenth',
-    translation: 'девятнадцатый',
+    translating: 'девятнадцатый',
     partOfSpeechCode: 'ord',
     skyId: '233220'
   },
   {
     targetWord: 'nineties',
-    translation: 'девяностые',
+    translating: 'девяностые',
     partOfSpeechCode: 'n',
     skyId: '72740'
   },
   {
     targetWord: 'ninetieth',
-    translation: 'девяностый',
+    translating: 'девяностый',
     partOfSpeechCode: 'ord',
     skyId: '202642'
   },
   {
     targetWord: 'ninety',
-    translation: 'девяносто',
+    translating: 'девяносто',
     partOfSpeechCode: 'crd',
     skyId: '184783'
   },
   {
     targetWord: 'ninety-eight',
-    translation: 'девяносто восемь',
+    translating: 'девяносто восемь',
     partOfSpeechCode: 'crd',
     skyId: '192744'
   },
   {
     targetWord: 'ninety-fifth',
-    translation: 'девяносто пятый',
+    translating: 'девяносто пятый',
     partOfSpeechCode: 'j',
     skyId: '184210'
   },
   {
     targetWord: 'ninety-five',
-    translation: 'девяносто пять',
+    translating: 'девяносто пять',
     partOfSpeechCode: 'crd',
     skyId: '228071'
   },
   {
     targetWord: 'ninety-four',
-    translation: 'девяносто четыре',
+    translating: 'девяносто четыре',
     partOfSpeechCode: 'crd',
     skyId: '228114'
   },
   {
     targetWord: 'ninety-one',
-    translation: 'девяносто один',
+    translating: 'девяносто один',
     partOfSpeechCode: 'crd',
     skyId: '228113'
   },
   {
     targetWord: 'ninety-seven',
-    translation: 'девяносто семь',
+    translating: 'девяносто семь',
     partOfSpeechCode: 'crd',
     skyId: '228118'
   },
   {
     targetWord: 'ninety-six',
-    translation: 'девяносто шесть',
+    translating: 'девяносто шесть',
     partOfSpeechCode: 'crd',
     skyId: '149236'
   },
   {
     targetWord: 'ninety-three',
-    translation: 'девяносто три',
+    translating: 'девяносто три',
     partOfSpeechCode: 'crd',
     skyId: '228109'
   },
   {
     targetWord: 'ninety-two',
-    translation: 'девяносто два',
+    translating: 'девяносто два',
     partOfSpeechCode: 'crd',
     skyId: '228101'
   },
   {
     targetWord: 'ninigino-mikoto',
-    translation: 'ниниги',
+    translating: 'ниниги',
     partOfSpeechCode: 'n',
     skyId: '173352'
   },
   {
     targetWord: 'ninja',
-    translation: 'ниндзя',
+    translating: 'ниндзя',
     partOfSpeechCode: 'n',
     skyId: '11398'
   },
   {
     targetWord: 'ninjitsu',
-    translation: 'ниндзюцу',
+    translating: 'ниндзюцу',
     partOfSpeechCode: 'n',
     skyId: '5552'
   },
   {
     targetWord: 'ninjutsu',
-    translation: 'ниндзюцу',
+    translating: 'ниндзюцу',
     partOfSpeechCode: 'n',
     skyId: '117680'
   },
   {
     targetWord: 'ninny',
-    translation: 'дурачок',
+    translating: 'дурачок',
     partOfSpeechCode: 'n',
     skyId: '179650'
   },
   {
     targetWord: 'ninon',
-    translation: 'нинон',
+    translating: 'нинон',
     partOfSpeechCode: 'n',
     skyId: '222109'
   },
   {
     targetWord: 'ninth',
-    translation: 'девятый',
+    translating: 'девятый',
     partOfSpeechCode: 'ord',
     skyId: '233210'
   },
   {
     targetWord: 'niobium',
-    translation: 'ниобий',
+    translating: 'ниобий',
     partOfSpeechCode: 'n',
     skyId: '156306'
   },
   {
     targetWord: 'nip and tuck',
-    translation: 'имеющий равные шансы',
+    translating: 'имеющий равные шансы',
     partOfSpeechCode: 'j',
     skyId: '226475'
   },
   {
     targetWord: 'nip and tuck',
-    translation: 'плечом к плечу',
+    translating: 'плечом к плечу',
     partOfSpeechCode: 'r',
     skyId: '226476'
   },
   {
     targetWord: 'nip and tuck',
-    translation: 'подтяжка кожи',
+    translating: 'подтяжка кожи',
     partOfSpeechCode: 'n',
     skyId: '226474'
   },
   {
     targetWord: 'nip off',
-    translation: 'отщипнуть',
+    translating: 'отщипнуть',
     partOfSpeechCode: 'v',
     skyId: '145003'
   },
   {
     targetWord: 'nipa',
-    translation: 'нипа',
+    translating: 'нипа',
     partOfSpeechCode: 'n',
     skyId: '5950'
   },
   {
     targetWord: 'nipper',
-    translation: 'Нипер',
+    translating: 'Нипер',
     partOfSpeechCode: 'n',
     skyId: '85599'
   },
   {
     targetWord: 'nipper',
-    translation: 'ребёнок',
+    translating: 'ребёнок',
     partOfSpeechCode: 'n',
     skyId: '85598'
   },
   {
     targetWord: 'nippers',
-    translation: 'кусачки',
+    translating: 'кусачки',
     partOfSpeechCode: 'n',
     skyId: '257985'
   },
   {
     targetWord: 'nipple',
-    translation: 'соска',
+    translating: 'соска',
     partOfSpeechCode: 'n',
     skyId: '168388'
   },
   {
     targetWord: 'nipple',
-    translation: 'сосок',
+    translating: 'сосок',
     partOfSpeechCode: 'n',
     skyId: '168387'
   },
   {
     targetWord: 'nippy',
-    translation: 'морозный',
+    translating: 'морозный',
     partOfSpeechCode: 'j',
     skyId: '95521'
   },
   {
     targetWord: 'nippy',
-    translation: 'резкий',
+    translating: 'резкий',
     partOfSpeechCode: 'j',
     skyId: '95520'
   },
   {
     targetWord: 'niqaabi',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '22055'
   },
   {
     targetWord: 'niqab',
-    translation: 'никаб',
+    translating: 'никаб',
     partOfSpeechCode: 'n',
     skyId: '75453'
   },
   {
     targetWord: 'nirvana',
-    translation: 'нирвана',
+    translating: 'нирвана',
     partOfSpeechCode: 'n',
     skyId: '57575'
   },
   {
     targetWord: 'nirvana',
-    translation: 'райский уголок',
+    translating: 'райский уголок',
     partOfSpeechCode: 'n',
     skyId: '57576'
   },
   {
     targetWord: 'nisan',
-    translation: 'нисан',
+    translating: 'нисан',
     partOfSpeechCode: 'n',
     skyId: '145160'
   },
   {
     targetWord: 'nisei',
-    translation: 'нисэй',
+    translating: 'нисэй',
     partOfSpeechCode: 'n',
     skyId: '86447'
   },
   {
     targetWord: 'nissan',
-    translation: 'нисан',
+    translating: 'нисан',
     partOfSpeechCode: 'n',
     skyId: '81325'
   },
   {
     targetWord: 'nisus',
-    translation: 'борьба',
+    translating: 'борьба',
     partOfSpeechCode: 'n',
     skyId: '94088'
   },
   {
     targetWord: 'nitid',
-    translation: 'блестящий',
+    translating: 'блестящий',
     partOfSpeechCode: 'j',
     skyId: '160523'
   },
   {
     targetWord: 'nitpick',
-    translation: 'придираться',
+    translating: 'придираться',
     partOfSpeechCode: 'v',
     skyId: '190073'
   },
   {
     targetWord: 'nitpicker',
-    translation: 'придира',
+    translating: 'придира',
     partOfSpeechCode: 'n',
     skyId: '17641'
   },
   {
     targetWord: 'nitramine',
-    translation: 'тетрил',
+    translating: 'тетрил',
     partOfSpeechCode: 'n',
     skyId: '65844'
   },
   {
     targetWord: 'nitrate',
-    translation: 'нитрат',
+    translating: 'нитрат',
     partOfSpeechCode: 'n',
     skyId: '58324'
   },
   {
     targetWord: 'nitrate bacterium',
-    translation: 'азотная бактерия',
+    translating: 'азотная бактерия',
     partOfSpeechCode: 'n',
     skyId: '838'
   },
   {
     targetWord: 'nitric',
-    translation: 'азотный',
+    translating: 'азотный',
     partOfSpeechCode: 'j',
     skyId: '53328'
   },
   {
     targetWord: 'nitric acid',
-    translation: 'азотная кислота',
+    translating: 'азотная кислота',
     partOfSpeechCode: 'n',
     skyId: '151233'
   },
   {
     targetWord: 'nitric bacteria',
-    translation: 'азотной бактерий',
+    translating: 'азотной бактерий',
     partOfSpeechCode: 'n',
     skyId: '85061'
   },
   {
     targetWord: 'nitric bacterium',
-    translation: 'азотные бактерии',
+    translating: 'азотные бактерии',
     partOfSpeechCode: 'n',
     skyId: '61278'
   },
   {
     targetWord: 'nitride',
-    translation: 'нитрид',
+    translating: 'нитрид',
     partOfSpeechCode: 'n',
     skyId: '30122'
   },
   {
     targetWord: 'nitrification',
-    translation: 'нитрификация',
+    translating: 'нитрификация',
     partOfSpeechCode: 'n',
     skyId: '126458'
   },
   {
     targetWord: 'nitril',
-    translation: 'нитрилы',
+    translating: 'нитрилы',
     partOfSpeechCode: 'n',
     skyId: '53329'
   },
   {
     targetWord: 'nitrite',
-    translation: 'нитрит',
+    translating: 'нитрит',
     partOfSpeechCode: 'n',
     skyId: '21988'
   },
   {
     targetWord: 'nitrite bacterium',
-    translation: 'закиси бактерии',
+    translating: 'закиси бактерии',
     partOfSpeechCode: 'n',
     skyId: '221601'
   },
   {
     targetWord: 'nitrobacteria',
-    translation: 'азотной бактерий',
+    translating: 'азотной бактерий',
     partOfSpeechCode: 'n',
     skyId: '113070'
   },
   {
     targetWord: 'nitrogen',
-    translation: 'азот',
+    translating: 'азот',
     partOfSpeechCode: 'n',
     skyId: '226939'
   },
   {
     targetWord: 'nitrogen narcosis',
-    translation: 'азотного наркоза',
+    translating: 'азотного наркоза',
     partOfSpeechCode: 'n',
     skyId: '13786'
   },
   {
     targetWord: 'nitrogen oxide',
-    translation: 'оксиды азота',
+    translating: 'оксиды азота',
     partOfSpeechCode: 'n',
     skyId: '192506'
   },
   {
     targetWord: 'nitrogen receiver',
-    translation: 'ресивер азота',
+    translating: 'ресивер азота',
     partOfSpeechCode: 'n',
     skyId: '249630'
   },
   {
     targetWord: 'nitrogen-oxygen station',
-    translation: 'азотно-кислородная станция',
+    translating: 'азотно-кислородная станция',
     partOfSpeechCode: 'n',
     skyId: '249611'
   },
   {
     targetWord: 'nitroglycerin',
-    translation: 'нитроглицерин',
+    translating: 'нитроглицерин',
     partOfSpeechCode: 'n',
     skyId: '95262'
   },
   {
     targetWord: 'nitroglycerine',
-    translation: 'нитроглицерин',
+    translating: 'нитроглицерин',
     partOfSpeechCode: 'n',
     skyId: '182268'
   },
   {
     targetWord: 'nitrosomonas',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '70835'
   },
   {
     targetWord: 'nitrospan',
-    translation: 'нитроглицерин',
+    translating: 'нитроглицерин',
     partOfSpeechCode: 'n',
     skyId: '168011'
   },
   {
     targetWord: 'nitrostat',
-    translation: 'нитроглицерин',
+    translating: 'нитроглицерин',
     partOfSpeechCode: 'n',
     skyId: '48561'
   },
   {
     targetWord: 'nitrous',
-    translation: 'азотистый',
+    translating: 'азотистый',
     partOfSpeechCode: 'j',
     skyId: '13551'
   },
   {
     targetWord: 'nitrous bacterium',
-    translation: 'закиси бактерии',
+    translating: 'закиси бактерии',
     partOfSpeechCode: 'n',
     skyId: '132101'
   },
   {
     targetWord: 'nitrous oxide',
-    translation: 'оксид азота',
+    translating: 'оксид азота',
     partOfSpeechCode: 'n',
     skyId: '116664'
   },
   {
     targetWord: 'nitta tree',
-    translation: 'дерева',
+    translating: 'дерева',
     partOfSpeechCode: 'n',
     skyId: '39186'
   },
   {
     targetWord: 'nitty-gritty',
-    translation: 'основные моменты',
+    translating: 'основные моменты',
     partOfSpeechCode: 'ph',
     skyId: '234946'
   },
   {
     targetWord: 'nitty-gritty',
-    translation: 'сущность',
+    translating: 'сущность',
     partOfSpeechCode: 'n',
     skyId: '223844'
   },
   {
     targetWord: 'nitweed',
-    translation: 'оранжевая трава',
+    translating: 'оранжевая трава',
     partOfSpeechCode: 'n',
     skyId: '213904'
   },
   {
     targetWord: 'nitwit',
-    translation: 'болван',
+    translating: 'болван',
     partOfSpeechCode: 'n',
     skyId: '17984'
   },
   {
     targetWord: 'nixie',
-    translation: 'нет',
+    translating: 'нет',
     partOfSpeechCode: 'exc',
     skyId: '261196'
   },
   {
     targetWord: 'nm',
-    translation: 'нм',
+    translating: 'нм',
     partOfSpeechCode: 'n',
     skyId: '165024'
   },
   {
     targetWord: 'nne',
-    translation: 'северо-северо-восток',
+    translating: 'северо-северо-восток',
     partOfSpeechCode: 'n',
     skyId: '81053'
   },
   {
     targetWord: 'no',
-    translation: 'совсем не',
+    translating: 'совсем не',
     partOfSpeechCode: 'j',
     skyId: '165029'
   },
   {
     targetWord: 'no',
-    translation: 'запрещено',
+    translating: 'запрещено',
     partOfSpeechCode: 'j',
     skyId: '239509'
   },
   {
     targetWord: 'no',
-    translation: 'нет',
+    translating: 'нет',
     partOfSpeechCode: 'exc',
     skyId: '165030'
   },
   {
     targetWord: 'no',
-    translation: 'совсем не',
+    translating: 'совсем не',
     partOfSpeechCode: 'r',
     skyId: '165029'
   },
   {
     targetWord: 'no',
-    translation: 'ничуть не',
+    translating: 'ничуть не',
     partOfSpeechCode: 'r',
     skyId: '165028'
   },
   {
     targetWord: 'no',
-    translation: 'нет',
+    translating: 'нет',
     partOfSpeechCode: 'j',
     skyId: '165030'
   },
   {
     targetWord: 'no',
-    translation: 'отказ',
+    translating: 'отказ',
     partOfSpeechCode: 'n',
     skyId: '165025'
   },
   {
     targetWord: 'no U turn',
-    translation: 'Разворот запрещён',
+    translating: 'Разворот запрещён',
     partOfSpeechCode: 'ph',
     skyId: '234203'
   },
   {
     targetWord: 'no ball',
-    translation: 'ноу-бол',
+    translating: 'ноу-бол',
     partOfSpeechCode: 'n',
     skyId: '14060'
   },
   {
     targetWord: 'no bicycles',
-    translation: 'Движение велосипедов запрещено',
+    translating: 'Движение велосипедов запрещено',
     partOfSpeechCode: 'ph',
     skyId: '234212'
   },
   {
     targetWord: 'no biggie',
-    translation: 'ничего страшного',
+    translating: 'ничего страшного',
     partOfSpeechCode: 'ph',
     skyId: '265348'
   },
   {
     targetWord: 'no cause for concern',
-    translation: 'нет причин для беспокойства',
+    translating: 'нет причин для беспокойства',
     partOfSpeechCode: 'ph',
     skyId: '261989'
   },
   {
     targetWord: 'no doubt',
-    translation: 'без сомнения',
+    translating: 'без сомнения',
     partOfSpeechCode: 'r',
     skyId: '142882'
   },
   {
     targetWord: 'no easy feat',
-    translation: 'нелегкое дело',
+    translating: 'нелегкое дело',
     partOfSpeechCode: 'ph',
     skyId: '263202'
   },
   {
     targetWord: 'no end',
-    translation: 'бесконечно',
+    translating: 'бесконечно',
     partOfSpeechCode: 'r',
     skyId: '58714'
   },
   {
     targetWord: 'no fault insurance',
-    translation: 'без вины страхования',
+    translating: 'без вины страхования',
     partOfSpeechCode: 'n',
     skyId: '135209'
   },
   {
     targetWord: 'no findings',
-    translation: 'замечаний нет',
+    translating: 'замечаний нет',
     partOfSpeechCode: 'ph',
     skyId: '254532'
   },
   {
     targetWord: 'no flying from fate',
-    translation: 'от судьбы не уйдешь',
+    translating: 'от судьбы не уйдешь',
     partOfSpeechCode: 'ph',
     skyId: '244149'
   },
   {
     targetWord: 'no fooling',
-    translation: 'без шуток',
+    translating: 'без шуток',
     partOfSpeechCode: 'exc',
     skyId: '256399'
   },
   {
     targetWord: 'no good',
-    translation: 'никуда не годится',
+    translating: 'никуда не годится',
     partOfSpeechCode: 'ph',
     skyId: '254862'
   },
   {
     targetWord: 'no great loss without some small gain',
-    translation: 'нет худа без добра',
+    translating: 'нет худа без добра',
     partOfSpeechCode: 'ph',
     skyId: '244145'
   },
   {
     targetWord: 'no herb will cure love',
-    translation: 'любовь никаким зельем не излечишь',
+    translating: 'любовь никаким зельем не излечишь',
     partOfSpeechCode: 'ph',
     skyId: '244144'
   },
   {
     targetWord: 'no hitch hiking',
-    translation: 'Автостоп запрещен',
+    translating: 'Автостоп запрещен',
     partOfSpeechCode: 'ph',
     skyId: '234225'
   },
   {
     targetWord: 'no joy without alloy',
-    translation: 'без худа добра не бывает',
+    translating: 'без худа добра не бывает',
     partOfSpeechCode: 'ph',
     skyId: '244143'
   },
   {
     targetWord: 'no kidding',
-    translation: 'без шуток',
+    translating: 'без шуток',
     partOfSpeechCode: 'ph',
     skyId: '242110'
   },
   {
     targetWord: 'no large trucks',
-    translation: 'Движение грузовиков запрещено',
+    translating: 'Движение грузовиков запрещено',
     partOfSpeechCode: 'ph',
     skyId: '234211'
   },
   {
     targetWord: 'no laughing matter',
-    translation: 'не повод для шуток; нешуточное дело',
+    translating: 'не повод для шуток; нешуточное дело',
     partOfSpeechCode: 'phi',
     skyId: '265031'
   },
   {
     targetWord: 'no left turn',
-    translation: 'Поворот налево запрещён',
+    translating: 'Поворот налево запрещён',
     partOfSpeechCode: 'ph',
     skyId: '234202'
   },
@@ -10489,1231 +10489,1231 @@ export const nArr = [
   },
   {
     targetWord: 'no living man all things can',
-    translation: 'ни один человек не умеет всего',
+    translating: 'ни один человек не умеет всего',
     partOfSpeechCode: 'ph',
     skyId: '244142'
   },
   {
     targetWord: 'no longer',
-    translation: 'больше нет',
+    translating: 'больше нет',
     partOfSpeechCode: 'r',
     skyId: '150398'
   },
   {
     targetWord: 'no longer pipe, no longer dance',
-    translation: 'кончилась музыка, кончились и танцы',
+    translating: 'кончилась музыка, кончились и танцы',
     partOfSpeechCode: 'ph',
     skyId: '244141'
   },
   {
     targetWord: 'no man is wise at all times',
-    translation: 'на всякого мудреца довольно простоты',
+    translating: 'на всякого мудреца довольно простоты',
     partOfSpeechCode: 'ph',
     skyId: '244139'
   },
   {
     targetWord: 'no man loves his fetters, be they made of gold',
-    translation: 'золотая клетка соловью не потеха',
+    translating: 'золотая клетка соловью не потеха',
     partOfSpeechCode: 'ph',
     skyId: '244138'
   },
   {
     targetWord: "no man's land",
-    translation: 'нейтральная территория',
+    translating: 'нейтральная территория',
     partOfSpeechCode: 'n',
     skyId: '151928'
   },
   {
     targetWord: 'no matter',
-    translation: 'неважно',
+    translating: 'неважно',
     partOfSpeechCode: 'phi',
     skyId: '250147'
   },
   {
     targetWord: 'no matter',
-    translation: 'независимо',
+    translating: 'независимо',
     partOfSpeechCode: 'r',
     skyId: '168054'
   },
   {
     targetWord: 'no matter what happens',
-    translation: 'несмотря ни на что',
+    translating: 'несмотря ни на что',
     partOfSpeechCode: 'r',
     skyId: '83136'
   },
   {
     targetWord: 'no more',
-    translation: 'не более',
+    translating: 'не более',
     partOfSpeechCode: 'r',
     skyId: '11753'
   },
   {
     targetWord: 'no news is good news',
-    translation: 'отсутствие новостей - хорошая новость',
+    translating: 'отсутствие новостей - хорошая новость',
     partOfSpeechCode: 'ph',
     skyId: '244137'
   },
   {
     targetWord: 'no offence',
-    translation: 'без обид',
+    translating: 'без обид',
     partOfSpeechCode: 'ph',
     skyId: '253002'
   },
   {
     targetWord: 'no offense',
-    translation: 'Без обид!',
+    translating: 'Без обид!',
     partOfSpeechCode: 'ph',
     skyId: '266688'
   },
   {
     targetWord: 'no one',
-    translation: 'никто',
+    translating: 'никто',
     partOfSpeechCode: 'prn',
     skyId: '234022'
   },
   {
     targetWord: 'no one can make you feel inferior without your consent',
-    translation: 'без твоего согласия тебя не унизят',
+    translating: 'без твоего согласия тебя не унизят',
     partOfSpeechCode: 'ph',
     skyId: '244136'
   },
   {
     targetWord: 'no pain, no gain',
-    translation: 'без труда не вытащишь и рыбку из пруда',
+    translating: 'без труда не вытащишь и рыбку из пруда',
     partOfSpeechCode: 'ph',
     skyId: '244135'
   },
   {
     targetWord: 'no parking',
-    translation: 'парковка запрещена',
+    translating: 'парковка запрещена',
     partOfSpeechCode: 'ph',
     skyId: '234217'
   },
   {
     targetWord: 'no parking bus stop',
-    translation: 'Парковка запрещена. Автобусная остановка.',
+    translating: 'Парковка запрещена. Автобусная остановка.',
     partOfSpeechCode: 'ph',
     skyId: '234218'
   },
   {
     targetWord: 'no parking on pavement',
-    translation: 'Парковка на тротуаре запрещена',
+    translating: 'Парковка на тротуаре запрещена',
     partOfSpeechCode: 'ph',
     skyId: '234220'
   },
   {
     targetWord: 'no pedestrian crossing',
-    translation: 'Пешеходный переход запрещён',
+    translating: 'Пешеходный переход запрещён',
     partOfSpeechCode: 'ph',
     skyId: '234226'
   },
   {
     targetWord: 'no problem',
-    translation: 'без проблем',
+    translating: 'без проблем',
     partOfSpeechCode: 'ph',
     skyId: '229911'
   },
   {
     targetWord: 'no right turn',
-    translation: 'Поворот направо запрещён',
+    translating: 'Поворот направо запрещён',
     partOfSpeechCode: 'ph',
     skyId: '234201'
   },
   {
     targetWord: 'no rinse body bath',
-    translation: 'несмываемый гель для умывания',
+    translating: 'несмываемый гель для умывания',
     partOfSpeechCode: 'ph',
     skyId: '252071'
   },
   {
     targetWord: 'no room for something',
-    translation: 'недопустимо',
+    translating: 'недопустимо',
     partOfSpeechCode: 'ph',
     skyId: '264633'
   },
   {
     targetWord: 'no scope',
-    translation: 'убийство бесприцельным выстрелом',
+    translating: 'убийство бесприцельным выстрелом',
     partOfSpeechCode: 'n',
     skyId: '233918'
   },
   {
     targetWord: 'no song, no supper',
-    translation: 'кто не работает, тот не ест',
+    translating: 'кто не работает, тот не ест',
     partOfSpeechCode: 'ph',
     skyId: '244133'
   },
   {
     targetWord: 'no standing any time',
-    translation: 'Стоянка запрещена в любое время',
+    translating: 'Стоянка запрещена в любое время',
     partOfSpeechCode: 'ph',
     skyId: '234219'
   },
   {
     targetWord: 'no such luck',
-    translation: 'увы нет',
+    translating: 'увы нет',
     partOfSpeechCode: 'ph',
     skyId: '229726'
   },
   {
     targetWord: 'no sweet without sweat',
-    translation: 'без труда меду не едят',
+    translating: 'без труда меду не едят',
     partOfSpeechCode: 'ph',
     skyId: '244132'
   },
   {
     targetWord: 'no uneven seams',
-    translation: 'нет неровных швов',
+    translating: 'нет неровных швов',
     partOfSpeechCode: 'ph',
     skyId: '261749'
   },
   {
     targetWord: 'no way',
-    translation: 'ни за что',
+    translating: 'ни за что',
     partOfSpeechCode: 'ph',
     skyId: '245413'
   },
   {
     targetWord: 'no weird smell',
-    translation: 'нет странного запаха',
+    translating: 'нет странного запаха',
     partOfSpeechCode: 'ph',
     skyId: '261748'
   },
   {
     targetWord: 'no wisdom like silence',
-    translation: 'молчание - золото',
+    translating: 'молчание - золото',
     partOfSpeechCode: 'ph',
     skyId: '244131'
   },
   {
     targetWord: 'no wonder',
-    translation: 'неудивительно',
+    translating: 'неудивительно',
     partOfSpeechCode: 'r',
     skyId: '236415'
   },
   {
     targetWord: 'no, I really can’t agree, I’m afraid',
-    translation: 'Я боюсь я не могу согласится с вами',
+    translating: 'Я боюсь я не могу согласится с вами',
     partOfSpeechCode: 'ph',
     skyId: '243580'
   },
   {
     targetWord: 'no, you got me wrong',
-    translation: 'нет, вы неправильно меня поняли',
+    translating: 'нет, вы неправильно меня поняли',
     partOfSpeechCode: 'ph',
     skyId: '256871'
   },
   {
     targetWord: 'no-account',
-    translation: 'незначительный',
+    translating: 'незначительный',
     partOfSpeechCode: 'j',
     skyId: '116774'
   },
   {
     targetWord: 'no-account',
-    translation: 'никчёмный',
+    translating: 'никчёмный',
     partOfSpeechCode: 'n',
     skyId: '116773'
   },
   {
     targetWord: 'no-brainer',
-    translation: 'что-то лёгкое',
+    translating: 'что-то лёгкое',
     partOfSpeechCode: 'n',
     skyId: '2468'
   },
   {
     targetWord: 'no-count',
-    translation: 'не считается',
+    translating: 'не считается',
     partOfSpeechCode: 'j',
     skyId: '46395'
   },
   {
     targetWord: 'no-frills',
-    translation: 'без излишеств',
+    translating: 'без излишеств',
     partOfSpeechCode: 'j',
     skyId: '7172'
   },
   {
     targetWord: 'no-go',
-    translation: 'нерабочий',
+    translating: 'нерабочий',
     partOfSpeechCode: 'j',
     skyId: '15048'
   },
   {
     targetWord: 'no-go area',
-    translation: 'запретная зона',
+    translating: 'запретная зона',
     partOfSpeechCode: 'n',
     skyId: '87619'
   },
   {
     targetWord: 'no-goal',
-    translation: 'несуществующая цель',
+    translating: 'несуществующая цель',
     partOfSpeechCode: 'n',
     skyId: '171262'
   },
   {
     targetWord: 'no-good',
-    translation: 'возвращенный банком',
+    translating: 'возвращенный банком',
     partOfSpeechCode: 'j',
     skyId: '193377'
   },
   {
     targetWord: 'no-good',
-    translation: 'никчёмный',
+    translating: 'никчёмный',
     partOfSpeechCode: 'j',
     skyId: '193376'
   },
   {
     targetWord: 'no-hit',
-    translation: 'безударный',
+    translating: 'безударный',
     partOfSpeechCode: 'j',
     skyId: '109318'
   },
   {
     targetWord: 'no-hit game',
-    translation: 'ноу-хиттер',
+    translating: 'ноу-хиттер',
     partOfSpeechCode: 'n',
     skyId: '160230'
   },
   {
     targetWord: 'no-hitter',
-    translation: 'ноу-хиттер',
+    translating: 'ноу-хиттер',
     partOfSpeechCode: 'n',
     skyId: '95175'
   },
   {
     targetWord: 'no-load losses',
-    translation: 'потери холостого хода',
+    translating: 'потери холостого хода',
     partOfSpeechCode: 'n',
     skyId: '248145'
   },
   {
     targetWord: 'no-load voltage ratio',
-    translation: 'коэффициент трансформации по напряжению без нагрузки',
+    translating: 'коэффициент трансформации по напряжению без нагрузки',
     partOfSpeechCode: 'n',
     skyId: '250015'
   },
   {
     targetWord: 'no-nonsense',
-    translation: 'деловой',
+    translating: 'деловой',
     partOfSpeechCode: 'j',
     skyId: '98274'
   },
   {
     targetWord: 'no-see-um',
-    translation: 'кусает комар',
+    translating: 'кусает комар',
     partOfSpeechCode: 'n',
     skyId: '71681'
   },
   {
     targetWord: 'no-show',
-    translation: 'неявившийся человек',
+    translating: 'неявившийся человек',
     partOfSpeechCode: 'n',
     skyId: '155504'
   },
   {
     targetWord: 'no-show',
-    translation: 'не явившийся гость',
+    translating: 'не явившийся гость',
     partOfSpeechCode: 'ph',
     skyId: '155503'
   },
   {
     targetWord: 'no-win',
-    translation: 'проигрышный',
+    translating: 'проигрышный',
     partOfSpeechCode: 'j',
     skyId: '143675'
   },
   {
     targetWord: 'no-win situation',
-    translation: 'безвыходная ситуация',
+    translating: 'безвыходная ситуация',
     partOfSpeechCode: 'n',
     skyId: '41622'
   },
   {
     targetWord: 'no.',
-    translation: 'номер',
+    translating: 'номер',
     partOfSpeechCode: 'abb',
     skyId: '254139'
   },
   {
     targetWord: 'no...than',
-    translation: 'не более...чем',
+    translating: 'не более...чем',
     partOfSpeechCode: 'r',
     skyId: '236438'
   },
   {
     targetWord: 'noachian',
-    translation: 'Noachian',
+    translating: 'Noachian',
     partOfSpeechCode: 'j',
     skyId: '20260'
   },
   {
     targetWord: 'noah',
-    translation: 'Ной',
+    translating: 'Ной',
     partOfSpeechCode: 'n',
     skyId: '180723'
   },
   {
     targetWord: 'noah and the flood',
-    translation: 'Всемирный потоп',
+    translating: 'Всемирный потоп',
     partOfSpeechCode: 'n',
     skyId: '132924'
   },
   {
     targetWord: "noah's flood",
-    translation: 'Ноев потоп',
+    translating: 'Ноев потоп',
     partOfSpeechCode: 'n',
     skyId: '82644'
   },
   {
     targetWord: 'nob',
-    translation: 'шишка',
+    translating: 'шишка',
     partOfSpeechCode: 'n',
     skyId: '56450'
   },
   {
     targetWord: 'nobble',
-    translation: 'украсть',
+    translating: 'украсть',
     partOfSpeechCode: 'v',
     skyId: '84928'
   },
   {
     targetWord: 'nobble',
-    translation: 'красть',
+    translating: 'красть',
     partOfSpeechCode: 'v',
     skyId: '84927'
   },
   {
     targetWord: 'nobble',
-    translation: 'надувать',
+    translating: 'надувать',
     partOfSpeechCode: 'v',
     skyId: '84929'
   },
   {
     targetWord: 'nobel prize',
-    translation: 'нобелевская премия',
+    translating: 'нобелевская премия',
     partOfSpeechCode: 'n',
     skyId: '1717'
   },
   {
     targetWord: 'nobility',
-    translation: 'знать',
+    translating: 'знать',
     partOfSpeechCode: 'n',
     skyId: '217775'
   },
   {
     targetWord: 'nobility',
-    translation: 'благородство',
+    translating: 'благородство',
     partOfSpeechCode: 'n',
     skyId: '217777'
   },
   {
     targetWord: 'noble',
-    translation: 'знатный',
+    translating: 'знатный',
     partOfSpeechCode: 'j',
     skyId: '240144'
   },
   {
     targetWord: 'noble',
-    translation: 'инертный',
+    translating: 'инертный',
     partOfSpeechCode: 'j',
     skyId: '180651'
   },
   {
     targetWord: 'noble',
-    translation: 'великодушный',
+    translating: 'великодушный',
     partOfSpeechCode: 'j',
     skyId: '180650'
   },
   {
     targetWord: 'noble',
-    translation: 'благородный',
+    translating: 'благородный',
     partOfSpeechCode: 'j',
     skyId: '180649'
   },
   {
     targetWord: 'noble',
-    translation: 'величавый',
+    translating: 'величавый',
     partOfSpeechCode: 'j',
     skyId: '180648'
   },
   {
     targetWord: 'noble',
-    translation: 'Лорд',
+    translating: 'Лорд',
     partOfSpeechCode: 'n',
     skyId: '180647'
   },
   {
     targetWord: 'noble cane',
-    translation: 'благородный тростник',
+    translating: 'благородный тростник',
     partOfSpeechCode: 'n',
     skyId: '118722'
   },
   {
     targetWord: 'noble gas',
-    translation: 'благородный газ',
+    translating: 'благородный газ',
     partOfSpeechCode: 'n',
     skyId: '149875'
   },
   {
     targetWord: 'noble-minded',
-    translation: 'благородный',
+    translating: 'благородный',
     partOfSpeechCode: 'j',
     skyId: '82767'
   },
   {
     targetWord: 'nobleness',
-    translation: 'благородство',
+    translating: 'благородство',
     partOfSpeechCode: 'n',
     skyId: '152477'
   },
   {
     targetWord: 'noblesse',
-    translation: 'дворянство',
+    translating: 'дворянство',
     partOfSpeechCode: 'n',
     skyId: '91051'
   },
   {
     targetWord: 'noblesse oblige',
-    translation: 'положение обязывает',
+    translating: 'положение обязывает',
     partOfSpeechCode: 'n',
     skyId: '109971'
   },
   {
     targetWord: 'noblewoman',
-    translation: 'дворянка',
+    translating: 'дворянка',
     partOfSpeechCode: 'n',
     skyId: '1461'
   },
   {
     targetWord: 'nobly',
-    translation: 'благородно',
+    translating: 'благородно',
     partOfSpeechCode: 'r',
     skyId: '180682'
   },
   {
     targetWord: 'nobody',
-    translation: 'никто',
+    translating: 'никто',
     partOfSpeechCode: 'prn',
     skyId: '239510'
   },
   {
     targetWord: 'nobody will deny that...',
-    translation: 'Никто не станет отрицать, что...',
+    translating: 'Никто не станет отрицать, что...',
     partOfSpeechCode: 'ph',
     skyId: '243909'
   },
   {
     targetWord: 'nocent',
-    translation: 'виновный',
+    translating: 'виновный',
     partOfSpeechCode: 'j',
     skyId: '177868'
   },
   {
     targetWord: 'nociceptive',
-    translation: 'ноцицептивная',
+    translating: 'ноцицептивная',
     partOfSpeechCode: 'j',
     skyId: '31303'
   },
   {
     targetWord: 'nock',
-    translation: 'делать зарубки',
+    translating: 'делать зарубки',
     partOfSpeechCode: 'v',
     skyId: '37850'
   },
   {
     targetWord: 'noctambulation',
-    translation: 'сомнамбулизм',
+    translating: 'сомнамбулизм',
     partOfSpeechCode: 'n',
     skyId: '30816'
   },
   {
     targetWord: 'noctambulism',
-    translation: 'сомнамбулизм',
+    translating: 'сомнамбулизм',
     partOfSpeechCode: 'n',
     skyId: '224341'
   },
   {
     targetWord: 'noctambulist',
-    translation: 'лунатик',
+    translating: 'лунатик',
     partOfSpeechCode: 'n',
     skyId: '75227'
   },
   {
     targetWord: 'noctuid',
-    translation: 'совки',
+    translating: 'совки',
     partOfSpeechCode: 'n',
     skyId: '216277'
   },
   {
     targetWord: 'noctuid moth',
-    translation: 'совки',
+    translating: 'совки',
     partOfSpeechCode: 'n',
     skyId: '63675'
   },
   {
     targetWord: 'nocturnal',
-    translation: 'ночной',
+    translating: 'ночной',
     partOfSpeechCode: 'j',
     skyId: '29448'
   },
   {
     targetWord: 'nocturnal',
-    translation: 'ночно́й',
+    translating: 'ночно́й',
     partOfSpeechCode: 'j',
     skyId: '29449'
   },
   {
     targetWord: 'nocturnally',
-    translation: 'ночным образом жизни',
+    translating: 'ночным образом жизни',
     partOfSpeechCode: 'r',
     skyId: '102016'
   },
   {
     targetWord: 'nocturne',
-    translation: 'ноктюрн',
+    translating: 'ноктюрн',
     partOfSpeechCode: 'n',
     skyId: '134947'
   },
   {
     targetWord: 'nod',
-    translation: 'дремать',
+    translating: 'дремать',
     partOfSpeechCode: 'v',
     skyId: '165623'
   },
   {
     targetWord: 'nod',
-    translation: 'качаться',
+    translating: 'качаться',
     partOfSpeechCode: 'v',
     skyId: '165622'
   },
   {
     targetWord: 'nod',
-    translation: 'клевать носом',
+    translating: 'клевать носом',
     partOfSpeechCode: 'v',
     skyId: '165621'
   },
   {
     targetWord: 'nod',
-    translation: 'одобрительно кивать',
+    translating: 'одобрительно кивать',
     partOfSpeechCode: 'v',
     skyId: '165620'
   },
   {
     targetWord: 'nod',
-    translation: 'кивать',
+    translating: 'кивать',
     partOfSpeechCode: 'v',
     skyId: '165619'
   },
   {
     targetWord: 'nod',
-    translation: 'кивание',
+    translating: 'кивание',
     partOfSpeechCode: 'n',
     skyId: '122522'
   },
   {
     targetWord: 'nod',
-    translation: 'кивок',
+    translating: 'кивок',
     partOfSpeechCode: 'n',
     skyId: '262212'
   },
   {
     targetWord: 'nod hello',
-    translation: 'приветствовать',
+    translating: 'приветствовать',
     partOfSpeechCode: 'ph',
     skyId: '254904'
   },
   {
     targetWord: 'nod off',
-    translation: 'задремать',
+    translating: 'задремать',
     partOfSpeechCode: 'v',
     skyId: '131220'
   },
   {
     targetWord: "nod one's head",
-    translation: 'кивнуть головой',
+    translating: 'кивнуть головой',
     partOfSpeechCode: 'ph',
     skyId: '228927'
   },
   {
     targetWord: 'nod politely',
-    translation: 'вежливо кивнуть',
+    translating: 'вежливо кивнуть',
     partOfSpeechCode: 'ph',
     skyId: '259481'
   },
   {
     targetWord: 'nodding',
-    translation: 'плакучий',
+    translating: 'плакучий',
     partOfSpeechCode: 'j',
     skyId: '165624'
   },
   {
     targetWord: 'nodding onion',
-    translation: 'лук поникший',
+    translating: 'лук поникший',
     partOfSpeechCode: 'n',
     skyId: '35499'
   },
   {
     targetWord: 'noddle',
-    translation: 'башка',
+    translating: 'башка',
     partOfSpeechCode: 'n',
     skyId: '118197'
   },
   {
     targetWord: 'node',
-    translation: 'узел сети',
+    translating: 'узел сети',
     partOfSpeechCode: 'n',
     skyId: '79814'
   },
   {
     targetWord: 'node',
-    translation: 'узел орбиты',
+    translating: 'узел орбиты',
     partOfSpeechCode: 'n',
     skyId: '79811'
   },
   {
     targetWord: 'node',
-    translation: 'узел',
+    translating: 'узел',
     partOfSpeechCode: 'n',
     skyId: '79813'
   },
   {
     targetWord: 'node',
-    translation: 'утолщение',
+    translating: 'утолщение',
     partOfSpeechCode: 'n',
     skyId: '79808'
   },
   {
     targetWord: 'node',
-    translation: 'узел ',
+    translating: 'узел ',
     partOfSpeechCode: 'n',
     skyId: '79810'
   },
   {
     targetWord: 'node value',
-    translation: 'значение узла',
+    translating: 'значение узла',
     partOfSpeechCode: 'n',
     skyId: '250278'
   },
   {
     targetWord: 'nodular',
-    translation: 'узловой',
+    translating: 'узловой',
     partOfSpeechCode: 'j',
     skyId: '48093'
   },
   {
     targetWord: 'nodular',
-    translation: 'узелковый',
+    translating: 'узелковый',
     partOfSpeechCode: 'j',
     skyId: '48092'
   },
   {
     targetWord: 'nodule',
-    translation: 'конкреций',
+    translating: 'конкреций',
     partOfSpeechCode: 'n',
     skyId: '91961'
   },
   {
     targetWord: 'nodule',
-    translation: 'узелковое утолщение',
+    translating: 'узелковое утолщение',
     partOfSpeechCode: 'n',
     skyId: '91960'
   },
   {
     targetWord: 'nodule',
-    translation: 'узелок',
+    translating: 'узелок',
     partOfSpeechCode: 'n',
     skyId: '91959'
   },
   {
     targetWord: 'noel',
-    translation: 'святки',
+    translating: 'святки',
     partOfSpeechCode: 'n',
     skyId: '121351'
   },
   {
     targetWord: 'noel coward',
-    translation: 'кауард, ноэл',
+    translating: 'кауард, ноэл',
     partOfSpeechCode: 'n',
     skyId: '161369'
   },
   {
     targetWord: 'noemi',
-    translation: 'ноеминь',
+    translating: 'ноеминь',
     partOfSpeechCode: 'n',
     skyId: '221098'
   },
   {
     targetWord: 'noesis',
-    translation: 'познание',
+    translating: 'познание',
     partOfSpeechCode: 'n',
     skyId: '58157'
   },
   {
     targetWord: 'noetic',
-    translation: 'умственный',
+    translating: 'умственный',
     partOfSpeechCode: 'j',
     skyId: '56256'
   },
   {
     targetWord: 'nog',
-    translation: 'нагель',
+    translating: 'нагель',
     partOfSpeechCode: 'n',
     skyId: '122529'
   },
   {
     targetWord: 'nog',
-    translation: 'клин',
+    translating: 'клин',
     partOfSpeechCode: 'n',
     skyId: '122528'
   },
   {
     targetWord: 'noggin',
-    translation: 'башка',
+    translating: 'башка',
     partOfSpeechCode: 'n',
     skyId: '222185'
   },
   {
     targetWord: 'nogging',
-    translation: 'ригель',
+    translating: 'ригель',
     partOfSpeechCode: 'n',
     skyId: '128449'
   },
   {
     targetWord: 'nohow',
-    translation: 'никак',
+    translating: 'никак',
     partOfSpeechCode: 'r',
     skyId: '187867'
   },
   {
     targetWord: 'noise',
-    translation: 'шуметь',
+    translating: 'шуметь',
     partOfSpeechCode: 'v',
     skyId: '105716'
   },
   {
     targetWord: 'noise',
-    translation: 'беспорядочность',
+    translating: 'беспорядочность',
     partOfSpeechCode: 'n',
     skyId: '105715'
   },
   {
     targetWord: 'noise',
-    translation: 'гам',
+    translating: 'гам',
     partOfSpeechCode: 'n',
     skyId: '105714'
   },
   {
     targetWord: 'noise',
-    translation: 'галдеж',
+    translating: 'галдеж',
     partOfSpeechCode: 'n',
     skyId: '105713'
   },
   {
     targetWord: 'noise',
-    translation: 'шум',
+    translating: 'шум',
     partOfSpeechCode: 'n',
     skyId: '105712'
   },
   {
     targetWord: 'noise level',
-    translation: 'уровень шума',
+    translating: 'уровень шума',
     partOfSpeechCode: 'n',
     skyId: '97649'
   },
   {
     targetWord: 'noise pollution',
-    translation: 'шумовое загрязнение',
+    translating: 'шумовое загрязнение',
     partOfSpeechCode: 'n',
     skyId: '135128'
   },
   {
     targetWord: 'noise spike',
-    translation: 'шумовой выброс',
+    translating: 'шумовой выброс',
     partOfSpeechCode: 'n',
     skyId: '258549'
   },
   {
     targetWord: 'noise-canceling',
-    translation: 'шумоподавляющий',
+    translating: 'шумоподавляющий',
     partOfSpeechCode: 'j',
     skyId: '265328'
   },
   {
     targetWord: 'noise-induced hearing loss',
-    translation: 'потеря слуха',
+    translating: 'потеря слуха',
     partOfSpeechCode: 'ph',
     skyId: '234867'
   },
   {
     targetWord: 'noiseless',
-    translation: 'бесшумный',
+    translating: 'бесшумный',
     partOfSpeechCode: 'j',
     skyId: '95772'
   },
   {
     targetWord: 'noiselessly',
-    translation: 'бесшумно',
+    translating: 'бесшумно',
     partOfSpeechCode: 'r',
     skyId: '126590'
   },
   {
     targetWord: 'noiselessness',
-    translation: 'бесшумность',
+    translating: 'бесшумность',
     partOfSpeechCode: 'n',
     skyId: '133100'
   },
   {
     targetWord: 'noisemaker',
-    translation: 'свисток',
+    translating: 'свисток',
     partOfSpeechCode: 'n',
     skyId: '106576'
   },
   {
     targetWord: 'noisily',
-    translation: 'шумно',
+    translating: 'шумно',
     partOfSpeechCode: 'r',
     skyId: '154414'
   },
   {
     targetWord: 'noisiness',
-    translation: 'шум',
+    translating: 'шум',
     partOfSpeechCode: 'n',
     skyId: '266776'
   },
   {
     targetWord: 'noisome',
-    translation: 'вредный',
+    translating: 'вредный',
     partOfSpeechCode: 'j',
     skyId: '232361'
   },
   {
     targetWord: 'noisome',
-    translation: 'зловонный',
+    translating: 'зловонный',
     partOfSpeechCode: 'j',
     skyId: '157970'
   },
   {
     targetWord: 'noisomeness',
-    translation: 'вред',
+    translating: 'вред',
     partOfSpeechCode: 'n',
     skyId: '77966'
   },
   {
     targetWord: 'noisy',
-    translation: 'кричащий',
+    translating: 'кричащий',
     partOfSpeechCode: 'j',
     skyId: '105737'
   },
   {
     targetWord: 'noisy',
-    translation: 'шумный',
+    translating: 'шумный',
     partOfSpeechCode: 'j',
     skyId: '105736'
   },
   {
     targetWord: 'nom de guerre',
-    translation: 'псевдоним',
+    translating: 'псевдоним',
     partOfSpeechCode: 'n',
     skyId: '140889'
   },
   {
     targetWord: 'noma',
-    translation: 'нома',
+    translating: 'нома',
     partOfSpeechCode: 'n',
     skyId: '25480'
   },
   {
     targetWord: 'nomad',
-    translation: 'кочевник',
+    translating: 'кочевник',
     partOfSpeechCode: 'n',
     skyId: '117056'
   },
   {
     targetWord: 'nomadic',
-    translation: 'кочевой',
+    translating: 'кочевой',
     partOfSpeechCode: 'j',
     skyId: '59115'
   },
   {
     targetWord: 'nome',
-    translation: 'ном',
+    translating: 'ном',
     partOfSpeechCode: 'n',
     skyId: '4468'
   },
   {
     targetWord: 'nomenclature',
-    translation: 'терминология',
+    translating: 'терминология',
     partOfSpeechCode: 'n',
     skyId: '45646'
   },
   {
     targetWord: 'nomenklatura',
-    translation: 'советская номенклатура',
+    translating: 'советская номенклатура',
     partOfSpeechCode: 'n',
     skyId: '192828'
   },
   {
     targetWord: 'nomia',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '8026'
   },
   {
     targetWord: 'nomia melanderi',
-    translation: 'щелочных пчел',
+    translating: 'щелочных пчел',
     partOfSpeechCode: 'n',
     skyId: '111570'
   },
   {
     targetWord: 'nominal',
-    translation: 'символический',
+    translating: 'символический',
     partOfSpeechCode: 'j',
     skyId: '16825'
   },
   {
     targetWord: 'nominal',
-    translation: 'именованный',
+    translating: 'именованный',
     partOfSpeechCode: 'j',
     skyId: '16824'
   },
   {
     targetWord: 'nominal',
-    translation: 'номинальный',
+    translating: 'номинальный',
     partOfSpeechCode: 'j',
     skyId: '16823'
   },
   {
     targetWord: 'nominal',
-    translation: 'незначительный',
+    translating: 'незначительный',
     partOfSpeechCode: 'j',
     skyId: '16821'
   },
   {
     targetWord: 'nominal',
-    translation: 'нарицательный',
+    translating: 'нарицательный',
     partOfSpeechCode: 'j',
     skyId: '16820'
   },
   {
     targetWord: 'nominal',
-    translation: 'именная группа',
+    translating: 'именная группа',
     partOfSpeechCode: 'n',
     skyId: '16819'
   },
   {
     targetWord: 'nominal size',
-    translation: 'типоразмер',
+    translating: 'типоразмер',
     partOfSpeechCode: 'n',
     skyId: '258859'
   },
   {
     targetWord: 'nominal size',
-    translation: 'номинальный размер',
+    translating: 'номинальный размер',
     partOfSpeechCode: 'n',
     skyId: '258377'
   },
   {
     targetWord: 'nominal value',
-    translation: 'номинальное значение',
+    translating: 'номинальное значение',
     partOfSpeechCode: 'n',
     skyId: '258860'
   },
   {
     targetWord: 'nominally',
-    translation: 'формально',
+    translating: 'формально',
     partOfSpeechCode: 'r',
     skyId: '119337'
   },
   {
     targetWord: 'nominate',
-    translation: 'выдвигать ',
+    translating: 'выдвигать ',
     partOfSpeechCode: 'v',
     skyId: '240145'
   },
   {
     targetWord: 'nominate',
-    translation: 'наделять',
+    translating: 'наделять',
     partOfSpeechCode: 'v',
     skyId: '142964'
   },
   {
     targetWord: 'nominate',
-    translation: 'назначать',
+    translating: 'назначать',
     partOfSpeechCode: 'v',
     skyId: '142963'
   },
   {
     targetWord: 'nominate',
-    translation: 'предлагать кандидата',
+    translating: 'предлагать кандидата',
     partOfSpeechCode: 'v',
     skyId: '142962'
   },
   {
     targetWord: 'nominate',
-    translation: 'номинировать',
+    translating: 'номинировать',
     partOfSpeechCode: 'v',
     skyId: '142961'
   },
   {
     targetWord: 'nominate him for employee of the month',
-    translation: 'номинировать его на звание лучшего сотрудника месяца',
+    translating: 'номинировать его на звание лучшего сотрудника месяца',
     partOfSpeechCode: 'ph',
     skyId: '251720'
   },
   {
     targetWord: 'nominate smb  for an Oscar',
-    translation: 'номинировать кого-то на Оскар',
+    translating: 'номинировать кого-то на Оскар',
     partOfSpeechCode: 'v',
     skyId: '250646'
   },
   {
     targetWord: 'nominated',
-    translation: 'номинированный',
+    translating: 'номинированный',
     partOfSpeechCode: 'j',
     skyId: '142653'
   },
   {
     targetWord: 'nomination',
-    translation: 'выдвижение ',
+    translating: 'выдвижение ',
     partOfSpeechCode: 'n',
     skyId: '240146'
   },
   {
     targetWord: 'nomination',
-    translation: 'выставление',
+    translating: 'выставление',
     partOfSpeechCode: 'n',
     skyId: '4205'
   },
   {
     targetWord: 'nomination',
-    translation: 'назначение',
+    translating: 'назначение',
     partOfSpeechCode: 'n',
     skyId: '4204'
   },
   {
     targetWord: 'nomination',
-    translation: 'номинация',
+    translating: 'номинация',
     partOfSpeechCode: 'n',
     skyId: '4203'
   },
   {
     targetWord: 'nominative',
-    translation: 'номинативный',
+    translating: 'номинативный',
     partOfSpeechCode: 'j',
     skyId: '227438'
   },
   {
     targetWord: 'nominative',
-    translation: 'существительное в именительном падеже',
+    translating: 'существительное в именительном падеже',
     partOfSpeechCode: 'n',
     skyId: '227436'
   },
   {
     targetWord: 'nominator',
-    translation: 'лицо, предлагающее кандидата',
+    translating: 'лицо, предлагающее кандидата',
     partOfSpeechCode: 'n',
     skyId: '176546'
   },
   {
     targetWord: 'nominee',
-    translation: 'кандидат ',
+    translating: 'кандидат ',
     partOfSpeechCode: 'n',
     skyId: '75429'
   },
   {
     targetWord: 'nomogram',
-    translation: 'номограмма',
+    translating: 'номограмма',
     partOfSpeechCode: 'n',
     skyId: '142612'
   },
   {
     targetWord: 'nomograph',
-    translation: 'номограмма',
+    translating: 'номограмма',
     partOfSpeechCode: 'n',
     skyId: '220583'
   },
   {
     targetWord: 'non',
-    translation: 'не',
+    translating: 'не',
     partOfSpeechCode: 'r',
     skyId: '122516'
   },
   {
     targetWord: 'non emergency',
-    translation: 'неэкстренный случай',
+    translating: 'неэкстренный случай',
     partOfSpeechCode: 'ph',
     skyId: '232392'
   },
   {
     targetWord: 'non profit organization',
-    translation: 'некоммерческая организация',
+    translating: 'некоммерческая организация',
     partOfSpeechCode: 'n',
     skyId: '251551'
   },
   {
     targetWord: 'non sequitur',
-    translation: 'нелогичное заключение',
+    translating: 'нелогичное заключение',
     partOfSpeechCode: 'n',
     skyId: '163371'
   },
   {
     targetWord: 'non sequitur',
-    translation: 'нелогичный ответ',
+    translating: 'нелогичный ответ',
     partOfSpeechCode: 'n',
     skyId: '163370'
   },
   {
     targetWord: 'non-academic',
-    translation: 'неакадемический',
+    translating: 'неакадемический',
     partOfSpeechCode: 'j',
     skyId: '263347'
   },
   {
     targetWord: 'non-address loop control module',
-    translation: 'модуль контроля неадресного шлейфа',
+    translating: 'модуль контроля неадресного шлейфа',
     partOfSpeechCode: 'n',
     skyId: '250408'
   },
   {
     targetWord: 'non-adult',
-    translation: 'несовершеннолетний',
+    translating: 'несовершеннолетний',
     partOfSpeechCode: 'j',
     skyId: '261870'
   },
   {
     targetWord: 'non-alcoholic',
-    translation: 'безалкогольный',
+    translating: 'безалкогольный',
     partOfSpeechCode: 'j',
     skyId: '233347'
   },
   {
     targetWord: 'non-availability',
-    translation: 'отсутствие',
+    translating: 'отсутствие',
     partOfSpeechCode: 'n',
     skyId: '235229'
   },
   {
     targetWord: 'non-binary',
-    translation: 'небинарный',
+    translating: 'небинарный',
     partOfSpeechCode: 'j',
     skyId: '261558'
   },
   {
     targetWord: 'non-carbonated drink',
-    translation: 'негазированный напиток',
+    translating: 'негазированный напиток',
     partOfSpeechCode: 'n',
     skyId: '263006'
   },
   {
     targetWord: 'non-catholic',
-    translation: 'деноминация',
+    translating: 'деноминация',
     partOfSpeechCode: 'n',
     skyId: '81237'
   },
   {
     targetWord: 'non-christian priest',
-    translation: 'не-христианский священник',
+    translating: 'не-христианский священник',
     partOfSpeechCode: 'n',
     skyId: '98893'
   },
@@ -11727,205 +11727,205 @@ export const nArr = [
   },
   {
     targetWord: 'non-combustible gas cylinders storage',
-    translation: 'склад баллонов негорючих газов',
+    translating: 'склад баллонов негорючих газов',
     partOfSpeechCode: 'n',
     skyId: '249605'
   },
   {
     targetWord: 'non-competition clause',
-    translation: 'соглашение об отказе от конкуренции',
+    translating: 'соглашение об отказе от конкуренции',
     partOfSpeechCode: 'n',
     skyId: '258454'
   },
   {
     targetWord: 'non-conformances control',
-    translation: 'управление несоответствиями ',
+    translating: 'управление несоответствиями ',
     partOfSpeechCode: 'n',
     skyId: '247302'
   },
   {
     targetWord: 'non-conformist',
-    translation: 'диссидент',
+    translating: 'диссидент',
     partOfSpeechCode: 'n',
     skyId: '250520'
   },
   {
     targetWord: 'non-departmental guard',
-    translation: 'вневедомственная охрана',
+    translating: 'вневедомственная охрана',
     partOfSpeechCode: 'n',
     skyId: '248892'
   },
   {
     targetWord: 'non-departmental security',
-    translation: 'вневедомственная охрана',
+    translating: 'вневедомственная охрана',
     partOfSpeechCode: 'n',
     skyId: '248891'
   },
   {
     targetWord: 'non-detectable failure',
-    translation: 'необнаруживаемый отказ',
+    translating: 'необнаруживаемый отказ',
     partOfSpeechCode: 'n',
     skyId: '247303'
   },
   {
     targetWord: 'non-discrimination',
-    translation: 'отсутствие дискриминации',
+    translating: 'отсутствие дискриминации',
     partOfSpeechCode: 'n',
     skyId: '1808'
   },
   {
     targetWord: 'non-distracting',
-    translation: 'неотвлекающий',
+    translating: 'неотвлекающий',
     partOfSpeechCode: 'j',
     skyId: '251918'
   },
   {
     targetWord: 'non-electrical signal',
-    translation: 'неэлектрический сигнал',
+    translating: 'неэлектрический сигнал',
     partOfSpeechCode: 'n',
     skyId: '250274'
   },
   {
     targetWord: 'non-engagement',
-    translation: 'неучастие',
+    translating: 'неучастие',
     partOfSpeechCode: 'n',
     skyId: '151449'
   },
   {
     targetWord: 'non-enthusiast',
-    translation: 'не любитель',
+    translating: 'не любитель',
     partOfSpeechCode: 'ph',
     skyId: '231268'
   },
   {
     targetWord: 'non-essential loads cooling water system',
-    translation: 'система охлаждающей воды неответственных потребителей',
+    translating: 'система охлаждающей воды неответственных потребителей',
     partOfSpeechCode: 'n',
     skyId: '249599'
   },
   {
     targetWord: 'non-euclidean geometry',
-    translation: 'неевклидова геометрия',
+    translating: 'неевклидова геометрия',
     partOfSpeechCode: 'n',
     skyId: '183985'
   },
   {
     targetWord: 'non-existent',
-    translation: 'несуществующий',
+    translating: 'несуществующий',
     partOfSpeechCode: 'j',
     skyId: '240148'
   },
   {
     targetWord: 'non-ferrous',
-    translation: 'цветной',
+    translating: 'цветной',
     partOfSpeechCode: 'j',
     skyId: '260926'
   },
   {
     targetWord: 'non-ferrous metal',
-    translation: 'цветной металл',
+    translating: 'цветной металл',
     partOfSpeechCode: 'n',
     skyId: '248315'
   },
   {
     targetWord: 'non-ferrous metallurgy',
-    translation: 'цветная металлургия',
+    translating: 'цветная металлургия',
     partOfSpeechCode: 'n',
     skyId: '261052'
   },
   {
     targetWord: 'non-ferrous rolled product',
-    translation: 'прокат цветных металлов',
+    translating: 'прокат цветных металлов',
     partOfSpeechCode: 'n',
     skyId: '260873'
   },
   {
     targetWord: 'non-fiction',
-    translation: 'публицистика',
+    translating: 'публицистика',
     partOfSpeechCode: 'n',
     skyId: '233662'
   },
   {
     targetWord: 'non-fiction',
-    translation: 'документальная литература',
+    translating: 'документальная литература',
     partOfSpeechCode: 'ph',
     skyId: '230132'
   },
   {
     targetWord: 'non-fictional',
-    translation: 'невымышленный',
+    translating: 'невымышленный',
     partOfSpeechCode: 'j',
     skyId: '249514'
   },
   {
     targetWord: 'non-financial portion',
-    translation: 'неaккредитованная часть стоимости проекта',
+    translating: 'неaккредитованная часть стоимости проекта',
     partOfSpeechCode: 'n',
     skyId: '245535'
   },
   {
     targetWord: 'non-finite',
-    translation: 'бесконечный',
+    translating: 'бесконечный',
     partOfSpeechCode: 'j',
     skyId: '133198'
   },
   {
     targetWord: 'non-flammable',
-    translation: 'негорючий',
+    translating: 'негорючий',
     partOfSpeechCode: 'j',
     skyId: '261289'
   },
   {
     targetWord: 'non-identical',
-    translation: 'разнояйцевые близнецы',
+    translating: 'разнояйцевые близнецы',
     partOfSpeechCode: 'ph',
     skyId: '230331'
   },
   {
     targetWord: 'non-informative prior distribution',
-    translation: 'неинформативное априорное распределение',
+    translating: 'неинформативное априорное распределение',
     partOfSpeechCode: 'n',
     skyId: '247218'
   },
   {
     targetWord: 'non-insulated copper wire',
-    translation: 'неизолированная медная проволока',
+    translating: 'неизолированная медная проволока',
     partOfSpeechCode: 'n',
     skyId: '260864'
   },
   {
     targetWord: 'non-invasive',
-    translation: 'бесконтактный',
+    translating: 'бесконтактный',
     partOfSpeechCode: 'j',
     skyId: '251108'
   },
   {
     targetWord: 'non-involvement',
-    translation: 'неучастие',
+    translating: 'неучастие',
     partOfSpeechCode: 'n',
     skyId: '73127'
   },
   {
     targetWord: 'non-issue',
-    translation: 'не актуальный более вопрос',
+    translating: 'не актуальный более вопрос',
     partOfSpeechCode: 'n',
     skyId: '59938'
   },
   {
     targetWord: 'non-job',
-    translation: 'бесцельная работа',
+    translating: 'бесцельная работа',
     partOfSpeechCode: 'n',
     skyId: '246900'
   },
   {
     targetWord: 'non-judgmental',
-    translation: 'непредвзятый',
+    translating: 'непредвзятый',
     partOfSpeechCode: 'j',
     skyId: '252311'
   },
   {
     targetWord: 'non-living',
-    translation: 'неживой',
+    translating: 'неживой',
     partOfSpeechCode: 'j',
     skyId: '40989'
   },
@@ -11938,1549 +11938,1549 @@ export const nArr = [
   },
   {
     targetWord: 'non-native speaker',
-    translation: 'не носитель языка',
+    translating: 'не носитель языка',
     partOfSpeechCode: 'n',
     skyId: '246179'
   },
   {
     targetWord: 'non-negotiable',
-    translation: 'необоротный',
+    translating: 'необоротный',
     partOfSpeechCode: 'j',
     skyId: '88869'
   },
   {
     targetWord: 'non-patronizing',
-    translation: 'без снисходительности',
+    translating: 'без снисходительности',
     partOfSpeechCode: 'j',
     skyId: '241271'
   },
   {
     targetWord: 'non-paying',
-    translation: 'неплатящий',
+    translating: 'неплатящий',
     partOfSpeechCode: 'j',
     skyId: '114875'
   },
   {
     targetWord: 'non-porous',
-    translation: 'плотный',
+    translating: 'плотный',
     partOfSpeechCode: 'j',
     skyId: '261037'
   },
   {
     targetWord: 'non-profit',
-    translation: 'некоммерческий',
+    translating: 'некоммерческий',
     partOfSpeechCode: 'j',
     skyId: '245045'
   },
   {
     targetWord: 'non-profit organization',
-    translation: 'некоммерческая организация',
+    translating: 'некоммерческая организация',
     partOfSpeechCode: 'n',
     skyId: '248364'
   },
   {
     targetWord: 'non-profit sector',
-    translation: 'некоммерческий сектор',
+    translating: 'некоммерческий сектор',
     partOfSpeechCode: 'n',
     skyId: '260001'
   },
   {
     targetWord: 'non-profit-making',
-    translation: 'некоммерческий',
+    translating: 'некоммерческий',
     partOfSpeechCode: 'j',
     skyId: '99922'
   },
   {
     targetWord: 'non-refundable',
-    translation: 'не подлежащий возврату',
+    translating: 'не подлежащий возврату',
     partOfSpeechCode: 'j',
     skyId: '256226'
   },
   {
     targetWord: 'non-refundable ticket',
-    translation: 'билет, не подлежащий возврату',
+    translating: 'билет, не подлежащий возврату',
     partOfSpeechCode: 'ph',
     skyId: '265717'
   },
   {
     targetWord: 'non-scientific',
-    translation: 'ненаучный',
+    translating: 'ненаучный',
     partOfSpeechCode: 'j',
     skyId: '235703'
   },
   {
     targetWord: 'non-smoker',
-    translation: 'некурящий',
+    translating: 'некурящий',
     partOfSpeechCode: 'n',
     skyId: '235843'
   },
   {
     targetWord: 'non-smoking',
-    translation: 'для некурящих',
+    translating: 'для некурящих',
     partOfSpeechCode: 'j',
     skyId: '238675'
   },
   {
     targetWord: 'non-smoking',
-    translation: 'курение запрещено',
+    translating: 'курение запрещено',
     partOfSpeechCode: 'ph',
     skyId: '235131'
   },
   {
     targetWord: 'non-standard speech',
-    translation: 'нестандартная речь',
+    translating: 'нестандартная речь',
     partOfSpeechCode: 'n',
     skyId: '222808'
   },
   {
     targetWord: 'non-stationary signal',
-    translation: 'нестационарный сигнал',
+    translating: 'нестационарный сигнал',
     partOfSpeechCode: 'n',
     skyId: '247217'
   },
   {
     targetWord: 'non-stop',
-    translation: 'без перерыва',
+    translating: 'без перерыва',
     partOfSpeechCode: 'j',
     skyId: '235077'
   },
   {
     targetWord: 'non-stop flight',
-    translation: 'прямой рейс',
+    translating: 'прямой рейс',
     partOfSpeechCode: 'ph',
     skyId: '239162'
   },
   {
     targetWord: 'non-verbally',
-    translation: 'невербально',
+    translating: 'невербально',
     partOfSpeechCode: 'r',
     skyId: '80462'
   },
   {
     targetWord: 'nonaddictive',
-    translation: 'невызывающий привычку',
+    translating: 'невызывающий привычку',
     partOfSpeechCode: 'j',
     skyId: '223256'
   },
   {
     targetWord: 'nonage',
-    translation: 'несовершеннолетие',
+    translating: 'несовершеннолетие',
     partOfSpeechCode: 'n',
     skyId: '64984'
   },
   {
     targetWord: 'nonaged',
-    translation: 'малолетний',
+    translating: 'малолетний',
     partOfSpeechCode: 'j',
     skyId: '110525'
   },
   {
     targetWord: 'nonagenarian',
-    translation: 'человек в возрасте от 90 до 99 лет',
+    translating: 'человек в возрасте от 90 до 99 лет',
     partOfSpeechCode: 'j',
     skyId: '157374'
   },
   {
     targetWord: 'nonagenarian',
-    translation: 'человек в возрасте от 90 до 99 лет',
+    translating: 'человек в возрасте от 90 до 99 лет',
     partOfSpeechCode: 'n',
     skyId: '157374'
   },
   {
     targetWord: 'nonaggression',
-    translation: 'ненападении',
+    translating: 'ненападении',
     partOfSpeechCode: 'n',
     skyId: '137762'
   },
   {
     targetWord: 'nonagon',
-    translation: 'девятиугольник',
+    translating: 'девятиугольник',
     partOfSpeechCode: 'n',
     skyId: '85446'
   },
   {
     targetWord: 'nonalcoholic',
-    translation: 'безалкогольный',
+    translating: 'безалкогольный',
     partOfSpeechCode: 'j',
     skyId: '68771'
   },
   {
     targetWord: 'nonalinement',
-    translation: 'неприсоединение',
+    translating: 'неприсоединение',
     partOfSpeechCode: 'n',
     skyId: '35668'
   },
   {
     targetWord: 'nonassertive',
-    translation: 'nonassertive',
+    translating: 'nonassertive',
     partOfSpeechCode: 'j',
     skyId: '159475'
   },
   {
     targetWord: 'nonbearing',
-    translation: 'nonbearing',
+    translating: 'nonbearing',
     partOfSpeechCode: 'j',
     skyId: '113372'
   },
   {
     targetWord: 'nonbelligerent',
-    translation: 'nonbelligerent',
+    translating: 'nonbelligerent',
     partOfSpeechCode: 'j',
     skyId: '85490'
   },
   {
     targetWord: 'noncaloric',
-    translation: 'некалорийный',
+    translating: 'некалорийный',
     partOfSpeechCode: 'j',
     skyId: '155258'
   },
   {
     targetWord: 'nonce',
-    translation: 'данный случай',
+    translating: 'данный случай',
     partOfSpeechCode: 'n',
     skyId: '72940'
   },
   {
     targetWord: 'nonchalance',
-    translation: 'беззаботность',
+    translating: 'беззаботность',
     partOfSpeechCode: 'n',
     skyId: '167874'
   },
   {
     targetWord: 'nonchalant',
-    translation: 'беззаботный',
+    translating: 'беззаботный',
     partOfSpeechCode: 'j',
     skyId: '16622'
   },
   {
     targetWord: 'nonchalantly',
-    translation: 'беззаботно',
+    translating: 'беззаботно',
     partOfSpeechCode: 'r',
     skyId: '224541'
   },
   {
     targetWord: 'nonchalantly',
-    translation: 'небрежно',
+    translating: 'небрежно',
     partOfSpeechCode: 'r',
     skyId: '224540'
   },
   {
     targetWord: 'noncitizen',
-    translation: 'негражданин',
+    translating: 'негражданин',
     partOfSpeechCode: 'n',
     skyId: '111400'
   },
   {
     targetWord: 'nonclassical',
-    translation: 'неклассический',
+    translating: 'неклассический',
     partOfSpeechCode: 'j',
     skyId: '147281'
   },
   {
     targetWord: 'noncom',
-    translation: 'унтер-офицер',
+    translating: 'унтер-офицер',
     partOfSpeechCode: 'n',
     skyId: '61912'
   },
   {
     targetWord: 'noncombatant',
-    translation: 'нестроевой военнослужащий',
+    translating: 'нестроевой военнослужащий',
     partOfSpeechCode: 'n',
     skyId: '186846'
   },
   {
     targetWord: 'noncommercial',
-    translation: 'некоммерческий',
+    translating: 'некоммерческий',
     partOfSpeechCode: 'j',
     skyId: '65163'
   },
   {
     targetWord: 'noncommissioned',
-    translation: 'не произведенный в звание ',
+    translating: 'не произведенный в звание ',
     partOfSpeechCode: 'j',
     skyId: '75070'
   },
   {
     targetWord: 'noncommittal',
-    translation: 'неопределённый',
+    translating: 'неопределённый',
     partOfSpeechCode: 'j',
     skyId: '104701'
   },
   {
     targetWord: 'noncompetitive',
-    translation: 'неконкурентоспособный',
+    translating: 'неконкурентоспособный',
     partOfSpeechCode: 'j',
     skyId: '114273'
   },
   {
     targetWord: 'noncompetitively',
-    translation: 'неконкуррентно',
+    translating: 'неконкуррентно',
     partOfSpeechCode: 'r',
     skyId: '45958'
   },
   {
     targetWord: 'noncompliance',
-    translation: 'непослушание',
+    translating: 'непослушание',
     partOfSpeechCode: 'n',
     skyId: '135025'
   },
   {
     targetWord: 'nonconcentric',
-    translation: 'неконцентрическими',
+    translating: 'неконцентрическими',
     partOfSpeechCode: 'j',
     skyId: '178797'
   },
   {
     targetWord: 'noncondensable gas',
-    translation: 'неконденсирующийся пар',
+    translating: 'неконденсирующийся пар',
     partOfSpeechCode: 'n',
     skyId: '257811'
   },
   {
     targetWord: 'nonconductor',
-    translation: 'диэлектрик',
+    translating: 'диэлектрик',
     partOfSpeechCode: 'n',
     skyId: '86547'
   },
   {
     targetWord: 'nonconformance',
-    translation: 'несоответствие',
+    translating: 'несоответствие',
     partOfSpeechCode: 'n',
     skyId: '175708'
   },
   {
     targetWord: 'nonconformance',
-    translation: 'нонконформизм',
+    translating: 'нонконформизм',
     partOfSpeechCode: 'n',
     skyId: '175707'
   },
   {
     targetWord: 'nonconformism',
-    translation: 'нонконформизм',
+    translating: 'нонконформизм',
     partOfSpeechCode: 'n',
     skyId: '121328'
   },
   {
     targetWord: 'nonconformist',
-    translation: 'диссидентский',
+    translating: 'диссидентский',
     partOfSpeechCode: 'j',
     skyId: '121325'
   },
   {
     targetWord: 'nonconformist',
-    translation: 'нонконформистский',
+    translating: 'нонконформистский',
     partOfSpeechCode: 'j',
     skyId: '121324'
   },
   {
     targetWord: 'nonconformist',
-    translation: 'нонконформист',
+    translating: 'нонконформист',
     partOfSpeechCode: 'n',
     skyId: '121323'
   },
   {
     targetWord: 'nonconformist',
-    translation: 'инакомыслящий',
+    translating: 'инакомыслящий',
     partOfSpeechCode: 'n',
     skyId: '121322'
   },
   {
     targetWord: 'nonconformity',
-    translation: 'несоответствие',
+    translating: 'несоответствие',
     partOfSpeechCode: 'n',
     skyId: '21174'
   },
   {
     targetWord: 'nonconformity',
-    translation: 'инакомыслие',
+    translating: 'инакомыслие',
     partOfSpeechCode: 'n',
     skyId: '21176'
   },
   {
     targetWord: 'nonconformity',
-    translation: 'неконформность',
+    translating: 'неконформность',
     partOfSpeechCode: 'n',
     skyId: '21175'
   },
   {
     targetWord: 'nonconscious',
-    translation: 'безсознательный',
+    translating: 'безсознательный',
     partOfSpeechCode: 'j',
     skyId: '141379'
   },
   {
     targetWord: 'noncurrent',
-    translation: 'внеоборотный',
+    translating: 'внеоборотный',
     partOfSpeechCode: 'j',
     skyId: '62621'
   },
   {
     targetWord: 'nondenominational',
-    translation: 'неконфессиональный',
+    translating: 'неконфессиональный',
     partOfSpeechCode: 'j',
     skyId: '55771'
   },
   {
     targetWord: 'nondescript',
-    translation: 'непримечательный',
+    translating: 'непримечательный',
     partOfSpeechCode: 'j',
     skyId: '91994'
   },
   {
     targetWord: 'nondescript',
-    translation: 'невзрачный человек',
+    translating: 'невзрачный человек',
     partOfSpeechCode: 'n',
     skyId: '91993'
   },
   {
     targetWord: 'nondestructive testing',
-    translation: 'неразрушающий контроль',
+    translating: 'неразрушающий контроль',
     partOfSpeechCode: 'n',
     skyId: '250707'
   },
   {
     targetWord: 'nondisclosure',
-    translation: 'неоглашение',
+    translating: 'неоглашение',
     partOfSpeechCode: 'n',
     skyId: '262099'
   },
   {
     targetWord: 'nondrinker',
-    translation: 'воздержанный',
+    translating: 'воздержанный',
     partOfSpeechCode: 'n',
     skyId: '182612'
   },
   {
     targetWord: 'none',
-    translation: 'ни один ',
+    translating: 'ни один ',
     partOfSpeechCode: 'j',
     skyId: '46771'
   },
   {
     targetWord: 'none',
-    translation: 'католическая служба',
+    translating: 'католическая служба',
     partOfSpeechCode: 'n',
     skyId: '46770'
   },
   {
     targetWord: 'none',
-    translation: 'нисколько',
+    translating: 'нисколько',
     partOfSpeechCode: 'r',
     skyId: '46772'
   },
   {
     targetWord: 'none but the brave deserve the fair',
-    translation: 'только смелые достойны красавиц',
+    translating: 'только смелые достойны красавиц',
     partOfSpeechCode: 'ph',
     skyId: '244130'
   },
   {
     targetWord: 'none of',
-    translation: 'ни один из',
+    translating: 'ни один из',
     partOfSpeechCode: 'prn',
     skyId: '236006'
   },
   {
     targetWord: 'none of your business',
-    translation: 'не твоё дело',
+    translating: 'не твоё дело',
     partOfSpeechCode: 'phi',
     skyId: '258752'
   },
   {
     targetWord: 'noneffervescent',
-    translation: 'noneffervescent',
+    translating: 'noneffervescent',
     partOfSpeechCode: 'j',
     skyId: '10927'
   },
   {
     targetWord: 'nonelective',
-    translation: 'неизбирательный',
+    translating: 'неизбирательный',
     partOfSpeechCode: 'j',
     skyId: '31088'
   },
   {
     targetWord: 'nonentity',
-    translation: 'пустое место',
+    translating: 'пустое место',
     partOfSpeechCode: 'n',
     skyId: '264750'
   },
   {
     targetWord: 'nonentity',
-    translation: 'ничтожество',
+    translating: 'ничтожество',
     partOfSpeechCode: 'n',
     skyId: '17401'
   },
   {
     targetWord: 'nonentity',
-    translation: 'небытие',
+    translating: 'небытие',
     partOfSpeechCode: 'n',
     skyId: '17400'
   },
   {
     targetWord: 'nonenzymatic',
-    translation: 'неферментативного',
+    translating: 'неферментативного',
     partOfSpeechCode: 'j',
     skyId: '180116'
   },
   {
     targetWord: 'nonequivalent',
-    translation: 'неравносильный',
+    translating: 'неравносильный',
     partOfSpeechCode: 'j',
     skyId: '40899'
   },
   {
     targetWord: 'nones',
-    translation: 'ноны',
+    translating: 'ноны',
     partOfSpeechCode: 'n',
     skyId: '62590'
   },
   {
     targetWord: 'nonessential',
-    translation: 'несущественный',
+    translating: 'несущественный',
     partOfSpeechCode: 'j',
     skyId: '115032'
   },
   {
     targetWord: 'nonessential',
-    translation: 'несущественный',
+    translating: 'несущественный',
     partOfSpeechCode: 'n',
     skyId: '115032'
   },
   {
     targetWord: 'nonesuch',
-    translation: 'верх совершенства',
+    translating: 'верх совершенства',
     partOfSpeechCode: 'n',
     skyId: '126532'
   },
   {
     targetWord: 'nonetheless',
-    translation: 'тем не менее',
+    translating: 'тем не менее',
     partOfSpeechCode: 'r',
     skyId: '240163'
   },
   {
     targetWord: 'nonetheless',
-    translation: 'тем не менее',
+    translating: 'тем не менее',
     partOfSpeechCode: 'cjc',
     skyId: '240163'
   },
   {
     targetWord: 'nonetheless',
-    translation: 'однако',
+    translating: 'однако',
     partOfSpeechCode: 'r',
     skyId: '7239'
   },
   {
     targetWord: 'nonexempt',
-    translation: 'облагаемый налогом',
+    translating: 'облагаемый налогом',
     partOfSpeechCode: 'j',
     skyId: '37854'
   },
   {
     targetWord: 'nonexistence',
-    translation: 'небытие',
+    translating: 'небытие',
     partOfSpeechCode: 'n',
     skyId: '50591'
   },
   {
     targetWord: 'nonexistent',
-    translation: 'несуществующий',
+    translating: 'несуществующий',
     partOfSpeechCode: 'j',
     skyId: '48409'
   },
   {
     targetWord: 'nonexplosive',
-    translation: 'невзрывающийся',
+    translating: 'невзрывающийся',
     partOfSpeechCode: 'j',
     skyId: '218454'
   },
   {
     targetWord: 'nonextant',
-    translation: 'не nonextant',
+    translating: 'не nonextant',
     partOfSpeechCode: 'j',
     skyId: '48111'
   },
   {
     targetWord: 'nonextant',
-    translation: 'вымерший',
+    translating: 'вымерший',
     partOfSpeechCode: 'j',
     skyId: '48110'
   },
   {
     targetWord: 'nonfat',
-    translation: 'обезжиренный',
+    translating: 'обезжиренный',
     partOfSpeechCode: 'j',
     skyId: '164416'
   },
   {
     targetWord: 'nonfatal',
-    translation: 'нефатальный',
+    translating: 'нефатальный',
     partOfSpeechCode: 'j',
     skyId: '42074'
   },
   {
     targetWord: 'nonfiction',
-    translation: 'документальная литература',
+    translating: 'документальная литература',
     partOfSpeechCode: 'n',
     skyId: '186822'
   },
   {
     targetWord: 'nonfictional',
-    translation: 'невыдуманный',
+    translating: 'невыдуманный',
     partOfSpeechCode: 'j',
     skyId: '36139'
   },
   {
     targetWord: 'nonflammable',
-    translation: 'негорючий',
+    translating: 'негорючий',
     partOfSpeechCode: 'j',
     skyId: '29803'
   },
   {
     targetWord: 'nonfunctional',
-    translation: 'нефункциональный',
+    translating: 'нефункциональный',
     partOfSpeechCode: 'j',
     skyId: '70557'
   },
   {
     targetWord: 'nonglutinous',
-    translation: 'неклейкий',
+    translating: 'неклейкий',
     partOfSpeechCode: 'j',
     skyId: '169774'
   },
   {
     targetWord: 'nongovernmental organization',
-    translation: 'неправительственная организация',
+    translating: 'неправительственная организация',
     partOfSpeechCode: 'n',
     skyId: '2407'
   },
   {
     targetWord: 'nongranular',
-    translation: 'негранулированных',
+    translating: 'негранулированных',
     partOfSpeechCode: 'j',
     skyId: '176468'
   },
   {
     targetWord: 'nonhairy',
-    translation: 'nonhairy',
+    translating: 'nonhairy',
     partOfSpeechCode: 'j',
     skyId: '92784'
   },
   {
     targetWord: 'nonharmonic',
-    translation: 'негармоническим',
+    translating: 'негармоническим',
     partOfSpeechCode: 'j',
     skyId: '173783'
   },
   {
     targetWord: 'nonhuman',
-    translation: 'нечеловеческий',
+    translating: 'нечеловеческий',
     partOfSpeechCode: 'j',
     skyId: '190658'
   },
   {
     targetWord: 'nonindulgence',
-    translation: 'аскетизм',
+    translating: 'аскетизм',
     partOfSpeechCode: 'n',
     skyId: '167766'
   },
   {
     targetWord: 'nonindustrial',
-    translation: 'непромышленный',
+    translating: 'непромышленный',
     partOfSpeechCode: 'j',
     skyId: '160110'
   },
   {
     targetWord: 'noninterchangeable',
-    translation: 'noninterchangeable',
+    translating: 'noninterchangeable',
     partOfSpeechCode: 'j',
     skyId: '180722'
   },
   {
     targetWord: 'noninvasive',
-    translation: 'неинвазивный',
+    translating: 'неинвазивный',
     partOfSpeechCode: 'j',
     skyId: '25268'
   },
   {
     targetWord: 'nonionic',
-    translation: 'неионные',
+    translating: 'неионные',
     partOfSpeechCode: 'j',
     skyId: '196372'
   },
   {
     targetWord: 'nonjudgmental',
-    translation: 'неосуждающий',
+    translating: 'неосуждающий',
     partOfSpeechCode: 'j',
     skyId: '74087'
   },
   {
     targetWord: 'nonlethal',
-    translation: 'несмертельный',
+    translating: 'несмертельный',
     partOfSpeechCode: 'j',
     skyId: '59613'
   },
   {
     targetWord: 'nonlexical',
-    translation: 'нелексический',
+    translating: 'нелексический',
     partOfSpeechCode: 'j',
     skyId: '22512'
   },
   {
     targetWord: 'nonlexically',
-    translation: 'nonlexically',
+    translating: 'nonlexically',
     partOfSpeechCode: 'r',
     skyId: '175314'
   },
   {
     targetWord: 'nonlinear',
-    translation: 'нелинейный',
+    translating: 'нелинейный',
     partOfSpeechCode: 'j',
     skyId: '53661'
   },
   {
     targetWord: 'nonlinguistic',
-    translation: 'неязыковой',
+    translating: 'неязыковой',
     partOfSpeechCode: 'j',
     skyId: '130406'
   },
   {
     targetWord: 'nonliteral',
-    translation: 'метафорический',
+    translating: 'метафорический',
     partOfSpeechCode: 'j',
     skyId: '52093'
   },
   {
     targetWord: 'nonliterary',
-    translation: 'нелитературный',
+    translating: 'нелитературный',
     partOfSpeechCode: 'j',
     skyId: '62507'
   },
   {
     targetWord: 'nonliving',
-    translation: 'неживой',
+    translating: 'неживой',
     partOfSpeechCode: 'j',
     skyId: '7878'
   },
   {
     targetWord: 'nonmalignant tumor',
-    translation: 'доброкачественная опухоль',
+    translating: 'доброкачественная опухоль',
     partOfSpeechCode: 'n',
     skyId: '100096'
   },
   {
     targetWord: 'nonmaterial',
-    translation: 'бестелесный',
+    translating: 'бестелесный',
     partOfSpeechCode: 'j',
     skyId: '89631'
   },
   {
     targetWord: 'nonmeaningful',
-    translation: 'не имеющий значения',
+    translating: 'не имеющий значения',
     partOfSpeechCode: 'j',
     skyId: '167343'
   },
   {
     targetWord: 'nonmedicinal',
-    translation: 'безлекарственными',
+    translating: 'безлекарственными',
     partOfSpeechCode: 'j',
     skyId: '10916'
   },
   {
     targetWord: 'nonmember',
-    translation: 'человек, не являющийся членом организации',
+    translating: 'человек, не являющийся членом организации',
     partOfSpeechCode: 'n',
     skyId: '58283'
   },
   {
     targetWord: 'nonmetallic',
-    translation: 'неметалл',
+    translating: 'неметалл',
     partOfSpeechCode: 'n',
     skyId: '247295'
   },
   {
     targetWord: 'nonmetallic',
-    translation: 'неметаллический',
+    translating: 'неметаллический',
     partOfSpeechCode: 'j',
     skyId: '176909'
   },
   {
     targetWord: 'nonmilitary',
-    translation: 'невоенный',
+    translating: 'невоенный',
     partOfSpeechCode: 'j',
     skyId: '24912'
   },
   {
     targetWord: 'nonmusical',
-    translation: 'немузыкальный',
+    translating: 'немузыкальный',
     partOfSpeechCode: 'j',
     skyId: '134264'
   },
   {
     targetWord: 'nonnative',
-    translation: 'неродной',
+    translating: 'неродной',
     partOfSpeechCode: 'j',
     skyId: '227236'
   },
   {
     targetWord: 'nonobjective',
-    translation: 'необъективный',
+    translating: 'необъективный',
     partOfSpeechCode: 'j',
     skyId: '40866'
   },
   {
     targetWord: 'nonobservance',
-    translation: 'несоблюдение',
+    translating: 'несоблюдение',
     partOfSpeechCode: 'n',
     skyId: '161823'
   },
   {
     targetWord: 'nonoccurrence',
-    translation: 'отсутствие',
+    translating: 'отсутствие',
     partOfSpeechCode: 'n',
     skyId: '80623'
   },
   {
     targetWord: 'nonpareil',
-    translation: 'несравненный',
+    translating: 'несравненный',
     partOfSpeechCode: 'j',
     skyId: '38843'
   },
   {
     targetWord: 'nonpareil',
-    translation: 'кондитерская посыпка',
+    translating: 'кондитерская посыпка',
     partOfSpeechCode: 'n',
     skyId: '38841'
   },
   {
     targetWord: 'nonpareil',
-    translation: 'нонпарель',
+    translating: 'нонпарель',
     partOfSpeechCode: 'n',
     skyId: '38842'
   },
   {
     targetWord: 'nonpartisan',
-    translation: 'беспартийный',
+    translating: 'беспартийный',
     partOfSpeechCode: 'j',
     skyId: '50748'
   },
   {
     targetWord: 'nonpartisanship',
-    translation: 'беспристрастность',
+    translating: 'беспристрастность',
     partOfSpeechCode: 'n',
     skyId: '136122'
   },
   {
     targetWord: 'nonpartizan',
-    translation: 'объективный',
+    translating: 'объективный',
     partOfSpeechCode: 'j',
     skyId: '26923'
   },
   {
     targetWord: 'nonpartizan',
-    translation: 'беспартийный',
+    translating: 'беспартийный',
     partOfSpeechCode: 'n',
     skyId: '26922'
   },
   {
     targetWord: 'nonpasserine bird',
-    translation: 'птицы',
+    translating: 'птицы',
     partOfSpeechCode: 'n',
     skyId: '106308'
   },
   {
     targetWord: 'nonpayment',
-    translation: 'невыплата',
+    translating: 'невыплата',
     partOfSpeechCode: 'n',
     skyId: '122464'
   },
   {
     targetWord: 'nonperson',
-    translation: 'не-личность',
+    translating: 'не-личность',
     partOfSpeechCode: 'n',
     skyId: '33304'
   },
   {
     targetWord: 'nonpersonal',
-    translation: 'неличностным',
+    translating: 'неличностным',
     partOfSpeechCode: 'j',
     skyId: '164607'
   },
   {
     targetWord: 'nonplus',
-    translation: 'поставить в тупик',
+    translating: 'поставить в тупик',
     partOfSpeechCode: 'v',
     skyId: '168575'
   },
   {
     targetWord: 'nonplussed',
-    translation: 'ошеломлённый',
+    translating: 'ошеломлённый',
     partOfSpeechCode: 'j',
     skyId: '168576'
   },
   {
     targetWord: 'nonporous',
-    translation: 'непористый',
+    translating: 'непористый',
     partOfSpeechCode: 'j',
     skyId: '178485'
   },
   {
     targetWord: 'nonprescription',
-    translation: 'без рецепта',
+    translating: 'без рецепта',
     partOfSpeechCode: 'j',
     skyId: '60423'
   },
   {
     targetWord: 'nonproductive',
-    translation: 'непродуктивный',
+    translating: 'непродуктивный',
     partOfSpeechCode: 'j',
     skyId: '82182'
   },
   {
     targetWord: 'nonprofessional',
-    translation: 'непрофессиональный',
+    translating: 'непрофессиональный',
     partOfSpeechCode: 'j',
     skyId: '101986'
   },
   {
     targetWord: 'nonprofit',
-    translation: 'некоммерческий',
+    translating: 'некоммерческий',
     partOfSpeechCode: 'j',
     skyId: '57287'
   },
   {
     targetWord: 'nonprofit',
-    translation: 'некоммерческая организация',
+    translating: 'некоммерческая организация',
     partOfSpeechCode: 'n',
     skyId: '57286'
   },
   {
     targetWord: 'nonprofit organization',
-    translation: 'некоммерческая организация',
+    translating: 'некоммерческая организация',
     partOfSpeechCode: 'n',
     skyId: '15927'
   },
   {
     targetWord: 'nonproliferation',
-    translation: 'нераспространение',
+    translating: 'нераспространение',
     partOfSpeechCode: 'n',
     skyId: '114858'
   },
   {
     targetWord: 'nonproprietary',
-    translation: 'непатентованное',
+    translating: 'непатентованное',
     partOfSpeechCode: 'j',
     skyId: '186328'
   },
   {
     targetWord: 'nonpsychoactive',
-    translation: 'nonpsychoactive',
+    translating: 'nonpsychoactive',
     partOfSpeechCode: 'j',
     skyId: '19167'
   },
   {
     targetWord: 'nonracial',
-    translation: 'nonracial',
+    translating: 'nonracial',
     partOfSpeechCode: 'j',
     skyId: '140907'
   },
   {
     targetWord: 'nonrational',
-    translation: 'нерациональный',
+    translating: 'нерациональный',
     partOfSpeechCode: 'j',
     skyId: '38197'
   },
   {
     targetWord: 'nonreader',
-    translation: 'неграмотный',
+    translating: 'неграмотный',
     partOfSpeechCode: 'n',
     skyId: '202033'
   },
   {
     targetWord: 'nonremittal',
-    translation: 'дефолт',
+    translating: 'дефолт',
     partOfSpeechCode: 'n',
     skyId: '10511'
   },
   {
     targetWord: 'nonremittal',
-    translation: 'nonremittal',
+    translating: 'nonremittal',
     partOfSpeechCode: 'n',
     skyId: '10512'
   },
   {
     targetWord: 'nonrenewable',
-    translation: 'невозобновляемый',
+    translating: 'невозобновляемый',
     partOfSpeechCode: 'j',
     skyId: '128314'
   },
   {
     targetWord: 'nonrepetitive',
-    translation: 'бесповторными',
+    translating: 'бесповторными',
     partOfSpeechCode: 'j',
     skyId: '23726'
   },
   {
     targetWord: 'nonresident',
-    translation: 'нерезидент',
+    translating: 'нерезидент',
     partOfSpeechCode: 'j',
     skyId: '50052'
   },
   {
     targetWord: 'nonresident',
-    translation: 'нерезидент',
+    translating: 'нерезидент',
     partOfSpeechCode: 'n',
     skyId: '50052'
   },
   {
     targetWord: 'nonresidential',
-    translation: 'нежилой',
+    translating: 'нежилой',
     partOfSpeechCode: 'j',
     skyId: '73975'
   },
   {
     targetWord: 'nonresistant',
-    translation: 'неустойчивый',
+    translating: 'неустойчивый',
     partOfSpeechCode: 'j',
     skyId: '50248'
   },
   {
     targetWord: 'nonrestrictive clause',
-    translation: 'нерестриктивное определительное придаточное предложение',
+    translating: 'нерестриктивное определительное придаточное предложение',
     partOfSpeechCode: 'j',
     skyId: '98506'
   },
   {
     targetWord: 'nonsalient-pole synchronous generator',
-    translation: 'неявнополюсный синхронный генератор',
+    translating: 'неявнополюсный синхронный генератор',
     partOfSpeechCode: 'n',
     skyId: '248483'
   },
   {
     targetWord: 'nonsectarian',
-    translation: 'все религии',
+    translating: 'все религии',
     partOfSpeechCode: 'j',
     skyId: '183472'
   },
   {
     targetWord: 'nonsense',
-    translation: 'бессмысленный',
+    translating: 'бессмысленный',
     partOfSpeechCode: 'j',
     skyId: '186816'
   },
   {
     targetWord: 'nonsense',
-    translation: 'мишура',
+    translating: 'мишура',
     partOfSpeechCode: 'n',
     skyId: '186815'
   },
   {
     targetWord: 'nonsense',
-    translation: 'абсурд',
+    translating: 'абсурд',
     partOfSpeechCode: 'n',
     skyId: '186814'
   },
   {
     targetWord: 'nonsensical',
-    translation: 'бессмысленный',
+    translating: 'бессмысленный',
     partOfSpeechCode: 'j',
     skyId: '113506'
   },
   {
     targetWord: 'nonsensicality',
-    translation: 'бессмысленность',
+    translating: 'бессмысленность',
     partOfSpeechCode: 'n',
     skyId: '50096'
   },
   {
     targetWord: 'nonsensitive',
-    translation: 'нечувствительный',
+    translating: 'нечувствительный',
     partOfSpeechCode: 'j',
     skyId: '151341'
   },
   {
     targetWord: 'nonsignificant',
-    translation: 'незначительный',
+    translating: 'незначительный',
     partOfSpeechCode: 'j',
     skyId: '108823'
   },
   {
     targetWord: 'nonskid',
-    translation: 'нескользящий',
+    translating: 'нескользящий',
     partOfSpeechCode: 'j',
     skyId: '82768'
   },
   {
     targetWord: 'nonslip',
-    translation: 'нескользящий',
+    translating: 'нескользящий',
     partOfSpeechCode: 'j',
     skyId: '131838'
   },
   {
     targetWord: 'nonsmoker',
-    translation: 'вагон для некурящих',
+    translating: 'вагон для некурящих',
     partOfSpeechCode: 'n',
     skyId: '88328'
   },
   {
     targetWord: 'nonsmoker',
-    translation: 'некурящий человек',
+    translating: 'некурящий человек',
     partOfSpeechCode: 'n',
     skyId: '88327'
   },
   {
     targetWord: 'nonsmoking car',
-    translation: 'автомобиль для некурящих',
+    translating: 'автомобиль для некурящих',
     partOfSpeechCode: 'n',
     skyId: '4234'
   },
   {
     targetWord: 'nonspatial',
-    translation: 'непространственные',
+    translating: 'непространственные',
     partOfSpeechCode: 'j',
     skyId: '19571'
   },
   {
     targetWord: 'nonspeaking',
-    translation: 'неразговорчивый',
+    translating: 'неразговорчивый',
     partOfSpeechCode: 'j',
     skyId: '88220'
   },
   {
     targetWord: 'nonspecifically',
-    translation: 'неспецифически',
+    translating: 'неспецифически',
     partOfSpeechCode: 'r',
     skyId: '66666'
   },
   {
     targetWord: 'nonstandard',
-    translation: 'нестандартный',
+    translating: 'нестандартный',
     partOfSpeechCode: 'j',
     skyId: '151771'
   },
   {
     targetWord: 'nonstarter',
-    translation: 'неудачник',
+    translating: 'неудачник',
     partOfSpeechCode: 'n',
     skyId: '190341'
   },
   {
     targetWord: 'nonstick',
-    translation: 'антипригарный',
+    translating: 'антипригарный',
     partOfSpeechCode: 'j',
     skyId: '223744'
   },
   {
     targetWord: 'nonstop',
-    translation: 'без остановки',
+    translating: 'без остановки',
     partOfSpeechCode: 'r',
     skyId: '169239'
   },
   {
     targetWord: 'nonstop',
-    translation: 'без перерыва',
+    translating: 'без перерыва',
     partOfSpeechCode: 'j',
     skyId: '169238'
   },
   {
     targetWord: 'nonstop',
-    translation: 'беспосадочный',
+    translating: 'беспосадочный',
     partOfSpeechCode: 'j',
     skyId: '169237'
   },
   {
     targetWord: 'nonstop',
-    translation: 'беспосадочный перелёт',
+    translating: 'беспосадочный перелёт',
     partOfSpeechCode: 'n',
     skyId: '169236'
   },
   {
     targetWord: 'nonsubjective',
-    translation: 'объективный',
+    translating: 'объективный',
     partOfSpeechCode: 'j',
     skyId: '31193'
   },
   {
     targetWord: 'nonsuch',
-    translation: 'верх совершенства',
+    translating: 'верх совершенства',
     partOfSpeechCode: 'n',
     skyId: '26244'
   },
   {
     targetWord: 'nonsurgical',
-    translation: 'нехирургический',
+    translating: 'нехирургический',
     partOfSpeechCode: 'j',
     skyId: '84055'
   },
   {
     targetWord: 'nonsyllabic',
-    translation: 'nonsyllabic',
+    translating: 'nonsyllabic',
     partOfSpeechCode: 'j',
     skyId: '4802'
   },
   {
     targetWord: 'nonsynthetic',
-    translation: 'без синтетических добавок',
+    translating: 'без синтетических добавок',
     partOfSpeechCode: 'j',
     skyId: '90173'
   },
   {
     targetWord: 'nonsystematic risk',
-    translation: 'несистематический риск',
+    translating: 'несистематический риск',
     partOfSpeechCode: 'n',
     skyId: '257608'
   },
   {
     targetWord: 'nontaxable',
-    translation: 'необлагаемый',
+    translating: 'необлагаемый',
     partOfSpeechCode: 'j',
     skyId: '141750'
   },
   {
     targetWord: 'nontechnical',
-    translation: 'нетехнический',
+    translating: 'нетехнический',
     partOfSpeechCode: 'j',
     skyId: '104628'
   },
   {
     targetWord: 'nonterritorial',
-    translation: 'nonterritorial',
+    translating: 'nonterritorial',
     partOfSpeechCode: 'j',
     skyId: '226497'
   },
   {
     targetWord: 'nonthermal',
-    translation: 'нетепловой',
+    translating: 'нетепловой',
     partOfSpeechCode: 'j',
     skyId: '128705'
   },
   {
     targetWord: 'nontoxic',
-    translation: 'нетоксичный',
+    translating: 'нетоксичный',
     partOfSpeechCode: 'j',
     skyId: '126508'
   },
   {
     targetWord: 'nontraditional',
-    translation: 'нетрадиционный',
+    translating: 'нетрадиционный',
     partOfSpeechCode: 'j',
     skyId: '128232'
   },
   {
     targetWord: 'nontransferable',
-    translation: 'непередаваемый',
+    translating: 'непередаваемый',
     partOfSpeechCode: 'j',
     skyId: '82132'
   },
   {
     targetWord: 'nonturbulent',
-    translation: 'нетурбулентному',
+    translating: 'нетурбулентному',
     partOfSpeechCode: 'j',
     skyId: '11821'
   },
   {
     targetWord: 'nonunion',
-    translation: 'не состоящий в профсоюзе',
+    translating: 'не состоящий в профсоюзе',
     partOfSpeechCode: 'j',
     skyId: '108038'
   },
   {
     targetWord: 'nonvascular plant',
-    translation: 'мохообразные',
+    translating: 'мохообразные',
     partOfSpeechCode: 'n',
     skyId: '225747'
   },
   {
     targetWord: 'nonvenomous',
-    translation: 'неядовитый',
+    translating: 'неядовитый',
     partOfSpeechCode: 'j',
     skyId: '9858'
   },
   {
     targetWord: 'nonverbal',
-    translation: 'необученный общению',
+    translating: 'необученный общению',
     partOfSpeechCode: 'j',
     skyId: '155675'
   },
   {
     targetWord: 'nonverbal',
-    translation: 'невербальный',
+    translating: 'невербальный',
     partOfSpeechCode: 'j',
     skyId: '155676'
   },
   {
     targetWord: 'nonverbally',
-    translation: 'невербально',
+    translating: 'невербально',
     partOfSpeechCode: 'r',
     skyId: '150155'
   },
   {
     targetWord: 'nonversation',
-    translation: 'бесполезный разговор',
+    translating: 'бесполезный разговор',
     partOfSpeechCode: 'n',
     skyId: '256568'
   },
   {
     targetWord: 'nonviolence',
-    translation: 'ненасильственное сопротивление',
+    translating: 'ненасильственное сопротивление',
     partOfSpeechCode: 'n',
     skyId: '74434'
   },
   {
     targetWord: 'nonviolent',
-    translation: 'ненасильственный',
+    translating: 'ненасильственный',
     partOfSpeechCode: 'j',
     skyId: '117058'
   },
   {
     targetWord: 'nonviolently',
-    translation: 'ненасильственно',
+    translating: 'ненасильственно',
     partOfSpeechCode: 'r',
     skyId: '26749'
   },
   {
     targetWord: 'nonvisual',
-    translation: 'невизуальный',
+    translating: 'невизуальный',
     partOfSpeechCode: 'j',
     skyId: '167404'
   },
   {
     targetWord: 'nonvitreous tile',
-    translation: 'неглазурованная керамическая плитка',
+    translating: 'неглазурованная керамическая плитка',
     partOfSpeechCode: 'n',
     skyId: '258378'
   },
   {
     targetWord: 'nonvolatile storage',
-    translation: 'энергонезависимая память',
+    translating: 'энергонезависимая память',
     partOfSpeechCode: 'n',
     skyId: '165647'
   },
   {
     targetWord: 'nonvoluntary',
-    translation: 'непроизвольный',
+    translating: 'непроизвольный',
     partOfSpeechCode: 'j',
     skyId: '88565'
   },
   {
     targetWord: 'noob',
-    translation: 'новичок',
+    translating: 'новичок',
     partOfSpeechCode: 'n',
     skyId: '253947'
   },
   {
     targetWord: 'noodle',
-    translation: 'лапша',
+    translating: 'лапша',
     partOfSpeechCode: 'n',
     skyId: '225519'
   },
   {
     targetWord: 'noodling',
-    translation: 'нудлинг, метод ловли сома голыми руками',
+    translating: 'нудлинг, метод ловли сома голыми руками',
     partOfSpeechCode: 'n',
     skyId: '262019'
   },
   {
     targetWord: 'nook',
-    translation: 'угол',
+    translating: 'угол',
     partOfSpeechCode: 'n',
     skyId: '88205'
   },
   {
     targetWord: 'nook',
-    translation: 'уголок',
+    translating: 'уголок',
     partOfSpeechCode: 'n',
     skyId: '88204'
   },
   {
     targetWord: 'nook and cranny',
-    translation: 'углы и закоулки',
+    translating: 'углы и закоулки',
     partOfSpeechCode: 'n',
     skyId: '25979'
   },
   {
     targetWord: 'nookie',
-    translation: 'секс',
+    translating: 'секс',
     partOfSpeechCode: 'n',
     skyId: '155857'
   },
   {
     targetWord: 'nooks and crannies',
-    translation: 'закоулок',
+    translating: 'закоулок',
     partOfSpeechCode: 'n',
     skyId: '180176'
   },
   {
     targetWord: 'nooky',
-    translation: 'анальный секс',
+    translating: 'анальный секс',
     partOfSpeechCode: 'n',
     skyId: '80916'
   },
   {
     targetWord: 'noon',
-    translation: 'полдень',
+    translating: 'полдень',
     partOfSpeechCode: 'n',
     skyId: '88196'
   },
   {
     targetWord: 'noonday',
-    translation: 'полдень',
+    translating: 'полдень',
     partOfSpeechCode: 'n',
     skyId: '154663'
   },
   {
     targetWord: 'noontide',
-    translation: 'полдень',
+    translating: 'полдень',
     partOfSpeechCode: 'n',
     skyId: '178249'
   },
   {
     targetWord: 'nootka',
-    translation: 'Nootka',
+    translating: 'Nootka',
     partOfSpeechCode: 'n',
     skyId: '131021'
   },
   {
     targetWord: 'nootka',
-    translation: 'Ну́тка',
+    translating: 'Ну́тка',
     partOfSpeechCode: 'n',
     skyId: '131020'
   },
   {
     targetWord: 'nopal',
-    translation: 'нопаль',
+    translating: 'нопаль',
     partOfSpeechCode: 'n',
     skyId: '79271'
   },
   {
     targetWord: 'nopalea',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '190095'
   },
   {
     targetWord: 'nope',
-    translation: 'нет ',
+    translating: 'нет ',
     partOfSpeechCode: 'r',
     skyId: '227943'
   },
   {
     targetWord: 'nor',
-    translation: 'также не',
+    translating: 'также не',
     partOfSpeechCode: 'r',
     skyId: '238694'
   },
   {
     targetWord: "nor'-east",
-    translation: 'норд',
+    translating: 'норд',
     partOfSpeechCode: 'r',
     skyId: '78306'
   },
   {
     targetWord: "nor'-east",
-    translation: 'запад',
+    translating: 'запад',
     partOfSpeechCode: 'n',
     skyId: '78305'
   },
   {
     targetWord: "nor'-west",
-    translation: 'северо-запад',
+    translating: 'северо-запад',
     partOfSpeechCode: 'r',
     skyId: '222377'
   },
   {
     targetWord: "nor'-west",
-    translation: 'з',
+    translating: 'з',
     partOfSpeechCode: 'n',
     skyId: '222376'
   },
   {
     targetWord: 'noradrenaline',
-    translation: 'норадреналин',
+    translating: 'норадреналин',
     partOfSpeechCode: 'n',
     skyId: '33874'
   },
   {
     targetWord: 'nordic',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '132287'
   },
   {
     targetWord: 'nordic',
-    translation: 'нордический',
+    translating: 'нордический',
     partOfSpeechCode: 'j',
     skyId: '132286'
   },
   {
     targetWord: 'norepinephrine',
-    translation: 'норадреналин',
+    translating: 'норадреналин',
     partOfSpeechCode: 'n',
     skyId: '33748'
   },
   {
     targetWord: 'norfolk terrier',
-    translation: 'норфолк терьер',
+    translating: 'норфолк терьер',
     partOfSpeechCode: 'n',
     skyId: '190230'
   },
   {
     targetWord: 'norfolk wherry',
-    translation: 'шаланда',
+    translating: 'шаланда',
     partOfSpeechCode: 'n',
     skyId: '15772'
   },
   {
     targetWord: 'noria',
-    translation: 'нория',
+    translating: 'нория',
     partOfSpeechCode: 'n',
     skyId: '126387'
   },
   {
     targetWord: 'norm',
-    translation: 'стандарт',
+    translating: 'стандарт',
     partOfSpeechCode: 'n',
     skyId: '3837'
   },
   {
     targetWord: 'norm',
-    translation: 'норма',
+    translating: 'норма',
     partOfSpeechCode: 'n',
     skyId: '240164'
   },
   {
     targetWord: 'norma',
-    translation: 'наугольник',
+    translating: 'наугольник',
     partOfSpeechCode: 'n',
     skyId: '68077'
   },
   {
     targetWord: 'normal',
-    translation: 'нормальный',
+    translating: 'нормальный',
     partOfSpeechCode: 'j',
     skyId: '215921'
   },
   {
     targetWord: 'normal',
-    translation: 'естественный',
+    translating: 'естественный',
     partOfSpeechCode: 'j',
     skyId: '215920'
   },
   {
     targetWord: 'normal',
-    translation: 'обычный',
+    translating: 'обычный',
     partOfSpeechCode: 'j',
     skyId: '215919'
   },
   {
     targetWord: 'normal auxiliary transformer',
-    translation: 'рабочий трансформатор собственных нужд',
+    translating: 'рабочий трансформатор собственных нужд',
     partOfSpeechCode: 'n',
     skyId: '248492'
   },
   {
     targetWord: 'normal operation  component',
-    translation: 'элемент нормальной эксплуатации',
+    translating: 'элемент нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '249372'
   },
@@ -13493,4174 +13493,4174 @@ export const nArr = [
   },
   {
     targetWord: 'normal operation load combination',
-    translation: 'сочетание нагрузок нормальной эксплуатации',
+    translating: 'сочетание нагрузок нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '248076'
   },
   {
     targetWord: 'normal operation reliable power supply system',
-    translation: 'система надежного электроснабжения нормальной эксплуатации',
+    translating: 'система надежного электроснабжения нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '248509'
   },
   {
     targetWord: 'normal operation system',
-    translation: 'cистема нормальной эксплуатации',
+    translating: 'cистема нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '247202'
   },
   {
     targetWord: 'normal operation system cable channel',
-    translation: 'кабельный канал системы нормальной эксплуатации',
+    translating: 'кабельный канал системы нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '247121'
   },
   {
     targetWord: 'normal school',
-    translation: 'нормальный университет',
+    translating: 'нормальный университет',
     partOfSpeechCode: 'n',
     skyId: '146862'
   },
   {
     targetWord: 'normalcy',
-    translation: 'нормальность',
+    translating: 'нормальность',
     partOfSpeechCode: 'n',
     skyId: '27044'
   },
   {
     targetWord: 'normalcy',
-    translation: 'соответствие нормам',
+    translating: 'соответствие нормам',
     partOfSpeechCode: 'n',
     skyId: '27043'
   },
   {
     targetWord: 'normality',
-    translation: 'соответствие норме',
+    translating: 'соответствие норме',
     partOfSpeechCode: 'n',
     skyId: '19539'
   },
   {
     targetWord: 'normality',
-    translation: 'нормальность',
+    translating: 'нормальность',
     partOfSpeechCode: 'n',
     skyId: '19538'
   },
   {
     targetWord: 'normalization',
-    translation: 'нормализация',
+    translating: 'нормализация',
     partOfSpeechCode: 'n',
     skyId: '79383'
   },
   {
     targetWord: 'normalize',
-    translation: 'приводить в норму',
+    translating: 'приводить в норму',
     partOfSpeechCode: 'v',
     skyId: '41471'
   },
   {
     targetWord: 'normalize',
-    translation: 'нормализовать',
+    translating: 'нормализовать',
     partOfSpeechCode: 'v',
     skyId: '41470'
   },
   {
     targetWord: 'normalized analog signal output module',
-    translation: 'модуль вывода унифицированных аналоговых сигналов',
+    translating: 'модуль вывода унифицированных аналоговых сигналов',
     partOfSpeechCode: 'n',
     skyId: '249118'
   },
   {
     targetWord: 'normalized current signal inputting module',
-    translation: 'модуль ввода унифицированных сигналов тока',
+    translating: 'модуль ввода унифицированных сигналов тока',
     partOfSpeechCode: 'n',
     skyId: '249120'
   },
   {
     targetWord: 'normally',
-    translation: 'как следует',
+    translating: 'как следует',
     partOfSpeechCode: 'r',
     skyId: '238693'
   },
   {
     targetWord: 'normally',
-    translation: 'обычно',
+    translating: 'обычно',
     partOfSpeechCode: 'r',
     skyId: '77336'
   },
   {
     targetWord: 'normally open contacts',
-    translation: 'нормально открытые контакты',
+    translating: 'нормально открытые контакты',
     partOfSpeechCode: 'n',
     skyId: '249612'
   },
   {
     targetWord: 'norman',
-    translation: 'нормандский',
+    translating: 'нормандский',
     partOfSpeechCode: 'j',
     skyId: '215914'
   },
   {
     targetWord: 'norman',
-    translation: 'норманн',
+    translating: 'норманн',
     partOfSpeechCode: 'n',
     skyId: '215912'
   },
   {
     targetWord: 'normandie',
-    translation: 'Нормандия',
+    translating: 'Нормандия',
     partOfSpeechCode: 'n',
     skyId: '121559'
   },
   {
     targetWord: 'normative',
-    translation: 'нормативный',
+    translating: 'нормативный',
     partOfSpeechCode: 'j',
     skyId: '88783'
   },
   {
     targetWord: 'norse',
-    translation: 'норвежский',
+    translating: 'норвежский',
     partOfSpeechCode: 'j',
     skyId: '85265'
   },
   {
     targetWord: 'norse',
-    translation: 'скандинавский',
+    translating: 'скандинавский',
     partOfSpeechCode: 'j',
     skyId: '85264'
   },
   {
     targetWord: 'norse',
-    translation: 'скандинавские языки',
+    translating: 'скандинавские языки',
     partOfSpeechCode: 'n',
     skyId: '85263'
   },
   {
     targetWord: 'norse',
-    translation: 'норвежец',
+    translating: 'норвежец',
     partOfSpeechCode: 'n',
     skyId: '85262'
   },
   {
     targetWord: 'norse',
-    translation: 'скандинав',
+    translating: 'скандинав',
     partOfSpeechCode: 'n',
     skyId: '85261'
   },
   {
     targetWord: 'norseman',
-    translation: 'норвежец',
+    translating: 'норвежец',
     partOfSpeechCode: 'n',
     skyId: '4855'
   },
   {
     targetWord: 'north',
-    translation: 'на север',
+    translating: 'на север',
     partOfSpeechCode: 'r',
     skyId: '127069'
   },
   {
     targetWord: 'north',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '127068'
   },
   {
     targetWord: 'north',
-    translation: 'магнитный север',
+    translating: 'магнитный север',
     partOfSpeechCode: 'n',
     skyId: '127066'
   },
   {
     targetWord: 'north',
-    translation: 'Север',
+    translating: 'Север',
     partOfSpeechCode: 'n',
     skyId: '127062'
   },
   {
     targetWord: 'north',
-    translation: 'север',
+    translating: 'север',
     partOfSpeechCode: 'n',
     skyId: '127065'
   },
   {
     targetWord: 'north american',
-    translation: 'североамериканский',
+    translating: 'североамериканский',
     partOfSpeechCode: 'j',
     skyId: '27779'
   },
   {
     targetWord: 'north borneo',
-    translation: 'сабах',
+    translating: 'сабах',
     partOfSpeechCode: 'n',
     skyId: '52650'
   },
   {
     targetWord: 'north dakotan',
-    translation: 'северная',
+    translating: 'северная',
     partOfSpeechCode: 'n',
     skyId: '87713'
   },
   {
     targetWord: 'north frigid zone',
-    translation: 'арктический шельф',
+    translating: 'арктический шельф',
     partOfSpeechCode: 'n',
     skyId: '174017'
   },
   {
     targetWord: 'north korean won',
-    translation: 'вона кндр',
+    translating: 'вона кндр',
     partOfSpeechCode: 'n',
     skyId: '214618'
   },
   {
     targetWord: 'north magnetic pole',
-    translation: 'северный магнитный полюс',
+    translating: 'северный магнитный полюс',
     partOfSpeechCode: 'n',
     skyId: '264212'
   },
   {
     targetWord: 'north star',
-    translation: 'путеводная звезда',
+    translating: 'путеводная звезда',
     partOfSpeechCode: 'n',
     skyId: '261356'
   },
   {
     targetWord: 'north-central',
-    translation: 'северо',
+    translating: 'северо',
     partOfSpeechCode: 'j',
     skyId: '124893'
   },
   {
     targetWord: 'north-east',
-    translation: 'северо-восток',
+    translating: 'северо-восток',
     partOfSpeechCode: 'n',
     skyId: '167646'
   },
   {
     targetWord: 'north-northeast',
-    translation: 'на северо-северо-восток',
+    translating: 'на северо-северо-восток',
     partOfSpeechCode: 'r',
     skyId: '58752'
   },
   {
     targetWord: 'north-northwest',
-    translation: 'северо',
+    translating: 'северо',
     partOfSpeechCode: 'r',
     skyId: '83443'
   },
   {
     targetWord: 'north-west',
-    translation: 'к северо-западу',
+    translating: 'к северо-западу',
     partOfSpeechCode: 'r',
     skyId: '52768'
   },
   {
     targetWord: 'northampton',
-    translation: 'Нортгемптон',
+    translating: 'Нортгемптон',
     partOfSpeechCode: 'n',
     skyId: '16692'
   },
   {
     targetWord: 'northeast',
-    translation: 'к северо-востоку',
+    translating: 'к северо-востоку',
     partOfSpeechCode: 'r',
     skyId: '90406'
   },
   {
     targetWord: 'northeast',
-    translation: 'северо-восточный',
+    translating: 'северо-восточный',
     partOfSpeechCode: 'j',
     skyId: '90405'
   },
   {
     targetWord: 'northeast',
-    translation: 'северо-восток США',
+    translating: 'северо-восток США',
     partOfSpeechCode: 'n',
     skyId: '90401'
   },
   {
     targetWord: 'northeast',
-    translation: 'северо-восток',
+    translating: 'северо-восток',
     partOfSpeechCode: 'n',
     skyId: '90403'
   },
   {
     targetWord: 'northeasterly',
-    translation: 'северо-восточный',
+    translating: 'северо-восточный',
     partOfSpeechCode: 'j',
     skyId: '129673'
   },
   {
     targetWord: 'northeastern united states',
-    translation: 'северо-восток сша',
+    translating: 'северо-восток сша',
     partOfSpeechCode: 'n',
     skyId: '79188'
   },
   {
     targetWord: 'norther',
-    translation: 'северный ветер',
+    translating: 'северный ветер',
     partOfSpeechCode: 'n',
     skyId: '173415'
   },
   {
     targetWord: 'northerly',
-    translation: 'на север',
+    translating: 'на север',
     partOfSpeechCode: 'r',
     skyId: '39093'
   },
   {
     targetWord: 'northerly',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '39092'
   },
   {
     targetWord: 'northerly',
-    translation: 'северный ветер',
+    translating: 'северный ветер',
     partOfSpeechCode: 'n',
     skyId: '39090'
   },
   {
     targetWord: 'northern',
-    translation: 'дующий с севера',
+    translating: 'дующий с севера',
     partOfSpeechCode: 'j',
     skyId: '182030'
   },
   {
     targetWord: 'northern',
-    translation: 'обращённый к северу',
+    translating: 'обращённый к северу',
     partOfSpeechCode: 'j',
     skyId: '182029'
   },
   {
     targetWord: 'northern',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '182031'
   },
   {
     targetWord: 'northern',
-    translation: 'северный диалект',
+    translating: 'северный диалект',
     partOfSpeechCode: 'n',
     skyId: '182027'
   },
   {
     targetWord: 'northern bobwhite',
-    translation: 'виргинская американская куропатка',
+    translating: 'виргинская американская куропатка',
     partOfSpeechCode: 'n',
     skyId: '32277'
   },
   {
     targetWord: 'northern bog lemming',
-    translation: 'сияние',
+    translating: 'сияние',
     partOfSpeechCode: 'n',
     skyId: '6516'
   },
   {
     targetWord: 'northern casque-headed frog',
-    translation: 'ночная лягушка ',
+    translating: 'ночная лягушка ',
     partOfSpeechCode: 'n',
     skyId: '161748'
   },
   {
     targetWord: 'northern cricket frog',
-    translation: 'северной крикет лягушка',
+    translating: 'северной крикет лягушка',
     partOfSpeechCode: 'n',
     skyId: '65175'
   },
   {
     targetWord: 'northern flying squirrel',
-    translation: 'северная летяга',
+    translating: 'северная летяга',
     partOfSpeechCode: 'n',
     skyId: '153188'
   },
   {
     targetWord: 'northern harrier',
-    translation: 'полевой лунь',
+    translating: 'полевой лунь',
     partOfSpeechCode: 'n',
     skyId: '31223'
   },
   {
     targetWord: 'northern hemisphere',
-    translation: 'северное полушарие',
+    translating: 'северное полушарие',
     partOfSpeechCode: 'n',
     skyId: '174201'
   },
   {
     targetWord: 'northern lights',
-    translation: 'северное сияние',
+    translating: 'северное сияние',
     partOfSpeechCode: 'n',
     skyId: '27695'
   },
   {
     targetWord: 'northern mammoth',
-    translation: 'шерстистый мамонт',
+    translating: 'шерстистый мамонт',
     partOfSpeechCode: 'n',
     skyId: '30938'
   },
   {
     targetWord: 'northern oriole',
-    translation: 'желтуха',
+    translating: 'желтуха',
     partOfSpeechCode: 'n',
     skyId: '144610'
   },
   {
     targetWord: 'northern parula',
-    translation: 'белоглазая парула',
+    translating: 'белоглазая парула',
     partOfSpeechCode: 'n',
     skyId: '162114'
   },
   {
     targetWord: 'northern pike',
-    translation: 'щука',
+    translating: 'щука',
     partOfSpeechCode: 'n',
     skyId: '46279'
   },
   {
     targetWord: 'northern pin oak',
-    translation: 'северной контактный дуба',
+    translating: 'северной контактный дуба',
     partOfSpeechCode: 'n',
     skyId: '141277'
   },
   {
     targetWord: 'northern pocket gopher',
-    translation: 'северный суслик кармана',
+    translating: 'северный суслик кармана',
     partOfSpeechCode: 'n',
     skyId: '88626'
   },
   {
     targetWord: 'northern porgy',
-    translation: 'северный морской окунь',
+    translating: 'северный морской окунь',
     partOfSpeechCode: 'n',
     skyId: '174697'
   },
   {
     targetWord: 'northern rhodesia',
-    translation: 'замбия',
+    translating: 'замбия',
     partOfSpeechCode: 'n',
     skyId: '173162'
   },
   {
     targetWord: 'northern scup',
-    translation: 'северной',
+    translating: 'северной',
     partOfSpeechCode: 'n',
     skyId: '216097'
   },
   {
     targetWord: 'northern sea robin',
-    translation: 'северный морской робин',
+    translating: 'северный морской робин',
     partOfSpeechCode: 'n',
     skyId: '142689'
   },
   {
     targetWord: 'northern shrike',
-    translation: 'серый сорокопут',
+    translating: 'серый сорокопут',
     partOfSpeechCode: 'n',
     skyId: '66755'
   },
   {
     targetWord: 'northern storm petrel',
-    translation: 'качурки',
+    translating: 'качурки',
     partOfSpeechCode: 'n',
     skyId: '44841'
   },
   {
     targetWord: 'northerner',
-    translation: 'северянин',
+    translating: 'северянин',
     partOfSpeechCode: 'n',
     skyId: '16126'
   },
   {
     targetWord: 'northernmost',
-    translation: 'северный',
+    translating: 'северный',
     partOfSpeechCode: 'j',
     skyId: '67663'
   },
   {
     targetWord: 'northland',
-    translation: 'север',
+    translating: 'север',
     partOfSpeechCode: 'n',
     skyId: '126628'
   },
   {
     targetWord: 'northman',
-    translation: 'скандинав',
+    translating: 'скандинав',
     partOfSpeechCode: 'n',
     skyId: '83882'
   },
   {
     targetWord: 'northmost',
-    translation: 'самый северный',
+    translating: 'самый северный',
     partOfSpeechCode: 'j',
     skyId: '161293'
   },
   {
     targetWord: 'northumberland',
-    translation: 'Нортумберлэнд',
+    translating: 'Нортумберлэнд',
     partOfSpeechCode: 'n',
     skyId: '62326'
   },
   {
     targetWord: 'northward',
-    translation: 'в направлении севера',
+    translating: 'в направлении севера',
     partOfSpeechCode: 'r',
     skyId: '171961'
   },
   {
     targetWord: 'northward',
-    translation: 'направленный на север',
+    translating: 'направленный на север',
     partOfSpeechCode: 'j',
     skyId: '171960'
   },
   {
     targetWord: 'northward',
-    translation: 'Север',
+    translating: 'Север',
     partOfSpeechCode: 'n',
     skyId: '171959'
   },
   {
     targetWord: 'northwest',
-    translation: 'к северо-западу',
+    translating: 'к северо-западу',
     partOfSpeechCode: 'r',
     skyId: '13898'
   },
   {
     targetWord: 'northwest',
-    translation: 'северо-западный',
+    translating: 'северо-западный',
     partOfSpeechCode: 'j',
     skyId: '13897'
   },
   {
     targetWord: 'northwest',
-    translation: 'Тихоокеанский Северо-Запад',
+    translating: 'Тихоокеанский Северо-Запад',
     partOfSpeechCode: 'n',
     skyId: '13892'
   },
   {
     targetWord: 'northwest',
-    translation: 'северо-запад',
+    translating: 'северо-запад',
     partOfSpeechCode: 'n',
     skyId: '13895'
   },
   {
     targetWord: 'northwesterly',
-    translation: 'северо-западный',
+    translating: 'северо-западный',
     partOfSpeechCode: 'j',
     skyId: '57639'
   },
   {
     targetWord: 'northwestern united states',
-    translation: 'северо-западные штаты США',
+    translating: 'северо-западные штаты США',
     partOfSpeechCode: 'n',
     skyId: '63236'
   },
   {
     targetWord: 'northwestward',
-    translation: 'з',
+    translating: 'з',
     partOfSpeechCode: 'n',
     skyId: '219495'
   },
   {
     targetWord: 'norway lobster',
-    translation: 'норвежский омар',
+    translating: 'норвежский омар',
     partOfSpeechCode: 'n',
     skyId: '127077'
   },
   {
     targetWord: 'norway rat',
-    translation: 'коричневая крыса',
+    translating: 'коричневая крыса',
     partOfSpeechCode: 'n',
     skyId: '137261'
   },
   {
     targetWord: 'norwegian elkhound',
-    translation: 'норвежская охотничья собака',
+    translating: 'норвежская охотничья собака',
     partOfSpeechCode: 'n',
     skyId: '220807'
   },
   {
     targetWord: 'norwegian krone',
-    translation: 'норвежская крона',
+    translating: 'норвежская крона',
     partOfSpeechCode: 'n',
     skyId: '66874'
   },
   {
     targetWord: 'norwegian sea',
-    translation: 'Норвежское море',
+    translating: 'Норвежское море',
     partOfSpeechCode: 'n',
     skyId: '188508'
   },
   {
     targetWord: 'norwich terrier',
-    translation: 'норвич-терьер',
+    translating: 'норвич-терьер',
     partOfSpeechCode: 'n',
     skyId: '156106'
   },
   {
     targetWord: 'nose',
-    translation: 'толкать носом',
+    translating: 'толкать носом',
     partOfSpeechCode: 'v',
     skyId: '122427'
   },
   {
     targetWord: 'nose',
-    translation: 'осторожно продвигаться',
+    translating: 'осторожно продвигаться',
     partOfSpeechCode: 'v',
     skyId: '122425'
   },
   {
     targetWord: 'nose',
-    translation: 'выискивать',
+    translating: 'выискивать',
     partOfSpeechCode: 'v',
     skyId: '122424'
   },
   {
     targetWord: 'nose',
-    translation: 'носик',
+    translating: 'носик',
     partOfSpeechCode: 'n',
     skyId: '45986'
   },
   {
     targetWord: 'nose',
-    translation: 'чутье',
+    translating: 'чутье',
     partOfSpeechCode: 'n',
     skyId: '45985'
   },
   {
     targetWord: 'nose',
-    translation: 'обоняние',
+    translating: 'обоняние',
     partOfSpeechCode: 'n',
     skyId: '45984'
   },
   {
     targetWord: 'nose',
-    translation: 'нос',
+    translating: 'нос',
     partOfSpeechCode: 'n',
     skyId: '45979'
   },
   {
     targetWord: 'nose',
-    translation: 'нос самолета',
+    translating: 'нос самолета',
     partOfSpeechCode: 'n',
     skyId: '45980'
   },
   {
     targetWord: 'nose',
-    translation: 'обонять',
+    translating: 'обонять',
     partOfSpeechCode: 'v',
     skyId: '122426'
   },
   {
     targetWord: 'nose candy',
-    translation: 'кока',
+    translating: 'кока',
     partOfSpeechCode: 'n',
     skyId: '144343'
   },
   {
     targetWord: 'nose count',
-    translation: 'перепись населения',
+    translating: 'перепись населения',
     partOfSpeechCode: 'n',
     skyId: '165128'
   },
   {
     targetWord: 'nose dive',
-    translation: 'нырять',
+    translating: 'нырять',
     partOfSpeechCode: 'n',
     skyId: '51833'
   },
   {
     targetWord: 'nose drops',
-    translation: 'капли для носа',
+    translating: 'капли для носа',
     partOfSpeechCode: 'n',
     skyId: '261127'
   },
   {
     targetWord: 'nose flute',
-    translation: 'носовая флейта',
+    translating: 'носовая флейта',
     partOfSpeechCode: 'n',
     skyId: '66062'
   },
   {
     targetWord: 'nose gear',
-    translation: 'передняя опора шасси',
+    translating: 'передняя опора шасси',
     partOfSpeechCode: 'n',
     skyId: '254601'
   },
   {
     targetWord: 'nose job',
-    translation: 'ринопластика',
+    translating: 'ринопластика',
     partOfSpeechCode: 'n',
     skyId: '22052'
   },
   {
     targetWord: 'nose ring',
-    translation: 'ноздревое кольцо',
+    translating: 'ноздревое кольцо',
     partOfSpeechCode: 'n',
     skyId: '149571'
   },
   {
     targetWord: 'noseband',
-    translation: 'переносье',
+    translating: 'переносье',
     partOfSpeechCode: 'n',
     skyId: '191486'
   },
   {
     targetWord: 'nosecount',
-    translation: 'перепись населения',
+    translating: 'перепись населения',
     partOfSpeechCode: 'n',
     skyId: '3573'
   },
   {
     targetWord: 'nosedive',
-    translation: 'пикировать',
+    translating: 'пикировать',
     partOfSpeechCode: 'v',
     skyId: '43031'
   },
   {
     targetWord: 'nosedive',
-    translation: 'пике',
+    translating: 'пике',
     partOfSpeechCode: 'n',
     skyId: '43030'
   },
   {
     targetWord: 'nosedive',
-    translation: 'резкое падение',
+    translating: 'резкое падение',
     partOfSpeechCode: 'n',
     skyId: '43029'
   },
   {
     targetWord: 'nosegay',
-    translation: 'букет цветов',
+    translating: 'букет цветов',
     partOfSpeechCode: 'n',
     skyId: '116986'
   },
   {
     targetWord: 'nosepiece',
-    translation: 'наконечник',
+    translating: 'наконечник',
     partOfSpeechCode: 'n',
     skyId: '204997'
   },
   {
     targetWord: 'nosewheel',
-    translation: 'носовое колесо',
+    translating: 'носовое колесо',
     partOfSpeechCode: 'n',
     skyId: '107605'
   },
   {
     targetWord: 'nosey',
-    translation: 'любопытный',
+    translating: 'любопытный',
     partOfSpeechCode: 'j',
     skyId: '122423'
   },
   {
     targetWord: 'nosey-parker',
-    translation: 'человек, всюду сующий свой нос',
+    translating: 'человек, всюду сующий свой нос',
     partOfSpeechCode: 'n',
     skyId: '155257'
   },
   {
     targetWord: 'nosh',
-    translation: 'перекусить',
+    translating: 'перекусить',
     partOfSpeechCode: 'v',
     skyId: '45997'
   },
   {
     targetWord: 'nosh',
-    translation: 'перекус',
+    translating: 'перекус',
     partOfSpeechCode: 'n',
     skyId: '45996'
   },
   {
     targetWord: 'nosh-up',
-    translation: 'пир горой',
+    translating: 'пир горой',
     partOfSpeechCode: 'n',
     skyId: '83607'
   },
   {
     targetWord: 'nosiness',
-    translation: 'оскорбительная любознательность',
+    translating: 'оскорбительная любознательность',
     partOfSpeechCode: 'n',
     skyId: '41498'
   },
   {
     targetWord: 'nosocomial',
-    translation: 'внутрибольничный',
+    translating: 'внутрибольничный',
     partOfSpeechCode: 'j',
     skyId: '10562'
   },
   {
     targetWord: 'nosohusial',
-    translation: 'nosohusial',
+    translating: 'nosohusial',
     partOfSpeechCode: 'j',
     skyId: '115434'
   },
   {
     targetWord: 'nostalgia',
-    translation: 'ностальгия',
+    translating: 'ностальгия',
     partOfSpeechCode: 'n',
     skyId: '55666'
   },
   {
     targetWord: 'nostalgic',
-    translation: 'ностальгический',
+    translating: 'ностальгический',
     partOfSpeechCode: 'j',
     skyId: '55667'
   },
   {
     targetWord: 'nostalgic family movie',
-    translation: 'ностальгический семейный фильм',
+    translating: 'ностальгический семейный фильм',
     partOfSpeechCode: 'n',
     skyId: '260745'
   },
   {
     targetWord: 'nostalgically',
-    translation: 'ностальгически',
+    translating: 'ностальгически',
     partOfSpeechCode: 'r',
     skyId: '13369'
   },
   {
     targetWord: 'nostoc',
-    translation: 'носток',
+    translating: 'носток',
     partOfSpeechCode: 'n',
     skyId: '27432'
   },
   {
     targetWord: 'nostocaceae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '125793'
   },
   {
     targetWord: 'nostril',
-    translation: 'ноздря',
+    translating: 'ноздря',
     partOfSpeechCode: 'n',
     skyId: '17223'
   },
   {
     targetWord: 'nostrum',
-    translation: 'панацея',
+    translating: 'панацея',
     partOfSpeechCode: 'n',
     skyId: '29222'
   },
   {
     targetWord: 'nostrum',
-    translation: 'патентованный препарат',
+    translating: 'патентованный препарат',
     partOfSpeechCode: 'n',
     skyId: '29223'
   },
   {
     targetWord: 'nosy',
-    translation: 'любопытный',
+    translating: 'любопытный',
     partOfSpeechCode: 'j',
     skyId: '45963'
   },
   {
     targetWord: 'nosy-parker',
-    translation: 'человек, всюду сующий свой нос',
+    translating: 'человек, всюду сующий свой нос',
     partOfSpeechCode: 'n',
     skyId: '99952'
   },
   {
     targetWord: 'not',
-    translation: 'ни',
+    translating: 'ни',
     partOfSpeechCode: 'r',
     skyId: '253787'
   },
   {
     targetWord: 'not',
-    translation: 'нет',
+    translating: 'нет',
     partOfSpeechCode: 'r',
     skyId: '236094'
   },
   {
     targetWord: 'not',
-    translation: 'не',
+    translating: 'не',
     partOfSpeechCode: 'r',
     skyId: '237037'
   },
   {
     targetWord: 'not a moment to spare',
-    translation: 'ни минуты свободной',
+    translating: 'ни минуты свободной',
     partOfSpeechCode: 'ph',
     skyId: '242109'
   },
   {
     targetWord: 'not any...than',
-    translation: 'не лучше...чем',
+    translating: 'не лучше...чем',
     partOfSpeechCode: 'prn',
     skyId: '236437'
   },
   {
     targetWord: 'not anything like as ... as',
-    translation: 'вовсе не такой...как',
+    translating: 'вовсе не такой...как',
     partOfSpeechCode: 'ph',
     skyId: '249072'
   },
   {
     targetWord: 'not at all',
-    translation: 'не за что',
+    translating: 'не за что',
     partOfSpeechCode: 'ph',
     skyId: '266756'
   },
   {
     targetWord: 'not at all',
-    translation: 'вовсе нет',
+    translating: 'вовсе нет',
     partOfSpeechCode: 'ph',
     skyId: '235218'
   },
   {
     targetWord: 'not available',
-    translation: 'недоступный',
+    translating: 'недоступный',
     partOfSpeechCode: 'ph',
     skyId: '230385'
   },
   {
     targetWord: 'not by a long sight',
-    translation: 'отнюдь нет',
+    translating: 'отнюдь нет',
     partOfSpeechCode: 'r',
     skyId: '224297'
   },
   {
     targetWord: 'not care',
-    translation: 'быть равнодушным',
+    translating: 'быть равнодушным',
     partOfSpeechCode: 'ph',
     skyId: '256700'
   },
   {
     targetWord: 'not do anything by halves',
-    translation: 'не делать ничего наполовину',
+    translating: 'не делать ничего наполовину',
     partOfSpeechCode: 'phi',
     skyId: '263979'
   },
   {
     targetWord: 'not enough',
-    translation: 'недостаточно',
+    translating: 'недостаточно',
     partOfSpeechCode: 'ph',
     skyId: '230358'
   },
   {
     targetWord: 'not exactly',
-    translation: 'не совсем',
+    translating: 'не совсем',
     partOfSpeechCode: 'r',
     skyId: '251801'
   },
   {
     targetWord: 'not for joe',
-    translation: 'ни в коем случае',
+    translating: 'ни в коем случае',
     partOfSpeechCode: 'phi',
     skyId: '261197'
   },
   {
     targetWord: 'not for nothing',
-    translation: 'не зря',
+    translating: 'не зря',
     partOfSpeechCode: 'ph',
     skyId: '263705'
   },
   {
     targetWord: 'not get anywhere',
-    translation: 'ничего не добиться',
+    translating: 'ничего не добиться',
     partOfSpeechCode: 'ph',
     skyId: '253175'
   },
   {
     targetWord: 'not give a shit',
-    translation: 'наплевать',
+    translating: 'наплевать',
     partOfSpeechCode: 'phi',
     skyId: '262147'
   },
   {
     targetWord: 'not guilty',
-    translation: 'невиновный',
+    translating: 'невиновный',
     partOfSpeechCode: 'j',
     skyId: '75549'
   },
   {
     targetWord: 'not have a clue',
-    translation: 'ничего не понимать',
+    translating: 'ничего не понимать',
     partOfSpeechCode: 'ph',
     skyId: '235768'
   },
   {
     targetWord: "not have a penny to one's name",
-    translation: 'не иметь ни гроша за душой',
+    translating: 'не иметь ни гроша за душой',
     partOfSpeechCode: 'ph',
     skyId: '251086'
   },
   {
     targetWord: 'not have faintest idea',
-    translation: 'не иметь ни малейшего представления',
+    translating: 'не иметь ни малейшего представления',
     partOfSpeechCode: 'ph',
     skyId: '235766'
   },
   {
     targetWord: 'not hear a word',
-    translation: 'не слышать ни слова',
+    translating: 'не слышать ни слова',
     partOfSpeechCode: 'ph',
     skyId: '230260'
   },
   {
     targetWord: 'not her type',
-    translation: 'не ее типаж',
+    translating: 'не ее типаж',
     partOfSpeechCode: 'ph',
     skyId: '230016'
   },
   {
     targetWord: 'not in a million years',
-    translation: 'никогда в жизни',
+    translating: 'никогда в жизни',
     partOfSpeechCode: 'ph',
     skyId: '261200'
   },
   {
     targetWord: 'not in perfect condition',
-    translation: 'не в идеальном состоянии',
+    translating: 'не в идеальном состоянии',
     partOfSpeechCode: 'j',
     skyId: '236254'
   },
   {
     targetWord: 'not in vain',
-    translation: 'не зря',
+    translating: 'не зря',
     partOfSpeechCode: 'ph',
     skyId: '254216'
   },
   {
     targetWord: 'not lift a finger',
-    translation: 'пальцем не пошевелить ',
+    translating: 'пальцем не пошевелить ',
     partOfSpeechCode: 'ph',
     skyId: '242108'
   },
   {
     targetWord: 'not likely',
-    translation: 'маловероятно',
+    translating: 'маловероятно',
     partOfSpeechCode: 'ph',
     skyId: '261199'
   },
   {
     targetWord: 'not long ago',
-    translation: 'недавно',
+    translating: 'недавно',
     partOfSpeechCode: 'ph',
     skyId: '235170'
   },
   {
     targetWord: 'not many',
-    translation: 'немного',
+    translating: 'немного',
     partOfSpeechCode: 'r',
     skyId: '245223'
   },
   {
     targetWord: 'not mince one’s words',
-    translation: 'не стесняться в выражениях',
+    translating: 'не стесняться в выражениях',
     partOfSpeechCode: 'ph',
     skyId: '264748'
   },
   {
     targetWord: 'not move a muscle',
-    translation: 'не шевелиться',
+    translating: 'не шевелиться',
     partOfSpeechCode: 'ph',
     skyId: '242107'
   },
   {
     targetWord: 'not much',
-    translation: 'немного',
+    translating: 'немного',
     partOfSpeechCode: 'r',
     skyId: '245222'
   },
   {
     targetWord: 'not much of',
-    translation: 'не очень',
+    translating: 'не очень',
     partOfSpeechCode: 'ph',
     skyId: '235920'
   },
   {
     targetWord: 'not nearly as important as',
-    translation: 'не так важно, как',
+    translating: 'не так важно, как',
     partOfSpeechCode: 'ph',
     skyId: '252798'
   },
   {
     targetWord: 'not nearly as...as',
-    translation: 'совсем не такой...как',
+    translating: 'совсем не такой...как',
     partOfSpeechCode: 'r',
     skyId: '236425'
   },
   {
     targetWord: 'not necessarily',
-    translation: 'не обязательно',
+    translating: 'не обязательно',
     partOfSpeechCode: 'r',
     skyId: '239163'
   },
   {
     targetWord: 'not on your life',
-    translation: 'не в этой жизни',
+    translating: 'не в этой жизни',
     partOfSpeechCode: 'phi',
     skyId: '250308'
   },
   {
     targetWord: 'not once',
-    translation: 'ни разу',
+    translating: 'ни разу',
     partOfSpeechCode: 'phi',
     skyId: '264410'
   },
   {
     targetWord: 'not one bit',
-    translation: 'ни капельки',
+    translating: 'ни капельки',
     partOfSpeechCode: 'ph',
     skyId: '261931'
   },
   {
     targetWord: "not one's type",
-    translation: 'не чей-то тип',
+    translating: 'не чей-то тип',
     partOfSpeechCode: 'ph',
     skyId: '251460'
   },
   {
     targetWord: 'not only ... but also',
-    translation: 'не только, но и',
+    translating: 'не только, но и',
     partOfSpeechCode: 'cjc',
     skyId: '239525'
   },
   {
     targetWord: 'not quite as important as',
-    translation: 'не так важно,как',
+    translating: 'не так важно,как',
     partOfSpeechCode: 'ph',
     skyId: '252799'
   },
   {
     targetWord: 'not quite as...as',
-    translation: 'не совсем так...как',
+    translating: 'не совсем так...как',
     partOfSpeechCode: 'r',
     skyId: '236436'
   },
   {
     targetWord: 'not really',
-    translation: 'Не совсем',
+    translating: 'Не совсем',
     partOfSpeechCode: 'ph',
     skyId: '243525'
   },
   {
     targetWord: 'not rocket science',
-    translation: 'не высшая математика',
+    translating: 'не высшая математика',
     partOfSpeechCode: 'phi',
     skyId: '264371'
   },
   {
     targetWord: "not see past the end of one's nose",
-    translation: 'не видеть дальше собственного носа',
+    translating: 'не видеть дальше собственного носа',
     partOfSpeechCode: 'ph',
     skyId: '242106'
   },
   {
     targetWord: 'not see the forest for the trees',
-    translation: 'не видеть общей картины из-за деталей',
+    translating: 'не видеть общей картины из-за деталей',
     partOfSpeechCode: 'phi',
     skyId: '264336'
   },
   {
     targetWord: 'not shown for clarity',
-    translation: 'условно не показано',
+    translating: 'условно не показано',
     partOfSpeechCode: 'n',
     skyId: '247395'
   },
   {
     targetWord: 'not sleep a wink',
-    translation: 'не сомкнуть глаз',
+    translating: 'не сомкнуть глаз',
     partOfSpeechCode: 'ph',
     skyId: '241533'
   },
   {
     targetWord: 'not surprisingly',
-    translation: 'неудивительно',
+    translating: 'неудивительно',
     partOfSpeechCode: 'ph',
     skyId: '239528'
   },
   {
     targetWord: 'not take no for an answer',
-    translation: 'не принимать ответ "нет"',
+    translating: 'не принимать ответ "нет"',
     partOfSpeechCode: 'v',
     skyId: '235841'
   },
   {
     targetWord: 'not to be on speaking terms',
-    translation: 'не разговаривать друг с другом',
+    translating: 'не разговаривать друг с другом',
     partOfSpeechCode: 'phi',
     skyId: '265364'
   },
   {
     targetWord: 'not to care an ounce',
-    translation: 'наплевать',
+    translating: 'наплевать',
     partOfSpeechCode: 'ph',
     skyId: '265298'
   },
   {
     targetWord: 'not to clap eyes on something',
-    translation: 'в глаза не видел',
+    translating: 'в глаза не видел',
     partOfSpeechCode: 'ph',
     skyId: '256661'
   },
   {
     targetWord: 'not to feel like doing something',
-    translation: 'неохота что-то делать',
+    translating: 'неохота что-то делать',
     partOfSpeechCode: 'ph',
     skyId: '260344'
   },
   {
     targetWord: 'not to have a clue/ have no clue',
-    translation: 'понятия не иметь',
+    translating: 'понятия не иметь',
     partOfSpeechCode: 'ph',
     skyId: '237918'
   },
   {
     targetWord: 'not to have the stomach',
-    translation: 'кишка тонка',
+    translating: 'кишка тонка',
     partOfSpeechCode: 'ph',
     skyId: '241407'
   },
   {
     targetWord: 'not to know which way to look',
-    translation: 'растеряться',
+    translating: 'растеряться',
     partOfSpeechCode: 'ph',
     skyId: '258636'
   },
   {
     targetWord: 'not to mention',
-    translation: 'не говоря уже',
+    translating: 'не говоря уже',
     partOfSpeechCode: 'r',
     skyId: '142772'
   },
   {
     targetWord: 'not to mention the fact that',
-    translation: 'уж не говоря о том факте, что',
+    translating: 'уж не говоря о том факте, что',
     partOfSpeechCode: 'ph',
     skyId: '239529'
   },
   {
     targetWord: 'not to take offense at a joke',
-    translation: 'не обижаться на шутку',
+    translating: 'не обижаться на шутку',
     partOfSpeechCode: 'ph',
     skyId: '256459'
   },
   {
     targetWord: 'not to trust an inch',
-    translation: 'совсем не доверять',
+    translating: 'совсем не доверять',
     partOfSpeechCode: 'ph',
     skyId: '228390'
   },
   {
     targetWord: 'not too loose',
-    translation: 'не велико',
+    translating: 'не велико',
     partOfSpeechCode: 'ph',
     skyId: '261745'
   },
   {
     targetWord: 'not too shabby',
-    translation: 'совсем неплохо',
+    translating: 'совсем неплохо',
     partOfSpeechCode: 'ph',
     skyId: '261740'
   },
   {
     targetWord: 'not too tight',
-    translation: 'не слишком туго',
+    translating: 'не слишком туго',
     partOfSpeechCode: 'ph',
     skyId: '261744'
   },
   {
     targetWord: 'not very ladylike',
-    translation: 'не очень женственная',
+    translating: 'не очень женственная',
     partOfSpeechCode: 'j',
     skyId: '239693'
   },
   {
     targetWord: 'not very tall',
-    translation: 'невысокий',
+    translating: 'невысокий',
     partOfSpeechCode: 'ph',
     skyId: '250542'
   },
   {
     targetWord: 'not worth a cent',
-    translation: 'не стоить и цента',
+    translating: 'не стоить и цента',
     partOfSpeechCode: 'ph',
     skyId: '241531'
   },
   {
     targetWord: 'not worth mentioning',
-    translation: 'не стоит упоминания',
+    translating: 'не стоит упоминания',
     partOfSpeechCode: 'ph',
     skyId: '241529'
   },
   {
     targetWord: 'not … but',
-    translation: 'не ... а',
+    translating: 'не ... а',
     partOfSpeechCode: 'cjc',
     skyId: '239523'
   },
   {
     targetWord: 'not-for-profit',
-    translation: 'некоммерческая организация',
+    translating: 'некоммерческая организация',
     partOfSpeechCode: 'n',
     skyId: '185983'
   },
   {
     targetWord: 'nota bene',
-    translation: 'нотабене',
+    translating: 'нотабене',
     partOfSpeechCode: 'n',
     skyId: '104816'
   },
   {
     targetWord: 'notable',
-    translation: 'выдающийся',
+    translating: 'выдающийся',
     partOfSpeechCode: 'j',
     skyId: '216641'
   },
   {
     targetWord: 'notable',
-    translation: 'примечательный',
+    translating: 'примечательный',
     partOfSpeechCode: 'j',
     skyId: '240165'
   },
   {
     targetWord: 'notable',
-    translation: 'знаменитость',
+    translating: 'знаменитость',
     partOfSpeechCode: 'n',
     skyId: '216639'
   },
   {
     targetWord: 'notably',
-    translation: 'в особенности',
+    translating: 'в особенности',
     partOfSpeechCode: 'r',
     skyId: '216644'
   },
   {
     targetWord: 'notarize',
-    translation: 'заверять нотариально',
+    translating: 'заверять нотариально',
     partOfSpeechCode: 'v',
     skyId: '27215'
   },
   {
     targetWord: 'notary',
-    translation: 'нотариус',
+    translating: 'нотариус',
     partOfSpeechCode: 'n',
     skyId: '108345'
   },
   {
     targetWord: 'notary public',
-    translation: 'нотариус',
+    translating: 'нотариус',
     partOfSpeechCode: 'n',
     skyId: '144803'
   },
   {
     targetWord: 'notate',
-    translation: 'записывать нотами',
+    translating: 'записывать нотами',
     partOfSpeechCode: 'v',
     skyId: '24734'
   },
   {
     targetWord: 'notation',
-    translation: 'нотное письмо',
+    translating: 'нотное письмо',
     partOfSpeechCode: 'n',
     skyId: '233265'
   },
   {
     targetWord: 'notation',
-    translation: 'нотация',
+    translating: 'нотация',
     partOfSpeechCode: 'n',
     skyId: '47424'
   },
   {
     targetWord: 'notation',
-    translation: 'примечание',
+    translating: 'примечание',
     partOfSpeechCode: 'n',
     skyId: '47423'
   },
   {
     targetWord: 'notation',
-    translation: 'условные знаки',
+    translating: 'условные знаки',
     partOfSpeechCode: 'n',
     skyId: '47422'
   },
   {
     targetWord: 'notational system',
-    translation: 'нотация',
+    translating: 'нотация',
     partOfSpeechCode: 'n',
     skyId: '30626'
   },
   {
     targetWord: 'notch',
-    translation: 'царапина',
+    translating: 'царапина',
     partOfSpeechCode: 'n',
     skyId: '82555'
   },
   {
     targetWord: 'notch',
-    translation: 'паз',
+    translating: 'паз',
     partOfSpeechCode: 'n',
     skyId: '82554'
   },
   {
     targetWord: 'notch',
-    translation: 'горный перевал',
+    translating: 'горный перевал',
     partOfSpeechCode: 'n',
     skyId: '82553'
   },
   {
     targetWord: 'notch',
-    translation: 'выемка',
+    translating: 'выемка',
     partOfSpeechCode: 'n',
     skyId: '82552'
   },
   {
     targetWord: 'notch',
-    translation: 'надрубить',
+    translating: 'надрубить',
     partOfSpeechCode: 'v',
     skyId: '82557'
   },
   {
     targetWord: 'notch',
-    translation: 'прорезать',
+    translating: 'прорезать',
     partOfSpeechCode: 'v',
     skyId: '82556'
   },
   {
     targetWord: 'notched',
-    translation: 'зубчатый',
+    translating: 'зубчатый',
     partOfSpeechCode: 'j',
     skyId: '73460'
   },
   {
     targetWord: 'notched trowel',
-    translation: 'зубчатый шпатель',
+    translating: 'зубчатый шпатель',
     partOfSpeechCode: 'n',
     skyId: '259706'
   },
   {
     targetWord: 'note',
-    translation: 'тон ',
+    translating: 'тон ',
     partOfSpeechCode: 'n',
     skyId: '240166'
   },
   {
     targetWord: 'note',
-    translation: 'записывать',
+    translating: 'записывать',
     partOfSpeechCode: 'v',
     skyId: '226042'
   },
   {
     targetWord: 'note',
-    translation: 'обращать внимание',
+    translating: 'обращать внимание',
     partOfSpeechCode: 'v',
     skyId: '226041'
   },
   {
     targetWord: 'note',
-    translation: 'замечать',
+    translating: 'замечать',
     partOfSpeechCode: 'v',
     skyId: '226040'
   },
   {
     targetWord: 'note',
-    translation: 'упомянуть, подметить',
+    translating: 'упомянуть, подметить',
     partOfSpeechCode: 'v',
     skyId: '226039'
   },
   {
     targetWord: 'note',
-    translation: 'известность',
+    translating: 'известность',
     partOfSpeechCode: 'n',
     skyId: '87537'
   },
   {
     targetWord: 'note',
-    translation: 'примечание',
+    translating: 'примечание',
     partOfSpeechCode: 'n',
     skyId: '87536'
   },
   {
     targetWord: 'note',
-    translation: 'банкнота',
+    translating: 'банкнота',
     partOfSpeechCode: 'n',
     skyId: '228877'
   },
   {
     targetWord: 'note',
-    translation: 'признак',
+    translating: 'признак',
     partOfSpeechCode: 'n',
     skyId: '87534'
   },
   {
     targetWord: 'note',
-    translation: 'нота',
+    translating: 'нота',
     partOfSpeechCode: 'n',
     skyId: '87532'
   },
   {
     targetWord: 'note',
-    translation: 'записка',
+    translating: 'записка',
     partOfSpeechCode: 'n',
     skyId: '87531'
   },
   {
     targetWord: 'note down',
-    translation: 'записать',
+    translating: 'записать',
     partOfSpeechCode: 'v',
     skyId: '244068'
   },
   {
     targetWord: 'note of hand',
-    translation: 'вексель',
+    translating: 'вексель',
     partOfSpeechCode: 'n',
     skyId: '188011'
   },
   {
     targetWord: 'note value',
-    translation: 'длительность ноты',
+    translating: 'длительность ноты',
     partOfSpeechCode: 'n',
     skyId: '6240'
   },
   {
     targetWord: 'notebook',
-    translation: 'ноутбук',
+    translating: 'ноутбук',
     partOfSpeechCode: 'n',
     skyId: '34367'
   },
   {
     targetWord: 'notebook',
-    translation: 'блокнот',
+    translating: 'блокнот',
     partOfSpeechCode: 'n',
     skyId: '34366'
   },
   {
     targetWord: 'notebook computer',
-    translation: 'ноутбук',
+    translating: 'ноутбук',
     partOfSpeechCode: 'n',
     skyId: '1583'
   },
   {
     targetWord: 'notechis',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '213771'
   },
   {
     targetWord: 'notechis scutatus',
-    translation: 'тигровая змея',
+    translating: 'тигровая змея',
     partOfSpeechCode: 'n',
     skyId: '183851'
   },
   {
     targetWord: 'noted',
-    translation: 'выдающийся',
+    translating: 'выдающийся',
     partOfSpeechCode: 'j',
     skyId: '226044'
   },
   {
     targetWord: 'noted',
-    translation: 'известный',
+    translating: 'известный',
     partOfSpeechCode: 'j',
     skyId: '226043'
   },
   {
     targetWord: 'notepad',
-    translation: 'блокнот',
+    translating: 'блокнот',
     partOfSpeechCode: 'n',
     skyId: '65619'
   },
   {
     targetWord: 'notepaper',
-    translation: 'бумага для записей',
+    translating: 'бумага для записей',
     partOfSpeechCode: 'n',
     skyId: '64605'
   },
   {
     targetWord: 'noteworthy',
-    translation: 'примечательный',
+    translating: 'примечательный',
     partOfSpeechCode: 'j',
     skyId: '70053'
   },
   {
     targetWord: 'nothing',
-    translation: 'ничтожество',
+    translating: 'ничтожество',
     partOfSpeechCode: 'n',
     skyId: '255293'
   },
   {
     targetWord: 'nothing',
-    translation: 'пустяк',
+    translating: 'пустяк',
     partOfSpeechCode: 'n',
     skyId: '227991'
   },
   {
     targetWord: 'nothing',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'prn',
     skyId: '227990'
   },
   {
     targetWord: 'nothing at all',
-    translation: 'совсем ничего',
+    translating: 'совсем ничего',
     partOfSpeechCode: 'ph',
     skyId: '252844'
   },
   {
     targetWord: 'nothing better to do',
-    translation: 'больше делать нечего',
+    translating: 'больше делать нечего',
     partOfSpeechCode: 'ph',
     skyId: '228566'
   },
   {
     targetWord: 'nothing comes out of the sack but what was in it',
-    translation: 'выше меры и конь не скачет',
+    translating: 'выше меры и конь не скачет',
     partOfSpeechCode: 'ph',
     skyId: '244104'
   },
   {
     targetWord: 'nothing else',
-    translation: 'ничего больше',
+    translating: 'ничего больше',
     partOfSpeechCode: 'r',
     skyId: '239166'
   },
   {
     targetWord: 'nothing is impossible to a willing heart',
-    translation: 'была бы охота, а возможность найдется',
+    translating: 'была бы охота, а возможность найдется',
     partOfSpeechCode: 'ph',
     skyId: '244103'
   },
   {
     targetWord: 'nothing major',
-    translation: 'ничего важного',
+    translating: 'ничего важного',
     partOfSpeechCode: 'n',
     skyId: '236432'
   },
   {
     targetWord: 'nothing much',
-    translation: 'ничего особенного',
+    translating: 'ничего особенного',
     partOfSpeechCode: 'r',
     skyId: '239168'
   },
   {
     targetWord: 'nothing must be done hastily but killing of fleas',
-    translation: 'поспешность нужна только при ловле блох',
+    translating: 'поспешность нужна только при ловле блох',
     partOfSpeechCode: 'ph',
     skyId: '244102'
   },
   {
     targetWord: 'nothing of the kind',
-    translation: 'ничего подобного',
+    translating: 'ничего подобного',
     partOfSpeechCode: 'ph',
     skyId: '257232'
   },
   {
     targetWord: 'nothing so bad, as not to be good for something',
-    translation: 'нет худа без добра',
+    translating: 'нет худа без добра',
     partOfSpeechCode: 'ph',
     skyId: '244101'
   },
   {
     targetWord: 'nothing special',
-    translation: 'ничего особенного',
+    translating: 'ничего особенного',
     partOfSpeechCode: 'ph',
     skyId: '230203'
   },
   {
     targetWord: 'nothing succeeds like success',
-    translation: 'ничто так не преуспевает, как сам успех',
+    translating: 'ничто так не преуспевает, как сам успех',
     partOfSpeechCode: 'ph',
     skyId: '244100'
   },
   {
     targetWord: 'nothing venture, nothing have',
-    translation: 'ничем не рисковать - значит ничего не иметь',
+    translating: 'ничем не рисковать - значит ничего не иметь',
     partOfSpeechCode: 'ph',
     skyId: '244099'
   },
   {
     targetWord: 'nothing went right',
-    translation: 'ничто не пошло по плану',
+    translating: 'ничто не пошло по плану',
     partOfSpeechCode: 'ph',
     skyId: '251733'
   },
   {
     targetWord: 'nothing wrong with',
-    translation: 'в порядке',
+    translating: 'в порядке',
     partOfSpeechCode: 'j',
     skyId: '239043'
   },
   {
     targetWord: 'nothingness',
-    translation: 'пустяки',
+    translating: 'пустяки',
     partOfSpeechCode: 'n',
     skyId: '166323'
   },
   {
     targetWord: 'nothingness',
-    translation: 'небытие',
+    translating: 'небытие',
     partOfSpeechCode: 'n',
     skyId: '166322'
   },
   {
     targetWord: 'nothings',
-    translation: 'пустяки',
+    translating: 'пустяки',
     partOfSpeechCode: 'n',
     skyId: '217122'
   },
   {
     targetWord: 'nothings',
-    translation: 'болтовня ни о чём',
+    translating: 'болтовня ни о чём',
     partOfSpeechCode: 'n',
     skyId: '217121'
   },
   {
     targetWord: 'nothofagus dombeyi',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '104457'
   },
   {
     targetWord: 'notice',
-    translation: 'отмечать',
+    translating: 'отмечать',
     partOfSpeechCode: 'v',
     skyId: '155735'
   },
   {
     targetWord: 'notice',
-    translation: 'замечать',
+    translating: 'замечать',
     partOfSpeechCode: 'v',
     skyId: '155734'
   },
   {
     targetWord: 'notice',
-    translation: 'ревью',
+    translating: 'ревью',
     partOfSpeechCode: 'n',
     skyId: '94623'
   },
   {
     targetWord: 'notice',
-    translation: 'объявление',
+    translating: 'объявление',
     partOfSpeechCode: 'n',
     skyId: '94621'
   },
   {
     targetWord: 'notice',
-    translation: 'предупреждение',
+    translating: 'предупреждение',
     partOfSpeechCode: 'n',
     skyId: '241426'
   },
   {
     targetWord: 'notice',
-    translation: 'уведомление',
+    translating: 'уведомление',
     partOfSpeechCode: 'n',
     skyId: '94619'
   },
   {
     targetWord: 'notice',
-    translation: 'внимание',
+    translating: 'внимание',
     partOfSpeechCode: 'n',
     skyId: '94622'
   },
   {
     targetWord: 'notice',
-    translation: 'извещение',
+    translating: 'извещение',
     partOfSpeechCode: 'n',
     skyId: '94617'
   },
   {
     targetWord: 'notice board',
-    translation: 'доска объявлений',
+    translating: 'доска объявлений',
     partOfSpeechCode: 'n',
     skyId: '15612'
   },
   {
     targetWord: 'notice period',
-    translation: 'срок уведомления',
+    translating: 'срок уведомления',
     partOfSpeechCode: 'ph',
     skyId: '230504'
   },
   {
     targetWord: 'noticeability',
-    translation: 'заметность',
+    translating: 'заметность',
     partOfSpeechCode: 'n',
     skyId: '221009'
   },
   {
     targetWord: 'noticeable',
-    translation: 'приметный',
+    translating: 'приметный',
     partOfSpeechCode: 'j',
     skyId: '193639'
   },
   {
     targetWord: 'noticeable',
-    translation: 'заметный',
+    translating: 'заметный',
     partOfSpeechCode: 'j',
     skyId: '193638'
   },
   {
     targetWord: 'noticeable colour',
-    translation: 'броский цвет',
+    translating: 'броский цвет',
     partOfSpeechCode: 'n',
     skyId: '249788'
   },
   {
     targetWord: 'noticeably',
-    translation: 'заметно',
+    translating: 'заметно',
     partOfSpeechCode: 'r',
     skyId: '186483'
   },
   {
     targetWord: 'noticeboard',
-    translation: 'доска объявлений',
+    translating: 'доска объявлений',
     partOfSpeechCode: 'n',
     skyId: '237039'
   },
   {
     targetWord: 'noticed',
-    translation: 'замеченный',
+    translating: 'замеченный',
     partOfSpeechCode: 'j',
     skyId: '155737'
   },
   {
     targetWord: 'noticer',
-    translation: 'тот, кто замечает',
+    translating: 'тот, кто замечает',
     partOfSpeechCode: 'n',
     skyId: '155743'
   },
   {
     targetWord: 'notifiable',
-    translation: 'уведомление',
+    translating: 'уведомление',
     partOfSpeechCode: 'j',
     skyId: '226053'
   },
   {
     targetWord: 'notification',
-    translation: 'уведомление',
+    translating: 'уведомление',
     partOfSpeechCode: 'n',
     skyId: '37464'
   },
   {
     targetWord: 'notification',
-    translation: 'уведомление об обвинении',
+    translating: 'уведомление об обвинении',
     partOfSpeechCode: 'n',
     skyId: '37462'
   },
   {
     targetWord: 'notify',
-    translation: 'извещать',
+    translating: 'извещать',
     partOfSpeechCode: 'v',
     skyId: '240168'
   },
   {
     targetWord: 'notifying information',
-    translation: 'известительная информация',
+    translating: 'известительная информация',
     partOfSpeechCode: 'n',
     skyId: '245721'
   },
   {
     targetWord: 'notion',
-    translation: 'галантерея',
+    translating: 'галантерея',
     partOfSpeechCode: 'n',
     skyId: '36605'
   },
   {
     targetWord: 'notion',
-    translation: 'прихоть',
+    translating: 'прихоть',
     partOfSpeechCode: 'n',
     skyId: '36604'
   },
   {
     targetWord: 'notion',
-    translation: 'понятие',
+    translating: 'понятие',
     partOfSpeechCode: 'n',
     skyId: '36603'
   },
   {
     targetWord: 'notion',
-    translation: 'представление',
+    translating: 'представление',
     partOfSpeechCode: 'n',
     skyId: '240169'
   },
   {
     targetWord: 'notional',
-    translation: 'теоретический',
+    translating: 'теоретический',
     partOfSpeechCode: 'j',
     skyId: '128208'
   },
   {
     targetWord: 'notional',
-    translation: 'условный',
+    translating: 'условный',
     partOfSpeechCode: 'j',
     skyId: '128206'
   },
   {
     targetWord: 'notional',
-    translation: 'воображаемый',
+    translating: 'воображаемый',
     partOfSpeechCode: 'j',
     skyId: '128207'
   },
   {
     targetWord: 'notomys',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '55138'
   },
   {
     targetWord: 'notoriety',
-    translation: 'дурная слава',
+    translating: 'дурная слава',
     partOfSpeechCode: 'n',
     skyId: '180574'
   },
   {
     targetWord: 'notorious',
-    translation: 'печально известный',
+    translating: 'печально известный',
     partOfSpeechCode: 'j',
     skyId: '214764'
   },
   {
     targetWord: 'notoriously',
-    translation: 'печально известно',
+    translating: 'печально известно',
     partOfSpeechCode: 'r',
     skyId: '63760'
   },
   {
     targetWord: 'notornis',
-    translation: 'такахе',
+    translating: 'такахе',
     partOfSpeechCode: 'n',
     skyId: '12183'
   },
   {
     targetWord: 'notornis mantelli',
-    translation: 'такахе',
+    translating: 'такахе',
     partOfSpeechCode: 'n',
     skyId: '227746'
   },
   {
     targetWord: 'notropis cornutus',
-    translation: 'корнута',
+    translating: 'корнута',
     partOfSpeechCode: 'n',
     skyId: '35945'
   },
   {
     targetWord: 'notturno',
-    translation: 'ноктюрн',
+    translating: 'ноктюрн',
     partOfSpeechCode: 'n',
     skyId: '26434'
   },
   {
     targetWord: 'notwithstanding',
-    translation: 'вопреки',
+    translating: 'вопреки',
     partOfSpeechCode: 'r',
     skyId: '12766'
   },
   {
     targetWord: 'nougat',
-    translation: 'нуга',
+    translating: 'нуга',
     partOfSpeechCode: 'n',
     skyId: '76319'
   },
   {
     targetWord: 'nougatine',
-    translation: 'нугатин',
+    translating: 'нугатин',
     partOfSpeechCode: 'n',
     skyId: '258819'
   },
   {
     targetWord: 'nought',
-    translation: 'ноль',
+    translating: 'ноль',
     partOfSpeechCode: 'n',
     skyId: '143317'
   },
   {
     targetWord: 'noughties',
-    translation: 'нулевые',
+    translating: 'нулевые',
     partOfSpeechCode: 'n',
     skyId: '261387'
   },
   {
     targetWord: 'noughts and crosses',
-    translation: 'крестики-нолики',
+    translating: 'крестики-нолики',
     partOfSpeechCode: 'n',
     skyId: '91228'
   },
   {
     targetWord: 'noun',
-    translation: 'существительное',
+    translating: 'существительное',
     partOfSpeechCode: 'n',
     skyId: '129573'
   },
   {
     targetWord: 'nourish',
-    translation: 'питать, лелеять',
+    translating: 'питать, лелеять',
     partOfSpeechCode: 'v',
     skyId: '263306'
   },
   {
     targetWord: 'nourish',
-    translation: 'насыщать',
+    translating: 'насыщать',
     partOfSpeechCode: 'v',
     skyId: '170973'
   },
   {
     targetWord: 'nourish',
-    translation: 'кормить',
+    translating: 'кормить',
     partOfSpeechCode: 'v',
     skyId: '170972'
   },
   {
     targetWord: 'nourished',
-    translation: 'вскормленный',
+    translating: 'вскормленный',
     partOfSpeechCode: 'j',
     skyId: '155981'
   },
   {
     targetWord: 'nourishing',
-    translation: 'питательный',
+    translating: 'питательный',
     partOfSpeechCode: 'j',
     skyId: '170974'
   },
   {
     targetWord: 'nourishment',
-    translation: 'питание',
+    translating: 'питание',
     partOfSpeechCode: 'n',
     skyId: '141638'
   },
   {
     targetWord: 'nous',
-    translation: 'разум',
+    translating: 'разум',
     partOfSpeechCode: 'n',
     skyId: '129599'
   },
   {
     targetWord: 'nouveau riche',
-    translation: 'богатый выскочка',
+    translating: 'богатый выскочка',
     partOfSpeechCode: 'j',
     skyId: '43658'
   },
   {
     targetWord: 'nouveau riche',
-    translation: 'нувориш',
+    translating: 'нувориш',
     partOfSpeechCode: 'n',
     skyId: '43657'
   },
   {
     targetWord: 'nouvelle cuisine',
-    translation: 'новая кухня',
+    translating: 'новая кухня',
     partOfSpeechCode: 'n',
     skyId: '45219'
   },
   {
     targetWord: 'nova',
-    translation: 'новая звезда',
+    translating: 'новая звезда',
     partOfSpeechCode: 'n',
     skyId: '171899'
   },
   {
     targetWord: 'nova scotia',
-    translation: 'Новая Шотландия',
+    translating: 'Новая Шотландия',
     partOfSpeechCode: 'n',
     skyId: '173139'
   },
   {
     targetWord: 'novel',
-    translation: 'нестандартный',
+    translating: 'нестандартный',
     partOfSpeechCode: 'j',
     skyId: '155349'
   },
   {
     targetWord: 'novel',
-    translation: 'роман',
+    translating: 'роман',
     partOfSpeechCode: 'n',
     skyId: '155347'
   },
   {
     targetWord: 'novelette',
-    translation: 'повесть',
+    translating: 'повесть',
     partOfSpeechCode: 'n',
     skyId: '93805'
   },
   {
     targetWord: 'novelisation',
-    translation: 'новелизация',
+    translating: 'новелизация',
     partOfSpeechCode: 'n',
     skyId: '52444'
   },
   {
     targetWord: 'novelist',
-    translation: 'писатель-романист',
+    translating: 'писатель-романист',
     partOfSpeechCode: 'n',
     skyId: '105684'
   },
   {
     targetWord: 'novelization',
-    translation: 'новеллизация',
+    translating: 'новеллизация',
     partOfSpeechCode: 'n',
     skyId: '62934'
   },
   {
     targetWord: 'novelize',
-    translation: 'придавать форму романа',
+    translating: 'придавать форму романа',
     partOfSpeechCode: 'v',
     skyId: '181843'
   },
   {
     targetWord: 'novella',
-    translation: 'повесть',
+    translating: 'повесть',
     partOfSpeechCode: 'n',
     skyId: '107178'
   },
   {
     targetWord: 'novelty',
-    translation: 'побрякушка',
+    translating: 'побрякушка',
     partOfSpeechCode: 'n',
     skyId: '30307'
   },
   {
     targetWord: 'novelty',
-    translation: 'безделушка',
+    translating: 'безделушка',
     partOfSpeechCode: 'n',
     skyId: '30306'
   },
   {
     targetWord: 'novelty',
-    translation: 'новинка',
+    translating: 'новинка',
     partOfSpeechCode: 'n',
     skyId: '30305'
   },
   {
     targetWord: 'novelty',
-    translation: 'новизна',
+    translating: 'новизна',
     partOfSpeechCode: 'n',
     skyId: '30304'
   },
   {
     targetWord: 'novelty product',
-    translation: 'новое изделие',
+    translating: 'новое изделие',
     partOfSpeechCode: 'ph',
     skyId: '230617'
   },
   {
     targetWord: 'novelty shop',
-    translation: 'сувенирный магазин',
+    translating: 'сувенирный магазин',
     partOfSpeechCode: 'n',
     skyId: '114353'
   },
   {
     targetWord: 'november 1',
-    translation: 'День всех святых',
+    translating: 'День всех святых',
     partOfSpeechCode: 'n',
     skyId: '49063'
   },
   {
     targetWord: 'november 11',
-    translation: '11 ноября',
+    translating: '11 ноября',
     partOfSpeechCode: 'n',
     skyId: '122626'
   },
   {
     targetWord: 'november 5',
-    translation: '5 ноября',
+    translating: '5 ноября',
     partOfSpeechCode: 'n',
     skyId: '49065'
   },
   {
     targetWord: 'novena',
-    translation: 'новенна',
+    translating: 'новенна',
     partOfSpeechCode: 'n',
     skyId: '190169'
   },
   {
     targetWord: 'novgorod',
-    translation: 'великий новгород',
+    translating: 'великий новгород',
     partOfSpeechCode: 'n',
     skyId: '81243'
   },
   {
     targetWord: 'novice',
-    translation: 'новичок',
+    translating: 'новичок',
     partOfSpeechCode: 'n',
     skyId: '145233'
   },
   {
     targetWord: 'novice',
-    translation: 'новообращённый',
+    translating: 'новообращённый',
     partOfSpeechCode: 'n',
     skyId: '145232'
   },
   {
     targetWord: 'noviciate',
-    translation: 'новициат',
+    translating: 'новициат',
     partOfSpeechCode: 'n',
     skyId: '184669'
   },
   {
     targetWord: 'novillero',
-    translation: 'новильеро',
+    translating: 'новильеро',
     partOfSpeechCode: 'n',
     skyId: '214188'
   },
   {
     targetWord: 'novitiate',
-    translation: 'послушник',
+    translating: 'послушник',
     partOfSpeechCode: 'n',
     skyId: '46597'
   },
   {
     targetWord: 'novitiate',
-    translation: 'послушничество',
+    translating: 'послушничество',
     partOfSpeechCode: 'n',
     skyId: '46596'
   },
   {
     targetWord: 'now',
-    translation: 'теперь, когда',
+    translating: 'теперь, когда',
     partOfSpeechCode: 'cjc',
     skyId: '239531'
   },
   {
     targetWord: 'now',
-    translation: 'к настоящему моменту',
+    translating: 'к настоящему моменту',
     partOfSpeechCode: 'r',
     skyId: '238677'
   },
   {
     targetWord: 'now',
-    translation: 'теперь',
+    translating: 'теперь',
     partOfSpeechCode: 'r',
     skyId: '235226'
   },
   {
     targetWord: 'now',
-    translation: '(прямо) сейчас',
+    translating: '(прямо) сейчас',
     partOfSpeechCode: 'r',
     skyId: '56508'
   },
   {
     targetWord: 'now',
-    translation: 'сейчас',
+    translating: 'сейчас',
     partOfSpeechCode: 'r',
     skyId: '140591'
   },
   {
     targetWord: 'now',
-    translation: 'настоящее время',
+    translating: 'настоящее время',
     partOfSpeechCode: 'n',
     skyId: '56503'
   },
   {
     targetWord: 'now and again',
-    translation: 'время от времени',
+    translating: 'время от времени',
     partOfSpeechCode: 'ph',
     skyId: '25420'
   },
   {
     targetWord: 'now and then',
-    translation: 'временами',
+    translating: 'временами',
     partOfSpeechCode: 'ph',
     skyId: '252367'
   },
   {
     targetWord: 'now and then',
-    translation: 'время от времени',
+    translating: 'время от времени',
     partOfSpeechCode: 'r',
     skyId: '8967'
   },
   {
     targetWord: 'now boarding',
-    translation: 'идёт посадка',
+    translating: 'идёт посадка',
     partOfSpeechCode: 'ph',
     skyId: '230309'
   },
   {
     targetWord: 'now or never',
-    translation: 'сейчас или никогда',
+    translating: 'сейчас или никогда',
     partOfSpeechCode: 'ph',
     skyId: '230402'
   },
   {
     targetWord: 'now that you mentioned that',
-    translation: 'теперь, когда вы упомянули, что...',
+    translating: 'теперь, когда вы упомянули, что...',
     partOfSpeechCode: 'ph',
     skyId: '251092'
   },
   {
     targetWord: 'nowadays',
-    translation: 'в настоящее время',
+    translating: 'в настоящее время',
     partOfSpeechCode: 'r',
     skyId: '119051'
   },
   {
     targetWord: 'nowhere near',
-    translation: 'нигде поблизости',
+    translating: 'нигде поблизости',
     partOfSpeechCode: 'r',
     skyId: '239048'
   },
   {
     targetWord: 'nowhere near',
-    translation: 'нисколько',
+    translating: 'нисколько',
     partOfSpeechCode: 'r',
     skyId: '235897'
   },
   {
     targetWord: 'nowise',
-    translation: 'никоим образом',
+    translating: 'никоим образом',
     partOfSpeechCode: 'r',
     skyId: '27246'
   },
   {
     targetWord: 'noxious',
-    translation: 'вредный',
+    translating: 'вредный',
     partOfSpeechCode: 'j',
     skyId: '65360'
   },
   {
     targetWord: 'noxiously',
-    translation: 'пагубно',
+    translating: 'пагубно',
     partOfSpeechCode: 'r',
     skyId: '227722'
   },
   {
     targetWord: 'noxiousness',
-    translation: 'вред',
+    translating: 'вред',
     partOfSpeechCode: 'n',
     skyId: '27282'
   },
   {
     targetWord: 'nozzle',
-    translation: 'штуцер ',
+    translating: 'штуцер ',
     partOfSpeechCode: 'n',
     skyId: '249448'
   },
   {
     targetWord: 'nozzle',
-    translation: 'нос',
+    translating: 'нос',
     partOfSpeechCode: 'n',
     skyId: '157973'
   },
   {
     targetWord: 'nozzle',
-    translation: 'сопло',
+    translating: 'сопло',
     partOfSpeechCode: 'n',
     skyId: '157972'
   },
   {
     targetWord: 'np',
-    translation: 'практикующая медсестра',
+    translating: 'практикующая медсестра',
     partOfSpeechCode: 'n',
     skyId: '165050'
   },
   {
     targetWord: 'np',
-    translation: 'нептуния',
+    translating: 'нептуния',
     partOfSpeechCode: 'n',
     skyId: '165049'
   },
   {
     targetWord: 'nsaid',
-    translation: 'нестероидный противовоспалительный препарат',
+    translating: 'нестероидный противовоспалительный препарат',
     partOfSpeechCode: 'n',
     skyId: '42803'
   },
-  { targetWord: 'nt', translation: '', partOfSpeechCode: 'n', skyId: '165052' },
+  { targetWord: 'nt', translating: '', partOfSpeechCode: 'n', skyId: '165052' },
   {
     targetWord: 'nth',
-    translation: 'n-ый',
+    translating: 'n-ый',
     partOfSpeechCode: 'j',
     skyId: '102673'
   },
   {
     targetWord: 'nu',
-    translation: 'ню',
+    translating: 'ню',
     partOfSpeechCode: 'n',
     skyId: '81331'
   },
   {
     targetWord: 'nuance',
-    translation: 'нюанс',
+    translating: 'нюанс',
     partOfSpeechCode: 'n',
     skyId: '222347'
   },
   {
     targetWord: 'nub',
-    translation: 'суть',
+    translating: 'суть',
     partOfSpeechCode: 'n',
     skyId: '164358'
   },
   {
     targetWord: 'nub',
-    translation: 'небольшой кусок',
+    translating: 'небольшой кусок',
     partOfSpeechCode: 'n',
     skyId: '164357'
   },
   {
     targetWord: 'nub',
-    translation: 'выпуклость',
+    translating: 'выпуклость',
     partOfSpeechCode: 'n',
     skyId: '164356'
   },
   {
     targetWord: 'nubbin',
-    translation: 'кусочек',
+    translating: 'кусочек',
     partOfSpeechCode: 'n',
     skyId: '158239'
   },
   {
     targetWord: 'nubble',
-    translation: 'небольшой кусок',
+    translating: 'небольшой кусок',
     partOfSpeechCode: 'n',
     skyId: '118170'
   },
   {
     targetWord: 'nubbly',
-    translation: 'шероховатый',
+    translating: 'шероховатый',
     partOfSpeechCode: 'j',
     skyId: '118145'
   },
   {
     targetWord: 'nubian',
-    translation: 'нубиец',
+    translating: 'нубиец',
     partOfSpeechCode: 'n',
     skyId: '2680'
   },
   {
     targetWord: 'nubile',
-    translation: 'брачный',
+    translating: 'брачный',
     partOfSpeechCode: 'j',
     skyId: '94959'
   },
   {
     targetWord: 'nucellus',
-    translation: 'нуцеллуса',
+    translating: 'нуцеллуса',
     partOfSpeechCode: 'n',
     skyId: '94916'
   },
   {
     targetWord: 'nucha',
-    translation: 'затылок',
+    translating: 'затылок',
     partOfSpeechCode: 'n',
     skyId: '164316'
   },
   {
     targetWord: 'nucifraga caryocatactes',
-    translation: 'общие щелкунчик',
+    translating: 'общие щелкунчик',
     partOfSpeechCode: 'n',
     skyId: '225069'
   },
   {
     targetWord: 'nucifraga columbiana',
-    translation: 'североамериканская ореховка',
+    translating: 'североамериканская ореховка',
     partOfSpeechCode: 'n',
     skyId: '33462'
   },
   {
     targetWord: 'nuclear',
-    translation: 'центральный',
+    translating: 'центральный',
     partOfSpeechCode: 'j',
     skyId: '6575'
   },
   {
     targetWord: 'nuclear',
-    translation: 'ядерный ',
+    translating: 'ядерный ',
     partOfSpeechCode: 'j',
     skyId: '238680'
   },
   {
     targetWord: 'nuclear accident',
-    translation: 'ядерная авария',
+    translating: 'ядерная авария',
     partOfSpeechCode: 'n',
     skyId: '228971'
   },
   {
     targetWord: 'nuclear bomb',
-    translation: 'ядерная бомба',
+    translating: 'ядерная бомба',
     partOfSpeechCode: 'ph',
     skyId: '234772'
   },
   {
     targetWord: 'nuclear building drain system',
-    translation: 'система спецканализации',
+    translating: 'система спецканализации',
     partOfSpeechCode: 'n',
     skyId: '249587'
   },
   {
     targetWord: 'nuclear deterrence',
-    translation: 'взаимное гарантированное уничтожение',
+    translating: 'взаимное гарантированное уничтожение',
     partOfSpeechCode: 'n',
     skyId: '91380'
   },
   {
     targetWord: 'nuclear energy',
-    translation: 'ядерная энергия',
+    translating: 'ядерная энергия',
     partOfSpeechCode: 'n',
     skyId: '179400'
   },
   {
     targetWord: 'nuclear engineering',
-    translation: 'ядерная инженерия',
+    translating: 'ядерная инженерия',
     partOfSpeechCode: 'n',
     skyId: '159982'
   },
   {
     targetWord: 'nuclear facility',
-    translation: 'ядерный объект',
+    translating: 'ядерный объект',
     partOfSpeechCode: 'n',
     skyId: '247127'
   },
   {
     targetWord: 'nuclear family',
-    translation: 'нуклеарная семья',
+    translating: 'нуклеарная семья',
     partOfSpeechCode: 'n',
     skyId: '137331'
   },
   {
     targetWord: 'nuclear fuel',
-    translation: 'ядерное топливо',
+    translating: 'ядерное топливо',
     partOfSpeechCode: 'n',
     skyId: '266408'
   },
   {
     targetWord: 'nuclear fuel enrichment',
-    translation: 'обогащение ядерного топлива',
+    translating: 'обогащение ядерного топлива',
     partOfSpeechCode: 'n',
     skyId: '248152'
   },
   {
     targetWord: 'nuclear fuel reprocessing',
-    translation: 'переработка ядерного топлива',
+    translating: 'переработка ядерного топлива',
     partOfSpeechCode: 'v',
     skyId: '246172'
   },
   {
     targetWord: 'nuclear fusion',
-    translation: 'ядерный синтез',
+    translating: 'ядерный синтез',
     partOfSpeechCode: 'n',
     skyId: '113653'
   },
   {
     targetWord: 'nuclear fusion reaction',
-    translation: 'термоядерная реакция',
+    translating: 'термоядерная реакция',
     partOfSpeechCode: 'n',
     skyId: '226223'
   },
   {
     targetWord: 'nuclear island entry control point',
-    translation: 'контрольно-пропускной пункт промплощадки',
+    translating: 'контрольно-пропускной пункт промплощадки',
     partOfSpeechCode: 'n',
     skyId: '248894'
   },
   {
     targetWord: 'nuclear material',
-    translation: 'ядерный материал',
+    translating: 'ядерный материал',
     partOfSpeechCode: 'n',
     skyId: '248633'
   },
   {
     targetWord: 'nuclear material accounting',
-    translation: 'учет ядерного материала',
+    translating: 'учет ядерного материала',
     partOfSpeechCode: 'n',
     skyId: '246746'
   },
   {
     targetWord: 'nuclear material category',
-    translation: 'категория ядерного материала',
+    translating: 'категория ядерного материала',
     partOfSpeechCode: 'n',
     skyId: '248154'
   },
   {
     targetWord: 'nuclear meltdown',
-    translation: 'расплавление активной зоны ядерного реактора',
+    translating: 'расплавление активной зоны ядерного реактора',
     partOfSpeechCode: 'n',
     skyId: '148180'
   },
   {
     targetWord: 'nuclear missile',
-    translation: 'ядерная ракета',
+    translating: 'ядерная ракета',
     partOfSpeechCode: 'n',
     skyId: '236750'
   },
   {
     targetWord: 'nuclear plant location area',
-    translation: 'район размещения атомной станции',
+    translating: 'район размещения атомной станции',
     partOfSpeechCode: 'n',
     skyId: '247128'
   },
   {
     targetWord: 'nuclear power plant',
-    translation: 'атомная электростанция',
+    translating: 'атомная электростанция',
     partOfSpeechCode: 'ph',
     skyId: '260702'
   },
   {
     targetWord: 'nuclear power plant construction',
-    translation: 'сооружение атомной станции',
+    translating: 'сооружение атомной станции',
     partOfSpeechCode: 'n',
     skyId: '247132'
   },
   {
     targetWord: 'nuclear power plant safe operating limits',
-    translation: 'пределы безопасной эксплуатации атомной станции',
+    translating: 'пределы безопасной эксплуатации атомной станции',
     partOfSpeechCode: 'n',
     skyId: '246747'
   },
   {
     targetWord: 'nuclear power station',
-    translation: 'атомная электростанция',
+    translating: 'атомная электростанция',
     partOfSpeechCode: 'ph',
     skyId: '260703'
   },
   {
     targetWord:
       'nuclear power station (reactor plant) design development organizations',
-    translation: 'разработчики проекта атомной станции ',
+    translating: 'разработчики проекта атомной станции ',
     partOfSpeechCode: 'n',
     skyId: '246599'
   },
   {
     targetWord: 'nuclear reactor',
-    translation: 'ядерный реактор',
+    translating: 'ядерный реактор',
     partOfSpeechCode: 'n',
     skyId: '39089'
   },
   {
     targetWord: 'nuclear rna',
-    translation: 'рибонуклеиновая кислота в ядре',
+    translating: 'рибонуклеиновая кислота в ядре',
     partOfSpeechCode: 'n',
     skyId: '171981'
   },
   {
     targetWord: 'nuclear safety',
-    translation: 'ядерная безопасность',
+    translating: 'ядерная безопасность',
     partOfSpeechCode: 'n',
     skyId: '247205'
   },
   {
     targetWord: 'nuclear site',
-    translation: 'промплощадка',
+    translating: 'промплощадка',
     partOfSpeechCode: 'n',
     skyId: '247136'
   },
   {
     targetWord: 'nuclear submarine',
-    translation: 'атомная подводная лодка',
+    translating: 'атомная подводная лодка',
     partOfSpeechCode: 'n',
     skyId: '133869'
   },
   {
     targetWord: 'nuclear terrorism',
-    translation: 'ядерный терроризм',
+    translating: 'ядерный терроризм',
     partOfSpeechCode: 'n',
     skyId: '17084'
   },
   {
     targetWord: 'nuclear warhead',
-    translation: 'ядерная боеголовка',
+    translating: 'ядерная боеголовка',
     partOfSpeechCode: 'n',
     skyId: '172816'
   },
   {
     targetWord: 'nuclear wastes',
-    translation: 'ядерные отходы',
+    translating: 'ядерные отходы',
     partOfSpeechCode: 'n',
     skyId: '246173'
   },
   {
     targetWord: 'nuclear weapon',
-    translation: 'ядерное оружие',
+    translating: 'ядерное оружие',
     partOfSpeechCode: 'n',
     skyId: '62375'
   },
   {
     targetWord: 'nuclear winter',
-    translation: 'ядерная зима',
+    translating: 'ядерная зима',
     partOfSpeechCode: 'n',
     skyId: '180917'
   },
   {
     targetWord: 'nuclear-hazardous activities',
-    translation: 'ядерно-опасные работы',
+    translating: 'ядерно-опасные работы',
     partOfSpeechCode: 'n',
     skyId: '246748'
   },
   {
     targetWord: 'nuclear-powered',
-    translation: 'с ядерной установкой',
+    translating: 'с ядерной установкой',
     partOfSpeechCode: 'j',
     skyId: '233647'
   },
   {
     targetWord: 'nuclear-powered submarine',
-    translation: 'атомная подводная лодка',
+    translating: 'атомная подводная лодка',
     partOfSpeechCode: 'n',
     skyId: '57757'
   },
   {
     targetWord: 'nuclease',
-    translation: 'нуклеаза',
+    translating: 'нуклеаза',
     partOfSpeechCode: 'n',
     skyId: '91807'
   },
   {
     targetWord: 'nucleate',
-    translation: 'ядерный',
+    translating: 'ядерный',
     partOfSpeechCode: 'j',
     skyId: '159521'
   },
   {
     targetWord: 'nucleate',
-    translation: 'чтобы зарождаются',
+    translating: 'чтобы зарождаются',
     partOfSpeechCode: 'v',
     skyId: '159520'
   },
   {
     targetWord: 'nucleated',
-    translation: 'зарождаются',
+    translating: 'зарождаются',
     partOfSpeechCode: 'j',
     skyId: '102557'
   },
   {
     targetWord: 'nucleole',
-    translation: 'ядрышко',
+    translating: 'ядрышко',
     partOfSpeechCode: 'n',
     skyId: '720'
   },
   {
     targetWord: 'nucleolus',
-    translation: 'нуклеола',
+    translating: 'нуклеола',
     partOfSpeechCode: 'n',
     skyId: '143377'
   },
   {
     targetWord: 'nucleon number',
-    translation: 'массовое число',
+    translating: 'массовое число',
     partOfSpeechCode: 'n',
     skyId: '7831'
   },
   {
     targetWord: 'nucleoside',
-    translation: 'нуклеозид',
+    translating: 'нуклеозид',
     partOfSpeechCode: 'n',
     skyId: '167963'
   },
   {
     targetWord: 'nucleotide',
-    translation: 'нуклеотид',
+    translating: 'нуклеотид',
     partOfSpeechCode: 'n',
     skyId: '222219'
   },
   {
     targetWord: 'nucleus',
-    translation: 'группа',
+    translating: 'группа',
     partOfSpeechCode: 'n',
     skyId: '91666'
   },
   {
     targetWord: 'nucleus',
-    translation: 'атомное ядро',
+    translating: 'атомное ядро',
     partOfSpeechCode: 'n',
     skyId: '91665'
   },
   {
     targetWord: 'nucleus',
-    translation: 'ядро',
+    translating: 'ядро',
     partOfSpeechCode: 'n',
     skyId: '91669'
   },
   {
     targetWord: 'nuclide',
-    translation: 'нуклид',
+    translating: 'нуклид',
     partOfSpeechCode: 'n',
     skyId: '263033'
   },
   {
     targetWord: 'nuda',
-    translation: 'бесщупальцевые',
+    translating: 'бесщупальцевые',
     partOfSpeechCode: 'n',
     skyId: '15805'
   },
   {
     targetWord: 'nude',
-    translation: 'обнаженная скульптура',
+    translating: 'обнаженная скульптура',
     partOfSpeechCode: 'n',
     skyId: '15803'
   },
   {
     targetWord: 'nude',
-    translation: 'голый',
+    translating: 'голый',
     partOfSpeechCode: 'j',
     skyId: '15804'
   },
   {
     targetWord: 'nude',
-    translation: 'обнаженный человек',
+    translating: 'обнаженный человек',
     partOfSpeechCode: 'n',
     skyId: '15802'
   },
   {
     targetWord: 'nude',
-    translation: 'нагота',
+    translating: 'нагота',
     partOfSpeechCode: 'n',
     skyId: '15801'
   },
   {
     targetWord: 'nude',
-    translation: 'изображение обнажённой фигуры',
+    translating: 'изображение обнажённой фигуры',
     partOfSpeechCode: 'n',
     skyId: '15800'
   },
   {
     targetWord: 'nude painting',
-    translation: 'живопись в стиле ню',
+    translating: 'живопись в стиле ню',
     partOfSpeechCode: 'n',
     skyId: '9459'
   },
   {
     targetWord: 'nude person',
-    translation: 'обнажённый человек',
+    translating: 'обнажённый человек',
     partOfSpeechCode: 'n',
     skyId: '133484'
   },
   {
     targetWord: 'nude sculpture',
-    translation: 'ню',
+    translating: 'ню',
     partOfSpeechCode: 'n',
     skyId: '92135'
   },
   {
     targetWord: 'nude statue',
-    translation: 'ню',
+    translating: 'ню',
     partOfSpeechCode: 'n',
     skyId: '8320'
   },
   {
     targetWord: 'nudge',
-    translation: 'подталкивание',
+    translating: 'подталкивание',
     partOfSpeechCode: 'n',
     skyId: '265197'
   },
   {
     targetWord: 'nudge',
-    translation: 'подталкивать',
+    translating: 'подталкивать',
     partOfSpeechCode: 'v',
     skyId: '128581'
   },
   {
     targetWord: 'nudge',
-    translation: 'слегка подталкивать',
+    translating: 'слегка подталкивать',
     partOfSpeechCode: 'v',
     skyId: '128580'
   },
   {
     targetWord: 'nudge',
-    translation: 'легкий толчок локтем',
+    translating: 'легкий толчок локтем',
     partOfSpeechCode: 'n',
     skyId: '128579'
   },
   {
     targetWord: 'nudger',
-    translation: 'тот, кто пинает',
+    translating: 'тот, кто пинает',
     partOfSpeechCode: 'n',
     skyId: '219809'
   },
   {
     targetWord: 'nudibranch',
-    translation: 'голожаберные',
+    translating: 'голожаберные',
     partOfSpeechCode: 'n',
     skyId: '40086'
   },
   {
     targetWord: 'nudist',
-    translation: 'нудист',
+    translating: 'нудист',
     partOfSpeechCode: 'n',
     skyId: '53230'
   },
   {
     targetWord: 'nudity',
-    translation: 'нагота',
+    translating: 'нагота',
     partOfSpeechCode: 'n',
     skyId: '166277'
   },
   {
     targetWord: 'nudnick',
-    translation: 'зануда',
+    translating: 'зануда',
     partOfSpeechCode: 'n',
     skyId: '81347'
   },
   {
     targetWord: 'nugatory',
-    translation: 'пустячный',
+    translating: 'пустячный',
     partOfSpeechCode: 'j',
     skyId: '82128'
   },
   {
     targetWord: 'nugget',
-    translation: 'курица в панировке',
+    translating: 'курица в панировке',
     partOfSpeechCode: 'n',
     skyId: '233379'
   },
   {
     targetWord: 'nugget',
-    translation: 'самородок',
+    translating: 'самородок',
     partOfSpeechCode: 'n',
     skyId: '137675'
   },
   {
     targetWord: 'nuisance',
-    translation: 'неудобство',
+    translating: 'неудобство',
     partOfSpeechCode: 'n',
     skyId: '234633'
   },
   {
     targetWord: 'nuisance',
-    translation: 'зануда',
+    translating: 'зануда',
     partOfSpeechCode: 'n',
     skyId: '41979'
   },
   {
     targetWord: 'nuisance',
-    translation: 'неприятность',
+    translating: 'неприятность',
     partOfSpeechCode: 'n',
     skyId: '41978'
   },
   {
     targetWord: 'nuisance abatement',
-    translation: 'устранение источника вреда',
+    translating: 'устранение источника вреда',
     partOfSpeechCode: 'n',
     skyId: '125805'
   },
   {
     targetWord: 'nuisance tax',
-    translation: 'небольшой налог с продаж',
+    translating: 'небольшой налог с продаж',
     partOfSpeechCode: 'n',
     skyId: '27104'
   },
   {
     targetWord: 'nuisance value',
-    translation: 'неудобство',
+    translating: 'неудобство',
     partOfSpeechCode: 'n',
     skyId: '123111'
   },
   {
     targetWord: 'nuke',
-    translation: 'готовить в микроволновой печи',
+    translating: 'готовить в микроволновой печи',
     partOfSpeechCode: 'v',
     skyId: '141490'
   },
   {
     targetWord: 'nuke',
-    translation: 'взрывать ядерную бомбу',
+    translating: 'взрывать ядерную бомбу',
     partOfSpeechCode: 'v',
     skyId: '141489'
   },
   {
     targetWord: 'nuke',
-    translation: 'сбрасывать бомбу',
+    translating: 'сбрасывать бомбу',
     partOfSpeechCode: 'v',
     skyId: '141488'
   },
   {
     targetWord: 'nuke',
-    translation: 'ядерная боеголовка',
+    translating: 'ядерная боеголовка',
     partOfSpeechCode: 'n',
     skyId: '141487'
   },
   {
     targetWord: 'null',
-    translation: 'недействительный',
+    translating: 'недействительный',
     partOfSpeechCode: 'j',
     skyId: '124522'
   },
   {
     targetWord: 'null',
-    translation: 'пустое значение',
+    translating: 'пустое значение',
     partOfSpeechCode: 'n',
     skyId: '124521'
   },
   {
     targetWord: 'null and void',
-    translation: 'потерявший юридическую силу',
+    translating: 'потерявший юридическую силу',
     partOfSpeechCode: 'n',
     skyId: '239050'
   },
   {
     targetWord: 'null set',
-    translation: 'пустое множество',
+    translating: 'пустое множество',
     partOfSpeechCode: 'n',
     skyId: '11844'
   },
   {
     targetWord: 'null space',
-    translation: 'нуль-пространство',
+    translating: 'нуль-пространство',
     partOfSpeechCode: 'n',
     skyId: '79448'
   },
   {
     targetWord: 'nullify',
-    translation: 'нейтрализовать',
+    translating: 'нейтрализовать',
     partOfSpeechCode: 'v',
     skyId: '161903'
   },
   {
     targetWord: 'nullify',
-    translation: 'признавать недействительным',
+    translating: 'признавать недействительным',
     partOfSpeechCode: 'v',
     skyId: '161902'
   },
   {
     targetWord: 'nullify',
-    translation: 'аннулировать',
+    translating: 'аннулировать',
     partOfSpeechCode: 'v',
     skyId: '161901'
   },
   {
     targetWord: 'nullity',
-    translation: 'недействительность',
+    translating: 'недействительность',
     partOfSpeechCode: 'n',
     skyId: '11032'
   },
   {
     targetWord: 'numb',
-    translation: 'ошеломлять',
+    translating: 'ошеломлять',
     partOfSpeechCode: 'v',
     skyId: '232485'
   },
   {
     targetWord: 'numb',
-    translation: 'оцепенелый',
+    translating: 'оцепенелый',
     partOfSpeechCode: 'j',
     skyId: '167373'
   },
   {
     targetWord: 'numb',
-    translation: 'бесчувственный',
+    translating: 'бесчувственный',
     partOfSpeechCode: 'j',
     skyId: '167372'
   },
   {
     targetWord: 'numb',
-    translation: 'онемелый',
+    translating: 'онемелый',
     partOfSpeechCode: 'j',
     skyId: '167371'
   },
   {
     targetWord: 'numb',
-    translation: 'вызвать онемение',
+    translating: 'вызвать онемение',
     partOfSpeechCode: 'v',
     skyId: '167370'
   },
   {
     targetWord: 'numb up',
-    translation: 'онеметь',
+    translating: 'онеметь',
     partOfSpeechCode: 'v',
     skyId: '265329'
   },
   {
     targetWord: 'number',
-    translation: 'числительное',
+    translating: 'числительное',
     partOfSpeechCode: 'n',
     skyId: '254821'
   },
   {
     targetWord: 'number',
-    translation: 'номер',
+    translating: 'номер',
     partOfSpeechCode: 'n',
     skyId: '146090'
   },
   {
     targetWord: 'number',
-    translation: 'число',
+    translating: 'число',
     partOfSpeechCode: 'n',
     skyId: '146089'
   },
   {
     targetWord: 'number',
-    translation: 'количество',
+    translating: 'количество',
     partOfSpeechCode: 'n',
     skyId: '146080'
   },
   {
     targetWord: 'number',
-    translation: 'считать',
+    translating: 'считать',
     partOfSpeechCode: 'v',
     skyId: '146095'
   },
   {
     targetWord: 'number',
-    translation: 'нумеровать',
+    translating: 'нумеровать',
     partOfSpeechCode: 'v',
     skyId: '146092'
   },
   {
     targetWord: 'number',
-    translation: 'относить к числу',
+    translating: 'относить к числу',
     partOfSpeechCode: 'v',
     skyId: '146094'
   },
   {
     targetWord: 'number',
-    translation: 'насчитывать',
+    translating: 'насчитывать',
     partOfSpeechCode: 'v',
     skyId: '146096'
   },
   {
     targetWord: 'number of mobility degrees',
-    translation: 'число степеней подвижности',
+    translating: 'число степеней подвижности',
     partOfSpeechCode: 'n',
     skyId: '260498'
   },
   {
     targetWord: 'number one',
-    translation: 'номер один',
+    translating: 'номер один',
     partOfSpeechCode: 'n',
     skyId: '63043'
   },
   {
     targetWord: 'number one',
-    translation: 'собственная персона',
+    translating: 'собственная персона',
     partOfSpeechCode: 'n',
     skyId: '63042'
   },
   {
     targetWord: 'number one wood',
-    translation: 'номер один древесины',
+    translating: 'номер один древесины',
     partOfSpeechCode: 'n',
     skyId: '27567'
   },
   {
     targetWord: 'number plate',
-    translation: 'номерной знак',
+    translating: 'номерной знак',
     partOfSpeechCode: 'n',
     skyId: '234263'
   },
   {
     targetWord: 'number system',
-    translation: 'числовая система',
+    translating: 'числовая система',
     partOfSpeechCode: 'n',
     skyId: '220869'
   },
   {
     targetWord: 'numbering',
-    translation: 'нумерация',
+    translating: 'нумерация',
     partOfSpeechCode: 'n',
     skyId: '20991'
   },
   {
     targetWord: 'numberless',
-    translation: 'несчётный',
+    translating: 'несчётный',
     partOfSpeechCode: 'j',
     skyId: '170534'
   },
   {
     targetWord: 'numberplate',
-    translation: 'номерной знак',
+    translating: 'номерной знак',
     partOfSpeechCode: 'n',
     skyId: '59119'
   },
   {
     targetWord: 'numbfish',
-    translation: 'нарциновые',
+    translating: 'нарциновые',
     partOfSpeechCode: 'n',
     skyId: '45083'
   },
   {
     targetWord: 'numbing',
-    translation: 'онемелый',
+    translating: 'онемелый',
     partOfSpeechCode: 'j',
     skyId: '24854'
   },
   {
     targetWord: 'numbly',
-    translation: 'онемело',
+    translating: 'онемело',
     partOfSpeechCode: 'r',
     skyId: '78811'
   },
   {
     targetWord: 'numbness',
-    translation: 'апатия',
+    translating: 'апатия',
     partOfSpeechCode: 'n',
     skyId: '190102'
   },
   {
     targetWord: 'numbness',
-    translation: 'онемение',
+    translating: 'онемение',
     partOfSpeechCode: 'n',
     skyId: '190101'
   },
   {
     targetWord: 'numdah',
-    translation: 'расшитый войлочный коврик',
+    translating: 'расшитый войлочный коврик',
     partOfSpeechCode: 'n',
     skyId: '48228'
   },
   {
     targetWord: 'numdah rug',
-    translation: 'войлок',
+    translating: 'войлок',
     partOfSpeechCode: 'n',
     skyId: '108309'
   },
   {
     targetWord: 'numenius arquata',
-    translation: 'большой кроншнеп',
+    translating: 'большой кроншнеп',
     partOfSpeechCode: 'n',
     skyId: '32732'
   },
   {
     targetWord: 'numerable',
-    translation: 'исчислимый',
+    translating: 'исчислимый',
     partOfSpeechCode: 'j',
     skyId: '14934'
   },
   {
     targetWord: 'numeracy',
-    translation: 'умение считать',
+    translating: 'умение считать',
     partOfSpeechCode: 'n',
     skyId: '46469'
   },
   {
     targetWord: 'numeracy skills',
-    translation: 'умение считать',
+    translating: 'умение считать',
     partOfSpeechCode: 'ph',
     skyId: '230613'
   },
   {
     targetWord: 'numeral',
-    translation: 'числовой',
+    translating: 'числовой',
     partOfSpeechCode: 'j',
     skyId: '196'
   },
   {
     targetWord: 'numeral',
-    translation: 'цифра',
+    translating: 'цифра',
     partOfSpeechCode: 'n',
     skyId: '195'
   },
   {
     targetWord: 'numerate',
-    translation: 'умеющий считать',
+    translating: 'умеющий считать',
     partOfSpeechCode: 'j',
     skyId: '55021'
   },
   {
     targetWord: 'numerate',
-    translation: 'обозначать цифрами',
+    translating: 'обозначать цифрами',
     partOfSpeechCode: 'v',
     skyId: '55019'
   },
   {
     targetWord: 'numerate',
-    translation: 'подсчитывать',
+    translating: 'подсчитывать',
     partOfSpeechCode: 'v',
     skyId: '55020'
   },
   {
     targetWord: 'numeration',
-    translation: 'нумерация',
+    translating: 'нумерация',
     partOfSpeechCode: 'n',
     skyId: '170961'
   },
   {
     targetWord: 'numerator',
-    translation: 'числитель',
+    translating: 'числитель',
     partOfSpeechCode: 'n',
     skyId: '65415'
   },
   {
     targetWord: 'numeric',
-    translation: 'числовой',
+    translating: 'числовой',
     partOfSpeechCode: 'j',
     skyId: '117322'
   },
   {
     targetWord: 'numerical',
-    translation: 'математи́ческий',
+    translating: 'математи́ческий',
     partOfSpeechCode: 'j',
     skyId: '135701'
   },
   {
     targetWord: 'numerical',
-    translation: 'цифровой',
+    translating: 'цифровой',
     partOfSpeechCode: 'j',
     skyId: '135700'
   },
   {
     targetWord: 'numerical',
-    translation: 'числовой',
+    translating: 'числовой',
     partOfSpeechCode: 'j',
     skyId: '135699'
   },
   {
     targetWord: 'numerical analysis',
-    translation: 'вычислительная математика',
+    translating: 'вычислительная математика',
     partOfSpeechCode: 'n',
     skyId: '105299'
   },
   {
     targetWord: 'numerical value',
-    translation: 'абсолютная величина',
+    translating: 'абсолютная величина',
     partOfSpeechCode: 'n',
     skyId: '224707'
   },
   {
     targetWord: 'numerically',
-    translation: 'численно',
+    translating: 'численно',
     partOfSpeechCode: 'r',
     skyId: '67168'
   },
   {
     targetWord: 'numerologist',
-    translation: 'нумеролог',
+    translating: 'нумеролог',
     partOfSpeechCode: 'n',
     skyId: '173868'
   },
   {
     targetWord: 'numerology',
-    translation: 'нумерология',
+    translating: 'нумерология',
     partOfSpeechCode: 'n',
     skyId: '135806'
   },
   {
     targetWord: 'numerous',
-    translation: 'многочисленный',
+    translating: 'многочисленный',
     partOfSpeechCode: 'j',
     skyId: '82687'
   },
   {
     targetWord: 'numerous ways',
-    translation: 'многочисленные пути, множество способов, различные пути',
+    translating: 'многочисленные пути, множество способов, различные пути',
     partOfSpeechCode: 'n',
     skyId: '263566'
   },
   {
     targetWord: 'numerousness',
-    translation: 'многочисленность',
+    translating: 'многочисленность',
     partOfSpeechCode: 'n',
     skyId: '164681'
   },
   {
     targetWord: 'numida',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '88511'
   },
   {
     targetWord: 'numida meleagris',
-    translation: 'цесарковые',
+    translating: 'цесарковые',
     partOfSpeechCode: 'n',
     skyId: '53471'
   },
   {
     targetWord: 'numinous',
-    translation: 'загадочный',
+    translating: 'загадочный',
     partOfSpeechCode: 'j',
     skyId: '33425'
   },
   {
     targetWord: 'numismatics',
-    translation: 'нумизматика',
+    translating: 'нумизматика',
     partOfSpeechCode: 'n',
     skyId: '159884'
   },
   {
     targetWord: 'numismatist',
-    translation: 'нумизмат',
+    translating: 'нумизмат',
     partOfSpeechCode: 'n',
     skyId: '151679'
   },
   {
     targetWord: 'numismatologist',
-    translation: 'нумизмат',
+    translating: 'нумизмат',
     partOfSpeechCode: 'n',
     skyId: '57671'
   },
   {
     targetWord: 'nummulitidae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '117246'
   },
   {
     targetWord: 'numskull',
-    translation: 'болван',
+    translating: 'болван',
     partOfSpeechCode: 'n',
     skyId: '35866'
   },
   {
     targetWord: 'nun',
-    translation: 'нун',
+    translating: 'нун',
     partOfSpeechCode: 'n',
     skyId: '164350'
   },
   {
     targetWord: 'nun',
-    translation: 'монахиня',
+    translating: 'монахиня',
     partOfSpeechCode: 'n',
     skyId: '164348'
   },
   {
     targetWord: "nun's habit",
-    translation: 'одеяние монахини',
+    translating: 'одеяние монахини',
     partOfSpeechCode: 'n',
     skyId: '154219'
   },
   {
     targetWord: 'nunavut',
-    translation: 'Нунавут',
+    translating: 'Нунавут',
     partOfSpeechCode: 'n',
     skyId: '51048'
   },
   {
     targetWord: 'nuncio',
-    translation: 'нунций',
+    translating: 'нунций',
     partOfSpeechCode: 'n',
     skyId: '191613'
   },
   {
     targetWord: 'nung',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '41146'
   },
   {
     targetWord: 'nunight',
-    translation: 'доброй ночи',
+    translating: 'доброй ночи',
     partOfSpeechCode: 'ph',
     skyId: '259782'
   },
   {
     targetWord: 'nunnery',
-    translation: 'монастырь',
+    translating: 'монастырь',
     partOfSpeechCode: 'n',
     skyId: '10'
   },
   {
     targetWord: 'nuprin',
-    translation: 'ибупрофен',
+    translating: 'ибупрофен',
     partOfSpeechCode: 'n',
     skyId: '169803'
   },
   {
     targetWord: 'nuptial',
-    translation: 'брачный',
+    translating: 'брачный',
     partOfSpeechCode: 'j',
     skyId: '138024'
   },
   {
     targetWord: 'nuptials',
-    translation: 'свадебная церемония',
+    translating: 'свадебная церемония',
     partOfSpeechCode: 'n',
     skyId: '3255'
   },
   {
     targetWord: 'nurnberg',
-    translation: 'нюрнберг',
+    translating: 'нюрнберг',
     partOfSpeechCode: 'n',
     skyId: '45930'
   },
   {
     targetWord: 'nurse',
-    translation: 'няня',
+    translating: 'няня',
     partOfSpeechCode: 'n',
     skyId: '145505'
   },
   {
     targetWord: 'nurse',
-    translation: 'медсестра',
+    translating: 'медсестра',
     partOfSpeechCode: 'n',
     skyId: '145504'
   },
   {
     targetWord: 'nurse',
-    translation: 'кормить грудью',
+    translating: 'кормить грудью',
     partOfSpeechCode: 'v',
     skyId: '145510'
   },
   {
     targetWord: 'nurse',
-    translation: 'ухаживать',
+    translating: 'ухаживать',
     partOfSpeechCode: 'v',
     skyId: '145509'
   },
   {
     targetWord: 'nurse',
-    translation: 'лелеять ',
+    translating: 'лелеять ',
     partOfSpeechCode: 'v',
     skyId: '145507'
   },
   {
     targetWord: 'nurse',
-    translation: 'ухаживать ',
+    translating: 'ухаживать ',
     partOfSpeechCode: 'v',
     skyId: '145508'
   },
   {
     targetWord: 'nurse a grudge',
-    translation: 'питать неприязнь ',
+    translating: 'питать неприязнь ',
     partOfSpeechCode: 'ph',
     skyId: '241528'
   },
   {
     targetWord: 'nurse clinician',
-    translation: 'медсестра',
+    translating: 'медсестра',
     partOfSpeechCode: 'n',
     skyId: '172616'
   },
   {
     targetWord: 'nurse log',
-    translation: 'упавшее дерево, которое питает другие деревья и растения',
+    translating: 'упавшее дерево, которое питает другие деревья и растения',
     partOfSpeechCode: 'n',
     skyId: '86454'
   },
   {
     targetWord: 'nurse practitioner',
-    translation: 'практикующая медсестра',
+    translating: 'практикующая медсестра',
     partOfSpeechCode: 'n',
     skyId: '102899'
   },
   {
     targetWord: 'nurse shark',
-    translation: 'усатая акула-нянька',
+    translating: 'усатая акула-нянька',
     partOfSpeechCode: 'n',
     skyId: '28193'
   },
   {
     targetWord: "nurse's aide",
-    translation: 'санитар',
+    translating: 'санитар',
     partOfSpeechCode: 'n',
     skyId: '142863'
   },
   {
     targetWord: 'nurse-midwife',
-    translation: 'медсестра-акушерка',
+    translating: 'медсестра-акушерка',
     partOfSpeechCode: 'n',
     skyId: '72663'
   },
   {
     targetWord: 'nurse-patient relation',
-    translation: 'медсестра-пациент отношения',
+    translating: 'медсестра-пациент отношения',
     partOfSpeechCode: 'n',
     skyId: '121341'
   },
   {
     targetWord: 'nursemaid',
-    translation: 'няня',
+    translating: 'няня',
     partOfSpeechCode: 'n',
     skyId: '179276'
   },
   {
     targetWord: 'nurser',
-    translation: 'ухаживающий',
+    translating: 'ухаживающий',
     partOfSpeechCode: 'n',
     skyId: '120138'
   },
   {
     targetWord: 'nursery',
-    translation: 'ясли',
+    translating: 'ясли',
     partOfSpeechCode: 'n',
     skyId: '238681'
   },
   {
     targetWord: 'nursery',
-    translation: 'теплица',
+    translating: 'теплица',
     partOfSpeechCode: 'n',
     skyId: '120245'
   },
   {
     targetWord: 'nursery',
-    translation: 'детская комната',
+    translating: 'детская комната',
     partOfSpeechCode: 'n',
     skyId: '120244'
   },
   {
     targetWord: 'nursery nurse',
-    translation: 'воспитательница в детском саду',
+    translating: 'воспитательница в детском саду',
     partOfSpeechCode: 'n',
     skyId: '236874'
   },
   {
     targetWord: 'nursery rhyme',
-    translation: 'детский стишок',
+    translating: 'детский стишок',
     partOfSpeechCode: 'n',
     skyId: '122995'
   },
   {
     targetWord: 'nursery school',
-    translation: 'детский сад',
+    translating: 'детский сад',
     partOfSpeechCode: 'n',
     skyId: '12261'
   },
   {
     targetWord: 'nurseryman',
-    translation: 'садовник',
+    translating: 'садовник',
     partOfSpeechCode: 'n',
     skyId: '131710'
   },
   {
     targetWord: 'nursing',
-    translation: 'кормление грудью',
+    translating: 'кормление грудью',
     partOfSpeechCode: 'n',
     skyId: '136554'
   },
   {
     targetWord: 'nursing',
-    translation: 'медсестринское дело',
+    translating: 'медсестринское дело',
     partOfSpeechCode: 'n',
     skyId: '136553'
   },
   {
     targetWord: 'nursing',
-    translation: 'уход',
+    translating: 'уход',
     partOfSpeechCode: 'n',
     skyId: '136552'
   },
   {
     targetWord: 'nursing aide',
-    translation: 'санитар',
+    translating: 'санитар',
     partOfSpeechCode: 'n',
     skyId: '117029'
   },
   {
     targetWord: 'nursing care',
-    translation: 'уход за больным',
+    translating: 'уход за больным',
     partOfSpeechCode: 'n',
     skyId: '9479'
   },
   {
     targetWord: 'nursing home',
-    translation: 'дом престарелых',
+    translating: 'дом престарелых',
     partOfSpeechCode: 'n',
     skyId: '18687'
   },
   {
     targetWord: 'nursing school',
-    translation: 'школа медсестер',
+    translating: 'школа медсестер',
     partOfSpeechCode: 'n',
     skyId: '19673'
   },
   {
     targetWord: 'nurturance',
-    translation: 'забота',
+    translating: 'забота',
     partOfSpeechCode: 'n',
     skyId: '51924'
   },
   {
     targetWord: 'nurture',
-    translation: 'развивать',
+    translating: 'развивать',
     partOfSpeechCode: 'v',
     skyId: '265571'
   },
   {
     targetWord: 'nurture',
-    translation: 'культивировать',
+    translating: 'культивировать',
     partOfSpeechCode: 'v',
     skyId: '265266'
   },
   {
     targetWord: 'nurture',
-    translation: 'кормить',
+    translating: 'кормить',
     partOfSpeechCode: 'v',
     skyId: '41432'
   },
   {
     targetWord: 'nurture',
-    translation: 'воспитывать',
+    translating: 'воспитывать',
     partOfSpeechCode: 'v',
     skyId: '41431'
   },
   {
     targetWord: 'nurture',
-    translation: 'воспитание',
+    translating: 'воспитание',
     partOfSpeechCode: 'n',
     skyId: '41429'
   },
   {
     targetWord: 'nurture the patent through the examination process',
-    translation: 'развивать патент через процесс экспертизы',
+    translating: 'развивать патент через процесс экспертизы',
     partOfSpeechCode: 'ph',
     skyId: '247754'
   },
   {
     targetWord: 'nut',
-    translation: 'собирать орехи',
+    translating: 'собирать орехи',
     partOfSpeechCode: 'v',
     skyId: '77172'
   },
   {
     targetWord: 'nut',
-    translation: 'яичко',
+    translating: 'яичко',
     partOfSpeechCode: 'n',
     skyId: '77171'
   },
   {
     targetWord: 'nut',
-    translation: 'приверженец',
+    translating: 'приверженец',
     partOfSpeechCode: 'n',
     skyId: '77170'
   },
   {
     targetWord: 'nut',
-    translation: 'чудак',
+    translating: 'чудак',
     partOfSpeechCode: 'n',
     skyId: '77169'
   },
   {
     targetWord: 'nut',
-    translation: 'гайка',
+    translating: 'гайка',
     partOfSpeechCode: 'n',
     skyId: '77167'
   },
   {
     targetWord: 'nut',
-    translation: 'орех',
+    translating: 'орех',
     partOfSpeechCode: 'n',
     skyId: '77165'
   },
   {
     targetWord: 'nut and bolt',
-    translation: 'болт с гайкой',
+    translating: 'болт с гайкой',
     partOfSpeechCode: 'n',
     skyId: '77200'
   },
   {
     targetWord: 'nut bar',
-    translation: 'ореховая паста',
+    translating: 'ореховая паста',
     partOfSpeechCode: 'n',
     skyId: '8239'
   },
   {
     targetWord: 'nut butter',
-    translation: 'ореховое масло',
+    translating: 'ореховое масло',
     partOfSpeechCode: 'n',
     skyId: '147034'
   },
   {
     targetWord: 'nut case',
-    translation: 'псих',
+    translating: 'псих',
     partOfSpeechCode: 'n',
     skyId: '111248'
   },
   {
     targetWord: 'nut house',
-    translation: 'сумасшедший дом',
+    translating: 'сумасшедший дом',
     partOfSpeechCode: 'n',
     skyId: '72371'
   },
   {
     targetWord: 'nut pine',
-    translation: 'гайка сосна',
+    translating: 'гайка сосна',
     partOfSpeechCode: 'n',
     skyId: '219292'
   },
   {
     targetWord: 'nutcase',
-    translation: 'сумасшедший',
+    translating: 'сумасшедший',
     partOfSpeechCode: 'n',
     skyId: '40500'
   },
   {
     targetWord: 'nutcracker',
-    translation: 'щелкунчик',
+    translating: 'щелкунчик',
     partOfSpeechCode: 'n',
     skyId: '255611'
   },
   {
     targetWord: 'nutcracker',
-    translation: 'птицы, питающиеся орехами',
+    translating: 'птицы, питающиеся орехами',
     partOfSpeechCode: 'n',
     skyId: '60371'
   },
   {
     targetWord: 'nutcracker',
-    translation: 'щипцы для орехов',
+    translating: 'щипцы для орехов',
     partOfSpeechCode: 'n',
     skyId: '233125'
   },
   {
     targetWord: 'nuthatch',
-    translation: 'поползень',
+    translating: 'поползень',
     partOfSpeechCode: 'n',
     skyId: '122518'
   },
   {
     targetWord: 'nuthouse',
-    translation: 'сумасшедший дом',
+    translating: 'сумасшедший дом',
     partOfSpeechCode: 'n',
     skyId: '10109'
   },
   {
     targetWord: 'nutlet',
-    translation: 'орешек',
+    translating: 'орешек',
     partOfSpeechCode: 'n',
     skyId: '120654'
   },
   {
     targetWord: 'nutmeg',
-    translation: 'мускатный орех',
+    translating: 'мускатный орех',
     partOfSpeechCode: 'n',
     skyId: '53392'
   },
   {
     targetWord: 'nutmeg melon',
-    translation: 'мускатный орех',
+    translating: 'мускатный орех',
     partOfSpeechCode: 'n',
     skyId: '123168'
   },
   {
     targetWord: 'nutmeg tree',
-    translation: 'мускатное дерево душистое',
+    translating: 'мускатное дерево душистое',
     partOfSpeechCode: 'n',
     skyId: '192443'
   },
   {
     targetWord: 'nutria',
-    translation: 'нутрия',
+    translating: 'нутрия',
     partOfSpeechCode: 'n',
     skyId: '93723'
   },
   {
     targetWord: 'nutrient',
-    translation: 'питательный',
+    translating: 'питательный',
     partOfSpeechCode: 'j',
     skyId: '46401'
   },
   {
     targetWord: 'nutrient',
-    translation: 'питательное вещество',
+    translating: 'питательное вещество',
     partOfSpeechCode: 'n',
     skyId: '46400'
   },
   {
     targetWord: 'nutrient density',
-    translation: 'плотность питательных веществ',
+    translating: 'плотность питательных веществ',
     partOfSpeechCode: 'n',
     skyId: '263772'
   },
   {
     targetWord: 'nutrify',
-    translation: 'питать',
+    translating: 'питать',
     partOfSpeechCode: 'v',
     skyId: '226007'
   },
   {
     targetWord: 'nutriment',
-    translation: 'пища',
+    translating: 'пища',
     partOfSpeechCode: 'n',
     skyId: '133714'
   },
   {
     targetWord: 'nutrition',
-    translation: 'диетология',
+    translating: 'диетология',
     partOfSpeechCode: 'n',
     skyId: '66417'
   },
   {
     targetWord: 'nutrition',
-    translation: 'питание',
+    translating: 'питание',
     partOfSpeechCode: 'n',
     skyId: '240174'
   },
   {
     targetWord: 'nutrition facts',
-    translation: 'информация о питательности продукта',
+    translating: 'информация о питательности продукта',
     partOfSpeechCode: 'ph',
     skyId: '254004'
   },
   {
     targetWord: 'nutrition solution',
-    translation: 'питательный раствор',
+    translating: 'питательный раствор',
     partOfSpeechCode: 'n',
     skyId: '260906'
   },
   {
     targetWord: 'nutritional',
-    translation: 'питательный ',
+    translating: 'питательный ',
     partOfSpeechCode: 'j',
     skyId: '240175'
   },
   {
     targetWord: 'nutritional psychiatry',
-    translation: 'пищевая психиатрия',
+    translating: 'пищевая психиатрия',
     partOfSpeechCode: 'n',
     skyId: '264715'
   },
   {
     targetWord: 'nutritional value',
-    translation: 'пищевая ценность',
+    translating: 'пищевая ценность',
     partOfSpeechCode: 'n',
     skyId: '263773'
   },
   {
     targetWord: 'nutritionally',
-    translation: 'питательно',
+    translating: 'питательно',
     partOfSpeechCode: 'r',
     skyId: '124193'
   },
   {
     targetWord: 'nutritionary',
-    translation: 'питательный',
+    translating: 'питательный',
     partOfSpeechCode: 'j',
     skyId: '62641'
   },
   {
     targetWord: 'nutritionist',
-    translation: 'диетолог',
+    translating: 'диетолог',
     partOfSpeechCode: 'n',
     skyId: '68040'
   },
   {
     targetWord: "nutritionist's calorie",
-    translation: 'калория',
+    translating: 'калория',
     partOfSpeechCode: 'n',
     skyId: '19976'
   },
   {
     targetWord: 'nutritious',
-    translation: 'питательный ',
+    translating: 'питательный ',
     partOfSpeechCode: 'j',
     skyId: '240176'
   },
   {
     targetWord: 'nutritious',
-    translation: 'питательный',
+    translating: 'питательный',
     partOfSpeechCode: 'j',
     skyId: '155219'
   },
   {
     targetWord: 'nutritiousness',
-    translation: 'питательность',
+    translating: 'питательность',
     partOfSpeechCode: 'n',
     skyId: '170325'
   },
   {
     targetWord: 'nutritive',
-    translation: 'питательный',
+    translating: 'питательный',
     partOfSpeechCode: 'j',
     skyId: '149845'
   },
   {
     targetWord: 'nutritiveness',
-    translation: 'питательность',
+    translating: 'питательность',
     partOfSpeechCode: 'n',
     skyId: '66511'
   },
   {
     targetWord: 'nuts and bolts',
-    translation: 'основная информация',
+    translating: 'основная информация',
     partOfSpeechCode: 'ph',
     skyId: '216507'
   },
   {
     targetWord: 'nutshell',
-    translation: 'ореховая скорлупа',
+    translating: 'ореховая скорлупа',
     partOfSpeechCode: 'n',
     skyId: '161285'
   },
   {
     targetWord: 'nuttall oak',
-    translation: 'дуба',
+    translating: 'дуба',
     partOfSpeechCode: 'n',
     skyId: '157868'
   },
   {
     targetWord: "nuttall's oak",
-    translation: 'дуба',
+    translating: 'дуба',
     partOfSpeechCode: 'n',
     skyId: '192966'
   },
   {
     targetWord: 'nutter',
-    translation: 'псих',
+    translating: 'псих',
     partOfSpeechCode: 'n',
     skyId: '100060'
   },
   {
     targetWord: 'nutty',
-    translation: 'чокнутый',
+    translating: 'чокнутый',
     partOfSpeechCode: 'j',
     skyId: '53205'
   },
   {
     targetWord: 'nutty',
-    translation: 'ореховый ',
+    translating: 'ореховый ',
     partOfSpeechCode: 'j',
     skyId: '53204'
   },
   {
     targetWord: 'nuzzle up',
-    translation: 'уткнуться',
+    translating: 'уткнуться',
     partOfSpeechCode: 'v',
     skyId: '263701'
   },
   {
     targetWord: 'nv',
-    translation: 'невада',
+    translating: 'невада',
     partOfSpeechCode: 'n',
     skyId: '165054'
   },
-  { targetWord: 'nw', translation: 'з', partOfSpeechCode: 'n', skyId: '81344' },
+  { targetWord: 'nw', translating: 'з', partOfSpeechCode: 'n', skyId: '81344' },
   {
     targetWord: 'ny',
-    translation: 'Нью-Йорк',
+    translating: 'Нью-Йорк',
     partOfSpeechCode: 'n',
     skyId: '81263'
   },
   {
     targetWord: 'nyala',
-    translation: 'ньяла',
+    translating: 'ньяла',
     partOfSpeechCode: 'n',
     skyId: '2587'
   },
   {
     targetWord: 'nyasaland',
-    translation: 'малави',
+    translating: 'малави',
     partOfSpeechCode: 'n',
     skyId: '8018'
   },
   {
     targetWord: 'nyctanassa',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '186517'
   },
   {
     targetWord: 'nyctanassa violacea',
-    translation: 'желтоголовая кваква',
+    translating: 'желтоголовая кваква',
     partOfSpeechCode: 'n',
     skyId: '176573'
   },
   {
     targetWord: 'nyctereutes procyonides',
-    translation: 'енотовидная собака',
+    translating: 'енотовидная собака',
     partOfSpeechCode: 'n',
     skyId: '161727'
   },
   {
     targetWord: 'nycticebus pygmaeus',
-    translation: 'толстые лори',
+    translating: 'толстые лори',
     partOfSpeechCode: 'n',
     skyId: '164979'
   },
   {
     targetWord: 'nycticebus tardigradua',
-    translation: 'толстые лори',
+    translating: 'толстые лори',
     partOfSpeechCode: 'n',
     skyId: '24998'
   },
   {
     targetWord: 'nycticorax nycticorax',
-    translation: 'обыкновенная кваква',
+    translating: 'обыкновенная кваква',
     partOfSpeechCode: 'n',
     skyId: '89810'
   },
   {
     targetWord: 'nydrazid',
-    translation: 'изониазид',
+    translating: 'изониазид',
     partOfSpeechCode: 'n',
     skyId: '152148'
   },
   {
     targetWord: 'nylghai',
-    translation: 'нильгау',
+    translating: 'нильгау',
     partOfSpeechCode: 'n',
     skyId: '158392'
   },
   {
     targetWord: 'nylghau',
-    translation: 'нильгау',
+    translating: 'нильгау',
     partOfSpeechCode: 'n',
     skyId: '158397'
   },
   {
     targetWord: 'nylon',
-    translation: 'нейлон ',
+    translating: 'нейлон ',
     partOfSpeechCode: 'n',
     skyId: '100828'
   },
   {
     targetWord: 'nylon stocking',
-    translation: 'нейлоновый чулок',
+    translating: 'нейлоновый чулок',
     partOfSpeechCode: 'n',
     skyId: '139684'
   },
   {
     targetWord: 'nylons',
-    translation: 'нейлон',
+    translating: 'нейлон',
     partOfSpeechCode: 'n',
     skyId: '175317'
   },
   {
     targetWord: 'nylons',
-    translation: 'нейлоновые чулки',
+    translating: 'нейлоновые чулки',
     partOfSpeechCode: 'n',
     skyId: '175315'
   },
   {
     targetWord: 'nymph',
-    translation: 'нимфа',
+    translating: 'нимфа',
     partOfSpeechCode: 'n',
     skyId: '72867'
   },
   {
     targetWord: 'nymph',
-    translation: 'личинка',
+    translating: 'личинка',
     partOfSpeechCode: 'n',
     skyId: '72866'
   },
   {
     targetWord: 'nymphaea',
-    translation: 'кувшинка',
+    translating: 'кувшинка',
     partOfSpeechCode: 'n',
     skyId: '150789'
   },
   {
     targetWord: 'nymphaea alba',
-    translation: 'кувшинка белая',
+    translating: 'кувшинка белая',
     partOfSpeechCode: 'n',
     skyId: '63034'
   },
   {
     targetWord: 'nymphaea stellata',
-    translation: 'звёздный лотос',
+    translating: 'звёздный лотос',
     partOfSpeechCode: 'n',
     skyId: '124339'
   },
   {
     targetWord: 'nymphalid',
-    translation: 'бабочки',
+    translating: 'бабочки',
     partOfSpeechCode: 'n',
     skyId: '44600'
   },
   {
     targetWord: 'nymphalis antiopa',
-    translation: 'красоты',
+    translating: 'красоты',
     partOfSpeechCode: 'n',
     skyId: '190671'
   },
   {
     targetWord: 'nymphet',
-    translation: 'нимфетка',
+    translating: 'нимфетка',
     partOfSpeechCode: 'n',
     skyId: '28326'
   },
   {
     targetWord: 'nymphicus hollandicus',
-    translation: 'корелла',
+    translating: 'корелла',
     partOfSpeechCode: 'n',
     skyId: '140383'
   },
   {
     targetWord: 'nympho',
-    translation: 'нимфоманка',
+    translating: 'нимфоманка',
     partOfSpeechCode: 'n',
     skyId: '170836'
   },
   {
     targetWord: 'nympholepsy',
-    translation: 'нимфолепсия',
+    translating: 'нимфолепсия',
     partOfSpeechCode: 'n',
     skyId: '24640'
   },
   {
     targetWord: 'nymphomania',
-    translation: 'нимфомания',
+    translating: 'нимфомания',
     partOfSpeechCode: 'n',
     skyId: '82307'
   },
   {
     targetWord: 'nypa',
-    translation: 'нипа',
+    translating: 'нипа',
     partOfSpeechCode: 'n',
     skyId: '133102'
   }

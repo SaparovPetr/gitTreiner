@@ -1,12 +1,15 @@
-import { ChangeEvent, ChangeEventHandler, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 // eslint-disable-next-line import/order
+import { picData } from '@slices/modal-content-slice';
+// eslint-disable-next-line import/order
 import { mapSearchResults } from '@utils/mapSearchResults';
-// import styles from './search.module.css';
-// import { aArr } from '../../word-bases/aArr';
 
+import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
+import styles from './search-results.module.css';
+import { useAppDispatch } from '../../services/store';
 import { aArr } from '../../word-bases/myriad/aArr';
 import { bArr } from '../../word-bases/myriad/bArr';
 import { cArr } from '../../word-bases/myriad/cArr';
@@ -38,16 +41,11 @@ import { zArr } from '../../word-bases/myriad/zArr';
 const SearchResults = ({ dataFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
+  const dispatch = useAppDispatch();
 
   const makeList = (oneArr: any) => {
     let arrWithRes = mapSearchResults(dataFromInput, oneArr).slice(0, 9);
-    let a: any = [];
-    arrWithRes.forEach((element: any) => {
-      let b = `${element.targetWord} - ${element.translation}`;
-      a.push(b);
-    });
-    console.log(a);
-    return a;
+    return arrWithRes;
   };
 
   useEffect(() => {
@@ -110,30 +108,27 @@ const SearchResults = ({ dataFromInput }: any) => {
     }
   }, [dataFromInput]);
 
+  const handleClick = (index: number) => {
+    dispatch(picData(state[index]));
+  };
+
   return (
     <>
       {state && (
-        <div>
-          <Link
-            to='/gitTreiner/word'
-            state={{ backgroundLocation: locationInTheApp }}
-          >
-            {state[0]}
-          </Link>
-
-          <div>{state[1]}</div>
-          <div>{state[2]}</div>
-          <div>{state[3]}</div>
-          <div>{state[4]}</div>
-          <div>{state[5]}</div>
-          <div>{state[6]}</div>
-          <div>{state[7]}</div>
-          <div>{state[8]}</div>
-          <div>{state[9]}</div>
+        <div className={styles.container}>
+          {state.map((item: TOneWord, index: number) => (
+            <Link
+              className={styles.link}
+              key={index}
+              onClick={() => handleClick(index)}
+              to='/gitTreiner/word'
+              state={{ backgroundLocation: locationInTheApp }}
+            >
+              {`${item.targetWord} - ${item.translating}`}
+            </Link>
+          ))}
         </div>
       )}
-
-      {/* <div onClick={makeList}>{'sdfg'}</div> */}
     </>
   );
 };

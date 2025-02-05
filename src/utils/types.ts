@@ -6,6 +6,7 @@ export type TOneWord = {
   translating: string;
   skyid: string;
   id: string;
+  partOfSpeechCode?: string;
 };
 
 /** виды режимов приложения (уровня изучаемых слов) */

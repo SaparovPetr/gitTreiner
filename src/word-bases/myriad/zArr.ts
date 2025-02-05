@@ -1,314 +1,314 @@
 export const zArr = [
   {
     targetWord: 'zairean',
-    translation: 'заира',
+    translating: 'заира',
     partOfSpeechCode: 'j',
     skyId: '211635'
   },
-  { targetWord: 'z', translation: 'Z', partOfSpeechCode: 'n', skyId: '111239' },
+  { targetWord: 'z', translating: 'Z', partOfSpeechCode: 'n', skyId: '111239' },
   {
     targetWord: 'z',
-    translation: 'зет',
+    translating: 'зет',
     partOfSpeechCode: 'n',
     skyId: '111238'
   },
   {
     targetWord: 'z-shaped profile',
-    translation: 'профиль зетовый',
+    translating: 'профиль зетовый',
     partOfSpeechCode: 'n',
     skyId: '247665'
   },
   {
     targetWord: 'zabaglione',
-    translation: 'сабайон',
+    translating: 'сабайон',
     partOfSpeechCode: 'n',
     skyId: '17438'
   },
   {
     targetWord: 'zacharias',
-    translation: 'захария',
+    translating: 'захария',
     partOfSpeechCode: 'n',
     skyId: '127648'
   },
   {
     targetWord: 'zaftig',
-    translation: 'пышный',
+    translating: 'пышный',
     partOfSpeechCode: 'j',
     skyId: '78989'
   },
   {
     targetWord: 'zag',
-    translation: 'зигзаг',
+    translating: 'зигзаг',
     partOfSpeechCode: 'n',
     skyId: '94244'
   },
   {
     targetWord: 'zagreb',
-    translation: 'Загреб',
+    translating: 'Загреб',
     partOfSpeechCode: 'n',
     skyId: '154668'
   },
   {
     targetWord: 'zaire',
-    translation: 'заир',
+    translating: 'заир',
     partOfSpeechCode: 'n',
     skyId: '83872'
   },
   {
     targetWord: 'zakat',
-    translation: 'закят',
+    translating: 'закят',
     partOfSpeechCode: 'n',
     skyId: '188050'
   },
   {
     targetWord: 'zalophus californianus',
-    translation: 'сашогшсиз',
+    translating: 'сашогшсиз',
     partOfSpeechCode: 'n',
     skyId: '71710'
   },
   {
     targetWord: 'zalophus californicus',
-    translation: 'сашогшсиз',
+    translating: 'сашогшсиз',
     partOfSpeechCode: 'n',
     skyId: '148957'
   },
   {
     targetWord: 'zalophus lobatus',
-    translation: 'австралийский морской лев',
+    translating: 'австралийский морской лев',
     partOfSpeechCode: 'n',
     skyId: '137165'
   },
   {
     targetWord: 'zama',
-    translation: 'битва при заме',
+    translating: 'битва при заме',
     partOfSpeechCode: 'n',
     skyId: '99086'
   },
   {
     targetWord: 'zaman',
-    translation: 'саман',
+    translating: 'саман',
     partOfSpeechCode: 'n',
     skyId: '96205'
   },
   {
     targetWord: 'zamang',
-    translation: 'саман',
+    translating: 'саман',
     partOfSpeechCode: 'n',
     skyId: '40901'
   },
   {
     targetWord: 'zamia',
-    translation: 'замия',
+    translating: 'замия',
     partOfSpeechCode: 'n',
     skyId: '95269'
   },
   {
     targetWord: 'zamia pumila',
-    translation: 'хлеб',
+    translating: 'хлеб',
     partOfSpeechCode: 'n',
     skyId: '140673'
   },
   {
     targetWord: 'zantac',
-    translation: 'ранитидин',
+    translating: 'ранитидин',
     partOfSpeechCode: 'n',
     skyId: '138422'
   },
   {
     targetWord: 'zanthoxylum flavum',
-    translation: 'желтой',
+    translating: 'желтой',
     partOfSpeechCode: 'n',
     skyId: '65767'
   },
   {
     targetWord: 'zany',
-    translation: 'дурацкий',
+    translating: 'дурацкий',
     partOfSpeechCode: 'j',
     skyId: '200656'
   },
   {
     targetWord: 'zany',
-    translation: 'идиотский',
+    translating: 'идиотский',
     partOfSpeechCode: 'j',
     skyId: '200655'
   },
   {
     targetWord: 'zany',
-    translation: 'шут',
+    translating: 'шут',
     partOfSpeechCode: 'n',
     skyId: '200654'
   },
   {
     targetWord: 'zap',
-    translation: 'бах',
+    translating: 'бах',
     partOfSpeechCode: 'n',
     skyId: '252719'
   },
   {
     targetWord: 'zap',
-    translation: 'готовить в микроволновой печи',
+    translating: 'готовить в микроволновой печи',
     partOfSpeechCode: 'v',
     skyId: '94263'
   },
   {
     targetWord: 'zap',
-    translation: 'удар',
+    translating: 'удар',
     partOfSpeechCode: 'v',
     skyId: '94262'
   },
   {
     targetWord: 'zap',
-    translation: 'застрелить',
+    translating: 'застрелить',
     partOfSpeechCode: 'v',
     skyId: '94261'
   },
   {
     targetWord: 'zap',
-    translation: 'оглушить',
+    translating: 'оглушить',
     partOfSpeechCode: 'v',
     skyId: '94260'
   },
   {
     targetWord: 'zap',
-    translation: 'импульс',
+    translating: 'импульс',
     partOfSpeechCode: 'n',
     skyId: '94259'
   },
   {
     targetWord: 'zapotec',
-    translation: 'Zapotec',
+    translating: 'Zapotec',
     partOfSpeechCode: 'n',
     skyId: '5151'
   },
   {
     targetWord: 'zapotecan',
-    translation: 'zapotecan',
+    translating: 'zapotecan',
     partOfSpeechCode: 'n',
     skyId: '194240'
   },
   {
     targetWord: 'zapper',
-    translation: 'цеппер',
+    translating: 'цеппер',
     partOfSpeechCode: 'n',
     skyId: '131952'
   },
   {
     targetWord: 'zapus',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '100013'
   },
   {
     targetWord: 'zarf',
-    translation: 'металлическая подставка для кофейной чашки',
+    translating: 'металлическая подставка для кофейной чашки',
     partOfSpeechCode: 'n',
     skyId: '157616'
   },
   {
     targetWord: 'zayin',
-    translation: 'зайин',
+    translating: 'зайин',
     partOfSpeechCode: 'n',
     skyId: '73169'
   },
   {
     targetWord: 'zdv',
-    translation: 'зидовудин',
+    translating: 'зидовудин',
     partOfSpeechCode: 'n',
     skyId: '78240'
   },
   {
     targetWord: 'zea',
-    translation: 'кукуруза',
+    translating: 'кукуруза',
     partOfSpeechCode: 'n',
     skyId: '36226'
   },
   {
     targetWord: 'zea mays everta',
-    translation: 'попкорн',
+    translating: 'попкорн',
     partOfSpeechCode: 'n',
     skyId: '52546'
   },
   {
     targetWord: 'zeal',
-    translation: 'усердие',
+    translating: 'усердие',
     partOfSpeechCode: 'n',
     skyId: '135873'
   },
   {
     targetWord: 'zeal',
-    translation: 'рвение',
+    translating: 'рвение',
     partOfSpeechCode: 'n',
     skyId: '135874'
   },
   {
     targetWord: 'zeal without knowledge is a runaway horse',
-    translation: 'рвение без знания все равно, что лошадь, закусившая удила',
+    translating: 'рвение без знания все равно, что лошадь, закусившая удила',
     partOfSpeechCode: 'ph',
     skyId: '242175'
   },
   {
     targetWord: 'zealander',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '10414'
   },
   {
     targetWord: 'zealot',
-    translation: 'фанатик',
+    translating: 'фанатик',
     partOfSpeechCode: 'n',
     skyId: '203240'
   },
   {
     targetWord: 'zealot',
-    translation: 'зилот',
+    translating: 'зилот',
     partOfSpeechCode: 'n',
     skyId: '203239'
   },
   {
     targetWord: 'zealotry',
-    translation: 'фанатизм',
+    translating: 'фанатизм',
     partOfSpeechCode: 'n',
     skyId: '115629'
   },
   {
     targetWord: 'zealous',
-    translation: 'усердный',
+    translating: 'усердный',
     partOfSpeechCode: 'j',
     skyId: '166664'
   },
   {
     targetWord: 'zealously',
-    translation: 'усердно',
+    translating: 'усердно',
     partOfSpeechCode: 'r',
     skyId: '10606'
   },
   {
     targetWord: 'zeaxanthin',
-    translation: 'зеаксантин',
+    translating: 'зеаксантин',
     partOfSpeechCode: 'n',
     skyId: '48473'
   },
   {
     targetWord: 'zebra',
-    translation: 'зебра',
+    translating: 'зебра',
     partOfSpeechCode: 'n',
     skyId: '52331'
   },
   {
     targetWord: 'zebra crossing',
-    translation: 'пешеходный переход',
+    translating: 'пешеходный переход',
     partOfSpeechCode: 'n',
     skyId: '62782'
   },
   {
     targetWord: 'zebra finch',
-    translation: 'зебровая амадина',
+    translating: 'зебровая амадина',
     partOfSpeechCode: 'n',
     skyId: '165348'
   },
   {
     targetWord: 'zebra-tailed lizard',
-    translation: 'зеброхвостая игуана',
+    translating: 'зеброхвостая игуана',
     partOfSpeechCode: 'n',
     skyId: '186254'
   },
@@ -322,769 +322,769 @@ export const zArr = [
   },
   {
     targetWord: 'zebrawood family',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '65039'
   },
   {
     targetWord: 'zebu',
-    translation: 'зебу',
+    translating: 'зебу',
     partOfSpeechCode: 'n',
     skyId: '10205'
   },
   {
     targetWord: 'zed',
-    translation: 'буква Z',
+    translating: 'буква Z',
     partOfSpeechCode: 'n',
     skyId: '36229'
   },
   {
     targetWord: 'zee',
-    translation: 'буква z',
+    translating: 'буква z',
     partOfSpeechCode: 'n',
     skyId: '36230'
   },
   {
     targetWord: 'zeitgeist',
-    translation: 'дух времени',
+    translating: 'дух времени',
     partOfSpeechCode: 'n',
     skyId: '42167'
   },
   {
     targetWord: 'zen',
-    translation: 'ЛСД',
+    translating: 'ЛСД',
     partOfSpeechCode: 'n',
     skyId: '36236'
   },
   {
     targetWord: 'zen',
-    translation: 'дзэн-буддизм',
+    translating: 'дзэн-буддизм',
     partOfSpeechCode: 'n',
     skyId: '36234'
   },
   {
     targetWord: 'zen buddhism',
-    translation: 'дзэн-буддизм',
+    translating: 'дзэн-буддизм',
     partOfSpeechCode: 'n',
     skyId: '152862'
   },
   {
     targetWord: 'zen buddhism',
-    translation: 'дзэн',
+    translating: 'дзэн',
     partOfSpeechCode: 'n',
     skyId: '152861'
   },
   {
     targetWord: 'zenaidura macroura',
-    translation: 'плачущая горлица',
+    translating: 'плачущая горлица',
     partOfSpeechCode: 'n',
     skyId: '69152'
   },
   {
     targetWord: 'zenith',
-    translation: 'зенит',
+    translating: 'зенит',
     partOfSpeechCode: 'n',
     skyId: '66860'
   },
   {
     targetWord: 'zeolite',
-    translation: 'цеолиты',
+    translating: 'цеолиты',
     partOfSpeechCode: 'n',
     skyId: '63248'
   },
   {
     targetWord: 'zeolite filter',
-    translation: 'цеолитовый фильтр',
+    translating: 'цеолитовый фильтр',
     partOfSpeechCode: 'n',
     skyId: '249378'
   },
   {
     targetWord: 'zep',
-    translation: 'подводных сэндвич',
+    translating: 'подводных сэндвич',
     partOfSpeechCode: 'n',
     skyId: '36239'
   },
   {
     targetWord: 'zephyr',
-    translation: 'лёгкий ветерок',
+    translating: 'лёгкий ветерок',
     partOfSpeechCode: 'n',
     skyId: '130603'
   },
   {
     targetWord: 'zeppelin',
-    translation: 'цеппелин',
+    translating: 'цеппелин',
     partOfSpeechCode: 'n',
     skyId: '203265'
   },
   {
     targetWord: 'zero',
-    translation: 'ноль',
+    translating: 'ноль',
     partOfSpeechCode: 'crd',
     skyId: '237639'
   },
   {
     targetWord: 'zero',
-    translation: 'начальный',
+    translating: 'начальный',
     partOfSpeechCode: 'j',
     skyId: '18104'
   },
   {
     targetWord: 'zero',
-    translation: 'нулевой',
+    translating: 'нулевой',
     partOfSpeechCode: 'j',
     skyId: '18105'
   },
   {
     targetWord: 'zero',
-    translation: 'обнулять',
+    translating: 'обнулять',
     partOfSpeechCode: 'v',
     skyId: '18101'
   },
   {
     targetWord: 'zero',
-    translation: 'устанавливать на нуль',
+    translating: 'устанавливать на нуль',
     partOfSpeechCode: 'v',
     skyId: '18100'
   },
   {
     targetWord: 'zero',
-    translation: 'прицел',
+    translating: 'прицел',
     partOfSpeechCode: 'n',
     skyId: '18099'
   },
   {
     targetWord: 'zero',
-    translation: 'нулевая точка',
+    translating: 'нулевая точка',
     partOfSpeechCode: 'n',
     skyId: '18098'
   },
   {
     targetWord: 'zero',
-    translation: 'ноль',
+    translating: 'ноль',
     partOfSpeechCode: 'n',
     skyId: '237639'
   },
   {
     targetWord: 'zero circle',
-    translation: 'нулевой цикл',
+    translating: 'нулевой цикл',
     partOfSpeechCode: 'n',
     skyId: '260908'
   },
   {
     targetWord: 'zero day exploit',
-    translation: 'атака «нулевого дня»',
+    translating: 'атака «нулевого дня»',
     partOfSpeechCode: 'n',
     skyId: '257927'
   },
   {
     targetWord: 'zero emissions',
-    translation: 'нулевой уровень выбросов',
+    translating: 'нулевой уровень выбросов',
     partOfSpeechCode: 'n',
     skyId: '264014'
   },
   {
     targetWord: 'zero fuel weight',
-    translation: 'вес самолета без топлива',
+    translating: 'вес самолета без топлива',
     partOfSpeechCode: 'n',
     skyId: '254590'
   },
   {
     targetWord: 'zero hour',
-    translation: 'решающий момент',
+    translating: 'решающий момент',
     partOfSpeechCode: 'ph',
     skyId: '186745'
   },
   {
     targetWord: 'zero in',
-    translation: 'пристреливаться',
+    translating: 'пристреливаться',
     partOfSpeechCode: 'v',
     skyId: '105075'
   },
   {
     targetWord: 'zero in',
-    translation: 'целиться',
+    translating: 'целиться',
     partOfSpeechCode: 'v',
     skyId: '105074'
   },
   {
     targetWord: 'zero in on',
-    translation: 'концентрироваться на чем-то',
+    translating: 'концентрироваться на чем-то',
     partOfSpeechCode: 'v',
     skyId: '237588'
   },
   {
     targetWord: 'zero out',
-    translation: 'обнулять',
+    translating: 'обнулять',
     partOfSpeechCode: 'v',
     skyId: '261874'
   },
   {
     targetWord: 'zero period acceleration',
-    translation: 'ускорение в нулевой момент времени',
+    translating: 'ускорение в нулевой момент времени',
     partOfSpeechCode: 'n',
     skyId: '248786'
   },
   {
     targetWord: 'zero tolerance',
-    translation: 'политика нетерпимости',
+    translating: 'политика нетерпимости',
     partOfSpeechCode: 'n',
     skyId: '238277'
   },
   {
     targetWord: 'zero tolerance',
-    translation: 'нулевая терпимость',
+    translating: 'нулевая терпимость',
     partOfSpeechCode: 'n',
     skyId: '192626'
   },
   {
     targetWord: 'zero visibility',
-    translation: 'нулевая видимость',
+    translating: 'нулевая видимость',
     partOfSpeechCode: 'n',
     skyId: '238276'
   },
   {
     targetWord: 'zero waste',
-    translation: 'безотходный',
+    translating: 'безотходный',
     partOfSpeechCode: 'j',
     skyId: '261175'
   },
   {
     targetWord: 'zero-gravity',
-    translation: 'невесомость',
+    translating: 'невесомость',
     partOfSpeechCode: 'n',
     skyId: '265566'
   },
   {
     targetWord: 'zero-power test',
-    translation: 'испытания на нулевой мощности',
+    translating: 'испытания на нулевой мощности',
     partOfSpeechCode: 'n',
     skyId: '247305'
   },
   {
     targetWord: 'zero-sum game',
-    translation: 'игра с нулевой суммой',
+    translating: 'игра с нулевой суммой',
     partOfSpeechCode: 'ph',
     skyId: '189624'
   },
   {
     targetWord: 'zero-tolerance policy',
-    translation: 'политика нулевой терпимости',
+    translating: 'политика нулевой терпимости',
     partOfSpeechCode: 'n',
     skyId: '14594'
   },
   {
     targetWord: 'zest',
-    translation: 'цедра',
+    translating: 'цедра',
     partOfSpeechCode: 'n',
     skyId: '265106'
   },
   {
     targetWord: 'zest',
-    translation: 'получить цедру с помощью терки',
+    translating: 'получить цедру с помощью терки',
     partOfSpeechCode: 'v',
     skyId: '264816'
   },
   {
     targetWord: 'zest',
-    translation: 'придавать вкус',
+    translating: 'придавать вкус',
     partOfSpeechCode: 'v',
     skyId: '60209'
   },
   {
     targetWord: 'zest',
-    translation: 'пикантность',
+    translating: 'пикантность',
     partOfSpeechCode: 'n',
     skyId: '60208'
   },
   {
     targetWord: 'zest',
-    translation: 'энергия',
+    translating: 'энергия',
     partOfSpeechCode: 'n',
     skyId: '60207'
   },
   {
     targetWord: 'zester',
-    translation: 'нож для цедры',
+    translating: 'нож для цедры',
     partOfSpeechCode: 'n',
     skyId: '233116'
   },
   {
     targetWord: 'zestful',
-    translation: 'пикантный',
+    translating: 'пикантный',
     partOfSpeechCode: 'j',
     skyId: '223188'
   },
   {
     targetWord: 'zestfully',
-    translation: 'энергично',
+    translating: 'энергично',
     partOfSpeechCode: 'r',
     skyId: '19327'
   },
   {
     targetWord: 'zestfulness',
-    translation: 'азарт',
+    translating: 'азарт',
     partOfSpeechCode: 'n',
     skyId: '197479'
   },
   {
     targetWord: 'zesty',
-    translation: 'пикантный',
+    translating: 'пикантный',
     partOfSpeechCode: 'j',
     skyId: '163470'
   },
   {
     targetWord: 'zesty',
-    translation: 'острый',
+    translating: 'острый',
     partOfSpeechCode: 'j',
     skyId: '163469'
   },
   {
     targetWord: 'zeta',
-    translation: 'дзета',
+    translating: 'дзета',
     partOfSpeechCode: 'n',
     skyId: '56602'
   },
   {
     targetWord: 'zeugma',
-    translation: 'зевгма',
+    translating: 'зевгма',
     partOfSpeechCode: 'n',
     skyId: '78941'
   },
   {
     targetWord: 'zeus faber',
-    translation: 'обыкновенный солнечник',
+    translating: 'обыкновенный солнечник',
     partOfSpeechCode: 'n',
     skyId: '219110'
   },
   {
     targetWord: 'zhou',
-    translation: 'чжоу',
+    translating: 'чжоу',
     partOfSpeechCode: 'n',
     skyId: '7279'
   },
   {
     targetWord: 'zhou dynasty',
-    translation: 'чжоу',
+    translating: 'чжоу',
     partOfSpeechCode: 'n',
     skyId: '47396'
   },
   {
     targetWord: 'zhuang',
-    translation: 'чжуан',
+    translating: 'чжуан',
     partOfSpeechCode: 'n',
     skyId: '118816'
   },
   {
     targetWord: 'zidovudine',
-    translation: 'зидовудин',
+    translating: 'зидовудин',
     partOfSpeechCode: 'n',
     skyId: '69143'
   },
   {
     targetWord: 'zig',
-    translation: 'зигзаг',
+    translating: 'зигзаг',
     partOfSpeechCode: 'n',
     skyId: '204551'
   },
   {
     targetWord: 'zig-zag',
-    translation: 'зигзагообразный',
+    translating: 'зигзагообразный',
     partOfSpeechCode: 'j',
     skyId: '180002'
   },
   {
     targetWord: 'ziggurat',
-    translation: 'зиккурат',
+    translating: 'зиккурат',
     partOfSpeechCode: 'n',
     skyId: '157114'
   },
   {
     targetWord: 'zigzag',
-    translation: 'зигзагообразно',
+    translating: 'зигзагообразно',
     partOfSpeechCode: 'r',
     skyId: '73538'
   },
   {
     targetWord: 'zigzag',
-    translation: 'зигзагообразный',
+    translating: 'зигзагообразный',
     partOfSpeechCode: 'j',
     skyId: '73537'
   },
   {
     targetWord: 'zigzag',
-    translation: 'делать зигзаги',
+    translating: 'делать зигзаги',
     partOfSpeechCode: 'v',
     skyId: '73536'
   },
   {
     targetWord: 'zigzag',
-    translation: 'зигзаг',
+    translating: 'зигзаг',
     partOfSpeechCode: 'n',
     skyId: '73535'
   },
   {
     targetWord: 'zikkurat',
-    translation: 'зиккурат',
+    translating: 'зиккурат',
     partOfSpeechCode: 'n',
     skyId: '97927'
   },
   {
     targetWord: 'zikurat',
-    translation: 'зиккурат',
+    translating: 'зиккурат',
     partOfSpeechCode: 'n',
     skyId: '21162'
   },
   {
     targetWord: 'zilch',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'n',
     skyId: '132118'
   },
   {
     targetWord: 'zill',
-    translation: 'сагаты',
+    translating: 'сагаты',
     partOfSpeechCode: 'n',
     skyId: '45312'
   },
   {
     targetWord: 'zillion',
-    translation: 'огромное количество',
+    translating: 'огромное количество',
     partOfSpeechCode: 'j',
     skyId: '150371'
   },
   {
     targetWord: 'zillion',
-    translation: 'мильон',
+    translating: 'мильон',
     partOfSpeechCode: 'n',
     skyId: '150370'
   },
   {
     targetWord: 'zimmer',
-    translation: 'ходунки',
+    translating: 'ходунки',
     partOfSpeechCode: 'n',
     skyId: '62478'
   },
   {
     targetWord: 'zinc',
-    translation: 'цинк',
+    translating: 'цинк',
     partOfSpeechCode: 'n',
     skyId: '188104'
   },
   {
     targetWord: 'zinc blende',
-    translation: 'сфалерит',
+    translating: 'сфалерит',
     partOfSpeechCode: 'n',
     skyId: '14339'
   },
   {
     targetWord: 'zinc white',
-    translation: 'китайские белила',
+    translating: 'китайские белила',
     partOfSpeechCode: 'n',
     skyId: '14583'
   },
   {
     targetWord: 'zinc-filled paint',
-    translation: 'цинконаполненная краска',
+    translating: 'цинконаполненная краска',
     partOfSpeechCode: 'n',
     skyId: '247664'
   },
   {
     targetWord: 'zinfandel',
-    translation: 'зинфандель',
+    translating: 'зинфандель',
     partOfSpeechCode: 'n',
     skyId: '113745'
   },
   {
     targetWord: 'zing',
-    translation: 'пыл',
+    translating: 'пыл',
     partOfSpeechCode: 'n',
     skyId: '220714'
   },
   {
     targetWord: 'zing',
-    translation: 'свист',
+    translating: 'свист',
     partOfSpeechCode: 'n',
     skyId: '220713'
   },
   {
     targetWord: 'zinger',
-    translation: 'остроумный ответ',
+    translating: 'остроумный ответ',
     partOfSpeechCode: 'n',
     skyId: '190902'
   },
   {
     targetWord: 'zingiber officinale',
-    translation: 'лекарственный',
+    translating: 'лекарственный',
     partOfSpeechCode: 'n',
     skyId: '210641'
   },
   {
     targetWord: 'zinjanthropus',
-    translation: 'зинджантропа',
+    translating: 'зинджантропа',
     partOfSpeechCode: 'n',
     skyId: '80437'
   },
   {
     targetWord: 'zinnia',
-    translation: 'цинния',
+    translating: 'цинния',
     partOfSpeechCode: 'n',
     skyId: '23222'
   },
   {
     targetWord: 'zion',
-    translation: 'утопия',
+    translating: 'утопия',
     partOfSpeechCode: 'n',
     skyId: '3389'
   },
   {
     targetWord: 'zion',
-    translation: 'сион',
+    translating: 'сион',
     partOfSpeechCode: 'n',
     skyId: '3387'
   },
   {
     targetWord: 'zionist',
-    translation: 'сионист',
+    translating: 'сионист',
     partOfSpeechCode: 'j',
     skyId: '193165'
   },
   {
     targetWord: 'zionist',
-    translation: 'сионистский',
+    translating: 'сионистский',
     partOfSpeechCode: 'j',
     skyId: '193164'
   },
   {
     targetWord: 'zip',
-    translation: 'свист',
+    translating: 'свист',
     partOfSpeechCode: 'n',
     skyId: '252699'
   },
   {
     targetWord: 'zip',
-    translation: 'молния',
+    translating: 'молния',
     partOfSpeechCode: 'n',
     skyId: '204541'
   },
   {
     targetWord: 'zip',
-    translation: 'проноситься',
+    translating: 'проноситься',
     partOfSpeechCode: 'v',
     skyId: '204543'
   },
   {
     targetWord: 'zip',
-    translation: 'застегивать на молнию',
+    translating: 'застегивать на молнию',
     partOfSpeechCode: 'v',
     skyId: '204542'
   },
   {
     targetWord: 'zip',
-    translation: 'энергия',
+    translating: 'энергия',
     partOfSpeechCode: 'n',
     skyId: '204540'
   },
   {
     targetWord: 'zip',
-    translation: 'почтовый код',
+    translating: 'почтовый код',
     partOfSpeechCode: 'n',
     skyId: '204539'
   },
   {
     targetWord: 'zip',
-    translation: 'ничто',
+    translating: 'ничто',
     partOfSpeechCode: 'n',
     skyId: '204538'
   },
   {
     targetWord: 'zip around',
-    translation: 'быстро двигаться из одного места в другое',
+    translating: 'быстро двигаться из одного места в другое',
     partOfSpeechCode: 'v',
     skyId: '237589'
   },
   {
     targetWord: 'zip code',
-    translation: 'почтовый индекс',
+    translating: 'почтовый индекс',
     partOfSpeechCode: 'n',
     skyId: '223478'
   },
   {
     targetWord: 'zip fastener',
-    translation: 'застёжка-молния',
+    translating: 'застёжка-молния',
     partOfSpeechCode: 'n',
     skyId: '134088'
   },
   {
     targetWord: 'zip line',
-    translation: 'канатная дорога',
+    translating: 'канатная дорога',
     partOfSpeechCode: 'n',
     skyId: '265942'
   },
   {
     targetWord: 'zip on',
-    translation: 'застегнуть',
+    translating: 'застегнуть',
     partOfSpeechCode: 'v',
     skyId: '264993'
   },
   {
     targetWord: 'zip up',
-    translation: 'застегивать',
+    translating: 'застегивать',
     partOfSpeechCode: 'v',
     skyId: '63389'
   },
   {
     targetWord: 'zip wire',
-    translation: 'трос для скоростного спуска',
+    translating: 'трос для скоростного спуска',
     partOfSpeechCode: 'n',
     skyId: '266385'
   },
   {
     targetWord: 'ziplining',
-    translation: 'тарзанка',
+    translating: 'тарзанка',
     partOfSpeechCode: 'n',
     skyId: '255877'
   },
   {
     targetWord: 'zipper',
-    translation: 'застёгивать молнию',
+    translating: 'застёгивать молнию',
     partOfSpeechCode: 'v',
     skyId: '70286'
   },
   {
     targetWord: 'zipper',
-    translation: 'застёжка-молния',
+    translating: 'застёжка-молния',
     partOfSpeechCode: 'n',
     skyId: '70285'
   },
   {
     targetWord: 'zippo',
-    translation: 'ноль',
+    translating: 'ноль',
     partOfSpeechCode: 'n',
     skyId: '60898'
   },
   {
     targetWord: 'zippy',
-    translation: 'энергичный',
+    translating: 'энергичный',
     partOfSpeechCode: 'j',
     skyId: '60874'
   },
   {
     targetWord: 'zircon',
-    translation: 'циркон',
+    translating: 'циркон',
     partOfSpeechCode: 'n',
     skyId: '76748'
   },
   {
     targetWord: 'zirconium alloy',
-    translation: 'сплав циркония',
+    translating: 'сплав циркония',
     partOfSpeechCode: 'n',
     skyId: '248326'
   },
   {
     targetWord: 'zit',
-    translation: 'прыщ',
+    translating: 'прыщ',
     partOfSpeechCode: 'n',
     skyId: '204536'
   },
   {
     targetWord: 'zither',
-    translation: 'цитра',
+    translating: 'цитра',
     partOfSpeechCode: 'n',
     skyId: '97032'
   },
   {
     targetWord: 'zithern',
-    translation: 'цитра',
+    translating: 'цитра',
     partOfSpeechCode: 'n',
     skyId: '4419'
   },
   {
     targetWord: 'zithromax',
-    translation: 'азитромицин',
+    translating: 'азитромицин',
     partOfSpeechCode: 'n',
     skyId: '73692'
   },
   {
     targetWord: 'ziti',
-    translation: 'зити',
+    translating: 'зити',
     partOfSpeechCode: 'n',
     skyId: '146785'
   },
   {
     targetWord: 'ziziphus jujuba',
-    translation: 'зизифус настоящий',
+    translating: 'зизифус настоящий',
     partOfSpeechCode: 'n',
     skyId: '198759'
   },
   {
     targetWord: 'zizz',
-    translation: 'жужжание',
+    translating: 'жужжание',
     partOfSpeechCode: 'n',
     skyId: '12018'
   },
   {
     targetWord: 'zloty',
-    translation: 'злотый',
+    translating: 'злотый',
     partOfSpeechCode: 'n',
     skyId: '193140'
   },
   {
     targetWord: 'zn',
-    translation: 'цинк',
+    translating: 'цинк',
     partOfSpeechCode: 'n',
     skyId: '182968'
   },
   {
     targetWord: 'zoarces viviparus',
-    translation: 'бельдюга',
+    translating: 'бельдюга',
     partOfSpeechCode: 'n',
     skyId: '185799'
   },
   {
     targetWord: 'zocor',
-    translation: 'симвастатин',
+    translating: 'симвастатин',
     partOfSpeechCode: 'n',
     skyId: '191889'
   },
   {
     targetWord: 'zodiac',
-    translation: 'зодиак',
+    translating: 'зодиак',
     partOfSpeechCode: 'n',
     skyId: '23019'
   },
   {
     targetWord: 'zodiacal',
-    translation: 'зодиакальный',
+    translating: 'зодиакальный',
     partOfSpeechCode: 'j',
     skyId: '47838'
   },
   {
     targetWord: 'zoloft',
-    translation: 'золофт',
+    translating: 'золофт',
     partOfSpeechCode: 'n',
     skyId: '171814'
   },
   {
     targetWord: 'zombi spirit',
-    translation: 'зомби',
+    translating: 'зомби',
     partOfSpeechCode: 'n',
     skyId: '154610'
   },
   {
     targetWord: 'zombie',
-    translation: 'зомби',
+    translating: 'зомби',
     partOfSpeechCode: 'n',
     skyId: '139607'
   },
   {
     targetWord: 'zombie blog',
-    translation: 'блог-зомби',
+    translating: 'блог-зомби',
     partOfSpeechCode: 'n',
     skyId: '233050'
   },
   {
     targetWord: 'zombie spirit',
-    translation: 'дух зомби',
+    translating: 'дух зомби',
     partOfSpeechCode: 'n',
     skyId: '82598'
   },
@@ -1097,499 +1097,499 @@ export const zArr = [
   },
   {
     targetWord: 'zona',
-    translation: 'опоясывающий лишай',
+    translating: 'опоясывающий лишай',
     partOfSpeechCode: 'n',
     skyId: '59960'
   },
   {
     targetWord: 'zonal',
-    translation: 'зональный',
+    translating: 'зональный',
     partOfSpeechCode: 'j',
     skyId: '216306'
   },
   {
     targetWord: 'zone',
-    translation: 'разделять на зоны',
+    translating: 'разделять на зоны',
     partOfSpeechCode: 'v',
     skyId: '199460'
   },
   {
     targetWord: 'zone',
-    translation: 'районировать',
+    translating: 'районировать',
     partOfSpeechCode: 'v',
     skyId: '199459'
   },
   {
     targetWord: 'zone',
-    translation: 'зона',
+    translating: 'зона',
     partOfSpeechCode: 'n',
     skyId: '237641'
   },
   {
     targetWord: 'zone',
-    translation: 'опоясывающий лишай',
+    translating: 'опоясывающий лишай',
     partOfSpeechCode: 'n',
     skyId: '37499'
   },
   {
     targetWord: 'zone',
-    translation: 'географический пояс',
+    translating: 'географический пояс',
     partOfSpeechCode: 'n',
     skyId: '37497'
   },
   {
     targetWord: 'zone of interior',
-    translation: 'зона интерьера',
+    translating: 'зона интерьера',
     partOfSpeechCode: 'n',
     skyId: '110035'
   },
   {
     targetWord: 'zone out',
-    translation: 'полностью потерять концентрацию',
+    translating: 'полностью потерять концентрацию',
     partOfSpeechCode: 'v',
     skyId: '237590'
   },
   {
     targetWord: 'zoning',
-    translation: 'зонирование',
+    translating: 'зонирование',
     partOfSpeechCode: 'n',
     skyId: '199458'
   },
   {
     targetWord: 'zonk',
-    translation: 'ошеломить',
+    translating: 'ошеломить',
     partOfSpeechCode: 'v',
     skyId: '237591'
   },
   {
     targetWord: 'zonk out',
-    translation: 'мгновенно уснуть',
+    translating: 'мгновенно уснуть',
     partOfSpeechCode: 'ph',
     skyId: '175492'
   },
   {
     targetWord: 'zonk out',
-    translation: '"отключиться"',
+    translating: '"отключиться"',
     partOfSpeechCode: 'ph',
     skyId: '175491'
   },
   {
     targetWord: 'zonked',
-    translation: 'одурманенный',
+    translating: 'одурманенный',
     partOfSpeechCode: 'j',
     skyId: '260301'
   },
   {
     targetWord: 'zonotrichia albicollis',
-    translation: 'белошейная зонотрихия',
+    translating: 'белошейная зонотрихия',
     partOfSpeechCode: 'n',
     skyId: '174181'
   },
   {
     targetWord: 'zonotrichia leucophrys',
-    translation: 'белой шапкой воробей',
+    translating: 'белой шапкой воробей',
     partOfSpeechCode: 'n',
     skyId: '83512'
   },
   {
     targetWord: 'zonula',
-    translation: 'микрозона',
+    translating: 'микрозона',
     partOfSpeechCode: 'n',
     skyId: '144960'
   },
   {
     targetWord: 'zoo',
-    translation: 'зоопарк',
+    translating: 'зоопарк',
     partOfSpeechCode: 'n',
     skyId: '2837'
   },
   {
     targetWord: 'zoo enclosure',
-    translation: 'вольер зоопарка',
+    translating: 'вольер зоопарка',
     partOfSpeechCode: 'ph',
     skyId: '266563'
   },
   {
     targetWord: 'zoo keeper',
-    translation: 'главный сотрудник зоопарка',
+    translating: 'главный сотрудник зоопарка',
     partOfSpeechCode: 'n',
     skyId: '223640'
   },
   {
     targetWord: 'zoobenthos',
-    translation: 'зообентос',
+    translating: 'зообентос',
     partOfSpeechCode: 'n',
     skyId: '246716'
   },
   {
     targetWord: 'zooerastia',
-    translation: 'зоофилия',
+    translating: 'зоофилия',
     partOfSpeechCode: 'n',
     skyId: '100545'
   },
   {
     targetWord: 'zooerasty',
-    translation: 'зоофилия',
+    translating: 'зоофилия',
     partOfSpeechCode: 'n',
     skyId: '125054'
   },
   {
     targetWord: 'zooflagellate',
-    translation: 'животные жгутиконосцы',
+    translating: 'животные жгутиконосцы',
     partOfSpeechCode: 'n',
     skyId: '36967'
   },
   {
     targetWord: 'zooid',
-    translation: 'зооид',
+    translating: 'зооид',
     partOfSpeechCode: 'n',
     skyId: '51965'
   },
   {
     targetWord: 'zookeeper',
-    translation: 'смотритель зоопарка',
+    translating: 'смотритель зоопарка',
     partOfSpeechCode: 'n',
     skyId: '237824'
   },
   {
     targetWord: 'zoological',
-    translation: 'зоологический',
+    translating: 'зоологический',
     partOfSpeechCode: 'j',
     skyId: '55797'
   },
   {
     targetWord: 'zoological',
-    translation: 'зоологоческий',
+    translating: 'зоологоческий',
     partOfSpeechCode: 'j',
     skyId: '55796'
   },
   {
     targetWord: 'zoological garden',
-    translation: 'зоологический сад',
+    translating: 'зоологический сад',
     partOfSpeechCode: 'n',
     skyId: '170055'
   },
   {
     targetWord: 'zoological science',
-    translation: 'зоология',
+    translating: 'зоология',
     partOfSpeechCode: 'n',
     skyId: '29241'
   },
   {
     targetWord: 'zoologist',
-    translation: 'зоолог',
+    translating: 'зоолог',
     partOfSpeechCode: 'n',
     skyId: '27270'
   },
   {
     targetWord: 'zoology',
-    translation: 'зоология',
+    translating: 'зоология',
     partOfSpeechCode: 'n',
     skyId: '28224'
   },
   {
     targetWord: 'zoom',
-    translation: 'жужжание',
+    translating: 'жужжание',
     partOfSpeechCode: 'n',
     skyId: '252698'
   },
   {
     targetWord: 'zoom',
-    translation: 'увеличивать',
+    translating: 'увеличивать',
     partOfSpeechCode: 'v',
     skyId: '231597'
   },
   {
     targetWord: 'zoom',
-    translation: 'быстро расти',
+    translating: 'быстро расти',
     partOfSpeechCode: 'v',
     skyId: '79523'
   },
   {
     targetWord: 'zoom',
-    translation: 'двигаться',
+    translating: 'двигаться',
     partOfSpeechCode: 'v',
     skyId: '79522'
   },
   {
     targetWord: 'zoom',
-    translation: 'двигаться быстро',
+    translating: 'двигаться быстро',
     partOfSpeechCode: 'v',
     skyId: '79521'
   },
   {
     targetWord: 'zoom',
-    translation: 'парение',
+    translating: 'парение',
     partOfSpeechCode: 'n',
     skyId: '79520'
   },
   {
     targetWord: 'zoom',
-    translation: 'быстрый рост',
+    translating: 'быстрый рост',
     partOfSpeechCode: 'n',
     skyId: '79519'
   },
   {
     targetWord: 'zoom along',
-    translation: 'нестись',
+    translating: 'нестись',
     partOfSpeechCode: 'v',
     skyId: '188418'
   },
   {
     targetWord: 'zoom in',
-    translation: 'давать изображение крупным планом',
+    translating: 'давать изображение крупным планом',
     partOfSpeechCode: 'v',
     skyId: '258881'
   },
   {
     targetWord: 'zoom in',
-    translation: 'приглядеться',
+    translating: 'приглядеться',
     partOfSpeechCode: 'v',
     skyId: '218000'
   },
   {
     targetWord: 'zoom in on',
-    translation: 'увеличивать изображение ',
+    translating: 'увеличивать изображение ',
     partOfSpeechCode: 'ph',
     skyId: '240400'
   },
   {
     targetWord: 'zoom in on',
-    translation: 'фокусировать на',
+    translating: 'фокусировать на',
     partOfSpeechCode: 'v',
     skyId: '237592'
   },
   {
     targetWord: 'zoom lens',
-    translation: 'зум-объектив',
+    translating: 'зум-объектив',
     partOfSpeechCode: 'n',
     skyId: '143593'
   },
   {
     targetWord: 'zoom out',
-    translation: 'уменьшить масштаб изображения',
+    translating: 'уменьшить масштаб изображения',
     partOfSpeechCode: 'v',
     skyId: '265033'
   },
   {
     targetWord: 'zoomastigote',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '136091'
   },
   {
     targetWord: 'zooming',
-    translation: 'трансфокация',
+    translating: 'трансфокация',
     partOfSpeechCode: 'n',
     skyId: '248785'
   },
   {
     targetWord: 'zoonotic',
-    translation: 'зоонозных',
+    translating: 'зоонозных',
     partOfSpeechCode: 'j',
     skyId: '67572'
   },
   {
     targetWord: 'zooplankton',
-    translation: 'зоопланктон',
+    translating: 'зоопланктон',
     partOfSpeechCode: 'n',
     skyId: '121585'
   },
   {
     targetWord: 'zootoxin',
-    translation: 'животные токсины',
+    translating: 'животные токсины',
     partOfSpeechCode: 'n',
     skyId: '108072'
   },
   {
     targetWord: 'zorbing',
-    translation: 'зорбинг',
+    translating: 'зорбинг',
     partOfSpeechCode: 'n',
     skyId: '255854'
   },
   {
     targetWord: 'zori',
-    translation: 'зори',
+    translating: 'зори',
     partOfSpeechCode: 'n',
     skyId: '95473'
   },
   {
     targetWord: 'zoril',
-    translation: 'зорилла',
+    translating: 'зорилла',
     partOfSpeechCode: 'n',
     skyId: '19372'
   },
   {
     targetWord: 'zoroastrianism',
-    translation: 'зороастризм',
+    translating: 'зороастризм',
     partOfSpeechCode: 'n',
     skyId: '187321'
   },
   {
     targetWord: 'zoster',
-    translation: 'опоясывающий лишай',
+    translating: 'опоясывающий лишай',
     partOfSpeechCode: 'n',
     skyId: '25386'
   },
   {
     targetWord: 'zostera',
-    translation: 'взморник',
+    translating: 'взморник',
     partOfSpeechCode: 'n',
     skyId: '760'
   },
   {
     targetWord: 'zostera marina',
-    translation: 'травы пузырчатый',
+    translating: 'травы пузырчатый',
     partOfSpeechCode: 'n',
     skyId: '182222'
   },
   {
     targetWord: 'zosteraceae',
-    translation: 'зостеры семьи',
+    translating: 'зостеры семьи',
     partOfSpeechCode: 'n',
     skyId: '51128'
   },
   {
     targetWord: 'zovirax',
-    translation: 'ацикловир',
+    translating: 'ацикловир',
     partOfSpeechCode: 'n',
     skyId: '201527'
   },
   {
     targetWord: 'zoysia',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '68212'
   },
   {
     targetWord: 'zr',
-    translation: 'атомным номером 40',
+    translating: 'атомным номером 40',
     partOfSpeechCode: 'n',
     skyId: '183007'
   },
   {
     targetWord: 'zu',
-    translation: 'анзуд',
+    translating: 'анзуд',
     partOfSpeechCode: 'n',
     skyId: '183003'
   },
   {
     targetWord: 'zubird',
-    translation: 'анзуд',
+    translating: 'анзуд',
     partOfSpeechCode: 'n',
     skyId: '96839'
   },
   {
     targetWord: 'zucchini',
-    translation: 'цукини',
+    translating: 'цукини',
     partOfSpeechCode: 'n',
     skyId: '225629'
   },
   {
     targetWord: 'zucchini',
-    translation: 'кабачок',
+    translating: 'кабачок',
     partOfSpeechCode: 'n',
     skyId: '225628'
   },
   {
     targetWord: 'zuider zee',
-    translation: 'Зёйдерзее',
+    translating: 'Зёйдерзее',
     partOfSpeechCode: 'n',
     skyId: '169734'
   },
   {
     targetWord: 'zultanite',
-    translation: 'зултанит',
+    translating: 'зултанит',
     partOfSpeechCode: 'n',
     skyId: '258152'
   },
   {
     targetWord: 'zulu',
-    translation: 'зулу',
+    translating: 'зулу',
     partOfSpeechCode: 'n',
     skyId: '17675'
   },
   {
     targetWord: 'zulu',
-    translation: 'зулус',
+    translating: 'зулус',
     partOfSpeechCode: 'n',
     skyId: '17673'
   },
   {
     targetWord: 'zulu time',
-    translation: 'время по Гринвичу',
+    translating: 'время по Гринвичу',
     partOfSpeechCode: 'ph',
     skyId: '232748'
   },
   {
     targetWord: 'zwieback',
-    translation: 'сухари',
+    translating: 'сухари',
     partOfSpeechCode: 'n',
     skyId: '83924'
   },
   {
     targetWord: 'zydeco',
-    translation: 'зайдеко',
+    translating: 'зайдеко',
     partOfSpeechCode: 'n',
     skyId: '218633'
   },
   {
     targetWord: 'zygnema',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '134391'
   },
   {
     targetWord: 'zygocactus truncatus',
-    translation: 'шлюмбергера',
+    translating: 'шлюмбергера',
     partOfSpeechCode: 'n',
     skyId: '98386'
   },
   {
     targetWord: 'zygomatic',
-    translation: 'скуловой',
+    translating: 'скуловой',
     partOfSpeechCode: 'j',
     skyId: '66791'
   },
   {
     targetWord: 'zygomatic',
-    translation: 'скуловая кость',
+    translating: 'скуловая кость',
     partOfSpeechCode: 'n',
     skyId: '66790'
   },
   {
     targetWord: 'zygomatic bone',
-    translation: 'скуловая кость',
+    translating: 'скуловая кость',
     partOfSpeechCode: 'n',
     skyId: '87980'
   },
   {
     targetWord: 'zygophyllum',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '90362'
   },
   {
     targetWord: 'zygospore',
-    translation: 'зигоспора',
+    translating: 'зигоспора',
     partOfSpeechCode: 'n',
     skyId: '91648'
   },
   {
     targetWord: 'zygote',
-    translation: 'зигота',
+    translating: 'зигота',
     partOfSpeechCode: 'n',
     skyId: '18062'
   },
   {
     targetWord: 'zymase',
-    translation: 'зимаза',
+    translating: 'зимаза',
     partOfSpeechCode: 'n',
     skyId: '130747'
   },
   {
     targetWord: 'zymosis',
-    translation: 'распространение инфекционной болезни',
+    translating: 'распространение инфекционной болезни',
     partOfSpeechCode: 'n',
     skyId: '73326'
   }

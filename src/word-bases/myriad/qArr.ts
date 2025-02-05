@@ -1,506 +1,506 @@
 export const qArr = [
   {
     targetWord: 'quagga',
-    translation: 'бурчеллова зебра',
+    translating: 'бурчеллова зебра',
     partOfSpeechCode: 'n',
     skyId: '197889'
   },
   {
     targetWord: 'quaggy',
-    translation: 'рыхлый',
+    translating: 'рыхлый',
     partOfSpeechCode: 'j',
     skyId: '197877'
   },
   {
     targetWord: 'quality',
-    translation: 'качественный',
+    translating: 'качественный',
     partOfSpeechCode: 'j',
     skyId: '212204'
   },
   {
     targetWord: 'quality',
-    translation: 'тембр',
+    translating: 'тембр',
     partOfSpeechCode: 'n',
     skyId: '212202'
   },
   {
     targetWord: 'quality',
-    translation: 'свойство',
+    translating: 'свойство',
     partOfSpeechCode: 'n',
     skyId: '212201'
   },
   {
     targetWord: 'quantization',
-    translation: 'квантование',
+    translating: 'квантование',
     partOfSpeechCode: 'n',
     skyId: '196403'
   },
   {
     targetWord: 'quarter-hour',
-    translation: 'четверть часа',
+    translating: 'четверть часа',
     partOfSpeechCode: 'n',
     skyId: '202064'
   },
   {
     targetWord: 'quayage',
-    translation: 'причальный сбор',
+    translating: 'причальный сбор',
     partOfSpeechCode: 'n',
     skyId: '196753'
   },
   {
     targetWord: 'quenching',
-    translation: 'гашение',
+    translating: 'гашение',
     partOfSpeechCode: 'n',
     skyId: '203071'
   },
   {
     targetWord: 'querier',
-    translation: 'спрашивающий',
+    translating: 'спрашивающий',
     partOfSpeechCode: 'n',
     skyId: '198190'
   },
   {
     targetWord: 'quest',
-    translation: 'искать',
+    translating: 'искать',
     partOfSpeechCode: 'v',
     skyId: '203935'
   },
   {
     targetWord: 'quest',
-    translation: 'собирать пожертвования',
+    translating: 'собирать пожертвования',
     partOfSpeechCode: 'v',
     skyId: '203934'
   },
   {
     targetWord: 'quest',
-    translation: 'гавкать',
+    translating: 'гавкать',
     partOfSpeechCode: 'v',
     skyId: '203933'
   },
   {
     targetWord: 'quest',
-    translation: 'искать след',
+    translating: 'искать след',
     partOfSpeechCode: 'v',
     skyId: '203932'
   },
   {
     targetWord: 'quest',
-    translation: 'разыскивать',
+    translating: 'разыскивать',
     partOfSpeechCode: 'v',
     skyId: '203931'
   },
   {
     targetWord: 'quest',
-    translation: 'поиск',
+    translating: 'поиск',
     partOfSpeechCode: 'n',
     skyId: '203930'
   },
   {
     targetWord: 'questioningly',
-    translation: 'вопросительно',
+    translating: 'вопросительно',
     partOfSpeechCode: 'r',
     skyId: '202988'
   },
   {
     targetWord: 'quince bush',
-    translation: 'айва',
+    translating: 'айва',
     partOfSpeechCode: 'n',
     skyId: '198055'
   },
   {
     targetWord: 'quite',
-    translation: 'действительно',
+    translating: 'действительно',
     partOfSpeechCode: 'r',
     skyId: '201365'
   },
   {
     targetWord: 'quite',
-    translation: 'полностью',
+    translating: 'полностью',
     partOfSpeechCode: 'r',
     skyId: '201366'
   },
   {
     targetWord: 'quite',
-    translation: 'довольно',
+    translating: 'довольно',
     partOfSpeechCode: 'r',
     skyId: '201363'
   },
   {
     targetWord: 'quite a',
-    translation: 'довольно',
+    translating: 'довольно',
     partOfSpeechCode: 'r',
     skyId: '193854'
   },
   {
     targetWord: 'quite an',
-    translation: 'довольно',
+    translating: 'довольно',
     partOfSpeechCode: 'r',
     skyId: '194630'
   },
   {
     targetWord: 'quito',
-    translation: 'Кито',
+    translating: 'Кито',
     partOfSpeechCode: 'n',
     skyId: '201352'
   },
   {
     targetWord: 'quiz program',
-    translation: 'телевикторина',
+    translating: 'телевикторина',
     partOfSpeechCode: 'n',
     skyId: '199257'
   },
   {
     targetWord: 'quotation mark',
-    translation: 'кавычка',
+    translating: 'кавычка',
     partOfSpeechCode: 'n',
     skyId: '199861'
   },
-  { targetWord: 'q', translation: 'Q', partOfSpeechCode: 'n', skyId: '154993' },
+  { targetWord: 'q', translating: 'Q', partOfSpeechCode: 'n', skyId: '154993' },
   {
     targetWord: 'q-ty',
-    translation: 'количество ',
+    translating: 'количество ',
     partOfSpeechCode: 'abb',
     skyId: '247345'
   },
   {
     targetWord: 'qabbala',
-    translation: 'каббала',
+    translating: 'каббала',
     partOfSpeechCode: 'n',
     skyId: '57803'
   },
   {
     targetWord: 'qabbalah',
-    translation: 'каббала',
+    translating: 'каббала',
     partOfSpeechCode: 'n',
     skyId: '17781'
   },
   {
     targetWord: 'qadi',
-    translation: 'кади',
+    translating: 'кади',
     partOfSpeechCode: 'n',
     skyId: '210045'
   },
   {
     targetWord: 'qara qum',
-    translation: 'каракумы',
+    translating: 'каракумы',
     partOfSpeechCode: 'n',
     skyId: '11401'
   },
   {
     targetWord: 'qat',
-    translation: 'кат',
+    translating: 'кат',
     partOfSpeechCode: 'n',
     skyId: '82870'
   },
   {
     targetWord: 'qatar',
-    translation: 'полуостров Катар',
+    translating: 'полуостров Катар',
     partOfSpeechCode: 'n',
     skyId: '153920'
   },
   {
     targetWord: 'qatari',
-    translation: 'катарский',
+    translating: 'катарский',
     partOfSpeechCode: 'j',
     skyId: '105029'
   },
   {
     targetWord: 'qepiq',
-    translation: 'гяпик',
+    translating: 'гяпик',
     partOfSpeechCode: 'n',
     skyId: '163909'
   },
   {
     targetWord: 'qi',
-    translation: 'ци',
+    translating: 'ци',
     partOfSpeechCode: 'n',
     skyId: '56158'
   },
   {
     targetWord: 'qibla',
-    translation: 'кибла',
+    translating: 'кибла',
     partOfSpeechCode: 'n',
     skyId: '96899'
   },
   {
     targetWord: 'qoph',
-    translation: 'коф',
+    translating: 'коф',
     partOfSpeechCode: 'n',
     skyId: '123210'
   },
   {
     targetWord: 'quack',
-    translation: 'шарлатанский',
+    translating: 'шарлатанский',
     partOfSpeechCode: 'j',
     skyId: '87826'
   },
   {
     targetWord: 'quack',
-    translation: 'лечить знахарством',
+    translating: 'лечить знахарством',
     partOfSpeechCode: 'v',
     skyId: '87825'
   },
   {
     targetWord: 'quack',
-    translation: 'крякать',
+    translating: 'крякать',
     partOfSpeechCode: 'v',
     skyId: '87824'
   },
   {
     targetWord: 'quack',
-    translation: 'кряканье',
+    translating: 'кряканье',
     partOfSpeechCode: 'n',
     skyId: '87823'
   },
   {
     targetWord: 'quack',
-    translation: 'шарлатан',
+    translating: 'шарлатан',
     partOfSpeechCode: 'n',
     skyId: '87822'
   },
   {
     targetWord: 'quack-quack',
-    translation: 'утка',
+    translating: 'утка',
     partOfSpeechCode: 'n',
     skyId: '119153'
   },
   {
     targetWord: 'quackery',
-    translation: 'шарлатанство',
+    translating: 'шарлатанство',
     partOfSpeechCode: 'n',
     skyId: '101848'
   },
   {
     targetWord: 'quackery',
-    translation: 'медицинское шарлатанство',
+    translating: 'медицинское шарлатанство',
     partOfSpeechCode: 'n',
     skyId: '101847'
   },
   {
     targetWord: 'quad',
-    translation: 'четырёхугольник',
+    translating: 'четырёхугольник',
     partOfSpeechCode: 'n',
     skyId: '66435'
   },
   {
     targetWord: 'quad',
-    translation: 'шпация',
+    translating: 'шпация',
     partOfSpeechCode: 'n',
     skyId: '66434'
   },
   {
     targetWord: 'quad',
-    translation: 'четырёхглавая мышца',
+    translating: 'четырёхглавая мышца',
     partOfSpeechCode: 'n',
     skyId: '66433'
   },
   {
     targetWord: 'quad',
-    translation: 'один из четырёх близнецов',
+    translating: 'один из четырёх близнецов',
     partOfSpeechCode: 'n',
     skyId: '66432'
   },
   {
     targetWord: 'quad bike',
-    translation: 'квадроцикл',
+    translating: 'квадроцикл',
     partOfSpeechCode: 'n',
     skyId: '266483'
   },
   {
     targetWord: 'quad racing',
-    translation: 'гонки на квадроциклах',
+    translating: 'гонки на квадроциклах',
     partOfSpeechCode: 'n',
     skyId: '255872'
   },
   {
     targetWord: 'quadcopter',
-    translation: 'квадрокоптер',
+    translating: 'квадрокоптер',
     partOfSpeechCode: 'n',
     skyId: '260647'
   },
   {
     targetWord: 'quadrangle',
-    translation: 'четырёхугольник',
+    translating: 'четырёхугольник',
     partOfSpeechCode: 'n',
     skyId: '135009'
   },
   {
     targetWord: 'quadrangle',
-    translation: 'четырехугольник',
+    translating: 'четырехугольник',
     partOfSpeechCode: 'n',
     skyId: '135008'
   },
   {
     targetWord: 'quadrant',
-    translation: 'четверть окружности',
+    translating: 'четверть окружности',
     partOfSpeechCode: 'n',
     skyId: '2400'
   },
   {
     targetWord: 'quadrant',
-    translation: 'сектор',
+    translating: 'сектор',
     partOfSpeechCode: 'n',
     skyId: '2399'
   },
   {
     targetWord: 'quadrant',
-    translation: 'квадрант',
+    translating: 'квадрант',
     partOfSpeechCode: 'n',
     skyId: '2401'
   },
   {
     targetWord: 'quadraphonic',
-    translation: 'квадрофонический',
+    translating: 'квадрофонический',
     partOfSpeechCode: 'j',
     skyId: '58303'
   },
   {
     targetWord: 'quadratic',
-    translation: 'квадратный',
+    translating: 'квадратный',
     partOfSpeechCode: 'j',
     skyId: '84804'
   },
   {
     targetWord: 'quadratic',
-    translation: 'квадратичный',
+    translating: 'квадратичный',
     partOfSpeechCode: 'j',
     skyId: '84803'
   },
   {
     targetWord: 'quadratic',
-    translation: 'квадратичный',
+    translating: 'квадратичный',
     partOfSpeechCode: 'n',
     skyId: '84803'
   },
   {
     targetWord: 'quadratic',
-    translation: 'квадратное уравнение',
+    translating: 'квадратное уравнение',
     partOfSpeechCode: 'n',
     skyId: '84801'
   },
   {
     targetWord: 'quadratic equation',
-    translation: 'квадратное уравнение',
+    translating: 'квадратное уравнение',
     partOfSpeechCode: 'n',
     skyId: '192124'
   },
   {
     targetWord: 'quadratic polynomial',
-    translation: 'квадратичная функция',
+    translating: 'квадратичная функция',
     partOfSpeechCode: 'n',
     skyId: '187100'
   },
   {
     targetWord: 'quadratics',
-    translation: 'квадратичная функция',
+    translating: 'квадратичная функция',
     partOfSpeechCode: 'n',
     skyId: '65650'
   },
   {
     targetWord: 'quadrature',
-    translation: 'квадратуре',
+    translating: 'квадратуре',
     partOfSpeechCode: 'n',
     skyId: '64039'
   },
   {
     targetWord: 'quadrature-axis transient reactance',
-    translation: 'переходное сопротивление по поперечной оси',
+    translating: 'переходное сопротивление по поперечной оси',
     partOfSpeechCode: 'n',
     skyId: '247991'
   },
   {
     targetWord: 'quadriceps',
-    translation: 'квадрицепс',
+    translating: 'квадрицепс',
     partOfSpeechCode: 'n',
     skyId: '165126'
   },
   {
     targetWord: 'quadriceps femoris',
-    translation: 'четырёхглавая мышца бедра',
+    translating: 'четырёхглавая мышца бедра',
     partOfSpeechCode: 'n',
     skyId: '61219'
   },
   {
     targetWord: 'quadrilateral',
-    translation: 'четырёхугольный',
+    translating: 'четырёхугольный',
     partOfSpeechCode: 'j',
     skyId: '42231'
   },
   {
     targetWord: 'quadrilateral',
-    translation: 'четырёхугольник',
+    translating: 'четырёхугольник',
     partOfSpeechCode: 'n',
     skyId: '42230'
   },
   {
     targetWord: 'quadrille',
-    translation: 'кадриль',
+    translating: 'кадриль',
     partOfSpeechCode: 'n',
     skyId: '107384'
   },
   {
     targetWord: 'quadrillion',
-    translation: 'квадрильон',
+    translating: 'квадрильон',
     partOfSpeechCode: 'n',
     skyId: '162417'
   },
   {
     targetWord: 'quadriplegia',
-    translation: 'квадриплегия',
+    translating: 'квадриплегия',
     partOfSpeechCode: 'n',
     skyId: '93333'
   },
   {
     targetWord: 'quadriplegic',
-    translation: 'парализованный',
+    translating: 'парализованный',
     partOfSpeechCode: 'n',
     skyId: '93335'
   },
   {
     targetWord: 'quadroon',
-    translation: 'квартерон',
+    translating: 'квартерон',
     partOfSpeechCode: 'n',
     skyId: '24031'
   },
   {
     targetWord: 'quadruped',
-    translation: 'четвероногий',
+    translating: 'четвероногий',
     partOfSpeechCode: 'n',
     skyId: '132112'
   },
   {
     targetWord: 'quadrupedal',
-    translation: 'четвероногий',
+    translating: 'четвероногий',
     partOfSpeechCode: 'j',
     skyId: '183154'
   },
   {
     targetWord: 'quadruple',
-    translation: 'четверной',
+    translating: 'четверной',
     partOfSpeechCode: 'j',
     skyId: '56958'
   },
   {
     targetWord: 'quadruple',
-    translation: 'четырёхкратный',
+    translating: 'четырёхкратный',
     partOfSpeechCode: 'j',
     skyId: '56959'
   },
   {
     targetWord: 'quadruple',
-    translation: 'четырёхкратный',
+    translating: 'четырёхкратный',
     partOfSpeechCode: 'n',
     skyId: '56959'
   },
   {
     targetWord: 'quadruple',
-    translation: 'четвёрка',
+    translating: 'четвёрка',
     partOfSpeechCode: 'n',
     skyId: '56955'
   },
   {
     targetWord: 'quadruple',
-    translation: 'увеличиться вчетверо',
+    translating: 'увеличиться вчетверо',
     partOfSpeechCode: 'v',
     skyId: '56957'
   },
@@ -513,421 +513,421 @@ export const qArr = [
   },
   {
     targetWord: 'quadruplet',
-    translation: 'один из четырёх близнецов',
+    translating: 'один из четырёх близнецов',
     partOfSpeechCode: 'n',
     skyId: '118536'
   },
   {
     targetWord: 'quadruplet',
-    translation: 'тетрада',
+    translating: 'тетрада',
     partOfSpeechCode: 'n',
     skyId: '118535'
   },
   {
     targetWord: 'quadruplex',
-    translation: 'четверной',
+    translating: 'четверной',
     partOfSpeechCode: 'j',
     skyId: '118530'
   },
   {
     targetWord: 'quadruplicate',
-    translation: 'в четырех экземплярах',
+    translating: 'в четырех экземплярах',
     partOfSpeechCode: 'v',
     skyId: '6597'
   },
   {
     targetWord: 'quadruplicate',
-    translation: 'учетверенный',
+    translating: 'учетверенный',
     partOfSpeechCode: 'n',
     skyId: '6596'
   },
   {
     targetWord: 'quadrupling',
-    translation: 'увеличение вчетверо',
+    translating: 'увеличение вчетверо',
     partOfSpeechCode: 'n',
     skyId: '45689'
   },
   {
     targetWord: 'quaff',
-    translation: 'пить залпом',
+    translating: 'пить залпом',
     partOfSpeechCode: 'v',
     skyId: '104125'
   },
   {
     targetWord: 'quaff',
-    translation: 'большой глоток',
+    translating: 'большой глоток',
     partOfSpeechCode: 'n',
     skyId: '104124'
   },
   {
     targetWord: 'quag',
-    translation: 'болото',
+    translating: 'болото',
     partOfSpeechCode: 'n',
     skyId: '66436'
   },
   {
     targetWord: 'quagmire',
-    translation: 'трясина',
+    translating: 'трясина',
     partOfSpeechCode: 'n',
     skyId: '123267'
   },
   {
     targetWord: 'quahaug',
-    translation: 'тегсепапа',
+    translating: 'тегсепапа',
     partOfSpeechCode: 'n',
     skyId: '93959'
   },
   {
     targetWord: 'quahog',
-    translation: 'тегсепапа',
+    translating: 'тегсепапа',
     partOfSpeechCode: 'n',
     skyId: '139979'
   },
   {
     targetWord: 'quahog',
-    translation: 'венус',
+    translating: 'венус',
     partOfSpeechCode: 'n',
     skyId: '139978'
   },
   {
     targetWord: 'quail',
-    translation: 'струсить',
+    translating: 'струсить',
     partOfSpeechCode: 'v',
     skyId: '54706'
   },
   {
     targetWord: 'quail',
-    translation: 'перепел',
+    translating: 'перепел',
     partOfSpeechCode: 'n',
     skyId: '54705'
   },
   {
     targetWord: 'quail',
-    translation: 'перепёлка',
+    translating: 'перепёлка',
     partOfSpeechCode: 'n',
     skyId: '54704'
   },
   {
     targetWord: 'quaint',
-    translation: 'причудливый',
+    translating: 'причудливый',
     partOfSpeechCode: 'j',
     skyId: '57767'
   },
   {
     targetWord: 'quaint',
-    translation: 'чудной',
+    translating: 'чудной',
     partOfSpeechCode: 'j',
     skyId: '57766'
   },
   {
     targetWord: 'quaint',
-    translation: 'затейливый',
+    translating: 'затейливый',
     partOfSpeechCode: 'j',
     skyId: '57765'
   },
   {
     targetWord: 'quaint old building',
-    translation: 'затейливое старинное здание',
+    translating: 'затейливое старинное здание',
     partOfSpeechCode: 'ph',
     skyId: '253643'
   },
   {
     targetWord: 'quaintly',
-    translation: 'причудливо',
+    translating: 'причудливо',
     partOfSpeechCode: 'r',
     skyId: '253826'
   },
   {
     targetWord: 'quaintness',
-    translation: 'причудливость',
+    translating: 'причудливость',
     partOfSpeechCode: 'n',
     skyId: '103361'
   },
   {
     targetWord: 'quake',
-    translation: 'дрожать',
+    translating: 'дрожать',
     partOfSpeechCode: 'v',
     skyId: '73180'
   },
   {
     targetWord: 'quake',
-    translation: 'трястись',
+    translating: 'трястись',
     partOfSpeechCode: 'v',
     skyId: '73179'
   },
   {
     targetWord: 'quake',
-    translation: 'землетрясение',
+    translating: 'землетрясение',
     partOfSpeechCode: 'n',
     skyId: '231428'
   },
   {
     targetWord: "quake in one's boots",
-    translation: 'трястись от страха',
+    translating: 'трястись от страха',
     partOfSpeechCode: 'ph',
     skyId: '241510'
   },
   {
     targetWord: 'quaker',
-    translation: 'дрожащий человек',
+    translating: 'дрожащий человек',
     partOfSpeechCode: 'n',
     skyId: '161547'
   },
   {
     targetWord: 'quaker',
-    translation: 'квакер',
+    translating: 'квакер',
     partOfSpeechCode: 'n',
     skyId: '161546'
   },
   {
     targetWord: 'quakers',
-    translation: 'трамблрр',
+    translating: 'трамблрр',
     partOfSpeechCode: 'n',
     skyId: '199423'
   },
   {
     targetWord: 'quakers',
-    translation: 'квакеры',
+    translating: 'квакеры',
     partOfSpeechCode: 'n',
     skyId: '199421'
   },
   {
     targetWord: 'qualification',
-    translation: 'ограничение',
+    translating: 'ограничение',
     partOfSpeechCode: 'n',
     skyId: '177964'
   },
   {
     targetWord: 'qualification',
-    translation: 'уточнение',
+    translating: 'уточнение',
     partOfSpeechCode: 'n',
     skyId: '177963'
   },
   {
     targetWord: 'qualification',
-    translation: 'квалификация',
+    translating: 'квалификация',
     partOfSpeechCode: 'n',
     skyId: '177962'
   },
   {
     targetWord: 'qualification criteria',
-    translation: 'квалификационные критерии',
+    translating: 'квалификационные критерии',
     partOfSpeechCode: 'n',
     skyId: '262606'
   },
   {
     targetWord: 'qualified',
-    translation: 'зависящий',
+    translating: 'зависящий',
     partOfSpeechCode: 'j',
     skyId: '136730'
   },
   {
     targetWord: 'qualified',
-    translation: 'пригодный',
+    translating: 'пригодный',
     partOfSpeechCode: 'j',
     skyId: '136728'
   },
   {
     targetWord: 'qualified',
-    translation: 'ограниченный',
+    translating: 'ограниченный',
     partOfSpeechCode: 'j',
     skyId: '136729'
   },
   {
     targetWord: 'qualified',
-    translation: 'квалифицированный',
+    translating: 'квалифицированный',
     partOfSpeechCode: 'j',
     skyId: '136726'
   },
   {
     targetWord: 'qualifier',
-    translation: 'определитель',
+    translating: 'определитель',
     partOfSpeechCode: 'n',
     skyId: '136713'
   },
   {
     targetWord: 'qualifier',
-    translation: 'спортсмен',
+    translating: 'спортсмен',
     partOfSpeechCode: 'n',
     skyId: '136712'
   },
   {
     targetWord: 'qualify',
-    translation: 'проходить квалификацию',
+    translating: 'проходить квалификацию',
     partOfSpeechCode: 'v',
     skyId: '231857'
   },
   {
     targetWord: 'qualify',
-    translation: 'разбавлять',
+    translating: 'разбавлять',
     partOfSpeechCode: 'v',
     skyId: '138238'
   },
   {
     targetWord: 'qualify',
-    translation: 'определять',
+    translating: 'определять',
     partOfSpeechCode: 'v',
     skyId: '138237'
   },
   {
     targetWord: 'qualify',
-    translation: 'предусматривать',
+    translating: 'предусматривать',
     partOfSpeechCode: 'v',
     skyId: '138236'
   },
   {
     targetWord: 'qualify',
-    translation: 'подходить',
+    translating: 'подходить',
     partOfSpeechCode: 'v',
     skyId: '138235'
   },
   {
     targetWord: 'qualify',
-    translation: 'уточнять',
+    translating: 'уточнять',
     partOfSpeechCode: 'v',
     skyId: '138234'
   },
   {
     targetWord: 'qualify',
-    translation: 'давать квалификацию',
+    translating: 'давать квалификацию',
     partOfSpeechCode: 'v',
     skyId: '138233'
   },
   {
     targetWord: 'qualify',
-    translation: 'получить право',
+    translating: 'получить право',
     partOfSpeechCode: 'v',
     skyId: '138232'
   },
   {
     targetWord: 'qualify for tax relief/tax incentives',
-    translation: 'получить право на налоговые льготы',
+    translating: 'получить право на налоговые льготы',
     partOfSpeechCode: 'ph',
     skyId: '266275'
   },
   {
     targetWord: 'qualifying',
-    translation: 'отборочный',
+    translating: 'отборочный',
     partOfSpeechCode: 'j',
     skyId: '231777'
   },
   {
     targetWord: 'qualifying',
-    translation: 'получение квалификации ',
+    translating: 'получение квалификации ',
     partOfSpeechCode: 'n',
     skyId: '10715'
   },
   {
     targetWord: 'qualifying',
-    translation: 'грамматическое отношение',
+    translating: 'грамматическое отношение',
     partOfSpeechCode: 'n',
     skyId: '10714'
   },
   {
     targetWord: 'qualitative',
-    translation: 'качественный',
+    translating: 'качественный',
     partOfSpeechCode: 'j',
     skyId: '220176'
   },
   {
     targetWord: 'qualitative analysis',
-    translation: 'качественный анализ ',
+    translating: 'качественный анализ ',
     partOfSpeechCode: 'n',
     skyId: '247093'
   },
   {
     targetWord: 'qualitative research',
-    translation: 'качественное исследование',
+    translating: 'качественное исследование',
     partOfSpeechCode: 'n',
     skyId: '252224'
   },
   {
     targetWord: 'qualitatively',
-    translation: 'качественно',
+    translating: 'качественно',
     partOfSpeechCode: 'r',
     skyId: '98845'
   },
   {
     targetWord: 'quality',
-    translation: 'качество',
+    translating: 'качество',
     partOfSpeechCode: 'n',
     skyId: '212203'
   },
   {
     targetWord: 'quality activity',
-    translation: 'действия по обеспечению качества',
+    translating: 'действия по обеспечению качества',
     partOfSpeechCode: 'n',
     skyId: '247307'
   },
   {
     targetWord: 'quality and water safety (water quality)',
-    translation: 'качество и безопасность воды (качество воды)',
+    translating: 'качество и безопасность воды (качество воды)',
     partOfSpeechCode: 'n',
     skyId: '262574'
   },
   {
     targetWord: 'quality assurance',
-    translation: 'обеспечение качества',
+    translating: 'обеспечение качества',
     partOfSpeechCode: 'n',
     skyId: '252570'
   },
   {
     targetWord: 'quality assurance and acceptance procedure',
-    translation: 'порядок контроля и приемки',
+    translating: 'порядок контроля и приемки',
     partOfSpeechCode: 'n',
     skyId: '247350'
   },
   {
     targetWord: 'quality assurance annual report',
-    translation: 'годовой отчет по контролю качества',
+    translating: 'годовой отчет по контролю качества',
     partOfSpeechCode: 'n',
     skyId: '247339'
   },
   {
     targetWord: 'quality assurance in commissioning',
-    translation: 'обеспечение качества при вводе в эксплуатацию',
+    translating: 'обеспечение качества при вводе в эксплуатацию',
     partOfSpeechCode: 'n',
     skyId: '247324'
   },
   {
     targetWord: 'quality assurance in construction',
-    translation: 'обеспечение качества при сооружении ',
+    translating: 'обеспечение качества при сооружении ',
     partOfSpeechCode: 'n',
     skyId: '247334'
   },
   {
     targetWord: 'quality assurance in decommissioning',
-    translation: 'обеспечение качества при выводе из эксплуатации',
+    translating: 'обеспечение качества при выводе из эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '247325'
   },
   {
     targetWord: 'quality assurance in designing',
-    translation: 'обеспечение качества при проектировании',
+    translating: 'обеспечение качества при проектировании',
     partOfSpeechCode: 'n',
     skyId: '247326'
   },
   {
     targetWord: 'quality assurance in manufacturing',
-    translation: 'обеспечение качества при изготовлении оборудования',
+    translating: 'обеспечение качества при изготовлении оборудования',
     partOfSpeechCode: 'n',
     skyId: '247327'
   },
   {
     targetWord: 'quality assurance in operation',
-    translation: 'обеспечение качества при эксплуатации',
+    translating: 'обеспечение качества при эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '247328'
   },
   {
     targetWord: 'quality assurance in siting',
-    translation: 'обеспечение качества при выборе площадки',
+    translating: 'обеспечение качества при выборе площадки',
     partOfSpeechCode: 'n',
     skyId: '247333'
   },
   {
     targetWord: 'quality assurance manual',
-    translation: 'руководство по обеспечению качества',
+    translating: 'руководство по обеспечению качества',
     partOfSpeechCode: 'n',
     skyId: '247167'
   },
@@ -940,85 +940,85 @@ export const qArr = [
   },
   {
     targetWord: 'quality assurance program for NPP siting',
-    translation: 'программа обеспечения качества при выборе площадки АЭС',
+    translating: 'программа обеспечения качества при выборе площадки АЭС',
     partOfSpeechCode: 'n',
     skyId: '247322'
   },
   {
     targetWord: 'quality assurance program implementation assessment',
-    translation: 'оценка выполнения программы обеспечения качества',
+    translating: 'оценка выполнения программы обеспечения качества',
     partOfSpeechCode: 'n',
     skyId: '247323'
   },
   {
     targetWord: 'quality assurance program in construction',
-    translation: 'программа обеспечения качества при сооружении',
+    translating: 'программа обеспечения качества при сооружении',
     partOfSpeechCode: 'n',
     skyId: '247351'
   },
   {
     targetWord: 'quality assurance program in designing',
-    translation: 'программа обеспечения качества при проектировании (ПОКАС)',
+    translating: 'программа обеспечения качества при проектировании (ПОКАС)',
     partOfSpeechCode: 'n',
     skyId: '247352'
   },
   {
     targetWord: 'quality assurance program in development',
-    translation: 'программа обеспечения качества при разработке',
+    translating: 'программа обеспечения качества при разработке',
     partOfSpeechCode: 'n',
     skyId: '247353'
   },
   {
     targetWord: 'quality assurance program in manufacturing',
-    translation: 'программа обеспечения качества при изготовлении',
+    translating: 'программа обеспечения качества при изготовлении',
     partOfSpeechCode: 'n',
     skyId: '247354'
   },
   {
     targetWord: 'quality characteristic',
-    translation: 'характеристика качества',
+    translating: 'характеристика качества',
     partOfSpeechCode: 'n',
     skyId: '262824'
   },
   {
     targetWord: 'quality control',
-    translation: 'управление качеством',
+    translating: 'управление качеством',
     partOfSpeechCode: 'n',
     skyId: '262816'
   },
   {
     targetWord: 'quality control',
-    translation: 'контроль качества',
+    translating: 'контроль качества',
     partOfSpeechCode: 'n',
     skyId: '159479'
   },
   {
     targetWord: 'quality control department',
-    translation: 'отдел контроля качества',
+    translating: 'отдел контроля качества',
     partOfSpeechCode: 'n',
     skyId: '252433'
   },
   {
     targetWord: 'quality control field coordinator',
-    translation: 'координатор контроля качества на площадке',
+    translating: 'координатор контроля качества на площадке',
     partOfSpeechCode: 'n',
     skyId: '247320'
   },
   {
     targetWord: 'quality data package',
-    translation: 'блок данных по обеспечению качества',
+    translating: 'блок данных по обеспечению качества',
     partOfSpeechCode: 'n',
     skyId: '247319'
   },
   {
     targetWord: 'quality factor',
-    translation: 'показатель качества',
+    translating: 'показатель качества',
     partOfSpeechCode: 'n',
     skyId: '247153'
   },
   {
     targetWord: 'quality history record',
-    translation: 'карточка учета показателей качества',
+    translating: 'карточка учета показателей качества',
     partOfSpeechCode: 'n',
     skyId: '247318'
   },
@@ -1030,43 +1030,43 @@ export const qArr = [
   },
   {
     targetWord: 'quality improvement',
-    translation: 'улучшение качества',
+    translating: 'улучшение качества',
     partOfSpeechCode: 'n',
     skyId: '247154'
   },
   {
     targetWord: 'quality inspector',
-    translation: 'инспектор по качеству',
+    translating: 'инспектор по качеству',
     partOfSpeechCode: 'n',
     skyId: '247317'
   },
   {
     targetWord: 'quality management',
-    translation: 'менеджмент качества',
+    translating: 'менеджмент качества',
     partOfSpeechCode: 'n',
     skyId: '252562'
   },
   {
     targetWord: 'quality management plan',
-    translation: 'план менеджмента качества',
+    translating: 'план менеджмента качества',
     partOfSpeechCode: 'n',
     skyId: '262667'
   },
   {
     targetWord: 'quality management system',
-    translation: 'cистема менеджмента качества',
+    translating: 'cистема менеджмента качества',
     partOfSpeechCode: 'n',
     skyId: '247155'
   },
   {
     targetWord: 'quality management system consultant',
-    translation: 'консультант по системе менеджмента качества',
+    translating: 'консультант по системе менеджмента качества',
     partOfSpeechCode: 'n',
     skyId: '262589'
   },
   {
     targetWord: 'quality management system creation',
-    translation: 'создание системы менеджмента качества',
+    translating: 'создание системы менеджмента качества',
     partOfSpeechCode: 'n',
     skyId: '262771'
   },
@@ -1078,2725 +1078,2725 @@ export const qArr = [
   },
   {
     targetWord: 'quality objective',
-    translation: 'цель качества',
+    translating: 'цель качества',
     partOfSpeechCode: 'n',
     skyId: '252569'
   },
   {
     targetWord: 'quality of life',
-    translation: 'качество жизни',
+    translating: 'качество жизни',
     partOfSpeechCode: 'n',
     skyId: '5699'
   },
   {
     targetWord: 'quality of the tour services',
-    translation: 'качество предоставляемых экскурсионных услуг',
+    translating: 'качество предоставляемых экскурсионных услуг',
     partOfSpeechCode: 'ph',
     skyId: '261809'
   },
   {
     targetWord: 'quality plan',
-    translation: 'план качества',
+    translating: 'план качества',
     partOfSpeechCode: 'n',
     skyId: '262666'
   },
   {
     targetWord: 'quality planning',
-    translation: 'планирование качества',
+    translating: 'планирование качества',
     partOfSpeechCode: 'n',
     skyId: '262673'
   },
   {
     targetWord: 'quality policy',
-    translation: 'политика в области качества',
+    translating: 'политика в области качества',
     partOfSpeechCode: 'n',
     skyId: '247156'
   },
   {
     targetWord: 'quality register',
-    translation: 'реестр качества',
+    translating: 'реестр качества',
     partOfSpeechCode: 'n',
     skyId: '254946'
   },
   {
     targetWord: 'quality requirement',
-    translation: 'требование к качеству',
+    translating: 'требование к качеству',
     partOfSpeechCode: 'n',
     skyId: '262805'
   },
   {
     targetWord: 'quality specification',
-    translation: 'требования к качеству',
+    translating: 'требования к качеству',
     partOfSpeechCode: 'n',
     skyId: '247315'
   },
   {
     targetWord: 'quality target product profile',
-    translation: 'целевой профиль качества продукта',
+    translating: 'целевой профиль качества продукта',
     partOfSpeechCode: 'n',
     skyId: '252590'
   },
   {
     targetWord: 'quality time',
-    translation: 'качественное время',
+    translating: 'качественное время',
     partOfSpeechCode: 'n',
     skyId: '231323'
   },
   {
     targetWord: 'quality tolerance',
-    translation: 'допуск по качеству',
+    translating: 'допуск по качеству',
     partOfSpeechCode: 'n',
     skyId: '247151'
   },
   {
     targetWord: 'qualm',
-    translation: 'приступ тошноты',
+    translating: 'приступ тошноты',
     partOfSpeechCode: 'n',
     skyId: '71168'
   },
   {
     targetWord: 'qualm',
-    translation: 'опасение',
+    translating: 'опасение',
     partOfSpeechCode: 'n',
     skyId: '71167'
   },
   {
     targetWord: 'quamash',
-    translation: 'камы',
+    translating: 'камы',
     partOfSpeechCode: 'n',
     skyId: '161319'
   },
   {
     targetWord: 'quandary',
-    translation: 'затруднительное положение',
+    translating: 'затруднительное положение',
     partOfSpeechCode: 'n',
     skyId: '67263'
   },
   {
     targetWord: 'quandong',
-    translation: 'quandong',
+    translating: 'quandong',
     partOfSpeechCode: 'n',
     skyId: '173172'
   },
   {
     targetWord: 'quantal',
-    translation: 'квантовый',
+    translating: 'квантовый',
     partOfSpeechCode: 'j',
     skyId: '159274'
   },
   {
     targetWord: 'quantifiability',
-    translation: 'измеримость',
+    translating: 'измеримость',
     partOfSpeechCode: 'n',
     skyId: '55948'
   },
   {
     targetWord: 'quantifiable',
-    translation: 'поддающийся количественной оценке',
+    translating: 'поддающийся количественной оценке',
     partOfSpeechCode: 'j',
     skyId: '101080'
   },
   {
     targetWord: 'quantification',
-    translation: 'количественный расчет',
+    translating: 'количественный расчет',
     partOfSpeechCode: 'n',
     skyId: '168617'
   },
   {
     targetWord: 'quantification',
-    translation: 'количественное выражение',
+    translating: 'количественное выражение',
     partOfSpeechCode: 'n',
     skyId: '168616'
   },
   {
     targetWord: 'quantifier',
-    translation: 'квантор',
+    translating: 'квантор',
     partOfSpeechCode: 'n',
     skyId: '42078'
   },
   {
     targetWord: 'quantifier',
-    translation: 'квантификатор',
+    translating: 'квантификатор',
     partOfSpeechCode: 'n',
     skyId: '42079'
   },
   {
     targetWord: 'quantify',
-    translation: 'определять количество',
+    translating: 'определять количество',
     partOfSpeechCode: 'v',
     skyId: '71457'
   },
   {
     targetWord: 'quantisation',
-    translation: 'квантование',
+    translating: 'квантование',
     partOfSpeechCode: 'n',
     skyId: '189283'
   },
   {
     targetWord: 'quantitative',
-    translation: 'количественный',
+    translating: 'количественный',
     partOfSpeechCode: 'j',
     skyId: '58153'
   },
   {
     targetWord: 'quantitative research',
-    translation: 'количественное исследование',
+    translating: 'количественное исследование',
     partOfSpeechCode: 'n',
     skyId: '252227'
   },
   {
     targetWord: 'quantitatively',
-    translation: 'количественно',
+    translating: 'количественно',
     partOfSpeechCode: 'r',
     skyId: '67234'
   },
   {
     targetWord: 'quantity',
-    translation: 'большое количество',
+    translating: 'большое количество',
     partOfSpeechCode: 'n',
     skyId: '223269'
   },
   {
     targetWord: 'quantity',
-    translation: 'количество',
+    translating: 'количество',
     partOfSpeechCode: 'n',
     skyId: '223270'
   },
   {
     targetWord: 'quantize',
-    translation: 'квантовать',
+    translating: 'квантовать',
     partOfSpeechCode: 'v',
     skyId: '53849'
   },
   {
     targetWord: 'quantized',
-    translation: 'квантованный',
+    translating: 'квантованный',
     partOfSpeechCode: 'j',
     skyId: '53850'
   },
   {
     targetWord: 'quantum',
-    translation: 'квант',
+    translating: 'квант',
     partOfSpeechCode: 'n',
     skyId: '210180'
   },
   {
     targetWord: 'quantum computing',
-    translation: 'квантовые вычисления',
+    translating: 'квантовые вычисления',
     partOfSpeechCode: 'ph',
     skyId: '261241'
   },
   {
     targetWord: 'quantum leap',
-    translation: 'квантовый скачок',
+    translating: 'квантовый скачок',
     partOfSpeechCode: 'n',
     skyId: '68019'
   },
   {
     targetWord: 'quantum mechanics',
-    translation: 'квантовая механика',
+    translating: 'квантовая механика',
     partOfSpeechCode: 'n',
     skyId: '115608'
   },
   {
     targetWord: 'quantum physics',
-    translation: 'квантовая физика',
+    translating: 'квантовая физика',
     partOfSpeechCode: 'n',
     skyId: '128167'
   },
   {
     targetWord: 'quantum theory',
-    translation: 'квантовая теория',
+    translating: 'квантовая теория',
     partOfSpeechCode: 'n',
     skyId: '21229'
   },
   {
     targetWord: 'quaoar',
-    translation: 'квавар',
+    translating: 'квавар',
     partOfSpeechCode: 'n',
     skyId: '2436'
   },
   {
     targetWord: 'quapaw',
-    translation: 'Quapaw',
+    translating: 'Quapaw',
     partOfSpeechCode: 'n',
     skyId: '86263'
   },
   {
     targetWord: 'quarantine',
-    translation: 'карантин',
+    translating: 'карантин',
     partOfSpeechCode: 'n',
     skyId: '183775'
   },
   {
     targetWord: 'quarantine',
-    translation: 'помещать в карантин',
+    translating: 'помещать в карантин',
     partOfSpeechCode: 'v',
     skyId: '183776'
   },
   {
     targetWord: 'quarantine area',
-    translation: 'зона карантина',
+    translating: 'зона карантина',
     partOfSpeechCode: 'n',
     skyId: '254410'
   },
   {
     targetWord: 'quarantined',
-    translation: 'под карантином',
+    translating: 'под карантином',
     partOfSpeechCode: 'j',
     skyId: '87935'
   },
   {
     targetWord: 'quark',
-    translation: 'творог',
+    translating: 'творог',
     partOfSpeechCode: 'n',
     skyId: '38234'
   },
   {
     targetWord: 'quark',
-    translation: 'кварк',
+    translating: 'кварк',
     partOfSpeechCode: 'n',
     skyId: '38233'
   },
   {
     targetWord: 'quark cheese',
-    translation: 'творог',
+    translating: 'творог',
     partOfSpeechCode: 'n',
     skyId: '169376'
   },
   {
     targetWord: 'quarrel',
-    translation: 'спорить',
+    translating: 'спорить',
     partOfSpeechCode: 'v',
     skyId: '50329'
   },
   {
     targetWord: 'quarrel',
-    translation: 'болт',
+    translating: 'болт',
     partOfSpeechCode: 'n',
     skyId: '50328'
   },
   {
     targetWord: 'quarrel',
-    translation: 'ссора',
+    translating: 'ссора',
     partOfSpeechCode: 'n',
     skyId: '50327'
   },
   {
     targetWord: 'quarrel with',
-    translation: 'спорить с',
+    translating: 'спорить с',
     partOfSpeechCode: 'v',
     skyId: '235054'
   },
   {
     targetWord: 'quarreler',
-    translation: 'сутяжник',
+    translating: 'сутяжник',
     partOfSpeechCode: 'n',
     skyId: '153193'
   },
   {
     targetWord: 'quarreller',
-    translation: 'сутяжник',
+    translating: 'сутяжник',
     partOfSpeechCode: 'n',
     skyId: '2416'
   },
   {
     targetWord: 'quarrelsome',
-    translation: 'вздорный',
+    translating: 'вздорный',
     partOfSpeechCode: 'j',
     skyId: '132110'
   },
   {
     targetWord: 'quarry',
-    translation: 'извлекать ',
+    translating: 'извлекать ',
     partOfSpeechCode: 'v',
     skyId: '50736'
   },
   {
     targetWord: 'quarry',
-    translation: 'преследуемая жертва',
+    translating: 'преследуемая жертва',
     partOfSpeechCode: 'n',
     skyId: '6201'
   },
   {
     targetWord: 'quarry',
-    translation: 'карьер',
+    translating: 'карьер',
     partOfSpeechCode: 'n',
     skyId: '6202'
   },
   {
     targetWord: 'quarry',
-    translation: 'добыча',
+    translating: 'добыча',
     partOfSpeechCode: 'n',
     skyId: '6203'
   },
   {
     targetWord: 'quarry tile',
-    translation: 'квадратная керамическая плитка для покрытий',
+    translating: 'квадратная керамическая плитка для покрытий',
     partOfSpeechCode: 'n',
     skyId: '258348'
   },
   {
     targetWord: 'quarryman',
-    translation: 'рабочий карьера',
+    translating: 'рабочий карьера',
     partOfSpeechCode: 'n',
     skyId: '149885'
   },
   {
     targetWord: 'quart',
-    translation: 'кварта',
+    translating: 'кварта',
     partOfSpeechCode: 'n',
     skyId: '38237'
   },
   {
     targetWord: 'quart',
-    translation: 'кварта ',
+    translating: 'кварта ',
     partOfSpeechCode: 'n',
     skyId: '38235'
   },
   {
     targetWord: 'quartan',
-    translation: 'четырёхдневная',
+    translating: 'четырёхдневная',
     partOfSpeechCode: 'j',
     skyId: '61213'
   },
   {
     targetWord: 'quartan',
-    translation: 'четырехдневная малярия',
+    translating: 'четырехдневная малярия',
     partOfSpeechCode: 'n',
     skyId: '61212'
   },
   {
     targetWord: 'quarter',
-    translation: 'делить ',
+    translating: 'делить ',
     partOfSpeechCode: 'v',
     skyId: '153790'
   },
   {
     targetWord: 'quarter',
-    translation: 'четвертовать',
+    translating: 'четвертовать',
     partOfSpeechCode: 'v',
     skyId: '153788'
   },
   {
     targetWord: 'quarter',
-    translation: 'расквартировывать',
+    translating: 'расквартировывать',
     partOfSpeechCode: 'v',
     skyId: '153787'
   },
   {
     targetWord: 'quarter',
-    translation: 'кормовая часть судна',
+    translating: 'кормовая часть судна',
     partOfSpeechCode: 'n',
     skyId: '153784'
   },
   {
     targetWord: 'quarter',
-    translation: 'четверть доллара',
+    translating: 'четверть доллара',
     partOfSpeechCode: 'n',
     skyId: '153782'
   },
   {
     targetWord: 'quarter',
-    translation: 'четверть',
+    translating: 'четверть',
     partOfSpeechCode: 'n',
     skyId: '153786'
   },
   {
     targetWord: 'quarter',
-    translation: 'квартал',
+    translating: 'квартал',
     partOfSpeechCode: 'n',
     skyId: '153774'
   },
   {
     targetWord: 'quarter day',
-    translation: 'первый день квартала',
+    translating: 'первый день квартала',
     partOfSpeechCode: 'n',
     skyId: '8599'
   },
   {
     targetWord: 'quarter horse',
-    translation: 'американская верховая лошадь',
+    translating: 'американская верховая лошадь',
     partOfSpeechCode: 'n',
     skyId: '128486'
   },
   {
     targetWord: 'quarter mile',
-    translation: 'четверть мили',
+    translating: 'четверть мили',
     partOfSpeechCode: 'n',
     skyId: '178981'
   },
   {
     targetWord: 'quarter note',
-    translation: 'четвертная нота',
+    translating: 'четвертная нота',
     partOfSpeechCode: 'n',
     skyId: '123117'
   },
   {
     targetWord: 'quarter past',
-    translation: 'четверть часа после...',
+    translating: 'четверть часа после...',
     partOfSpeechCode: 'ph',
     skyId: '252305'
   },
   {
     targetWord: 'quarter past ten',
-    translation: 'десять пятнадцать',
+    translating: 'десять пятнадцать',
     partOfSpeechCode: 'ph',
     skyId: '228194'
   },
   {
     targetWord: 'quarter rest',
-    translation: 'остальная четверть',
+    translating: 'остальная четверть',
     partOfSpeechCode: 'n',
     skyId: '96293'
   },
   {
     targetWord: 'quarter round',
-    translation: 'четверть круга',
+    translating: 'четверть круга',
     partOfSpeechCode: 'n',
     skyId: '52763'
   },
   {
     targetWord: 'quarter sessions',
-    translation: 'квартал сессии',
+    translating: 'квартал сессии',
     partOfSpeechCode: 'n',
     skyId: '181902'
   },
   {
     targetWord: 'quarter to',
-    translation: 'без пятнадцати',
+    translating: 'без пятнадцати',
     partOfSpeechCode: 'ph',
     skyId: '252304'
   },
   {
     targetWord: 'quarter to eleven',
-    translation: 'без пятнадцати одиннадцать',
+    translating: 'без пятнадцати одиннадцать',
     partOfSpeechCode: 'ph',
     skyId: '228195'
   },
   {
     targetWord: 'quarter-century',
-    translation: 'четверть века',
+    translating: 'четверть века',
     partOfSpeechCode: 'n',
     skyId: '43361'
   },
   {
     targetWord: 'quarter-circle',
-    translation: 'четверть окружности',
+    translating: 'четверть окружности',
     partOfSpeechCode: 'n',
     skyId: '117271'
   },
   {
     targetWord: 'quarter-final',
-    translation: 'четверть-финал',
+    translating: 'четверть-финал',
     partOfSpeechCode: 'n',
     skyId: '229444'
   },
   {
     targetWord: 'quarterback',
-    translation: 'возглавлять ',
+    translating: 'возглавлять ',
     partOfSpeechCode: 'v',
     skyId: '15275'
   },
   {
     targetWord: 'quarterback',
-    translation: 'квотербек',
+    translating: 'квотербек',
     partOfSpeechCode: 'n',
     skyId: '15274'
   },
   {
     targetWord: 'quarterdeck',
-    translation: 'квартердек',
+    translating: 'квартердек',
     partOfSpeechCode: 'n',
     skyId: '214759'
   },
   {
     targetWord: 'quartering',
-    translation: 'квартирование',
+    translating: 'квартирование',
     partOfSpeechCode: 'n',
     skyId: '148250'
   },
   {
     targetWord: 'quartering',
-    translation: 'расквартирования',
+    translating: 'расквартирования',
     partOfSpeechCode: 'n',
     skyId: '148249'
   },
   {
     targetWord: 'quarterly',
-    translation: 'ежеквартально',
+    translating: 'ежеквартально',
     partOfSpeechCode: 'r',
     skyId: '218695'
   },
   {
     targetWord: 'quarterly',
-    translation: 'диагонально',
+    translating: 'диагонально',
     partOfSpeechCode: 'r',
     skyId: '218694'
   },
   {
     targetWord: 'quarterly',
-    translation: 'квартальный',
+    translating: 'квартальный',
     partOfSpeechCode: 'j',
     skyId: '218693'
   },
   {
     targetWord: 'quarterly',
-    translation: 'трёхмесячник',
+    translating: 'трёхмесячник',
     partOfSpeechCode: 'n',
     skyId: '218692'
   },
   {
     targetWord: 'quartermaster',
-    translation: 'начальник хозснабжения',
+    translating: 'начальник хозснабжения',
     partOfSpeechCode: 'n',
     skyId: '214616'
   },
   {
     targetWord: 'quartern',
-    translation: 'четверть',
+    translating: 'четверть',
     partOfSpeechCode: 'n',
     skyId: '153795'
   },
   {
     targetWord: 'quarters',
-    translation: 'жилое помещение',
+    translating: 'жилое помещение',
     partOfSpeechCode: 'n',
     skyId: '153772'
   },
   {
     targetWord: 'quarterstaff',
-    translation: 'посох',
+    translating: 'посох',
     partOfSpeechCode: 'n',
     skyId: '84565'
   },
   {
     targetWord: 'quartet',
-    translation: 'квартет',
+    translating: 'квартет',
     partOfSpeechCode: 'n',
     skyId: '2546'
   },
   {
     targetWord: 'quartet',
-    translation: 'четыре',
+    translating: 'четыре',
     partOfSpeechCode: 'n',
     skyId: '2542'
   },
   {
     targetWord: 'quartette',
-    translation: 'четверки',
+    translating: 'четверки',
     partOfSpeechCode: 'n',
     skyId: '39230'
   },
   {
     targetWord: 'quartette',
-    translation: 'кортеж',
+    translating: 'кортеж',
     partOfSpeechCode: 'n',
     skyId: '39229'
   },
   {
     targetWord: 'quartette',
-    translation: 'квартет',
+    translating: 'квартет',
     partOfSpeechCode: 'n',
     skyId: '39231'
   },
   {
     targetWord: 'quarto',
-    translation: 'кварто',
+    translating: 'кварто',
     partOfSpeechCode: 'n',
     skyId: '149043'
   },
   {
     targetWord: 'quartz',
-    translation: 'кварц',
+    translating: 'кварц',
     partOfSpeechCode: 'n',
     skyId: '66932'
   },
   {
     targetWord: 'quartzite',
-    translation: 'кварцит',
+    translating: 'кварцит',
     partOfSpeechCode: 'n',
     skyId: '120273'
   },
   {
     targetWord: 'quartzy rock',
-    translation: 'окварцованная порода',
+    translating: 'окварцованная порода',
     partOfSpeechCode: 'n',
     skyId: '246493'
   },
   {
     targetWord: 'quasar',
-    translation: 'квазар',
+    translating: 'квазар',
     partOfSpeechCode: 'n',
     skyId: '64853'
   },
   {
     targetWord: 'quash',
-    translation: 'аннули́ровать',
+    translating: 'аннули́ровать',
     partOfSpeechCode: 'v',
     skyId: '79924'
   },
   {
     targetWord: 'quash',
-    translation: 'подавлять',
+    translating: 'подавлять',
     partOfSpeechCode: 'v',
     skyId: '79923'
   },
   {
     targetWord: 'quasi',
-    translation: 'квази',
+    translating: 'квази',
     partOfSpeechCode: 'j',
     skyId: '79922'
   },
   {
     targetWord: 'quasi-ngo',
-    translation: 'квазиавтономная неправительственная организация',
+    translating: 'квазиавтономная неправительственная организация',
     partOfSpeechCode: 'n',
     skyId: '169760'
   },
   {
     targetWord: 'quasi-royal',
-    translation: 'квази',
+    translating: 'квази',
     partOfSpeechCode: 'j',
     skyId: '68904'
   },
   {
     targetWord: 'quasi-stellar radio source',
-    translation: 'квазар',
+    translating: 'квазар',
     partOfSpeechCode: 'n',
     skyId: '53443'
   },
   {
     targetWord: 'quassia',
-    translation: 'квассия',
+    translating: 'квассия',
     partOfSpeechCode: 'n',
     skyId: '163511'
   },
   {
     targetWord: 'quassia amara',
-    translation: 'квассия',
+    translating: 'квассия',
     partOfSpeechCode: 'n',
     skyId: '51887'
   },
   {
     targetWord: 'quat',
-    translation: 'кат',
+    translating: 'кат',
     partOfSpeechCode: 'n',
     skyId: '66423'
   },
   {
     targetWord: 'quatercentenary',
-    translation: 'четырёхсотлетний',
+    translating: 'четырёхсотлетний',
     partOfSpeechCode: 'n',
     skyId: '136974'
   },
   {
     targetWord: 'quatern',
-    translation: 'четыре',
+    translating: 'четыре',
     partOfSpeechCode: 'n',
     skyId: '63062'
   },
   {
     targetWord: 'quaternary',
-    translation: 'четвёрка',
+    translating: 'четвёрка',
     partOfSpeechCode: 'n',
     skyId: '226926'
   },
   {
     targetWord: 'quaternary',
-    translation: 'четвертичный',
+    translating: 'четвертичный',
     partOfSpeechCode: 'j',
     skyId: '226927'
   },
   {
     targetWord: 'quaternary',
-    translation: 'четвертичный',
+    translating: 'четвертичный',
     partOfSpeechCode: 'n',
     skyId: '226927'
   },
   {
     targetWord: 'quaternate',
-    translation: 'quaternate',
+    translating: 'quaternate',
     partOfSpeechCode: 'j',
     skyId: '24485'
   },
   {
     targetWord: 'quaternion',
-    translation: '4',
+    translating: '4',
     partOfSpeechCode: 'n',
     skyId: '135952'
   },
   {
     targetWord: 'quaternity',
-    translation: '4',
+    translating: '4',
     partOfSpeechCode: 'n',
     skyId: '60885'
   },
   {
     targetWord: 'quatrain',
-    translation: 'четверостишие',
+    translating: 'четверостишие',
     partOfSpeechCode: 'n',
     skyId: '118194'
   },
   {
     targetWord: 'quatrefoil',
-    translation: 'четырехлистник',
+    translating: 'четырехлистник',
     partOfSpeechCode: 'n',
     skyId: '256445'
   },
   {
     targetWord: 'quattrocento',
-    translation: 'кватроченто',
+    translating: 'кватроченто',
     partOfSpeechCode: 'n',
     skyId: '190751'
   },
   {
     targetWord: 'quaver',
-    translation: 'выводить трели',
+    translating: 'выводить трели',
     partOfSpeechCode: 'v',
     skyId: '81659'
   },
   {
     targetWord: 'quavering',
-    translation: 'дрожащий',
+    translating: 'дрожащий',
     partOfSpeechCode: 'j',
     skyId: '81660'
   },
   {
     targetWord: 'quaveringly',
-    translation: 'c дрожью',
+    translating: 'c дрожью',
     partOfSpeechCode: 'r',
     skyId: '18864'
   },
   {
     targetWord: 'quay',
-    translation: 'набережная',
+    translating: 'набережная',
     partOfSpeechCode: 'n',
     skyId: '66419'
   },
   {
     targetWord: 'qubit',
-    translation: 'кубит',
+    translating: 'кубит',
     partOfSpeechCode: 'n',
     skyId: '261246'
   },
   {
     targetWord: 'queasily',
-    translation: 'тошнотворно',
+    translating: 'тошнотворно',
     partOfSpeechCode: 'r',
     skyId: '54376'
   },
   {
     targetWord: 'queasiness',
-    translation: 'беспокойство',
+    translating: 'беспокойство',
     partOfSpeechCode: 'n',
     skyId: '110378'
   },
   {
     targetWord: 'queasiness',
-    translation: 'тошнота',
+    translating: 'тошнота',
     partOfSpeechCode: 'n',
     skyId: '110377'
   },
   {
     targetWord: 'queasy',
-    translation: 'нервный',
+    translating: 'нервный',
     partOfSpeechCode: 'j',
     skyId: '59922'
   },
   {
     targetWord: 'queasy',
-    translation: 'испытывающий тошноту',
+    translating: 'испытывающий тошноту',
     partOfSpeechCode: 'j',
     skyId: '59921'
   },
   {
     targetWord: 'queasy',
-    translation: 'тошнотворный',
+    translating: 'тошнотворный',
     partOfSpeechCode: 'j',
     skyId: '59920'
   },
   {
     targetWord: 'queen',
-    translation: 'становиться королевой',
+    translating: 'становиться королевой',
     partOfSpeechCode: 'v',
     skyId: '221523'
   },
   {
     targetWord: 'queen',
-    translation: 'превратить пешку ',
+    translating: 'превратить пешку ',
     partOfSpeechCode: 'v',
     skyId: '221522'
   },
   {
     targetWord: 'queen',
-    translation: 'кошка',
+    translating: 'кошка',
     partOfSpeechCode: 'n',
     skyId: '256191'
   },
   {
     targetWord: 'queen',
-    translation: 'ферзь',
+    translating: 'ферзь',
     partOfSpeechCode: 'n',
     skyId: '221519'
   },
   {
     targetWord: 'queen',
-    translation: 'дама',
+    translating: 'дама',
     partOfSpeechCode: 'n',
     skyId: '221518'
   },
   {
     targetWord: 'queen',
-    translation: 'богиня',
+    translating: 'богиня',
     partOfSpeechCode: 'n',
     skyId: '256192'
   },
   {
     targetWord: 'queen',
-    translation: 'королева',
+    translating: 'королева',
     partOfSpeechCode: 'n',
     skyId: '256190'
   },
   {
     targetWord: 'queen',
-    translation: 'матка',
+    translating: 'матка',
     partOfSpeechCode: 'n',
     skyId: '221512'
   },
   {
     targetWord: 'queen bee',
-    translation: 'пчелиная матка',
+    translating: 'пчелиная матка',
     partOfSpeechCode: 'n',
     skyId: '215872'
   },
   {
     targetWord: 'queen it over',
-    translation: 'вести себя как королева',
+    translating: 'вести себя как королева',
     partOfSpeechCode: 'ph',
     skyId: '261475'
   },
   {
     targetWord: 'queen mole rat',
-    translation: 'королева слепыш',
+    translating: 'королева слепыш',
     partOfSpeechCode: 'n',
     skyId: '213938'
   },
   {
     targetWord: 'queen regnant',
-    translation: 'царствующая королева',
+    translating: 'царствующая королева',
     partOfSpeechCode: 'n',
     skyId: '89228'
   },
   {
     targetWord: 'queen triggerfish',
-    translation: 'австралийский колючепёр',
+    translating: 'австралийский колючепёр',
     partOfSpeechCode: 'n',
     skyId: '105318'
   },
   {
     targetWord: "queen's counsel",
-    translation: 'королевский адвокат',
+    translating: 'королевский адвокат',
     partOfSpeechCode: 'n',
     skyId: '15003'
   },
   {
     targetWord: 'queen-size',
-    translation: 'большого размера',
+    translating: 'большого размера',
     partOfSpeechCode: 'j',
     skyId: '32378'
   },
   {
     targetWord: 'queen-sized',
-    translation: 'королевского размера',
+    translating: 'королевского размера',
     partOfSpeechCode: 'j',
     skyId: '40187'
   },
   {
     targetWord: 'queenfish',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '134994'
   },
   {
     targetWord: 'queenly',
-    translation: 'подобающий королеве',
+    translating: 'подобающий королеве',
     partOfSpeechCode: 'j',
     skyId: '50132'
   },
   {
     targetWord: 'queensland bottletree',
-    translation: 'брахихитон наскальный',
+    translating: 'брахихитон наскальный',
     partOfSpeechCode: 'n',
     skyId: '169165'
   },
   {
     targetWord: 'queer',
-    translation: 'гомосексуальный',
+    translating: 'гомосексуальный',
     partOfSpeechCode: 'j',
     skyId: '221535'
   },
   {
     targetWord: 'queer',
-    translation: 'чудной',
+    translating: 'чудной',
     partOfSpeechCode: 'j',
     skyId: '221534'
   },
   {
     targetWord: 'queer',
-    translation: 'подвергать опасности',
+    translating: 'подвергать опасности',
     partOfSpeechCode: 'v',
     skyId: '221533'
   },
   {
     targetWord: 'queer',
-    translation: 'воспрепятствовать',
+    translating: 'воспрепятствовать',
     partOfSpeechCode: 'v',
     skyId: '221532'
   },
   {
     targetWord: 'queer',
-    translation: 'гомосексуалист',
+    translating: 'гомосексуалист',
     partOfSpeechCode: 'n',
     skyId: '221531'
   },
   {
     targetWord: 'queer as a three-dollar bill',
-    translation: 'очень странный ',
+    translating: 'очень странный ',
     partOfSpeechCode: 'ph',
     skyId: '241508'
   },
   {
     targetWord: 'queer bird',
-    translation: 'чудик',
+    translating: 'чудик',
     partOfSpeechCode: 'n',
     skyId: '108997'
   },
   {
     targetWord: 'queer duck',
-    translation: 'человек с причудами',
+    translating: 'человек с причудами',
     partOfSpeechCode: 'n',
     skyId: '67'
   },
   {
     targetWord: 'queerly',
-    translation: 'странно',
+    translating: 'странно',
     partOfSpeechCode: 'r',
     skyId: '26807'
   },
   {
     targetWord: 'queerness',
-    translation: 'гомосексуальность',
+    translating: 'гомосексуальность',
     partOfSpeechCode: 'n',
     skyId: '157931'
   },
   {
     targetWord: 'queerness',
-    translation: 'причудливость',
+    translating: 'причудливость',
     partOfSpeechCode: 'n',
     skyId: '157930'
   },
   {
     targetWord: 'quell',
-    translation: 'подавить',
+    translating: 'подавить',
     partOfSpeechCode: 'v',
     skyId: '152918'
   },
   {
     targetWord: 'quell',
-    translation: 'подавлять',
+    translating: 'подавлять',
     partOfSpeechCode: 'v',
     skyId: '152917'
   },
   {
     targetWord: 'quelled',
-    translation: 'подавленный',
+    translating: 'подавленный',
     partOfSpeechCode: 'j',
     skyId: '152919'
   },
   {
     targetWord: 'quelling',
-    translation: 'усмирение',
+    translating: 'усмирение',
     partOfSpeechCode: 'n',
     skyId: '69218'
   },
   {
     targetWord: 'quellung',
-    translation: 'реакция набухания капсулы',
+    translating: 'реакция набухания капсулы',
     partOfSpeechCode: 'n',
     skyId: '98734'
   },
   {
     targetWord: 'quench',
-    translation: 'закалка',
+    translating: 'закалка',
     partOfSpeechCode: 'v',
     skyId: '185407'
   },
   {
     targetWord: 'quench',
-    translation: 'подавлять',
+    translating: 'подавлять',
     partOfSpeechCode: 'v',
     skyId: '185405'
   },
   {
     targetWord: 'quench',
-    translation: 'гасить',
+    translating: 'гасить',
     partOfSpeechCode: 'v',
     skyId: '185403'
   },
   {
     targetWord: 'quench',
-    translation: 'утолять жажду',
+    translating: 'утолять жажду',
     partOfSpeechCode: 'v',
     skyId: '185402'
   },
   {
     targetWord: 'quenched',
-    translation: 'подавленный',
+    translating: 'подавленный',
     partOfSpeechCode: 'j',
     skyId: '102637'
   },
   {
     targetWord: 'quenched',
-    translation: 'утолённый',
+    translating: 'утолённый',
     partOfSpeechCode: 'j',
     skyId: '102636'
   },
   {
     targetWord: 'quenched steel',
-    translation: 'закалённая сталь',
+    translating: 'закалённая сталь',
     partOfSpeechCode: 'n',
     skyId: '5064'
   },
   {
     targetWord: 'quercitron',
-    translation: 'красильная',
+    translating: 'красильная',
     partOfSpeechCode: 'n',
     skyId: '145944'
   },
   {
     targetWord: 'quercitron',
-    translation: 'кверцитрон',
+    translating: 'кверцитрон',
     partOfSpeechCode: 'n',
     skyId: '145943'
   },
   {
     targetWord: 'quercitron oak',
-    translation: 'желтые дубовые',
+    translating: 'желтые дубовые',
     partOfSpeechCode: 'n',
     skyId: '5146'
   },
   {
     targetWord: 'quercus coccinea',
-    translation: 'алый дуб',
+    translating: 'алый дуб',
     partOfSpeechCode: 'n',
     skyId: '27558'
   },
   {
     targetWord: 'quercus ellipsoidalis',
-    translation: 'дуб овальнолистный',
+    translating: 'дуб овальнолистный',
     partOfSpeechCode: 'n',
     skyId: '36276'
   },
   {
     targetWord: 'quercus macrocarpa',
-    translation: 'бур дуб',
+    translating: 'бур дуб',
     partOfSpeechCode: 'n',
     skyId: '190696'
   },
   {
     targetWord: 'quercus nuttalli',
-    translation: 'дуба',
+    translating: 'дуба',
     partOfSpeechCode: 'n',
     skyId: '183089'
   },
   {
     targetWord: 'quercus suber',
-    translation: 'дуб пробковый',
+    translating: 'дуб пробковый',
     partOfSpeechCode: 'n',
     skyId: '93528'
   },
   {
     targetWord: 'quercus velutina',
-    translation: 'желтые дубовые',
+    translating: 'желтые дубовые',
     partOfSpeechCode: 'n',
     skyId: '99123'
   },
   {
     targetWord: 'quern',
-    translation: 'ручная мельница',
+    translating: 'ручная мельница',
     partOfSpeechCode: 'n',
     skyId: '161404'
   },
   {
     targetWord: 'querulous',
-    translation: 'ворчливый',
+    translating: 'ворчливый',
     partOfSpeechCode: 'j',
     skyId: '60386'
   },
   {
     targetWord: 'querulously',
-    translation: 'ворчливо',
+    translating: 'ворчливо',
     partOfSpeechCode: 'r',
     skyId: '91006'
   },
   {
     targetWord: 'query',
-    translation: 'выражать сомнение',
+    translating: 'выражать сомнение',
     partOfSpeechCode: 'v',
     skyId: '261961'
   },
   {
     targetWord: 'query',
-    translation: 'запрос',
+    translating: 'запрос',
     partOfSpeechCode: 'n',
     skyId: '252842'
   },
   {
     targetWord: 'query',
-    translation: 'спрашивать',
+    translating: 'спрашивать',
     partOfSpeechCode: 'v',
     skyId: '161410'
   },
   {
     targetWord: 'query',
-    translation: 'вопрос',
+    translating: 'вопрос',
     partOfSpeechCode: 'n',
     skyId: '161409'
   },
   {
     targetWord: 'query language',
-    translation: 'язык запросов',
+    translating: 'язык запросов',
     partOfSpeechCode: 'n',
     skyId: '70852'
   },
   {
     targetWord: 'quesadilla',
-    translation: 'кесадилья',
+    translating: 'кесадилья',
     partOfSpeechCode: 'n',
     skyId: '188438'
   },
   {
     targetWord: 'quest',
-    translation: 'квест',
+    translating: 'квест',
     partOfSpeechCode: 'n',
     skyId: '234147'
   },
   {
     targetWord: 'quest for',
-    translation: 'производить поиски',
+    translating: 'производить поиски',
     partOfSpeechCode: 'v',
     skyId: '67120'
   },
   {
     targetWord: 'quester',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '189432'
   },
   {
     targetWord: 'question',
-    translation: 'сомнение',
+    translating: 'сомнение',
     partOfSpeechCode: 'n',
     skyId: '139700'
   },
   {
     targetWord: 'question',
-    translation: 'проблема',
+    translating: 'проблема',
     partOfSpeechCode: 'n',
     skyId: '139701'
   },
   {
     targetWord: 'question',
-    translation: 'вопрос',
+    translating: 'вопрос',
     partOfSpeechCode: 'n',
     skyId: '139699'
   },
   {
     targetWord: 'question',
-    translation: 'спрашивать',
+    translating: 'спрашивать',
     partOfSpeechCode: 'v',
     skyId: '139706'
   },
   {
     targetWord: 'question',
-    translation: 'допрашивать',
+    translating: 'допрашивать',
     partOfSpeechCode: 'v',
     skyId: '139704'
   },
   {
     targetWord: 'question',
-    translation: 'сомневаться',
+    translating: 'сомневаться',
     partOfSpeechCode: 'v',
     skyId: '139707'
   },
   {
     targetWord: 'question mark',
-    translation: 'вопросительный знак',
+    translating: 'вопросительный знак',
     partOfSpeechCode: 'n',
     skyId: '164307'
   },
   {
     targetWord: 'question something',
-    translation: 'поставить что-либо под сомнение',
+    translating: 'поставить что-либо под сомнение',
     partOfSpeechCode: 'v',
     skyId: '261173'
   },
   {
     targetWord: 'questionable',
-    translation: 'сомнительный',
+    translating: 'сомнительный',
     partOfSpeechCode: 'j',
     skyId: '23891'
   },
   {
     targetWord: 'questionably',
-    translation: 'сомнительно',
+    translating: 'сомнительно',
     partOfSpeechCode: 'r',
     skyId: '79733'
   },
   {
     targetWord: 'questioning',
-    translation: 'любопытный',
+    translating: 'любопытный',
     partOfSpeechCode: 'j',
     skyId: '131427'
   },
   {
     targetWord: 'questioning',
-    translation: 'вопрошающий',
+    translating: 'вопрошающий',
     partOfSpeechCode: 'j',
     skyId: '131426'
   },
   {
     targetWord: 'questioning',
-    translation: 'вопросительный',
+    translating: 'вопросительный',
     partOfSpeechCode: 'j',
     skyId: '131425'
   },
   {
     targetWord: 'questioning',
-    translation: 'допрос',
+    translating: 'допрос',
     partOfSpeechCode: 'n',
     skyId: '131419'
   },
   {
     targetWord: 'quetch',
-    translation: 'жаловаться',
+    translating: 'жаловаться',
     partOfSpeechCode: 'v',
     skyId: '108659'
   },
   {
     targetWord: 'quetzal',
-    translation: 'кетцаль',
+    translating: 'кетцаль',
     partOfSpeechCode: 'n',
     skyId: '91847'
   },
   {
     targetWord: 'quetzal',
-    translation: 'гватемальский кетсаль',
+    translating: 'гватемальский кетсаль',
     partOfSpeechCode: 'n',
     skyId: '91846'
   },
   {
     targetWord: 'quetzal bird',
-    translation: 'кетсаль',
+    translating: 'кетсаль',
     partOfSpeechCode: 'n',
     skyId: '2434'
   },
   {
     targetWord: 'queue',
-    translation: 'выстраиваться в очередь',
+    translating: 'выстраиваться в очередь',
     partOfSpeechCode: 'v',
     skyId: '2158'
   },
   {
     targetWord: 'queue',
-    translation: 'коса',
+    translating: 'коса',
     partOfSpeechCode: 'n',
     skyId: '2157'
   },
   {
     targetWord: 'queue',
-    translation: 'очередь',
+    translating: 'очередь',
     partOfSpeechCode: 'n',
     skyId: '230528'
   },
   {
     targetWord: 'queue up',
-    translation: 'В очередь!',
+    translating: 'В очередь!',
     partOfSpeechCode: 'ph',
     skyId: '234135'
   },
   {
     targetWord: 'queue up',
-    translation: 'стоять в очереди',
+    translating: 'стоять в очереди',
     partOfSpeechCode: 'v',
     skyId: '176455'
   },
   {
     targetWord: 'qui vive',
-    translation: 'кто идёт?',
+    translating: 'кто идёт?',
     partOfSpeechCode: 'n',
     skyId: '145945'
   },
   {
     targetWord: 'quiaquia',
-    translation: 'круглого ставрида',
+    translating: 'круглого ставрида',
     partOfSpeechCode: 'n',
     skyId: '8927'
   },
   {
     targetWord: 'quibble',
-    translation: 'придираться',
+    translating: 'придираться',
     partOfSpeechCode: 'v',
     skyId: '2649'
   },
   {
     targetWord: 'quibble',
-    translation: 'уклоняться от сути вопроса',
+    translating: 'уклоняться от сути вопроса',
     partOfSpeechCode: 'v',
     skyId: '2648'
   },
   {
     targetWord: 'quibble',
-    translation: 'увёртка',
+    translating: 'увёртка',
     partOfSpeechCode: 'n',
     skyId: '2647'
   },
   {
     targetWord: 'quibbler',
-    translation: 'придира',
+    translating: 'придира',
     partOfSpeechCode: 'n',
     skyId: '184808'
   },
   {
     targetWord: 'quiche',
-    translation: 'киче',
+    translating: 'киче',
     partOfSpeechCode: 'n',
     skyId: '132053'
   },
   {
     targetWord: 'quiche',
-    translation: 'киш',
+    translating: 'киш',
     partOfSpeechCode: 'n',
     skyId: '132052'
   },
   {
     targetWord: 'quiche',
-    translation: 'индеец племени Майя',
+    translating: 'индеец племени Майя',
     partOfSpeechCode: 'n',
     skyId: '132051'
   },
   {
     targetWord: 'quick',
-    translation: 'быстро',
+    translating: 'быстро',
     partOfSpeechCode: 'r',
     skyId: '107833'
   },
   {
     targetWord: 'quick',
-    translation: 'быстрый',
+    translating: 'быстрый',
     partOfSpeechCode: 'j',
     skyId: '107832'
   },
   {
     targetWord: 'quick',
-    translation: 'чувствительный участок',
+    translating: 'чувствительный участок',
     partOfSpeechCode: 'n',
     skyId: '107826'
   },
   {
     targetWord: 'quick and dirty',
-    translation: 'сделанный на скорую руку',
+    translating: 'сделанный на скорую руку',
     partOfSpeechCode: 'ph',
     skyId: '241507'
   },
   {
     targetWord: 'quick and happy read',
-    translation: 'легкая и добрая книга',
+    translating: 'легкая и добрая книга',
     partOfSpeechCode: 'ph',
     skyId: '255807'
   },
   {
     targetWord: 'quick as a flash',
-    translation: 'в мгновение ока',
+    translating: 'в мгновение ока',
     partOfSpeechCode: 'ph',
     skyId: '241505'
   },
   {
     targetWord: 'quick bread',
-    translation: 'быстрый хлеб',
+    translating: 'быстрый хлеб',
     partOfSpeechCode: 'n',
     skyId: '160521'
   },
   {
     targetWord: 'quick buck',
-    translation: 'лёгкие деньги',
+    translating: 'лёгкие деньги',
     partOfSpeechCode: 'n',
     skyId: '86360'
   },
   {
     targetWord: 'quick fix',
-    translation: 'быстрая починка',
+    translating: 'быстрая починка',
     partOfSpeechCode: 'n',
     skyId: '83465'
   },
   {
     targetWord: 'quick learner',
-    translation: 'способный ученик',
+    translating: 'способный ученик',
     partOfSpeechCode: 'ph',
     skyId: '229607'
   },
   {
     targetWord: 'quick mind',
-    translation: 'живой ум',
+    translating: 'живой ум',
     partOfSpeechCode: 'ph',
     skyId: '232048'
   },
   {
     targetWord: 'quick on the draw',
-    translation: 'быстро реагирующий',
+    translating: 'быстро реагирующий',
     partOfSpeechCode: 'ph',
     skyId: '241503'
   },
   {
     targetWord: 'quick reply',
-    translation: 'мгновенный ответ',
+    translating: 'мгновенный ответ',
     partOfSpeechCode: 'n',
     skyId: '239189'
   },
   {
     targetWord: 'quick temper',
-    translation: 'вспыльчивость',
+    translating: 'вспыльчивость',
     partOfSpeechCode: 'n',
     skyId: '33106'
   },
   {
     targetWord: 'quick-change',
-    translation: 'быстро заменяющийся',
+    translating: 'быстро заменяющийся',
     partOfSpeechCode: 'j',
     skyId: '161564'
   },
   {
     targetWord: 'quick-fire ',
-    translation: 'стремительный',
+    translating: 'стремительный',
     partOfSpeechCode: 'ph',
     skyId: '229802'
   },
   {
     targetWord: 'quick-fix solution',
-    translation: 'быстрое решение',
+    translating: 'быстрое решение',
     partOfSpeechCode: 'ph',
     skyId: '266281'
   },
   {
     targetWord: 'quick-freeze',
-    translation: 'быстро замораживать',
+    translating: 'быстро замораживать',
     partOfSpeechCode: 'v',
     skyId: '132246'
   },
   {
     targetWord: 'quick-service restaurant',
-    translation: 'ресторан быстрого обслуживания',
+    translating: 'ресторан быстрого обслуживания',
     partOfSpeechCode: 'ph',
     skyId: '232429'
   },
   {
     targetWord: 'quick-sighted',
-    translation: 'быстро заметили',
+    translating: 'быстро заметили',
     partOfSpeechCode: 'j',
     skyId: '192348'
   },
   {
     targetWord: 'quick-tempered',
-    translation: 'вспыльчивый',
+    translating: 'вспыльчивый',
     partOfSpeechCode: 'j',
     skyId: '52249'
   },
   {
     targetWord: 'quick-witted',
-    translation: 'находчивый',
+    translating: 'находчивый',
     partOfSpeechCode: 'j',
     skyId: '53911'
   },
   {
     targetWord: 'quick-wittedness',
-    translation: 'сообразительность',
+    translating: 'сообразительность',
     partOfSpeechCode: 'n',
     skyId: '97300'
   },
   {
     targetWord: 'quick/fast',
-    translation: 'быстрый',
+    translating: 'быстрый',
     partOfSpeechCode: 'ph',
     skyId: '230655'
   },
   {
     targetWord: 'quicken',
-    translation: 'оживать',
+    translating: 'оживать',
     partOfSpeechCode: 'v',
     skyId: '116888'
   },
   {
     targetWord: 'quicken',
-    translation: 'ускоряться',
+    translating: 'ускоряться',
     partOfSpeechCode: 'v',
     skyId: '116885'
   },
   {
     targetWord: 'quickener',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '6444'
   },
   {
     targetWord: 'quickening',
-    translation: 'ускорение',
+    translating: 'ускорение',
     partOfSpeechCode: 'n',
     skyId: '11194'
   },
   {
     targetWord: 'quickening',
-    translation: 'начало шевеления плода',
+    translating: 'начало шевеления плода',
     partOfSpeechCode: 'n',
     skyId: '11193'
   },
   {
     targetWord: 'quickening',
-    translation: 'признак шевеления',
+    translating: 'признак шевеления',
     partOfSpeechCode: 'n',
     skyId: '11192'
   },
   {
     targetWord: 'quicker',
-    translation: 'энергичный',
+    translating: 'энергичный',
     partOfSpeechCode: 'j',
     skyId: '116810'
   },
   {
     targetWord: 'quicker',
-    translation: 'безотлагательный',
+    translating: 'безотлагательный',
     partOfSpeechCode: 'j',
     skyId: '116809'
   },
   {
     targetWord: 'quicker',
-    translation: 'острый',
+    translating: 'острый',
     partOfSpeechCode: 'j',
     skyId: '116808'
   },
   {
     targetWord: 'quicker',
-    translation: 'проворный',
+    translating: 'проворный',
     partOfSpeechCode: 'j',
     skyId: '116807'
   },
   {
     targetWord: 'quicker',
-    translation: 'быстрый',
+    translating: 'быстрый',
     partOfSpeechCode: 'j',
     skyId: '116806'
   },
   {
     targetWord: 'quicker',
-    translation: 'скорый',
+    translating: 'скорый',
     partOfSpeechCode: 'j',
     skyId: '116805'
   },
   {
     targetWord: 'quickie',
-    translation: 'быстро сделанное',
+    translating: 'быстро сделанное',
     partOfSpeechCode: 'n',
     skyId: '66660'
   },
   {
     targetWord: 'quicklime',
-    translation: 'негашёная известь',
+    translating: 'негашёная известь',
     partOfSpeechCode: 'n',
     skyId: '171461'
   },
   {
     targetWord: 'quickly',
-    translation: 'по-быстрому',
+    translating: 'по-быстрому',
     partOfSpeechCode: 'r',
     skyId: '21225'
   },
   {
     targetWord: 'quickly',
-    translation: 'быстро ',
+    translating: 'быстро ',
     partOfSpeechCode: 'r',
     skyId: '21224'
   },
   {
     targetWord: 'quickly',
-    translation: 'быстро',
+    translating: 'быстро',
     partOfSpeechCode: 'r',
     skyId: '21223'
   },
   {
     targetWord: 'quickness',
-    translation: 'быстрота',
+    translating: 'быстрота',
     partOfSpeechCode: 'n',
     skyId: '5096'
   },
   {
     targetWord: 'quickness',
-    translation: 'сообразительность',
+    translating: 'сообразительность',
     partOfSpeechCode: 'n',
     skyId: '5094'
   },
   {
     targetWord: 'quicksand',
-    translation: 'зыбучие пески',
+    translating: 'зыбучие пески',
     partOfSpeechCode: 'n',
     skyId: '193086'
   },
   {
     targetWord: 'quicksand',
-    translation: 'трясина',
+    translating: 'трясина',
     partOfSpeechCode: 'n',
     skyId: '193085'
   },
   {
     targetWord: 'quickscope',
-    translation: 'быстрый прицельный выстрел',
+    translating: 'быстрый прицельный выстрел',
     partOfSpeechCode: 'n',
     skyId: '233919'
   },
   {
     targetWord: 'quickset',
-    translation: 'изгородь',
+    translating: 'изгородь',
     partOfSpeechCode: 'j',
     skyId: '67293'
   },
   {
     targetWord: 'quickset',
-    translation: 'живая изгородь',
+    translating: 'живая изгородь',
     partOfSpeechCode: 'n',
     skyId: '67292'
   },
   {
     targetWord: 'quicksilver',
-    translation: 'ртуть',
+    translating: 'ртуть',
     partOfSpeechCode: 'j',
     skyId: '193351'
   },
   {
     targetWord: 'quicksilver',
-    translation: 'ртуть',
+    translating: 'ртуть',
     partOfSpeechCode: 'n',
     skyId: '193351'
   },
   {
     targetWord: 'quickstep',
-    translation: 'квикстеп ',
+    translating: 'квикстеп ',
     partOfSpeechCode: 'n',
     skyId: '174260'
   },
   {
     targetWord: 'quicky',
-    translation: 'быстрая починка',
+    translating: 'быстрая починка',
     partOfSpeechCode: 'n',
     skyId: '174575'
   },
   {
     targetWord: 'quid',
-    translation: 'кусок прессованого жевательного табака',
+    translating: 'кусок прессованого жевательного табака',
     partOfSpeechCode: 'n',
     skyId: '185944'
   },
   {
     targetWord: 'quid',
-    translation: 'услуга за услугу',
+    translating: 'услуга за услугу',
     partOfSpeechCode: 'n',
     skyId: '185943'
   },
   {
     targetWord: 'quid',
-    translation: 'фунт (стерлингов)',
+    translating: 'фунт (стерлингов)',
     partOfSpeechCode: 'n',
     skyId: '185942'
   },
   {
     targetWord: 'quid pro quo',
-    translation: 'услуга за услугу',
+    translating: 'услуга за услугу',
     partOfSpeechCode: 'n',
     skyId: '59606'
   },
   {
     targetWord: 'quidditch',
-    translation: 'квиддич',
+    translating: 'квиддич',
     partOfSpeechCode: 'n',
     skyId: '232860'
   },
   {
     targetWord: 'quidnunc',
-    translation: 'вечно любопытствующий',
+    translating: 'вечно любопытствующий',
     partOfSpeechCode: 'n',
     skyId: '16642'
   },
   {
     targetWord: 'quiescence',
-    translation: 'неподвижность',
+    translating: 'неподвижность',
     partOfSpeechCode: 'n',
     skyId: '24035'
   },
   {
     targetWord: 'quiescence',
-    translation: 'покой',
+    translating: 'покой',
     partOfSpeechCode: 'n',
     skyId: '24034'
   },
   {
     targetWord: 'quiescency',
-    translation: 'спячка',
+    translating: 'спячка',
     partOfSpeechCode: 'n',
     skyId: '24033'
   },
   {
     targetWord: 'quiescent',
-    translation: 'пассивный',
+    translating: 'пассивный',
     partOfSpeechCode: 'j',
     skyId: '218510'
   },
   {
     targetWord: 'quiescent',
-    translation: 'неподвижный',
+    translating: 'неподвижный',
     partOfSpeechCode: 'j',
     skyId: '218508'
   },
   {
     targetWord: 'quiet',
-    translation: 'неброский',
+    translating: 'неброский',
     partOfSpeechCode: 'j',
     skyId: '24180'
   },
   {
     targetWord: 'quiet',
-    translation: 'мягкий',
+    translating: 'мягкий',
     partOfSpeechCode: 'j',
     skyId: '24181'
   },
   {
     targetWord: 'quiet',
-    translation: 'усмирять',
+    translating: 'усмирять',
     partOfSpeechCode: 'v',
     skyId: '24177'
   },
   {
     targetWord: 'quiet',
-    translation: 'спокойный',
+    translating: 'спокойный',
     partOfSpeechCode: 'j',
     skyId: '24183'
   },
   {
     targetWord: 'quiet',
-    translation: 'успокаиваться',
+    translating: 'успокаиваться',
     partOfSpeechCode: 'v',
     skyId: '24176'
   },
   {
     targetWord: 'quiet',
-    translation: 'тишина',
+    translating: 'тишина',
     partOfSpeechCode: 'n',
     skyId: '24174'
   },
   {
     targetWord: 'quiet',
-    translation: 'спокойствие',
+    translating: 'спокойствие',
     partOfSpeechCode: 'n',
     skyId: '24175'
   },
   {
     targetWord: 'quiet',
-    translation: 'тихий',
+    translating: 'тихий',
     partOfSpeechCode: 'j',
     skyId: '24179'
   },
   {
     targetWord: 'quiet as a mouse',
-    translation: 'тихий как мышь',
+    translating: 'тихий как мышь',
     partOfSpeechCode: 'ph',
     skyId: '241502'
   },
   {
     targetWord: 'quiet down',
-    translation: 'стихать',
+    translating: 'стихать',
     partOfSpeechCode: 'v',
     skyId: '184604'
   },
   {
     targetWord: 'quiet life',
-    translation: 'тихая жизнь',
+    translating: 'тихая жизнь',
     partOfSpeechCode: 'n',
     skyId: '239188'
   },
   {
     targetWord: 'quiet night',
-    translation: 'спокойная ночь',
+    translating: 'спокойная ночь',
     partOfSpeechCode: 'n',
     skyId: '239187'
   },
   {
     targetWord: 'quiet nook',
-    translation: 'тихий уголок',
+    translating: 'тихий уголок',
     partOfSpeechCode: 'ph',
     skyId: '261576'
   },
   {
     targetWord: 'quieten',
-    translation: 'замолкать',
+    translating: 'замолкать',
     partOfSpeechCode: 'v',
     skyId: '64759'
   },
   {
     targetWord: 'quieten',
-    translation: 'успокаивать',
+    translating: 'успокаивать',
     partOfSpeechCode: 'v',
     skyId: '64758'
   },
   {
     targetWord: 'quieten',
-    translation: 'успокаиваться',
+    translating: 'успокаиваться',
     partOfSpeechCode: 'v',
     skyId: '64757'
   },
   {
     targetWord: 'quieten down',
-    translation: 'Утихомирься!',
+    translating: 'Утихомирься!',
     partOfSpeechCode: 'ph',
     skyId: '234134'
   },
   {
     targetWord: 'quietism',
-    translation: 'квиетизм',
+    translating: 'квиетизм',
     partOfSpeechCode: 'n',
     skyId: '101112'
   },
   {
     targetWord: 'quietist',
-    translation: 'квиетист',
+    translating: 'квиетист',
     partOfSpeechCode: 'n',
     skyId: '101139'
   },
   {
     targetWord: 'quietly',
-    translation: 'бесшумно',
+    translating: 'бесшумно',
     partOfSpeechCode: 'r',
     skyId: '216682'
   },
   {
     targetWord: 'quietly',
-    translation: 'тихо',
+    translating: 'тихо',
     partOfSpeechCode: 'r',
     skyId: '216681'
   },
   {
     targetWord: 'quietly',
-    translation: 'умиротворенно',
+    translating: 'умиротворенно',
     partOfSpeechCode: 'r',
     skyId: '216684'
   },
   {
     targetWord: 'quietly',
-    translation: 'спокойно',
+    translating: 'спокойно',
     partOfSpeechCode: 'r',
     skyId: '216683'
   },
   {
     targetWord: 'quietly confident',
-    translation: 'втайне уверенный',
+    translating: 'втайне уверенный',
     partOfSpeechCode: 'j',
     skyId: '239186'
   },
   {
     targetWord: 'quietness',
-    translation: 'тишина',
+    translating: 'тишина',
     partOfSpeechCode: 'n',
     skyId: '34676'
   },
   {
     targetWord: 'quietude',
-    translation: 'покой',
+    translating: 'покой',
     partOfSpeechCode: 'n',
     skyId: '12290'
   },
   {
     targetWord: 'quietus',
-    translation: 'вечный сон',
+    translating: 'вечный сон',
     partOfSpeechCode: 'n',
     skyId: '56870'
   },
   {
     targetWord: 'quiff',
-    translation: 'челка ',
+    translating: 'челка ',
     partOfSpeechCode: 'n',
     skyId: '124392'
   },
   {
     targetWord: 'quill',
-    translation: 'очин',
+    translating: 'очин',
     partOfSpeechCode: 'n',
     skyId: '98851'
   },
   {
     targetWord: 'quill',
-    translation: 'перо',
+    translating: 'перо',
     partOfSpeechCode: 'n',
     skyId: '98850'
   },
   {
     targetWord: 'quill',
-    translation: 'игла дикобраза',
+    translating: 'игла дикобраза',
     partOfSpeechCode: 'n',
     skyId: '98849'
   },
   {
     targetWord: 'quill',
-    translation: 'перо для письма',
+    translating: 'перо для письма',
     partOfSpeechCode: 'n',
     skyId: '98848'
   },
   {
     targetWord: 'quill feather',
-    translation: 'перо',
+    translating: 'перо',
     partOfSpeechCode: 'n',
     skyId: '140254'
   },
   {
     targetWord: 'quill pen',
-    translation: 'ручка из гусиного пера',
+    translating: 'ручка из гусиного пера',
     partOfSpeechCode: 'n',
     skyId: '139905'
   },
   {
     targetWord: 'quillwort',
-    translation: 'полушник',
+    translating: 'полушник',
     partOfSpeechCode: 'n',
     skyId: '140772'
   },
   {
     targetWord: 'quilt',
-    translation: 'шить',
+    translating: 'шить',
     partOfSpeechCode: 'v',
     skyId: '131725'
   },
   {
     targetWord: 'quilt',
-    translation: 'сшивать',
+    translating: 'сшивать',
     partOfSpeechCode: 'v',
     skyId: '131724'
   },
   {
     targetWord: 'quilt',
-    translation: 'лоскутное одеяло',
+    translating: 'лоскутное одеяло',
     partOfSpeechCode: 'n',
     skyId: '98827'
   },
   {
     targetWord: 'quilted',
-    translation: 'стёганый',
+    translating: 'стёганый',
     partOfSpeechCode: 'j',
     skyId: '131726'
   },
   {
     targetWord: 'quilting',
-    translation: 'лоскутная ткань',
+    translating: 'лоскутная ткань',
     partOfSpeechCode: 'n',
     skyId: '105950'
   },
   {
     targetWord: 'quilting',
-    translation: 'лоскутное мастерство',
+    translating: 'лоскутное мастерство',
     partOfSpeechCode: 'n',
     skyId: '105949'
   },
   {
     targetWord: 'quilting bee',
-    translation: 'мохнатая пчела',
+    translating: 'мохнатая пчела',
     partOfSpeechCode: 'n',
     skyId: '137601'
   },
   {
     targetWord: 'quin',
-    translation: 'квинтиплет',
+    translating: 'квинтиплет',
     partOfSpeechCode: 'n',
     skyId: '183932'
   },
   {
     targetWord: 'quince',
-    translation: 'айва',
+    translating: 'айва',
     partOfSpeechCode: 'n',
     skyId: '103086'
   },
   {
     targetWord: 'quincentenary',
-    translation: 'пятисотлетие',
+    translating: 'пятисотлетие',
     partOfSpeechCode: 'n',
     skyId: '8701'
   },
   {
     targetWord: "quincke's edema",
-    translation: 'ангионевротический отёк',
+    translating: 'ангионевротический отёк',
     partOfSpeechCode: 'n',
     skyId: '10600'
   },
   {
     targetWord: 'quincy',
-    translation: 'иосия',
+    translating: 'иосия',
     partOfSpeechCode: 'n',
     skyId: '103066'
   },
   {
     targetWord: 'quinidex',
-    translation: 'хинидин',
+    translating: 'хинидин',
     partOfSpeechCode: 'n',
     skyId: '23149'
   },
   {
     targetWord: 'quinidine',
-    translation: 'хинидин',
+    translating: 'хинидин',
     partOfSpeechCode: 'n',
     skyId: '71104'
   },
   {
     targetWord: 'quinine',
-    translation: 'хинин',
+    translating: 'хинин',
     partOfSpeechCode: 'n',
     skyId: '108795'
   },
   {
     targetWord: 'quinine water',
-    translation: 'горький тоник',
+    translating: 'горький тоник',
     partOfSpeechCode: 'n',
     skyId: '83124'
   },
   {
     targetWord: 'quinnat salmon',
-    translation: 'чавыча',
+    translating: 'чавыча',
     partOfSpeechCode: 'n',
     skyId: '136859'
   },
   {
     targetWord: 'quinoa',
-    translation: 'киноа',
+    translating: 'киноа',
     partOfSpeechCode: 'n',
     skyId: '264727'
   },
   {
     targetWord: 'quinora',
-    translation: 'хинидин',
+    translating: 'хинидин',
     partOfSpeechCode: 'n',
     skyId: '149097'
   },
   {
     targetWord: 'quinquagesima',
-    translation: 'прощёное воскресенье',
+    translating: 'прощёное воскресенье',
     partOfSpeechCode: 'n',
     skyId: '159213'
   },
   {
     targetWord: 'quinquennium',
-    translation: 'пятилетие',
+    translating: 'пятилетие',
     partOfSpeechCode: 'n',
     skyId: '125464'
   },
   {
     targetWord: 'quinsy',
-    translation: 'гнойный тонзиллит',
+    translating: 'гнойный тонзиллит',
     partOfSpeechCode: 'n',
     skyId: '95034'
   },
   {
     targetWord: 'quint',
-    translation: 'пятерняшка',
+    translating: 'пятерняшка',
     partOfSpeechCode: 'n',
     skyId: '15514'
   },
   {
     targetWord: 'quint',
-    translation: 'пять',
+    translating: 'пять',
     partOfSpeechCode: 'n',
     skyId: '15513'
   },
   {
     targetWord: 'quintessence',
-    translation: 'квинтэссенция',
+    translating: 'квинтэссенция',
     partOfSpeechCode: 'n',
     skyId: '192270'
   },
   {
     targetWord: 'quintessence',
-    translation: 'эфир',
+    translating: 'эфир',
     partOfSpeechCode: 'n',
     skyId: '192268'
   },
   {
     targetWord: 'quintessential',
-    translation: 'являющийся квинтэссенцией',
+    translating: 'являющийся квинтэссенцией',
     partOfSpeechCode: 'j',
     skyId: '164326'
   },
   {
     targetWord: 'quintet',
-    translation: 'группа из пяти ',
+    translating: 'группа из пяти ',
     partOfSpeechCode: 'n',
     skyId: '54647'
   },
   {
     targetWord: 'quintet',
-    translation: '5',
+    translating: '5',
     partOfSpeechCode: 'n',
     skyId: '54644'
   },
   {
     targetWord: 'quintet',
-    translation: 'квинтет',
+    translating: 'квинтет',
     partOfSpeechCode: 'n',
     skyId: '54643'
   },
   {
     targetWord: 'quintette',
-    translation: 'квинтет',
+    translating: 'квинтет',
     partOfSpeechCode: 'n',
     skyId: '25036'
   },
   {
     targetWord: 'quintillion',
-    translation: 'квинтиллион',
+    translating: 'квинтиллион',
     partOfSpeechCode: 'n',
     skyId: '264730'
   },
   {
     targetWord: 'quintipara',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '146516'
   },
   {
     targetWord: 'quintuple',
-    translation: 'состоящий из пяти частей или предметов',
+    translating: 'состоящий из пяти частей или предметов',
     partOfSpeechCode: 'n',
     skyId: '217466'
   },
   {
     targetWord: 'quintuple',
-    translation: 'увеличиваться в пять раз',
+    translating: 'увеличиваться в пять раз',
     partOfSpeechCode: 'v',
     skyId: '217467'
   },
   {
     targetWord: 'quintuplet',
-    translation: 'пятерня',
+    translating: 'пятерня',
     partOfSpeechCode: 'n',
     skyId: '30209'
   },
   {
     targetWord: 'quintuplet',
-    translation: 'один из пяти близнецов',
+    translating: 'один из пяти близнецов',
     partOfSpeechCode: 'n',
     skyId: '30208'
   },
   {
     targetWord: 'quip',
-    translation: 'язвить',
+    translating: 'язвить',
     partOfSpeechCode: 'v',
     skyId: '183920'
   },
   {
     targetWord: 'quip',
-    translation: 'остроумное замечание',
+    translating: 'остроумное замечание',
     partOfSpeechCode: 'n',
     skyId: '183919'
   },
   {
     targetWord: 'quip',
-    translation: 'колкость',
+    translating: 'колкость',
     partOfSpeechCode: 'n',
     skyId: '183918'
   },
   {
     targetWord: 'quipu',
-    translation: 'узелковое письмо древних перуанцев',
+    translating: 'узелковое письмо древних перуанцев',
     partOfSpeechCode: 'n',
     skyId: '142140'
   },
   {
     targetWord: 'quira',
-    translation: 'quira',
+    translating: 'quira',
     partOfSpeechCode: 'n',
     skyId: '114212'
   },
   {
     targetWord: 'quire',
-    translation: 'печатный лист',
+    translating: 'печатный лист',
     partOfSpeechCode: 'n',
     skyId: '58232'
   },
   {
     targetWord: 'quirk',
-    translation: 'изворачиваться',
+    translating: 'изворачиваться',
     partOfSpeechCode: 'v',
     skyId: '58230'
   },
   {
     targetWord: 'quirk',
-    translation: 'завиток',
+    translating: 'завиток',
     partOfSpeechCode: 'n',
     skyId: '58229'
   },
   {
     targetWord: 'quirk',
-    translation: 'причуда',
+    translating: 'причуда',
     partOfSpeechCode: 'n',
     skyId: '58228'
   },
   {
     targetWord: 'quirk bead',
-    translation: 'бисером и причуды',
+    translating: 'бисером и причуды',
     partOfSpeechCode: 'n',
     skyId: '81933'
   },
   {
     targetWord: 'quirkiness',
-    translation: 'причудливость',
+    translating: 'причудливость',
     partOfSpeechCode: 'n',
     skyId: '36411'
   },
   {
     targetWord: 'quirt',
-    translation: 'арапник',
+    translating: 'арапник',
     partOfSpeechCode: 'n',
     skyId: '58243'
   },
   {
     targetWord: 'quiscalus',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '106210'
   },
   {
     targetWord: 'quiscalus quiscula',
-    translation: 'обыкновенный гракл',
+    translating: 'обыкновенный гракл',
     partOfSpeechCode: 'n',
     skyId: '153758'
   },
   {
     targetWord: 'quisling',
-    translation: 'квислинг',
+    translating: 'квислинг',
     partOfSpeechCode: 'n',
     skyId: '133178'
   },
   {
     targetWord: 'quislingism',
-    translation: 'коллаборационизм',
+    translating: 'коллаборационизм',
     partOfSpeechCode: 'n',
     skyId: '67872'
   },
   {
     targetWord: 'quit',
-    translation: 'уходить',
+    translating: 'уходить',
     partOfSpeechCode: 'v',
     skyId: '183912'
   },
   {
     targetWord: 'quit',
-    translation: 'бросать',
+    translating: 'бросать',
     partOfSpeechCode: 'v',
     skyId: '183911'
   },
   {
     targetWord: 'quit',
-    translation: 'прекращать',
+    translating: 'прекращать',
     partOfSpeechCode: 'v',
     skyId: '183913'
   },
   {
     targetWord: 'quit',
-    translation: 'сдаваться',
+    translating: 'сдаваться',
     partOfSpeechCode: 'v',
     skyId: '71116'
   },
   {
     targetWord: 'quit a job',
-    translation: 'уволиться',
+    translating: 'уволиться',
     partOfSpeechCode: 'v',
     skyId: '239167'
   },
   {
     targetWord: 'quit drinking',
-    translation: 'бросить пить',
+    translating: 'бросить пить',
     partOfSpeechCode: 'v',
     skyId: '239169'
   },
   {
     targetWord: 'quit smoking',
-    translation: 'бросить курить',
+    translating: 'бросить курить',
     partOfSpeechCode: 'v',
     skyId: '239170'
   },
   {
     targetWord: 'quitclaim',
-    translation: 'акт отказа',
+    translating: 'акт отказа',
     partOfSpeechCode: 'n',
     skyId: '175018'
   },
   {
     targetWord: 'quitclaim deed',
-    translation: 'акт отказа от права',
+    translating: 'акт отказа от права',
     partOfSpeechCode: 'n',
     skyId: '138896'
   },
   {
     targetWord: 'quite a challenge',
-    translation: 'сложная задача',
+    translating: 'сложная задача',
     partOfSpeechCode: 'n',
     skyId: '237214'
   },
   {
     targetWord: 'quite a few',
-    translation: 'довольно много',
+    translating: 'довольно много',
     partOfSpeechCode: 'ph',
     skyId: '235917'
   },
   {
     targetWord: 'quite a little',
-    translation: 'немало',
+    translating: 'немало',
     partOfSpeechCode: 'n',
     skyId: '188186'
   },
   {
     targetWord: 'quite a lot',
-    translation: 'достаточно много',
+    translating: 'достаточно много',
     partOfSpeechCode: 'r',
     skyId: '239171'
   },
   {
     targetWord: 'quite a rare thing',
-    translation: 'довольно редкая вещь',
+    translating: 'довольно редкая вещь',
     partOfSpeechCode: 'ph',
     skyId: '228998'
   },
   {
     targetWord: 'quite a while',
-    translation: 'довольно долго',
+    translating: 'довольно долго',
     partOfSpeechCode: 'ph',
     skyId: '260202'
   },
   {
     targetWord: 'quite agree',
-    translation: 'полностью соглашаться',
+    translating: 'полностью соглашаться',
     partOfSpeechCode: 'v',
     skyId: '239172'
   },
   {
     targetWord: 'quite enough',
-    translation: 'вполне достаточно',
+    translating: 'вполне достаточно',
     partOfSpeechCode: 'r',
     skyId: '239173'
   },
   {
     targetWord: 'quite fat',
-    translation: 'толстый',
+    translating: 'толстый',
     partOfSpeechCode: 'ph',
     skyId: '250543'
   },
   {
     targetWord: 'quite good',
-    translation: 'очень неплохо',
+    translating: 'очень неплохо',
     partOfSpeechCode: 'j',
     skyId: '239174'
   },
   {
     targetWord: 'quite often',
-    translation: 'довольно часто',
+    translating: 'довольно часто',
     partOfSpeechCode: 'r',
     skyId: '239175'
   },
   {
     targetWord: 'quite right',
-    translation: 'совершенно правильно',
+    translating: 'совершенно правильно',
     partOfSpeechCode: 'j',
     skyId: '239176'
   },
   {
     targetWord: 'quite some',
-    translation: 'на протяжении какого-то времени',
+    translating: 'на протяжении какого-то времени',
     partOfSpeechCode: 'ph',
     skyId: '255154'
   },
   {
     targetWord: 'quite sure',
-    translation: 'полностью уверенный',
+    translating: 'полностью уверенный',
     partOfSpeechCode: 'j',
     skyId: '239165'
   },
   {
     targetWord: 'quite tall',
-    translation: 'довольно-таки высокий',
+    translating: 'довольно-таки высокий',
     partOfSpeechCode: 'ph',
     skyId: '250539'
   },
   {
     targetWord: 'quits',
-    translation: 'расквитавшийся',
+    translating: 'расквитавшийся',
     partOfSpeechCode: 'j',
     skyId: '71117'
   },
   {
     targetWord: 'quittance',
-    translation: 'квитанция',
+    translating: 'квитанция',
     partOfSpeechCode: 'n',
     skyId: '191207'
   },
   {
     targetWord: 'quitter',
-    translation: 'тот, кто быстро сдается',
+    translating: 'тот, кто быстро сдается',
     partOfSpeechCode: 'n',
     skyId: '176896'
   },
   {
     targetWord: 'quiver',
-    translation: 'вибрация',
+    translating: 'вибрация',
     partOfSpeechCode: 'n',
     skyId: '36123'
   },
   {
     targetWord: 'quiver',
-    translation: 'колчан',
+    translating: 'колчан',
     partOfSpeechCode: 'n',
     skyId: '36122'
   },
   {
     targetWord: 'quiver',
-    translation: 'дрожь',
+    translating: 'дрожь',
     partOfSpeechCode: 'n',
     skyId: '36121'
   },
   {
     targetWord: 'quiver',
-    translation: 'трепет',
+    translating: 'трепет',
     partOfSpeechCode: 'n',
     skyId: '36120'
   },
   {
     targetWord: 'quiver',
-    translation: 'колыхаться',
+    translating: 'колыхаться',
     partOfSpeechCode: 'v',
     skyId: '36125'
   },
   {
     targetWord: 'quiver',
-    translation: 'дрожать',
+    translating: 'дрожать',
     partOfSpeechCode: 'v',
     skyId: '36124'
   },
   {
     targetWord: 'quiver of arrows',
-    translation: 'колчан стрел',
+    translating: 'колчан стрел',
     partOfSpeechCode: 'ph',
     skyId: '251639'
   },
   {
     targetWord: 'quivering',
-    translation: 'подрагивание',
+    translating: 'подрагивание',
     partOfSpeechCode: 'n',
     skyId: '7663'
   },
   {
     targetWord: 'quivering',
-    translation: 'дрожание',
+    translating: 'дрожание',
     partOfSpeechCode: 'n',
     skyId: '7662'
   },
   {
     targetWord: 'quixotic',
-    translation: 'идеалистический',
+    translating: 'идеалистический',
     partOfSpeechCode: 'j',
     skyId: '60070'
   },
   {
     targetWord: 'quixotically',
-    translation: 'по-донкихотски',
+    translating: 'по-донкихотски',
     partOfSpeechCode: 'r',
     skyId: '107501'
   },
   {
     targetWord: 'quixotism',
-    translation: 'донкихотство',
+    translating: 'донкихотство',
     partOfSpeechCode: 'n',
     skyId: '134864'
   },
   {
     targetWord: 'quiz',
-    translation: 'викторина',
+    translating: 'викторина',
     partOfSpeechCode: 'n',
     skyId: '236131'
   },
   {
     targetWord: 'quiz',
-    translation: 'проводить опрос',
+    translating: 'проводить опрос',
     partOfSpeechCode: 'v',
     skyId: '183924'
   },
   {
     targetWord: 'quiz',
-    translation: 'короткий тест',
+    translating: 'короткий тест',
     partOfSpeechCode: 'n',
     skyId: '183923'
   },
   {
     targetWord: 'quiz show',
-    translation: 'телевикторина',
+    translating: 'телевикторина',
     partOfSpeechCode: 'n',
     skyId: '256049'
   },
   {
     targetWord: 'quiz shows',
-    translation: 'шоу викторины',
+    translating: 'шоу викторины',
     partOfSpeechCode: 'ph',
     skyId: '230221'
   },
   {
     targetWord: 'quizmaster',
-    translation: 'ведущий телевикторины',
+    translating: 'ведущий телевикторины',
     partOfSpeechCode: 'n',
     skyId: '27149'
   },
   {
     targetWord: 'quizzer',
-    translation: 'испытатель',
+    translating: 'испытатель',
     partOfSpeechCode: 'n',
     skyId: '179637'
   },
   {
     targetWord: 'quizzical',
-    translation: 'недоумённый',
+    translating: 'недоумённый',
     partOfSpeechCode: 'j',
     skyId: '81683'
   },
   {
     targetWord: 'quizzical',
-    translation: 'насмешливый',
+    translating: 'насмешливый',
     partOfSpeechCode: 'j',
     skyId: '81682'
   },
   {
     targetWord: 'quizzically',
-    translation: 'недоумённо',
+    translating: 'недоумённо',
     partOfSpeechCode: 'r',
     skyId: '92703'
   },
   {
     targetWord: 'quoin',
-    translation: 'клин',
+    translating: 'клин',
     partOfSpeechCode: 'n',
     skyId: '8427'
   },
   {
     targetWord: 'quoit',
-    translation: 'метание колец в цель',
+    translating: 'метание колец в цель',
     partOfSpeechCode: 'n',
     skyId: '152643'
   },
   {
     targetWord: 'quoits',
-    translation: 'метание колец в цель',
+    translating: 'метание колец в цель',
     partOfSpeechCode: 'n',
     skyId: '191986'
   },
   {
     targetWord: 'quoits',
-    translation: 'метание колец ',
+    translating: 'метание колец ',
     partOfSpeechCode: 'n',
     skyId: '191985'
   },
   {
     targetWord: 'quondam',
-    translation: 'бывший',
+    translating: 'бывший',
     partOfSpeechCode: 'j',
     skyId: '123096'
   },
   {
     targetWord: 'quota',
-    translation: 'квота',
+    translating: 'квота',
     partOfSpeechCode: 'n',
     skyId: '153328'
   },
   {
     targetWord: 'quota',
-    translation: 'доля',
+    translating: 'доля',
     partOfSpeechCode: 'n',
     skyId: '153329'
   },
   {
     targetWord: 'quotable',
-    translation: 'цитируемый',
+    translating: 'цитируемый',
     partOfSpeechCode: 'j',
     skyId: '221328'
   },
   {
     targetWord: 'quotable',
-    translation: 'цитирование',
+    translating: 'цитирование',
     partOfSpeechCode: 'j',
     skyId: '221329'
   },
   {
     targetWord: 'quotation',
-    translation: 'расценка',
+    translating: 'расценка',
     partOfSpeechCode: 'n',
     skyId: '243794'
   },
   {
     targetWord: 'quotation',
-    translation: 'цитирование',
+    translating: 'цитирование',
     partOfSpeechCode: 'n',
     skyId: '70339'
   },
   {
     targetWord: 'quotation',
-    translation: 'котировка',
+    translating: 'котировка',
     partOfSpeechCode: 'n',
     skyId: '70338'
   },
   {
     targetWord: 'quotation',
-    translation: 'цитата',
+    translating: 'цитата',
     partOfSpeechCode: 'n',
     skyId: '243793'
   },
   {
     targetWord: 'quote',
-    translation: 'назначать цену',
+    translating: 'назначать цену',
     partOfSpeechCode: 'v',
     skyId: '243791'
   },
   {
     targetWord: 'quote',
-    translation: 'ставить кавычки',
+    translating: 'ставить кавычки',
     partOfSpeechCode: 'v',
     skyId: '153324'
   },
   {
     targetWord: 'quote',
-    translation: 'называть цену',
+    translating: 'называть цену',
     partOfSpeechCode: 'v',
     skyId: '153322'
   },
   {
     targetWord: 'quote',
-    translation: 'цитировать',
+    translating: 'цитировать',
     partOfSpeechCode: 'v',
     skyId: '153323'
   },
   {
     targetWord: 'quote',
-    translation: 'цитата',
+    translating: 'цитата',
     partOfSpeechCode: 'n',
     skyId: '153320'
   },
   {
     targetWord: 'quote',
-    translation: 'кавычки',
+    translating: 'кавычки',
     partOfSpeechCode: 'n',
     skyId: '153319'
   },
@@ -3809,31 +3809,31 @@ export const qArr = [
   },
   {
     targetWord: 'quote a price',
-    translation: 'назначать цену',
+    translating: 'назначать цену',
     partOfSpeechCode: 'ph',
     skyId: '230866'
   },
   {
     targetWord: 'quote unquote',
-    translation: 'в кавычках',
+    translating: 'в кавычках',
     partOfSpeechCode: 'ph',
     skyId: '252902'
   },
   {
     targetWord: 'quotidian',
-    translation: 'повседневный',
+    translating: 'повседневный',
     partOfSpeechCode: 'j',
     skyId: '215828'
   },
   {
     targetWord: 'quotient',
-    translation: 'частное',
+    translating: 'частное',
     partOfSpeechCode: 'n',
     skyId: '159903'
   },
   {
     targetWord: 'quotient',
-    translation: 'отношение',
+    translating: 'отношение',
     partOfSpeechCode: 'n',
     skyId: '159902'
   }

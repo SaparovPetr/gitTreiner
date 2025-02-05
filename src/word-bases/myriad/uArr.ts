@@ -1,2851 +1,2851 @@
 export const uArr = [
   {
     targetWord: 'uakari',
-    translation: 'какажао',
+    translating: 'какажао',
     partOfSpeechCode: 'n',
     skyId: '195661'
   },
   {
     targetWord: 'udder',
-    translation: 'вымя',
+    translating: 'вымя',
     partOfSpeechCode: 'n',
     skyId: '198773'
   },
   {
     targetWord: 'ullage',
-    translation: 'незаполненный объём',
+    translating: 'незаполненный объём',
     partOfSpeechCode: 'n',
     skyId: '211174'
   },
   {
     targetWord: 'ultranationalism',
-    translation: 'джингоизм',
+    translating: 'джингоизм',
     partOfSpeechCode: 'n',
     skyId: '212028'
   },
   {
     targetWord: 'umbrella',
-    translation: 'полный',
+    translating: 'полный',
     partOfSpeechCode: 'j',
     skyId: '212114'
   },
   {
     targetWord: 'umbrella',
-    translation: 'зонтик',
+    translating: 'зонтик',
     partOfSpeechCode: 'n',
     skyId: '212113'
   },
   {
     targetWord: 'umbrella',
-    translation: 'зонт',
+    translating: 'зонт',
     partOfSpeechCode: 'n',
     skyId: '212112'
   },
   {
     targetWord: 'umbrella bird',
-    translation: 'амазонская зонтичная птица',
+    translating: 'амазонская зонтичная птица',
     partOfSpeechCode: 'n',
     skyId: '203883'
   },
   {
     targetWord: 'unadvisedly',
-    translation: 'безрассудно',
+    translating: 'безрассудно',
     partOfSpeechCode: 'r',
     skyId: '211867'
   },
   {
     targetWord: 'unai',
-    translation: 'унаи',
+    translating: 'унаи',
     partOfSpeechCode: 'n',
     skyId: '195136'
   },
   {
     targetWord: 'unalike',
-    translation: 'неодинаковый',
+    translating: 'неодинаковый',
     partOfSpeechCode: 'j',
     skyId: '194883'
   },
   {
     targetWord: 'unappealing',
-    translation: 'непривлекательный',
+    translating: 'непривлекательный',
     partOfSpeechCode: 'j',
     skyId: '201778'
   },
   {
     targetWord: 'unarmed',
-    translation: 'неколючий',
+    translating: 'неколючий',
     partOfSpeechCode: 'j',
     skyId: '193757'
   },
   {
     targetWord: 'unarmed',
-    translation: 'невооружённый',
+    translating: 'невооружённый',
     partOfSpeechCode: 'j',
     skyId: '193756'
   },
   {
     targetWord: 'unarticulated',
-    translation: 'невнятный',
+    translating: 'невнятный',
     partOfSpeechCode: 'j',
     skyId: '195945'
   },
   {
     targetWord: 'unarticulated',
-    translation: 'неоднородный',
+    translating: 'неоднородный',
     partOfSpeechCode: 'j',
     skyId: '195944'
   },
   {
     targetWord: 'unattractively',
-    translation: 'непривлекательно',
+    translating: 'непривлекательно',
     partOfSpeechCode: 'r',
     skyId: '201634'
   },
   {
     targetWord: 'unau',
-    translation: 'двупалый ленивец',
+    translating: 'двупалый ленивец',
     partOfSpeechCode: 'n',
     skyId: '195137'
   },
   {
     targetWord: 'unau',
-    translation: 'ленивец гоффмана',
+    translating: 'ленивец гоффмана',
     partOfSpeechCode: 'n',
     skyId: '195119'
   },
   {
     targetWord: 'unavailing',
-    translation: 'бесплодный',
+    translating: 'бесплодный',
     partOfSpeechCode: 'j',
     skyId: '194305'
   },
   {
     targetWord: 'unavenged',
-    translation: 'неотомщённый',
+    translating: 'неотомщённый',
     partOfSpeechCode: 'j',
     skyId: '196587'
   },
   {
     targetWord: 'unaware',
-    translation: 'не знающий',
+    translating: 'не знающий',
     partOfSpeechCode: 'j',
     skyId: '200837'
   },
   {
     targetWord: 'unawareness',
-    translation: 'неосведомленность',
+    translating: 'неосведомленность',
     partOfSpeechCode: 'n',
     skyId: '204600'
   },
   {
     targetWord: 'unbrushed',
-    translation: 'непричесанный',
+    translating: 'непричесанный',
     partOfSpeechCode: 'j',
     skyId: '197384'
   },
   {
     targetWord: 'unbuttoned',
-    translation: 'расстегнутый',
+    translating: 'расстегнутый',
     partOfSpeechCode: 'j',
     skyId: '200045'
   },
   {
     targetWord: 'unchallengeable',
-    translation: 'неоспоримый',
+    translating: 'неоспоримый',
     partOfSpeechCode: 'j',
     skyId: '212683'
   },
   {
     targetWord: 'unclaimed',
-    translation: 'невостребованный',
+    translating: 'невостребованный',
     partOfSpeechCode: 'j',
     skyId: '211749'
   },
   {
     targetWord: 'uncle',
-    translation: 'дядя',
+    translating: 'дядя',
     partOfSpeechCode: 'n',
     skyId: '194391'
   },
   {
     targetWord: 'uncleared',
-    translation: 'неубранный',
+    translating: 'неубранный',
     partOfSpeechCode: 'j',
     skyId: '194658'
   },
   {
     targetWord: 'uncloudedness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '195004'
   },
   {
     targetWord: 'uncompetitive',
-    translation: 'неконкурентоспособный',
+    translating: 'неконкурентоспособный',
     partOfSpeechCode: 'j',
     skyId: '204397'
   },
   {
     targetWord: 'uncomplimentary',
-    translation: 'нелестный',
+    translating: 'нелестный',
     partOfSpeechCode: 'j',
     skyId: '195827'
   },
   {
     targetWord: 'uncorrelated',
-    translation: 'некоррелированный',
+    translating: 'некоррелированный',
     partOfSpeechCode: 'j',
     skyId: '194540'
   },
   {
     targetWord: 'undecagon',
-    translation: 'одиннадцатисторонний полигон',
+    translating: 'одиннадцатисторонний полигон',
     partOfSpeechCode: 'n',
     skyId: '212934'
   },
   {
     targetWord: 'undecided',
-    translation: 'неопределившийся',
+    translating: 'неопределившийся',
     partOfSpeechCode: 'j',
     skyId: '202676'
   },
   {
     targetWord: 'undecided',
-    translation: 'нерешительный',
+    translating: 'нерешительный',
     partOfSpeechCode: 'j',
     skyId: '202675'
   },
   {
     targetWord: 'undecided',
-    translation: 'нерешенный',
+    translating: 'нерешенный',
     partOfSpeechCode: 'j',
     skyId: '202674'
   },
   {
     targetWord: 'undecorated',
-    translation: 'без отделки',
+    translating: 'без отделки',
     partOfSpeechCode: 'j',
     skyId: '197414'
   },
   {
     targetWord: 'undeniable',
-    translation: 'неоспоримый',
+    translating: 'неоспоримый',
     partOfSpeechCode: 'j',
     skyId: '212384'
   },
   {
     targetWord: 'undependable',
-    translation: 'не заслуживающий доверия',
+    translating: 'не заслуживающий доверия',
     partOfSpeechCode: 'j',
     skyId: '200002'
   },
   {
     targetWord: 'undependable',
-    translation: 'ненадёжный',
+    translating: 'ненадёжный',
     partOfSpeechCode: 'j',
     skyId: '200001'
   },
   {
     targetWord: 'under it',
-    translation: 'под ним',
+    translating: 'под ним',
     partOfSpeechCode: 'r',
     skyId: '201129'
   },
   {
     targetWord: 'under way',
-    translation: 'на ходу',
+    translating: 'на ходу',
     partOfSpeechCode: 'r',
     skyId: '200692'
   },
   {
     targetWord: 'undercoat',
-    translation: 'подшерсток',
+    translating: 'подшерсток',
     partOfSpeechCode: 'n',
     skyId: '212731'
   },
   {
     targetWord: 'undercoat',
-    translation: 'грунтовка ',
+    translating: 'грунтовка ',
     partOfSpeechCode: 'n',
     skyId: '212730'
   },
   {
     targetWord: 'undercoat',
-    translation: 'нижний слой покрытия',
+    translating: 'нижний слой покрытия',
     partOfSpeechCode: 'n',
     skyId: '212729'
   },
   {
     targetWord: 'underestimation',
-    translation: 'недооценивание',
+    translating: 'недооценивание',
     partOfSpeechCode: 'n',
     skyId: '212971'
   },
   {
     targetWord: 'underground railroad',
-    translation: 'подпольная железная дорога',
+    translating: 'подпольная железная дорога',
     partOfSpeechCode: 'n',
     skyId: '196619'
   },
   {
     targetWord: 'underpin',
-    translation: 'подкреплять',
+    translating: 'подкреплять',
     partOfSpeechCode: 'v',
     skyId: '197618'
   },
   {
     targetWord: 'underprivileged',
-    translation: 'обездоленный',
+    translating: 'обездоленный',
     partOfSpeechCode: 'j',
     skyId: '195583'
   },
   {
     targetWord: 'underseller',
-    translation: 'продавец, демпингующий цены',
+    translating: 'продавец, демпингующий цены',
     partOfSpeechCode: 'n',
     skyId: '200491'
   },
   {
     targetWord: 'undesirability',
-    translation: 'нежелательность',
+    translating: 'нежелательность',
     partOfSpeechCode: 'n',
     skyId: '210518'
   },
   {
     targetWord: 'undies',
-    translation: 'женское нижнее белье',
+    translating: 'женское нижнее белье',
     partOfSpeechCode: 'n',
     skyId: '195982'
   },
   {
     targetWord: 'undigested',
-    translation: 'непереваренный',
+    translating: 'непереваренный',
     partOfSpeechCode: 'j',
     skyId: '201406'
   },
   {
     targetWord: 'undigested',
-    translation: 'неусвоенный',
+    translating: 'неусвоенный',
     partOfSpeechCode: 'j',
     skyId: '201405'
   },
   {
     targetWord: 'undischarged',
-    translation: 'невыполненный',
+    translating: 'невыполненный',
     partOfSpeechCode: 'j',
     skyId: '195508'
   },
   {
     targetWord: 'undoable',
-    translation: 'невыполнимый',
+    translating: 'невыполнимый',
     partOfSpeechCode: 'j',
     skyId: '195206'
   },
   {
     targetWord: 'undress',
-    translation: 'нагота',
+    translating: 'нагота',
     partOfSpeechCode: 'n',
     skyId: '211083'
   },
   {
     targetWord: 'undrinkable',
-    translation: 'непригодный для питья',
+    translating: 'непригодный для питья',
     partOfSpeechCode: 'j',
     skyId: '198286'
   },
   {
     targetWord: 'undue',
-    translation: 'непомерный',
+    translating: 'непомерный',
     partOfSpeechCode: 'j',
     skyId: '199821'
   },
   {
     targetWord: 'undue',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '199820'
   },
   {
     targetWord: 'undue',
-    translation: 'неуместный',
+    translating: 'неуместный',
     partOfSpeechCode: 'j',
     skyId: '231412'
   },
   {
     targetWord: 'undue',
-    translation: 'не подлежащий оплате',
+    translating: 'не подлежащий оплате',
     partOfSpeechCode: 'j',
     skyId: '199818'
   },
   {
     targetWord: 'unenthusiastically',
-    translation: 'без энтузиазма',
+    translating: 'без энтузиазма',
     partOfSpeechCode: 'r',
     skyId: '203556'
   },
   {
     targetWord: 'unequal to',
-    translation: 'неравный',
+    translating: 'неравный',
     partOfSpeechCode: 'j',
     skyId: '212142'
   },
   {
     targetWord: 'unequalled',
-    translation: 'непревзойдённый',
+    translating: 'непревзойдённый',
     partOfSpeechCode: 'j',
     skyId: '201109'
   },
   {
     targetWord: 'unequally',
-    translation: 'неравно',
+    translating: 'неравно',
     partOfSpeechCode: 'r',
     skyId: '197367'
   },
   {
     targetWord: 'unequivocal',
-    translation: 'недвусмысленный',
+    translating: 'недвусмысленный',
     partOfSpeechCode: 'j',
     skyId: '212220'
   },
   {
     targetWord: 'unequivocal',
-    translation: 'однозначный',
+    translating: 'однозначный',
     partOfSpeechCode: 'j',
     skyId: '212219'
   },
   {
     targetWord: 'unessential',
-    translation: 'необязательный',
+    translating: 'необязательный',
     partOfSpeechCode: 'j',
     skyId: '199285'
   },
   {
     targetWord: 'unestablished',
-    translation: 'неустановленной',
+    translating: 'неустановленной',
     partOfSpeechCode: 'j',
     skyId: '211703'
   },
   {
     targetWord: 'unexampled',
-    translation: 'беспрецедентный',
+    translating: 'беспрецедентный',
     partOfSpeechCode: 'j',
     skyId: '210854'
   },
   {
     targetWord: 'unexpectedly',
-    translation: 'внезапно',
+    translating: 'внезапно',
     partOfSpeechCode: 'r',
     skyId: '199933'
   },
   {
     targetWord: 'unexpectedly',
-    translation: 'неожиданно',
+    translating: 'неожиданно',
     partOfSpeechCode: 'r',
     skyId: '199932'
   },
   {
     targetWord: 'unfaceted',
-    translation: 'unfaceted',
+    translating: 'unfaceted',
     partOfSpeechCode: 'j',
     skyId: '195973'
   },
   {
     targetWord: 'unfeasibility',
-    translation: 'неосуществимость',
+    translating: 'неосуществимость',
     partOfSpeechCode: 'n',
     skyId: '193725'
   },
   {
     targetWord: 'unfertilized',
-    translation: 'неоплодотворённый',
+    translating: 'неоплодотворённый',
     partOfSpeechCode: 'j',
     skyId: '210066'
   },
   {
     targetWord: 'unfilled',
-    translation: 'невыполненный',
+    translating: 'невыполненный',
     partOfSpeechCode: 'j',
     skyId: '199615'
   },
   {
     targetWord: 'unfold',
-    translation: 'разворачивать',
+    translating: 'разворачивать',
     partOfSpeechCode: 'v',
     skyId: '198885'
   },
   {
     targetWord: 'unfold',
-    translation: 'развиваться',
+    translating: 'развиваться',
     partOfSpeechCode: 'v',
     skyId: '198882'
   },
   {
     targetWord: 'unfolding',
-    translation: 'разворачивание',
+    translating: 'разворачивание',
     partOfSpeechCode: 'n',
     skyId: '198881'
   },
   {
     targetWord: 'unfree',
-    translation: 'несвободный',
+    translating: 'несвободный',
     partOfSpeechCode: 'j',
     skyId: '200571'
   },
   {
     targetWord: 'unfurnished',
-    translation: 'немеблированный',
+    translating: 'немеблированный',
     partOfSpeechCode: 'j',
     skyId: '202587'
   },
   {
     targetWord: 'ungraciously',
-    translation: 'неприветливо',
+    translating: 'неприветливо',
     partOfSpeechCode: 'r',
     skyId: '195914'
   },
   {
     targetWord: 'unguided',
-    translation: 'неуправляемый',
+    translating: 'неуправляемый',
     partOfSpeechCode: 'j',
     skyId: '199672'
   },
   {
     targetWord: 'unhelpfully',
-    translation: 'беспомощно',
+    translating: 'беспомощно',
     partOfSpeechCode: 'r',
     skyId: '194745'
   },
   {
     targetWord: 'unhesitatingly',
-    translation: 'решительно',
+    translating: 'решительно',
     partOfSpeechCode: 'r',
     skyId: '202475'
   },
   {
     targetWord: 'unhygienic',
-    translation: 'антисанитарный',
+    translating: 'антисанитарный',
     partOfSpeechCode: 'j',
     skyId: '202056'
   },
   {
     targetWord: 'uniformed',
-    translation: 'одетый в униформу',
+    translating: 'одетый в униформу',
     partOfSpeechCode: 'j',
     skyId: '194026'
   },
   {
     targetWord: 'unimpeachably',
-    translation: 'безупречно',
+    translating: 'безупречно',
     partOfSpeechCode: 'r',
     skyId: '213270'
   },
   {
     targetWord: 'unimproved',
-    translation: 'неулучшенный',
+    translating: 'неулучшенный',
     partOfSpeechCode: 'j',
     skyId: '211632'
   },
   {
     targetWord: 'unimproved',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '211631'
   },
   {
     targetWord: 'unintended',
-    translation: 'неумышленный',
+    translating: 'неумышленный',
     partOfSpeechCode: 'j',
     skyId: '199703'
   },
   {
     targetWord: 'united states president',
-    translation: 'президент сша',
+    translating: 'президент сша',
     partOfSpeechCode: 'n',
     skyId: '195188'
   },
   {
     targetWord: 'uniting',
-    translation: 'объединение',
+    translating: 'объединение',
     partOfSpeechCode: 'n',
     skyId: '196121'
   },
   {
     targetWord: 'unity',
-    translation: 'единение',
+    translating: 'единение',
     partOfSpeechCode: 'n',
     skyId: '198474'
   },
   {
     targetWord: 'unity',
-    translation: 'единица',
+    translating: 'единица',
     partOfSpeechCode: 'n',
     skyId: '198473'
   },
   {
     targetWord: 'unity',
-    translation: 'единство',
+    translating: 'единство',
     partOfSpeechCode: 'n',
     skyId: '240803'
   },
   {
     targetWord: 'universal product code',
-    translation: 'универсальный товарный код',
+    translating: 'универсальный товарный код',
     partOfSpeechCode: 'n',
     skyId: '212110'
   },
   {
     targetWord: 'unjustly',
-    translation: 'несправедливо',
+    translating: 'несправедливо',
     partOfSpeechCode: 'r',
     skyId: '203462'
   },
   {
     targetWord: 'unjustness',
-    translation: 'несправедливость',
+    translating: 'несправедливость',
     partOfSpeechCode: 'n',
     skyId: '196277'
   },
   {
     targetWord: 'unkindly',
-    translation: 'недобро',
+    translating: 'недобро',
     partOfSpeechCode: 'r',
     skyId: '210856'
   },
   {
     targetWord: 'unkindly',
-    translation: 'недобро',
+    translating: 'недобро',
     partOfSpeechCode: 'j',
     skyId: '210856'
   },
   {
     targetWord: 'unlabeled',
-    translation: 'немеченый',
+    translating: 'немеченый',
     partOfSpeechCode: 'j',
     skyId: '203834'
   },
   {
     targetWord: 'unlaced',
-    translation: 'расшнуровал',
+    translating: 'расшнуровал',
     partOfSpeechCode: 'j',
     skyId: '197345'
   },
   {
     targetWord: 'unlamented',
-    translation: 'неоплакиваемый',
+    translating: 'неоплакиваемый',
     partOfSpeechCode: 'j',
     skyId: '198309'
   },
   {
     targetWord: 'unlicensed',
-    translation: 'нелицензированный',
+    translating: 'нелицензированный',
     partOfSpeechCode: 'j',
     skyId: '201402'
   },
   {
     targetWord: 'unlike',
-    translation: 'неравный',
+    translating: 'неравный',
     partOfSpeechCode: 'j',
     skyId: '198406'
   },
   {
     targetWord: 'unlike',
-    translation: 'непохожий',
+    translating: 'непохожий',
     partOfSpeechCode: 'j',
     skyId: '198405'
   },
   {
     targetWord: 'unlined',
-    translation: 'гладкий',
+    translating: 'гладкий',
     partOfSpeechCode: 'j',
     skyId: '195397'
   },
   {
     targetWord: 'unlined',
-    translation: 'необшитый',
+    translating: 'необшитый',
     partOfSpeechCode: 'j',
     skyId: '195396'
   },
   {
     targetWord: 'unlit',
-    translation: 'неосвещённый',
+    translating: 'неосвещённый',
     partOfSpeechCode: 'j',
     skyId: '203040'
   },
   {
     targetWord: 'unlit',
-    translation: 'негорящий',
+    translating: 'негорящий',
     partOfSpeechCode: 'j',
     skyId: '203039'
   },
   {
     targetWord: 'unloved',
-    translation: 'нелюбимый',
+    translating: 'нелюбимый',
     partOfSpeechCode: 'j',
     skyId: '203976'
   },
   {
     targetWord: 'unmannered',
-    translation: 'невоспитанный',
+    translating: 'невоспитанный',
     partOfSpeechCode: 'j',
     skyId: '197079'
   },
   {
     targetWord: 'unmatched',
-    translation: 'неповторимый',
+    translating: 'неповторимый',
     partOfSpeechCode: 'j',
     skyId: '204344'
   },
   {
     targetWord: 'unmatched',
-    translation: 'непарный',
+    translating: 'непарный',
     partOfSpeechCode: 'j',
     skyId: '204343'
   },
   {
     targetWord: 'unmethodical',
-    translation: 'бессистемный',
+    translating: 'бессистемный',
     partOfSpeechCode: 'j',
     skyId: '212427'
   },
   {
     targetWord: 'unnamed',
-    translation: 'безымянный',
+    translating: 'безымянный',
     partOfSpeechCode: 'j',
     skyId: '201374'
   },
   {
     targetWord: 'unoiled',
-    translation: 'unoiled',
+    translating: 'unoiled',
     partOfSpeechCode: 'j',
     skyId: '201143'
   },
   {
     targetWord: 'unorganised',
-    translation: 'неорганизованный',
+    translating: 'неорганизованный',
     partOfSpeechCode: 'j',
     skyId: '211790'
   },
   {
     targetWord: 'unpaid worker',
-    translation: 'неоплачиваемый работник',
+    translating: 'неоплачиваемый работник',
     partOfSpeechCode: 'n',
     skyId: '210310'
   },
   {
     targetWord: 'unpatronized',
-    translation: 'имеющий мало покупателей,',
+    translating: 'имеющий мало покупателей,',
     partOfSpeechCode: 'j',
     skyId: '212708'
   },
   {
     targetWord: 'unprecedented',
-    translation: 'небывалый',
+    translating: 'небывалый',
     partOfSpeechCode: 'j',
     skyId: '198598'
   },
   {
     targetWord: 'unpressed',
-    translation: 'отжата',
+    translating: 'отжата',
     partOfSpeechCode: 'j',
     skyId: '197741'
   },
   {
     targetWord: 'unpromising',
-    translation: 'бесперспективный',
+    translating: 'бесперспективный',
     partOfSpeechCode: 'j',
     skyId: '210907'
   },
   {
     targetWord: 'unquenchable',
-    translation: 'неутолимый ',
+    translating: 'неутолимый ',
     partOfSpeechCode: 'j',
     skyId: '212128'
   },
   {
     targetWord: 'unquestionable',
-    translation: 'несомненный',
+    translating: 'несомненный',
     partOfSpeechCode: 'j',
     skyId: '197463'
   },
   {
     targetWord: 'unquestionable',
-    translation: 'неоспоримый',
+    translating: 'неоспоримый',
     partOfSpeechCode: 'j',
     skyId: '197464'
   },
   {
     targetWord: 'unquestionably',
-    translation: 'бесспорно',
+    translating: 'бесспорно',
     partOfSpeechCode: 'r',
     skyId: '197468'
   },
   {
     targetWord: 'unquestionably',
-    translation: 'неоспоримо',
+    translating: 'неоспоримо',
     partOfSpeechCode: 'r',
     skyId: '197467'
   },
   {
     targetWord: 'unratified',
-    translation: 'нератифицированной',
+    translating: 'нератифицированной',
     partOfSpeechCode: 'j',
     skyId: '212540'
   },
   {
     targetWord: 'unreconcilable',
-    translation: 'непримиримый',
+    translating: 'непримиримый',
     partOfSpeechCode: 'j',
     skyId: '198230'
   },
   {
     targetWord: 'unreliableness',
-    translation: 'ненадёжность',
+    translating: 'ненадёжность',
     partOfSpeechCode: 'n',
     skyId: '202646'
   },
   {
     targetWord: 'unremarkable',
-    translation: 'обыкновенный',
+    translating: 'обыкновенный',
     partOfSpeechCode: 'j',
     skyId: '196131'
   },
   {
     targetWord: 'unrepressed',
-    translation: 'неподавленной',
+    translating: 'неподавленной',
     partOfSpeechCode: 'j',
     skyId: '211524'
   },
   {
     targetWord: 'unrequested',
-    translation: 'непрошеной',
+    translating: 'непрошеной',
     partOfSpeechCode: 'j',
     skyId: '199837'
   },
   {
     targetWord: 'unresisting',
-    translation: 'несопротивляющегося',
+    translating: 'несопротивляющегося',
     partOfSpeechCode: 'j',
     skyId: '196490'
   },
   {
     targetWord: 'unresponsiveness',
-    translation: 'невосприимчивость',
+    translating: 'невосприимчивость',
     partOfSpeechCode: 'n',
     skyId: '204532'
   },
   {
     targetWord: 'unroll',
-    translation: 'разворачивать',
+    translating: 'разворачивать',
     partOfSpeechCode: 'v',
     skyId: '213358'
   },
   {
     targetWord: 'unroll',
-    translation: 'разматывать',
+    translating: 'разматывать',
     partOfSpeechCode: 'v',
     skyId: '213357'
   },
   {
     targetWord: 'unrouged',
-    translation: 'unrouged',
+    translating: 'unrouged',
     partOfSpeechCode: 'j',
     skyId: '201185'
   },
   {
     targetWord: 'unruly',
-    translation: 'непослушный',
+    translating: 'непослушный',
     partOfSpeechCode: 'j',
     skyId: '193737'
   },
   {
     targetWord: 'unruly',
-    translation: 'непокорный',
+    translating: 'непокорный',
     partOfSpeechCode: 'j',
     skyId: '193736'
   },
   {
     targetWord: 'unsatiable',
-    translation: 'ненасытный',
+    translating: 'ненасытный',
     partOfSpeechCode: 'j',
     skyId: '210440'
   },
   {
     targetWord: 'unseamed',
-    translation: 'unseamed',
+    translating: 'unseamed',
     partOfSpeechCode: 'j',
     skyId: '197962'
   },
   {
     targetWord: 'unsmilingly',
-    translation: 'без улыбки',
+    translating: 'без улыбки',
     partOfSpeechCode: 'r',
     skyId: '210909'
   },
   {
     targetWord: 'unstintingly',
-    translation: 'безмерно',
+    translating: 'безмерно',
     partOfSpeechCode: 'r',
     skyId: '197310'
   },
   {
     targetWord: 'unstructured',
-    translation: 'бесструктурный',
+    translating: 'бесструктурный',
     partOfSpeechCode: 'j',
     skyId: '211540'
   },
   {
     targetWord: 'unstudied',
-    translation: 'неизученный',
+    translating: 'неизученный',
     partOfSpeechCode: 'j',
     skyId: '194170'
   },
   {
     targetWord: 'unstudied',
-    translation: 'незаученный',
+    translating: 'незаученный',
     partOfSpeechCode: 'j',
     skyId: '194169'
   },
   {
     targetWord: 'unsuccessful person',
-    translation: 'неудачник',
+    translating: 'неудачник',
     partOfSpeechCode: 'n',
     skyId: '193898'
   },
   {
     targetWord: 'unsurpassable',
-    translation: 'непревзойдённый',
+    translating: 'непревзойдённый',
     partOfSpeechCode: 'j',
     skyId: '198756'
   },
   {
     targetWord: 'unsympathetically',
-    translation: 'без сочувствия',
+    translating: 'без сочувствия',
     partOfSpeechCode: 'r',
     skyId: '197923'
   },
   {
     targetWord: 'unthankful',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '198695'
   },
   {
     targetWord: 'untune',
-    translation: 'расстраивать',
+    translating: 'расстраивать',
     partOfSpeechCode: 'v',
     skyId: '213018'
   },
   {
     targetWord: 'untune',
-    translation: 'чтобы расстраивать',
+    translating: 'чтобы расстраивать',
     partOfSpeechCode: 'v',
     skyId: '213017'
   },
   {
     targetWord: 'unusual person',
-    translation: 'необычный человек',
+    translating: 'необычный человек',
     partOfSpeechCode: 'n',
     skyId: '198661'
   },
   {
     targetWord: 'unvitrified',
-    translation: 'unvitrified',
+    translating: 'unvitrified',
     partOfSpeechCode: 'j',
     skyId: '210560'
   },
   {
     targetWord: 'unwashed',
-    translation: 'немытый',
+    translating: 'немытый',
     partOfSpeechCode: 'j',
     skyId: '197833'
   },
   {
     targetWord: 'unwellness',
-    translation: 'нездоровье',
+    translating: 'нездоровье',
     partOfSpeechCode: 'n',
     skyId: '195190'
   },
   {
     targetWord: 'unwontedly',
-    translation: 'непривычно',
+    translating: 'непривычно',
     partOfSpeechCode: 'r',
     skyId: '196831'
   },
   {
     targetWord: 'up-to-the-minute',
-    translation: 'сиюминутный',
+    translating: 'сиюминутный',
     partOfSpeechCode: 'j',
     skyId: '210308'
   },
   {
     targetWord: 'upbraiding',
-    translation: 'выговор',
+    translating: 'выговор',
     partOfSpeechCode: 'n',
     skyId: '199844'
   },
   {
     targetWord: 'uplifted',
-    translation: 'приподнятый',
+    translating: 'приподнятый',
     partOfSpeechCode: 'j',
     skyId: '212748'
   },
   {
     targetWord: 'uppish',
-    translation: 'наглый',
+    translating: 'наглый',
     partOfSpeechCode: 'j',
     skyId: '197335'
   },
   {
     targetWord: 'uppishness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '213137'
   },
   {
     targetWord: 'upright piano',
-    translation: 'пианино',
+    translating: 'пианино',
     partOfSpeechCode: 'n',
     skyId: '202090'
   },
   {
     targetWord: 'upset',
-    translation: 'опрокинутый',
+    translating: 'опрокинутый',
     partOfSpeechCode: 'j',
     skyId: '212402'
   },
   {
     targetWord: 'upset',
-    translation: 'неожиданно сражённый',
+    translating: 'неожиданно сражённый',
     partOfSpeechCode: 'j',
     skyId: '212400'
   },
   {
     targetWord: 'upset',
-    translation: 'расстроенный',
+    translating: 'расстроенный',
     partOfSpeechCode: 'j',
     skyId: '212401'
   },
   {
     targetWord: 'upset',
-    translation: 'огорченный',
+    translating: 'огорченный',
     partOfSpeechCode: 'j',
     skyId: '212398'
   },
   {
     targetWord: 'upset',
-    translation: 'недомогание',
+    translating: 'недомогание',
     partOfSpeechCode: 'n',
     skyId: '212388'
   },
   {
     targetWord: 'upset',
-    translation: 'неожиданное поражение',
+    translating: 'неожиданное поражение',
     partOfSpeechCode: 'n',
     skyId: '212391'
   },
   {
     targetWord: 'upset',
-    translation: 'обжимка',
+    translating: 'обжимка',
     partOfSpeechCode: 'n',
     skyId: '212389'
   },
   {
     targetWord: 'upset',
-    translation: 'расстройство',
+    translating: 'расстройство',
     partOfSpeechCode: 'n',
     skyId: '212387'
   },
   {
     targetWord: 'upset',
-    translation: 'огорчение',
+    translating: 'огорчение',
     partOfSpeechCode: 'n',
     skyId: '212390'
   },
   {
     targetWord: 'upstager',
-    translation: 'относящийся к задней части сцены',
+    translating: 'относящийся к задней части сцены',
     partOfSpeechCode: 'j',
     skyId: '201827'
   },
   {
     targetWord: 'upstair',
-    translation: 'находящийся этажом выше',
+    translating: 'находящийся этажом выше',
     partOfSpeechCode: 'j',
     skyId: '212455'
   },
   {
     targetWord: 'upstart',
-    translation: 'неожиданно выдвинувшийся или получивший известность',
+    translating: 'неожиданно выдвинувшийся или получивший известность',
     partOfSpeechCode: 'j',
     skyId: '203702'
   },
   {
     targetWord: 'upstart',
-    translation: 'подъем разгибом',
+    translating: 'подъем разгибом',
     partOfSpeechCode: 'n',
     skyId: '203701'
   },
   {
     targetWord: 'upstart',
-    translation: 'выскочка',
+    translating: 'выскочка',
     partOfSpeechCode: 'n',
     skyId: '203700'
   },
   {
     targetWord: 'urinary bladder',
-    translation: 'мочевой пузырь',
+    translating: 'мочевой пузырь',
     partOfSpeechCode: 'n',
     skyId: '202794'
   },
   {
     targetWord: 'ursine dasyure',
-    translation: 'тасманийский дьявол',
+    translating: 'тасманийский дьявол',
     partOfSpeechCode: 'n',
     skyId: '202781'
   },
   {
     targetWord: 'ursus arctos middendorffi',
-    translation: 'кадьяк',
+    translating: 'кадьяк',
     partOfSpeechCode: 'n',
     skyId: '203320'
   },
   {
     targetWord: 'ursus middendorffi',
-    translation: 'кадьяк',
+    translating: 'кадьяк',
     partOfSpeechCode: 'n',
     skyId: '210976'
   },
   {
     targetWord: 'usableness',
-    translation: 'пригодность',
+    translating: 'пригодность',
     partOfSpeechCode: 'n',
     skyId: '195952'
   },
   {
     targetWord: 'usnea',
-    translation: 'уснея',
+    translating: 'уснея',
     partOfSpeechCode: 'n',
     skyId: '197560'
   },
   {
     targetWord: 'usury',
-    translation: 'очень высокая процентная ставка',
+    translating: 'очень высокая процентная ставка',
     partOfSpeechCode: 'n',
     skyId: '196937'
   },
   {
     targetWord: 'ute',
-    translation: 'ют',
+    translating: 'ют',
     partOfSpeechCode: 'n',
     skyId: '211277'
   },
   {
     targetWord: 'ute',
-    translation: 'юты',
+    translating: 'юты',
     partOfSpeechCode: 'n',
     skyId: '211276'
   },
   {
     targetWord: 'utilitarianism',
-    translation: 'утилитаризм',
+    translating: 'утилитаризм',
     partOfSpeechCode: 'n',
     skyId: '204290'
   },
   {
     targetWord: 'utopia',
-    translation: 'утопия',
+    translating: 'утопия',
     partOfSpeechCode: 'n',
     skyId: '210381'
   },
   {
     targetWord: 'utopia',
-    translation: 'Утопия',
+    translating: 'Утопия',
     partOfSpeechCode: 'n',
     skyId: '210378'
   },
   {
     targetWord: 'utriculus',
-    translation: 'мешочке',
+    translating: 'мешочке',
     partOfSpeechCode: 'n',
     skyId: '200691'
   },
   {
     targetWord: 'utterable',
-    translation: 'произносимый',
+    translating: 'произносимый',
     partOfSpeechCode: 'j',
     skyId: '202217'
   },
   {
     targetWord: 'u',
-    translation: 'аристократичный',
+    translating: 'аристократичный',
     partOfSpeechCode: 'j',
     skyId: '17982'
   },
   {
     targetWord: 'u',
-    translation: 'уран',
+    translating: 'уран',
     partOfSpeechCode: 'n',
     skyId: '17980'
   },
   {
     targetWord: 'u',
-    translation: 'урацил',
+    translating: 'урацил',
     partOfSpeechCode: 'n',
     skyId: '62040'
   },
   {
     targetWord: 'u-boat',
-    translation: 'субмарина',
+    translating: 'субмарина',
     partOfSpeechCode: 'n',
     skyId: '170202'
   },
   {
     targetWord: 'u-section',
-    translation: 'швеллер',
+    translating: 'швеллер',
     partOfSpeechCode: 'n',
     skyId: '246880'
   },
   {
     targetWord: 'u-shaped',
-    translation: 'u-образный',
+    translating: 'u-образный',
     partOfSpeechCode: 'j',
     skyId: '95395'
   },
   {
     targetWord: 'u-turn',
-    translation: 'разворот',
+    translating: 'разворот',
     partOfSpeechCode: 'n',
     skyId: '130696'
   },
   {
     targetWord: 'u308',
-    translation: 'жёлтый уран',
+    translating: 'жёлтый уран',
     partOfSpeechCode: 'n',
     skyId: '216709'
   },
   {
     targetWord: 'ubergeek',
-    translation: 'фанат инновационных технологий',
+    translating: 'фанат инновационных технологий',
     partOfSpeechCode: 'n',
     skyId: '265259'
   },
   {
     targetWord: 'ubermensch',
-    translation: 'сверхчеловек',
+    translating: 'сверхчеловек',
     partOfSpeechCode: 'n',
     skyId: '74294'
   },
   {
     targetWord: 'ubiety',
-    translation: 'местонахождение',
+    translating: 'местонахождение',
     partOfSpeechCode: 'n',
     skyId: '3863'
   },
   {
     targetWord: 'ubiquinone',
-    translation: 'кофермент q',
+    translating: 'кофермент q',
     partOfSpeechCode: 'n',
     skyId: '218302'
   },
   {
     targetWord: 'ubiquitous',
-    translation: 'повсеместный',
+    translating: 'повсеместный',
     partOfSpeechCode: 'j',
     skyId: '263324'
   },
   {
     targetWord: 'ubiquitous',
-    translation: 'единый',
+    translating: 'единый',
     partOfSpeechCode: 'j',
     skyId: '250525'
   },
   {
     targetWord: 'ubiquitous',
-    translation: 'вездесущий',
+    translating: 'вездесущий',
     partOfSpeechCode: 'j',
     skyId: '138447'
   },
   {
     targetWord: 'ubiquitous food chains',
-    translation: 'рестораны быстрого питания',
+    translating: 'рестораны быстрого питания',
     partOfSpeechCode: 'n',
     skyId: '232078'
   },
   {
     targetWord: 'ubiquity',
-    translation: 'вездесущность',
+    translating: 'вездесущность',
     partOfSpeechCode: 'n',
     skyId: '107435'
   },
   {
     targetWord: 'ubykh',
-    translation: 'убыхском',
+    translating: 'убыхском',
     partOfSpeechCode: 'n',
     skyId: '24391'
   },
   {
     targetWord: 'uca',
-    translation: 'род uca',
+    translating: 'род uca',
     partOfSpeechCode: 'n',
     skyId: '176927'
   },
   {
     targetWord: 'udmurt',
-    translation: 'удмурт',
+    translating: 'удмурт',
     partOfSpeechCode: 'n',
     skyId: '177599'
   },
   {
     targetWord: 'udometer',
-    translation: 'дождемер',
+    translating: 'дождемер',
     partOfSpeechCode: 'n',
     skyId: '120962'
   },
   {
     targetWord: 'ufo',
-    translation: 'неопознанный летающий объект',
+    translating: 'неопознанный летающий объект',
     partOfSpeechCode: 'n',
     skyId: '76202'
   },
   {
     targetWord: 'uganda',
-    translation: 'Уганда',
+    translating: 'Уганда',
     partOfSpeechCode: 'n',
     skyId: '98384'
   },
   {
     targetWord: 'ugandan',
-    translation: 'уганды',
+    translating: 'уганды',
     partOfSpeechCode: 'j',
     skyId: '175501'
   },
   {
     targetWord: 'ugandan',
-    translation: 'угандиец',
+    translating: 'угандиец',
     partOfSpeechCode: 'n',
     skyId: '175500'
   },
   {
     targetWord: 'ugg boots',
-    translation: 'угги',
+    translating: 'угги',
     partOfSpeechCode: 'n',
     skyId: '264893'
   },
   {
     targetWord: 'ugh',
-    translation: 'фу',
+    translating: 'фу',
     partOfSpeechCode: 'exc',
     skyId: '234998'
   },
   {
     targetWord: 'ugli',
-    translation: 'угли',
+    translating: 'угли',
     partOfSpeechCode: 'n',
     skyId: '113821'
   },
   {
     targetWord: 'ugli fruit',
-    translation: 'танжело',
+    translating: 'танжело',
     partOfSpeechCode: 'n',
     skyId: '154196'
   },
   {
     targetWord: 'ugliness',
-    translation: 'уродство',
+    translating: 'уродство',
     partOfSpeechCode: 'n',
     skyId: '117956'
   },
   {
     targetWord: 'ugly',
-    translation: 'грязный',
+    translating: 'грязный',
     partOfSpeechCode: 'j',
     skyId: '15600'
   },
   {
     targetWord: 'ugly',
-    translation: 'скверный',
+    translating: 'скверный',
     partOfSpeechCode: 'j',
     skyId: '15601'
   },
   {
     targetWord: 'ugly',
-    translation: 'уродливый',
+    translating: 'уродливый',
     partOfSpeechCode: 'j',
     skyId: '15598'
   },
   {
     targetWord: 'ugly as a toad',
-    translation: 'уродливый как жаба',
+    translating: 'уродливый как жаба',
     partOfSpeechCode: 'ph',
     skyId: '240946'
   },
   {
     targetWord: 'ugly duckling',
-    translation: 'гадкий утёнок',
+    translating: 'гадкий утёнок',
     partOfSpeechCode: 'ph',
     skyId: '79122'
   },
   {
     targetWord: 'uh',
-    translation: 'ээ',
+    translating: 'ээ',
     partOfSpeechCode: 'exc',
     skyId: '227928'
   },
   {
     targetWord: 'uh-huh',
-    translation: 'да ',
+    translating: 'да ',
     partOfSpeechCode: 'exc',
     skyId: '227931'
   },
   {
     targetWord: 'uh-uh',
-    translation: 'неа',
+    translating: 'неа',
     partOfSpeechCode: 'ph',
     skyId: '261226'
   },
   {
     targetWord: 'uighur',
-    translation: 'уйгурский язык',
+    translating: 'уйгурский язык',
     partOfSpeechCode: 'n',
     skyId: '42488'
   },
   {
     targetWord: 'uigur',
-    translation: 'уйгуры',
+    translating: 'уйгуры',
     partOfSpeechCode: 'n',
     skyId: '224117'
   },
   {
     targetWord: 'ukase',
-    translation: 'указ',
+    translating: 'указ',
     partOfSpeechCode: 'n',
     skyId: '37712'
   },
   {
     targetWord: 'uke',
-    translation: 'укулеле',
+    translating: 'укулеле',
     partOfSpeechCode: 'n',
     skyId: '59476'
   },
   {
     targetWord: 'ukulele',
-    translation: 'укулеле',
+    translating: 'укулеле',
     partOfSpeechCode: 'n',
     skyId: '154287'
   },
   {
     targetWord: 'ulama',
-    translation: 'улем',
+    translating: 'улем',
     partOfSpeechCode: 'n',
     skyId: '44846'
   },
   {
     targetWord: 'ulcer',
-    translation: 'язва',
+    translating: 'язва',
     partOfSpeechCode: 'n',
     skyId: '113948'
   },
   {
     targetWord: 'ulcerate',
-    translation: 'изъязвлять',
+    translating: 'изъязвлять',
     partOfSpeechCode: 'v',
     skyId: '182046'
   },
   {
     targetWord: 'ulcerated',
-    translation: 'изъявленный',
+    translating: 'изъявленный',
     partOfSpeechCode: 'j',
     skyId: '182047'
   },
   {
     targetWord: 'ulceration',
-    translation: 'образование язвы',
+    translating: 'образование язвы',
     partOfSpeechCode: 'n',
     skyId: '165306'
   },
   {
     targetWord: 'ulceration',
-    translation: 'язва',
+    translating: 'язва',
     partOfSpeechCode: 'n',
     skyId: '165305'
   },
   {
     targetWord: 'ulcerative',
-    translation: 'язвенный',
+    translating: 'язвенный',
     partOfSpeechCode: 'j',
     skyId: '225248'
   },
   {
     targetWord: 'ulcerous',
-    translation: 'язвенный',
+    translating: 'язвенный',
     partOfSpeechCode: 'j',
     skyId: '119169'
   },
   {
     targetWord: 'ulema',
-    translation: 'улем',
+    translating: 'улем',
     partOfSpeechCode: 'n',
     skyId: '75001'
   },
   {
     targetWord: 'ulex',
-    translation: 'улекс',
+    translating: 'улекс',
     partOfSpeechCode: 'n',
     skyId: '95866'
   },
   {
     targetWord: 'ulex europaeus',
-    translation: 'дрок',
+    translating: 'дрок',
     partOfSpeechCode: 'n',
     skyId: '41704'
   },
   {
     targetWord: 'ulfila',
-    translation: 'вульфила',
+    translating: 'вульфила',
     partOfSpeechCode: 'n',
     skyId: '114545'
   },
   {
     targetWord: 'ulitis',
-    translation: 'гингивит',
+    translating: 'гингивит',
     partOfSpeechCode: 'n',
     skyId: '103797'
   },
   {
     targetWord: 'ulmaceae',
-    translation: 'вязовые',
+    translating: 'вязовые',
     partOfSpeechCode: 'n',
     skyId: '213406'
   },
   {
     targetWord: 'ulmus campestris sarniensis',
-    translation: 'сатрезыз',
+    translating: 'сатрезыз',
     partOfSpeechCode: 'n',
     skyId: '137133'
   },
   {
     targetWord: 'ulmus campestris wheatleyi',
-    translation: 'сатрезыз',
+    translating: 'сатрезыз',
     partOfSpeechCode: 'n',
     skyId: '75563'
   },
   {
     targetWord: 'ulmus glabra',
-    translation: 'вяз шершавый',
+    translating: 'вяз шершавый',
     partOfSpeechCode: 'n',
     skyId: '118327'
   },
   {
     targetWord: 'ulmus hollandica',
-    translation: 'голландский вяза',
+    translating: 'голландский вяза',
     partOfSpeechCode: 'n',
     skyId: '24717'
   },
   {
     targetWord: 'ulmus laevis',
-    translation: 'вяз гладкий',
+    translating: 'вяз гладкий',
     partOfSpeechCode: 'n',
     skyId: '26441'
   },
   {
     targetWord: 'ulmus parvifolia',
-    translation: 'вяз мелколистный',
+    translating: 'вяз мелколистный',
     partOfSpeechCode: 'n',
     skyId: '55876'
   },
   {
     targetWord: 'ulmus procera',
-    translation: 'английский вяз',
+    translating: 'английский вяз',
     partOfSpeechCode: 'n',
     skyId: '150932'
   },
   {
     targetWord: 'ulmus sarniensis',
-    translation: 'гернси вяза',
+    translating: 'гернси вяза',
     partOfSpeechCode: 'n',
     skyId: '106699'
   },
   {
     targetWord: 'ulmus serotina',
-    translation: 'серотина',
+    translating: 'серотина',
     partOfSpeechCode: 'n',
     skyId: '49046'
   },
   {
     targetWord: 'ulna',
-    translation: 'локтевая кость',
+    translating: 'локтевая кость',
     partOfSpeechCode: 'n',
     skyId: '25221'
   },
   {
     targetWord: 'ulrich zwingli',
-    translation: 'цвингли, ульрих',
+    translating: 'цвингли, ульрих',
     partOfSpeechCode: 'n',
     skyId: '17712'
   },
   {
     targetWord: 'ulster',
-    translation: 'длинное свободное пальто',
+    translating: 'длинное свободное пальто',
     partOfSpeechCode: 'n',
     skyId: '178562'
   },
   {
     targetWord: 'ulster',
-    translation: 'Ольстер',
+    translating: 'Ольстер',
     partOfSpeechCode: 'n',
     skyId: '178561'
   },
   {
     targetWord: 'ult',
-    translation: 'прошлого месяца',
+    translating: 'прошлого месяца',
     partOfSpeechCode: 'j',
     skyId: '100940'
   },
   {
     targetWord: 'ulterior',
-    translation: 'дальнейший',
+    translating: 'дальнейший',
     partOfSpeechCode: 'j',
     skyId: '163487'
   },
   {
     targetWord: 'ulterior',
-    translation: 'скрытый',
+    translating: 'скрытый',
     partOfSpeechCode: 'j',
     skyId: '163486'
   },
   {
     targetWord: 'ulterior motive',
-    translation: 'скрытый мотив',
+    translating: 'скрытый мотив',
     partOfSpeechCode: 'n',
     skyId: '239250'
   },
   {
     targetWord: 'ulteriority',
-    translation: 'невыраженность',
+    translating: 'невыраженность',
     partOfSpeechCode: 'n',
     skyId: '172346'
   },
   {
     targetWord: 'ultimate',
-    translation: 'конечный',
+    translating: 'конечный',
     partOfSpeechCode: 'j',
     skyId: '245039'
   },
   {
     targetWord: 'ultimate',
-    translation: 'самый',
+    translating: 'самый',
     partOfSpeechCode: 'j',
     skyId: '239575'
   },
   {
     targetWord: 'ultimate',
-    translation: 'завершающий',
+    translating: 'завершающий',
     partOfSpeechCode: 'j',
     skyId: '192076'
   },
   {
     targetWord: 'ultimate',
-    translation: 'предельный',
+    translating: 'предельный',
     partOfSpeechCode: 'j',
     skyId: '192075'
   },
   {
     targetWord: 'ultimate',
-    translation: 'лучший',
+    translating: 'лучший',
     partOfSpeechCode: 'n',
     skyId: '192074'
   },
   {
     targetWord: 'ultimate dream',
-    translation: 'заветная мечта',
+    translating: 'заветная мечта',
     partOfSpeechCode: 'n',
     skyId: '254211'
   },
   {
     targetWord: 'ultimate goal',
-    translation: 'конечная цель',
+    translating: 'конечная цель',
     partOfSpeechCode: 'n',
     skyId: '239249'
   },
   {
     targetWord: 'ultimate heat sink',
-    translation: 'конечный поглотитель тепла',
+    translating: 'конечный поглотитель тепла',
     partOfSpeechCode: 'n',
     skyId: '248439'
   },
   {
     targetWord: 'ultimate limit state',
-    translation: 'предельное состояние по несущей способности',
+    translating: 'предельное состояние по несущей способности',
     partOfSpeechCode: 'n',
     skyId: '248064'
   },
   {
     targetWord: 'ultimate sacrifice',
-    translation: 'высшая жертва',
+    translating: 'высшая жертва',
     partOfSpeechCode: 'n',
     skyId: '235405'
   },
   {
     targetWord: 'ultimately',
-    translation: 'в конечном счете',
+    translating: 'в конечном счете',
     partOfSpeechCode: 'r',
     skyId: '242501'
   },
   {
     targetWord: 'ultimately',
-    translation: 'в конечном счёте',
+    translating: 'в конечном счёте',
     partOfSpeechCode: 'r',
     skyId: '52338'
   },
   {
     targetWord: 'ultimatum',
-    translation: 'ультиматум',
+    translating: 'ультиматум',
     partOfSpeechCode: 'n',
     skyId: '232629'
   },
   {
     targetWord: 'ultra',
-    translation: 'ультра',
+    translating: 'ультра',
     partOfSpeechCode: 'j',
     skyId: '176991'
   },
   {
     targetWord: 'ultra filtration',
-    translation: 'ультрафильтрация',
+    translating: 'ультрафильтрация',
     partOfSpeechCode: 'n',
     skyId: '246766'
   },
   {
     targetWord: 'ultracentrifuge',
-    translation: 'ультрацентрифуга',
+    translating: 'ультрацентрифуга',
     partOfSpeechCode: 'n',
     skyId: '190594'
   },
   {
     targetWord: 'ultramarine blue',
-    translation: 'ультрамарин',
+    translating: 'ультрамарин',
     partOfSpeechCode: 'n',
     skyId: '90188'
   },
   {
     targetWord: 'ultramicroscope',
-    translation: 'темнопольная микроскопия',
+    translating: 'темнопольная микроскопия',
     partOfSpeechCode: 'n',
     skyId: '10032'
   },
   {
     targetWord: 'ultramodern',
-    translation: 'суперсовременный',
+    translating: 'суперсовременный',
     partOfSpeechCode: 'j',
     skyId: '62854'
   },
   {
     targetWord: 'ultranationalistic',
-    translation: 'ультранационалистический',
+    translating: 'ультранационалистический',
     partOfSpeechCode: 'j',
     skyId: '166379'
   },
   {
     targetWord: 'ultrasonic',
-    translation: 'ультразвуковой',
+    translating: 'ультразвуковой',
     partOfSpeechCode: 'j',
     skyId: '192864'
   },
   {
     targetWord: 'ultrasonic examination',
-    translation: 'ультразвуковой контроль',
+    translating: 'ультразвуковой контроль',
     partOfSpeechCode: 'n',
     skyId: '246765'
   },
   {
     targetWord: 'ultrasonic test',
-    translation: 'ультразвуковая дефектоскопия',
+    translating: 'ультразвуковая дефектоскопия',
     partOfSpeechCode: 'n',
     skyId: '247143'
   },
   {
     targetWord: 'ultrasonically',
-    translation: 'ультразвука',
+    translating: 'ультразвука',
     partOfSpeechCode: 'r',
     skyId: '13041'
   },
   {
     targetWord: 'ultrasonography',
-    translation: 'ультразвуковое исследование',
+    translating: 'ультразвуковое исследование',
     partOfSpeechCode: 'n',
     skyId: '6663'
   },
   {
     targetWord: 'ultrasound',
-    translation: 'ультразвуковое исследование',
+    translating: 'ультразвуковое исследование',
     partOfSpeechCode: 'n',
     skyId: '127034'
   },
   {
     targetWord: 'ultrasound',
-    translation: 'ультразвук',
+    translating: 'ультразвук',
     partOfSpeechCode: 'n',
     skyId: '127033'
   },
   {
     targetWord: 'ultrasound beam',
-    translation: 'ультразвуковой луч',
+    translating: 'ультразвуковой луч',
     partOfSpeechCode: 'n',
     skyId: '251107'
   },
   {
     targetWord: 'ultraviolet',
-    translation: 'ультрафиолетовый',
+    translating: 'ультрафиолетовый',
     partOfSpeechCode: 'j',
     skyId: '224211'
   },
   {
     targetWord: 'ultraviolet',
-    translation: 'ультрафиолетовое излучение',
+    translating: 'ультрафиолетовое излучение',
     partOfSpeechCode: 'n',
     skyId: '224210'
   },
   {
     targetWord: 'ultraviolet illumination',
-    translation: 'ультрафиолетовое излучение',
+    translating: 'ультрафиолетовое излучение',
     partOfSpeechCode: 'n',
     skyId: '52091'
   },
   {
     targetWord: 'ultraviolet light',
-    translation: 'ультрафиолетовое излучение',
+    translating: 'ультрафиолетовое излучение',
     partOfSpeechCode: 'n',
     skyId: '69039'
   },
   {
     targetWord: 'ultraviolet radiation',
-    translation: 'ультрафиолетовое излучение',
+    translating: 'ультрафиолетовое излучение',
     partOfSpeechCode: 'n',
     skyId: '48964'
   },
   {
     targetWord: 'ululate',
-    translation: 'завывать',
+    translating: 'завывать',
     partOfSpeechCode: 'v',
     skyId: '81507'
   },
   {
     targetWord: 'ululation',
-    translation: 'завывание',
+    translating: 'завывание',
     partOfSpeechCode: 'n',
     skyId: '51408'
   },
   {
     targetWord: 'ulva',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '189510'
   },
   {
     targetWord: 'ulvaceae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '81156'
   },
   {
     targetWord: 'ulvales',
-    translation: 'чтобы',
+    translating: 'чтобы',
     partOfSpeechCode: 'n',
     skyId: '12193'
   },
   {
     targetWord: 'um',
-    translation: 'гм ',
+    translating: 'гм ',
     partOfSpeechCode: 'exc',
     skyId: '227933'
   },
   {
     targetWord: 'uma',
-    translation: 'ума',
+    translating: 'ума',
     partOfSpeechCode: 'n',
     skyId: '143261'
   },
   {
     targetWord: 'uma notata',
-    translation: 'песчаные игуаны',
+    translating: 'песчаные игуаны',
     partOfSpeechCode: 'n',
     skyId: '20323'
   },
   {
     targetWord: 'umayyad',
-    translation: 'омейядский халифат',
+    translating: 'омейядский халифат',
     partOfSpeechCode: 'n',
     skyId: '14303'
   },
   {
     targetWord: 'umbel',
-    translation: 'зонтик',
+    translating: 'зонтик',
     partOfSpeechCode: 'n',
     skyId: '215763'
   },
   {
     targetWord: 'umbellularia',
-    translation: 'умбеллюлярия',
+    translating: 'умбеллюлярия',
     partOfSpeechCode: 'n',
     skyId: '122493'
   },
   {
     targetWord: 'umber',
-    translation: 'умбра',
+    translating: 'умбра',
     partOfSpeechCode: 'n',
     skyId: '87818'
   },
   {
     targetWord: 'umbilical',
-    translation: 'пуповинный',
+    translating: 'пуповинный',
     partOfSpeechCode: 'j',
     skyId: '114012'
   },
   {
     targetWord: 'umbilical',
-    translation: 'пуповина',
+    translating: 'пуповина',
     partOfSpeechCode: 'n',
     skyId: '114011'
   },
   {
     targetWord: 'umbilical cord',
-    translation: 'пуповина',
+    translating: 'пуповина',
     partOfSpeechCode: 'n',
     skyId: '56541'
   },
   {
     targetWord: 'umbilicus',
-    translation: 'пупок',
+    translating: 'пупок',
     partOfSpeechCode: 'n',
     skyId: '165453'
   },
   {
     targetWord: 'umbo',
-    translation: 'макушка',
+    translating: 'макушка',
     partOfSpeechCode: 'n',
     skyId: '111465'
   },
   {
     targetWord: 'umbra',
-    translation: 'тень',
+    translating: 'тень',
     partOfSpeechCode: 'n',
     skyId: '125113'
   },
   {
     targetWord: 'umbrage',
-    translation: 'обида',
+    translating: 'обида',
     partOfSpeechCode: 'n',
     skyId: '58679'
   },
   {
     targetWord: 'umbrageous',
-    translation: 'возмущённый',
+    translating: 'возмущённый',
     partOfSpeechCode: 'j',
     skyId: '114019'
   },
   {
     targetWord: 'umbrageous',
-    translation: 'тенистый',
+    translating: 'тенистый',
     partOfSpeechCode: 'j',
     skyId: '114018'
   },
   {
     targetWord: 'umbrella term',
-    translation: 'общий термин',
+    translating: 'общий термин',
     partOfSpeechCode: 'n',
     skyId: '259980'
   },
   {
     targetWord: 'umbrellawort',
-    translation: 'таушия',
+    translating: 'таушия',
     partOfSpeechCode: 'n',
     skyId: '146694'
   },
   {
     targetWord: 'umbrina',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '105425'
   },
   {
     targetWord: 'umbrina roncador',
-    translation: 'ронкадор',
+    translating: 'ронкадор',
     partOfSpeechCode: 'n',
     skyId: '8617'
   },
   {
     targetWord: 'umbundu',
-    translation: 'южный мбунду',
+    translating: 'южный мбунду',
     partOfSpeechCode: 'n',
     skyId: '210129'
   },
   {
     targetWord: 'umlaut',
-    translation: 'умляут',
+    translating: 'умляут',
     partOfSpeechCode: 'n',
     skyId: '80235'
   },
   {
     targetWord: 'ummah',
-    translation: 'умма',
+    translating: 'умма',
     partOfSpeechCode: 'n',
     skyId: '152002'
   },
   {
     targetWord: 'ump',
-    translation: 'спортивный судья',
+    translating: 'спортивный судья',
     partOfSpeechCode: 'n',
     skyId: '179371'
   },
   {
     targetWord: 'umpire',
-    translation: 'судить',
+    translating: 'судить',
     partOfSpeechCode: 'v',
     skyId: '108829'
   },
   {
     targetWord: 'umpire',
-    translation: 'судья',
+    translating: 'судья',
     partOfSpeechCode: 'n',
     skyId: '232664'
   },
   {
     targetWord: 'umpteen',
-    translation: 'бесчисленный',
+    translating: 'бесчисленный',
     partOfSpeechCode: 'j',
     skyId: '64847'
   },
   {
     targetWord: 'umpteenth',
-    translation: 'энный',
+    translating: 'энный',
     partOfSpeechCode: 'j',
     skyId: '147416'
   },
   {
     targetWord: 'umteenth',
-    translation: 'umteenth',
+    translating: 'umteenth',
     partOfSpeechCode: 'j',
     skyId: '107054'
   },
   {
     targetWord: 'un',
-    translation: 'Организация Объединённых Наций',
+    translating: 'Организация Объединённых Наций',
     partOfSpeechCode: 'n',
     skyId: '62047'
   },
   {
     targetWord: 'un-american',
-    translation: 'антиамериканский',
+    translating: 'антиамериканский',
     partOfSpeechCode: 'j',
     skyId: '54140'
   },
   {
     targetWord: 'unabashed',
-    translation: 'беззастенчивый',
+    translating: 'беззастенчивый',
     partOfSpeechCode: 'j',
     skyId: '131024'
   },
   {
     targetWord: 'unabashedly',
-    translation: 'беззастенчиво',
+    translating: 'беззастенчиво',
     partOfSpeechCode: 'r',
     skyId: '1594'
   },
   {
     targetWord: 'unabated',
-    translation: 'нестихающий',
+    translating: 'нестихающий',
     partOfSpeechCode: 'j',
     skyId: '144442'
   },
   {
     targetWord: 'unable',
-    translation: 'слабый',
+    translating: 'слабый',
     partOfSpeechCode: 'j',
     skyId: '178633'
   },
   {
     targetWord: 'unable',
-    translation: 'не в состоянии',
+    translating: 'не в состоянии',
     partOfSpeechCode: 'j',
     skyId: '178632'
   },
   {
     targetWord: 'unable',
-    translation: 'неспособный',
+    translating: 'неспособный',
     partOfSpeechCode: 'j',
     skyId: '178631'
   },
   {
     targetWord: 'unable to help',
-    translation: 'не в состоянии помочь',
+    translating: 'не в состоянии помочь',
     partOfSpeechCode: 'r',
     skyId: '45962'
   },
   {
     targetWord: 'unabridged',
-    translation: 'полный',
+    translating: 'полный',
     partOfSpeechCode: 'j',
     skyId: '12659'
   },
   {
     targetWord: 'unabridged',
-    translation: 'несокращённый',
+    translating: 'несокращённый',
     partOfSpeechCode: 'n',
     skyId: '12658'
   },
   {
     targetWord: 'unacceptability',
-    translation: 'неприемлемость',
+    translating: 'неприемлемость',
     partOfSpeechCode: 'n',
     skyId: '111806'
   },
   {
     targetWord: 'unacceptable',
-    translation: 'неприемлемый',
+    translating: 'неприемлемый',
     partOfSpeechCode: 'j',
     skyId: '239576'
   },
   {
     targetWord: 'unacceptable risk',
-    translation: 'неприемлемый риск',
+    translating: 'неприемлемый риск',
     partOfSpeechCode: 'n',
     skyId: '262751'
   },
   {
     targetWord: 'unacceptableness',
-    translation: 'неприемлемость',
+    translating: 'неприемлемость',
     partOfSpeechCode: 'n',
     skyId: '121552'
   },
   {
     targetWord: 'unacceptably',
-    translation: 'неприемлемо',
+    translating: 'неприемлемо',
     partOfSpeechCode: 'r',
     skyId: '30741'
   },
   {
     targetWord: 'unaccepted',
-    translation: 'непринятый',
+    translating: 'непринятый',
     partOfSpeechCode: 'j',
     skyId: '173527'
   },
   {
     targetWord: 'unaccessible',
-    translation: 'недоступный',
+    translating: 'недоступный',
     partOfSpeechCode: 'j',
     skyId: '96049'
   },
   {
     targetWord: 'unaccommodating',
-    translation: 'неуступчивый',
+    translating: 'неуступчивый',
     partOfSpeechCode: 'j',
     skyId: '112477'
   },
   {
     targetWord: 'unaccompanied',
-    translation: 'без сопровождения',
+    translating: 'без сопровождения',
     partOfSpeechCode: 'r',
     skyId: '181828'
   },
   {
     targetWord: 'unaccompanied',
-    translation: 'не сопровождаемый',
+    translating: 'не сопровождаемый',
     partOfSpeechCode: 'j',
     skyId: '181827'
   },
   {
     targetWord: 'unaccompanied',
-    translation: 'без сопровождения',
+    translating: 'без сопровождения',
     partOfSpeechCode: 'j',
     skyId: '181828'
   },
   {
     targetWord: 'unaccountable',
-    translation: 'необъяснимый',
+    translating: 'необъяснимый',
     partOfSpeechCode: 'j',
     skyId: '169435'
   },
   {
     targetWord: 'unaccountably',
-    translation: 'необъяснимо',
+    translating: 'необъяснимо',
     partOfSpeechCode: 'r',
     skyId: '169455'
   },
   {
     targetWord: 'unaccustomed',
-    translation: 'непривычный',
+    translating: 'непривычный',
     partOfSpeechCode: 'j',
     skyId: '46336'
   },
   {
     targetWord: 'unaccustomed',
-    translation: 'непривыкший',
+    translating: 'непривыкший',
     partOfSpeechCode: 'j',
     skyId: '46335'
   },
   {
     targetWord: 'unaccustomed to',
-    translation: 'непривычный для',
+    translating: 'непривычный для',
     partOfSpeechCode: 'ph',
     skyId: '240945'
   },
   {
     targetWord: 'unachievable',
-    translation: 'недостижимый',
+    translating: 'недостижимый',
     partOfSpeechCode: 'j',
     skyId: '16786'
   },
   {
     targetWord: 'unacknowledged',
-    translation: 'непризнанный',
+    translating: 'непризнанный',
     partOfSpeechCode: 'j',
     skyId: '160688'
   },
   {
     targetWord: 'unacquainted',
-    translation: 'не знающий',
+    translating: 'не знающий',
     partOfSpeechCode: 'j',
     skyId: '131717'
   },
   {
     targetWord: 'unacquainted',
-    translation: 'незнакомый',
+    translating: 'незнакомый',
     partOfSpeechCode: 'j',
     skyId: '131716'
   },
   {
     targetWord: 'unacquainted with',
-    translation: 'неознакомленный',
+    translating: 'неознакомленный',
     partOfSpeechCode: 'j',
     skyId: '94793'
   },
   {
     targetWord: 'unactable',
-    translation: 'несценичный',
+    translating: 'несценичный',
     partOfSpeechCode: 'j',
     skyId: '87791'
   },
   {
     targetWord: 'unadapted',
-    translation: 'неприспособленный',
+    translating: 'неприспособленный',
     partOfSpeechCode: 'j',
     skyId: '110219'
   },
   {
     targetWord: 'unadapted',
-    translation: 'неприспосабливаемый',
+    translating: 'неприспосабливаемый',
     partOfSpeechCode: 'j',
     skyId: '110218'
   },
   {
     targetWord: 'unaddressed',
-    translation: 'неадресованный',
+    translating: 'неадресованный',
     partOfSpeechCode: 'j',
     skyId: '8031'
   },
   {
     targetWord: 'unadjusted',
-    translation: 'неурегулированный',
+    translating: 'неурегулированный',
     partOfSpeechCode: 'j',
     skyId: '128095'
   },
   {
     targetWord: 'unadjusted',
-    translation: 'неулаженный',
+    translating: 'неулаженный',
     partOfSpeechCode: 'j',
     skyId: '128096'
   },
   {
     targetWord: 'unadorned',
-    translation: 'неукрашенный',
+    translating: 'неукрашенный',
     partOfSpeechCode: 'j',
     skyId: '37792'
   },
   {
     targetWord: 'unadulterated',
-    translation: 'настоящий',
+    translating: 'настоящий',
     partOfSpeechCode: 'j',
     skyId: '155005'
   },
   {
     targetWord: 'unadulterated',
-    translation: 'чистейший',
+    translating: 'чистейший',
     partOfSpeechCode: 'j',
     skyId: '155004'
   },
   {
     targetWord: 'unadvised',
-    translation: 'необдуманный',
+    translating: 'необдуманный',
     partOfSpeechCode: 'j',
     skyId: '177875'
   },
   {
     targetWord: 'unaesthetic',
-    translation: 'неэстетичный',
+    translating: 'неэстетичный',
     partOfSpeechCode: 'j',
     skyId: '120176'
   },
   {
     targetWord: 'unaffected',
-    translation: 'безразличный',
+    translating: 'безразличный',
     partOfSpeechCode: 'j',
     skyId: '106805'
   },
   {
     targetWord: 'unaffected',
-    translation: 'нетронутый',
+    translating: 'нетронутый',
     partOfSpeechCode: 'j',
     skyId: '106806'
   },
   {
     targetWord: 'unaffiliated',
-    translation: 'независимый',
+    translating: 'независимый',
     partOfSpeechCode: 'j',
     skyId: '142048'
   },
   {
     targetWord: 'unaffordable',
-    translation: 'непозволительно дорогой',
+    translating: 'непозволительно дорогой',
     partOfSpeechCode: 'j',
     skyId: '240320'
   },
   {
     targetWord: 'unafraid',
-    translation: 'бесстрашный',
+    translating: 'бесстрашный',
     partOfSpeechCode: 'j',
     skyId: '103294'
   },
   {
     targetWord: 'unaged',
-    translation: 'несостаренный',
+    translating: 'несостаренный',
     partOfSpeechCode: 'j',
     skyId: '59773'
   },
   {
     targetWord: 'unaggressive',
-    translation: 'неагрессивный',
+    translating: 'неагрессивный',
     partOfSpeechCode: 'j',
     skyId: '145600'
   },
   {
     targetWord: 'unaided',
-    translation: 'без посторонней помощи',
+    translating: 'без посторонней помощи',
     partOfSpeechCode: 'j',
     skyId: '153603'
   },
   {
     targetWord: 'unaired',
-    translation: 'спёртый',
+    translating: 'спёртый',
     partOfSpeechCode: 'j',
     skyId: '45026'
   },
   {
     targetWord: 'unalienable',
-    translation: 'неотъемлемый',
+    translating: 'неотъемлемый',
     partOfSpeechCode: 'j',
     skyId: '20619'
   },
   {
     targetWord: 'unalloyed',
-    translation: 'нелегированный',
+    translating: 'нелегированный',
     partOfSpeechCode: 'j',
     skyId: '99612'
   },
   {
     targetWord: 'unalterability',
-    translation: 'неизменность',
+    translating: 'неизменность',
     partOfSpeechCode: 'n',
     skyId: '66977'
   },
   {
     targetWord: 'unalterable',
-    translation: 'необратимый',
+    translating: 'необратимый',
     partOfSpeechCode: 'j',
     skyId: '142809'
   },
   {
     targetWord: 'unalterable',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '142810'
   },
   {
     targetWord: 'unalterably',
-    translation: 'неизменно',
+    translating: 'неизменно',
     partOfSpeechCode: 'r',
     skyId: '142794'
   },
   {
     targetWord: 'unaltered',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '130189'
   },
   {
     targetWord: 'unambiguity',
-    translation: 'однозначность',
+    translating: 'однозначность',
     partOfSpeechCode: 'n',
     skyId: '25445'
   },
   {
     targetWord: 'unambiguous',
-    translation: 'недвусмысленный',
+    translating: 'недвусмысленный',
     partOfSpeechCode: 'j',
     skyId: '143337'
   },
   {
     targetWord: 'unambiguous',
-    translation: 'однозначный',
+    translating: 'однозначный',
     partOfSpeechCode: 'j',
     skyId: '143336'
   },
   {
     targetWord: 'unambiguously',
-    translation: 'однозначно',
+    translating: 'однозначно',
     partOfSpeechCode: 'r',
     skyId: '143473'
   },
   {
     targetWord: 'unambiguously',
-    translation: 'недвусмысленно',
+    translating: 'недвусмысленно',
     partOfSpeechCode: 'r',
     skyId: '143472'
   },
   {
     targetWord: 'unambitious',
-    translation: 'без амбиций',
+    translating: 'без амбиций',
     partOfSpeechCode: 'j',
     skyId: '222130'
   },
   {
     targetWord: 'unambitiously',
-    translation: 'unambitiously',
+    translating: 'unambitiously',
     partOfSpeechCode: 'r',
     skyId: '163753'
   },
   {
     targetWord: 'unanalyzable',
-    translation: 'не поддающейся анализу',
+    translating: 'не поддающейся анализу',
     partOfSpeechCode: 'j',
     skyId: '151291'
   },
   {
     targetWord: 'unanalyzed',
-    translation: 'непроанализированным',
+    translating: 'непроанализированным',
     partOfSpeechCode: 'j',
     skyId: '36248'
   },
   {
     targetWord: 'unanimity',
-    translation: 'единодушие',
+    translating: 'единодушие',
     partOfSpeechCode: 'n',
     skyId: '120261'
   },
   {
     targetWord: 'unanimous',
-    translation: 'единогласный',
+    translating: 'единогласный',
     partOfSpeechCode: 'j',
     skyId: '114663'
   },
   {
     targetWord: 'unanimously',
-    translation: 'единогласно',
+    translating: 'единогласно',
     partOfSpeechCode: 'r',
     skyId: '169583'
   },
   {
     targetWord: 'unannounced',
-    translation: 'необъявленный',
+    translating: 'необъявленный',
     partOfSpeechCode: 'j',
     skyId: '160960'
   },
   {
     targetWord: 'unanswerable',
-    translation: 'неоспоримый',
+    translating: 'неоспоримый',
     partOfSpeechCode: 'j',
     skyId: '81646'
   },
   {
     targetWord: 'unanswered',
-    translation: 'безответный',
+    translating: 'безответный',
     partOfSpeechCode: 'j',
     skyId: '141719'
   },
   {
     targetWord: 'unanticipated',
-    translation: 'непредвиденный',
+    translating: 'непредвиденный',
     partOfSpeechCode: 'j',
     skyId: '125803'
   },
   {
     targetWord: 'unapologetic',
-    translation: 'непримирительный',
+    translating: 'непримирительный',
     partOfSpeechCode: 'j',
     skyId: '175092'
   },
   {
     targetWord: 'unapparent',
-    translation: 'неочевидный',
+    translating: 'неочевидный',
     partOfSpeechCode: 'j',
     skyId: '70701'
   },
   {
     targetWord: 'unappealable',
-    translation: 'обжалованию не подлежит',
+    translating: 'обжалованию не подлежит',
     partOfSpeechCode: 'j',
     skyId: '134823'
   },
   {
     targetWord: 'unappealingly',
-    translation: 'unappealingly',
+    translating: 'unappealingly',
     partOfSpeechCode: 'r',
     skyId: '102036'
   },
   {
     targetWord: 'unappetizing',
-    translation: 'неаппетитный',
+    translating: 'неаппетитный',
     partOfSpeechCode: 'j',
     skyId: '71678'
   },
   {
     targetWord: 'unappreciated',
-    translation: 'недооценённый',
+    translating: 'недооценённый',
     partOfSpeechCode: 'j',
     skyId: '160413'
   },
   {
     targetWord: 'unappreciative',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '135132'
   },
   {
     targetWord: 'unapproachable',
-    translation: 'неприступный',
+    translating: 'неприступный',
     partOfSpeechCode: 'j',
     skyId: '107783'
   },
   {
     targetWord: 'unarguable',
-    translation: 'бесспорный',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyId: '4928'
   },
   {
     targetWord: 'unarguably',
-    translation: 'бесспорно',
+    translating: 'бесспорно',
     partOfSpeechCode: 'r',
     skyId: '4917'
   },
   {
     targetWord: 'unargumentative',
-    translation: 'unargumentative',
+    translating: 'unargumentative',
     partOfSpeechCode: 'j',
     skyId: '65873'
   },
   {
     targetWord: 'unarm',
-    translation: 'обезвреживать',
+    translating: 'обезвреживать',
     partOfSpeechCode: 'v',
     skyId: '193755'
   },
   {
     targetWord: 'unarticulate',
-    translation: 'невнятный',
+    translating: 'невнятный',
     partOfSpeechCode: 'j',
     skyId: '18302'
   },
   {
     targetWord: 'unary',
-    translation: 'одинарный',
+    translating: 'одинарный',
     partOfSpeechCode: 'j',
     skyId: '77771'
   },
   {
     targetWord: 'unashamed',
-    translation: 'бесстыдный',
+    translating: 'бесстыдный',
     partOfSpeechCode: 'j',
     skyId: '39777'
   },
   {
     targetWord: 'unashamedly',
-    translation: 'бесстыдно',
+    translating: 'бесстыдно',
     partOfSpeechCode: 'r',
     skyId: '22237'
   },
   {
     targetWord: 'unasked',
-    translation: 'непрошенный',
+    translating: 'непрошенный',
     partOfSpeechCode: 'j',
     skyId: '10433'
   },
   {
     targetWord: 'unassailable',
-    translation: 'неприступный',
+    translating: 'неприступный',
     partOfSpeechCode: 'j',
     skyId: '144487'
   },
   {
     targetWord: 'unassertive',
-    translation: 'скромный',
+    translating: 'скромный',
     partOfSpeechCode: 'j',
     skyId: '102093'
   },
   {
     targetWord: 'unassertively',
-    translation: 'unassertively',
+    translating: 'unassertively',
     partOfSpeechCode: 'r',
     skyId: '167247'
   },
   {
     targetWord: 'unassigned',
-    translation: 'не назначенный',
+    translating: 'не назначенный',
     partOfSpeechCode: 'j',
     skyId: '36688'
   },
   {
     targetWord: 'unassisted',
-    translation: 'без помощи',
+    translating: 'без помощи',
     partOfSpeechCode: 'j',
     skyId: '164285'
   },
   {
     targetWord: 'unassuming',
-    translation: 'непритязательный',
+    translating: 'непритязательный',
     partOfSpeechCode: 'j',
     skyId: '187422'
   },
   {
     targetWord: 'unassumingly',
-    translation: 'скромно',
+    translating: 'скромно',
     partOfSpeechCode: 'r',
     skyId: '90776'
   },
   {
     targetWord: 'unassumingness',
-    translation: 'скромность',
+    translating: 'скромность',
     partOfSpeechCode: 'n',
     skyId: '16925'
   },
   {
     targetWord: 'unassured',
-    translation: 'неуверенный',
+    translating: 'неуверенный',
     partOfSpeechCode: 'j',
     skyId: '3592'
   },
   {
     targetWord: 'unasterisked',
-    translation: 'не отмеченный звёздочкой',
+    translating: 'не отмеченный звёздочкой',
     partOfSpeechCode: 'j',
     skyId: '169731'
   },
   {
     targetWord: 'unattached',
-    translation: 'не привязанный',
+    translating: 'не привязанный',
     partOfSpeechCode: 'j',
     skyId: '178502'
   },
   {
     targetWord: 'unattached',
-    translation: 'непривязанный ',
+    translating: 'непривязанный ',
     partOfSpeechCode: 'j',
     skyId: '178501'
   },
   {
     targetWord: 'unattached',
-    translation: 'неприкрепленный',
+    translating: 'неприкрепленный',
     partOfSpeechCode: 'j',
     skyId: '178500'
   },
   {
     targetWord: 'unattainable',
-    translation: 'недостижимый',
+    translating: 'недостижимый',
     partOfSpeechCode: 'j',
     skyId: '23796'
   },
   {
     targetWord: 'unattainably',
-    translation: 'недосягаемо',
+    translating: 'недосягаемо',
     partOfSpeechCode: 'r',
     skyId: '23782'
   },
   {
     targetWord: 'unattended',
-    translation: 'оставленный без присмотра',
+    translating: 'оставленный без присмотра',
     partOfSpeechCode: 'j',
     skyId: '145782'
   },
   {
     targetWord: 'unattended',
-    translation: 'без сопровождения',
+    translating: 'без сопровождения',
     partOfSpeechCode: 'j',
     skyId: '145781'
   },
   {
     targetWord: 'unattended',
-    translation: 'автоматический',
+    translating: 'автоматический',
     partOfSpeechCode: 'j',
     skyId: '145780'
   },
   {
     targetWord: 'unattended consequence',
-    translation: 'непреднамеренное последствие',
+    translating: 'непреднамеренное последствие',
     partOfSpeechCode: 'n',
     skyId: '261436'
   },
   {
     targetWord: 'unattended room',
-    translation: 'необслуживаемое помещение',
+    translating: 'необслуживаемое помещение',
     partOfSpeechCode: 'n',
     skyId: '246764'
   },
   {
     targetWord: 'unattractive',
-    translation: 'непривлекательный',
+    translating: 'непривлекательный',
     partOfSpeechCode: 'j',
     skyId: '226062'
   },
   {
     targetWord: 'unattractiveness',
-    translation: 'непривлекательность',
+    translating: 'непривлекательность',
     partOfSpeechCode: 'n',
     skyId: '80579'
   },
   {
     targetWord: 'unauthentic',
-    translation: 'недостоверный',
+    translating: 'недостоверный',
     partOfSpeechCode: 'j',
     skyId: '160181'
   },
   {
     targetWord: 'unauthorised',
-    translation: 'несанкционированный',
+    translating: 'несанкционированный',
     partOfSpeechCode: 'j',
     skyId: '70962'
   },
   {
     targetWord: 'unauthorized',
-    translation: 'несанкционированный',
+    translating: 'несанкционированный',
     partOfSpeechCode: 'j',
     skyId: '105218'
   },
   {
     targetWord: 'unauthorized',
-    translation: 'неуполномоченный',
+    translating: 'неуполномоченный',
     partOfSpeechCode: 'j',
     skyId: '105217'
   },
   {
     targetWord: 'unauthorized access was gained to',
-    translation: 'несанкционированный доступ был дан',
+    translating: 'несанкционированный доступ был дан',
     partOfSpeechCode: 'ph',
     skyId: '251461'
   },
   {
     targetWord: 'unavailability',
-    translation: 'недоступность',
+    translating: 'недоступность',
     partOfSpeechCode: 'n',
     skyId: '219465'
   },
   {
     targetWord: 'unavailability due to repair outage',
-    translation: 'неготовность из-за вывода в ремонт',
+    translating: 'неготовность из-за вывода в ремонт',
     partOfSpeechCode: 'n',
     skyId: '247063'
   },
   {
     targetWord: 'unavailability due to tests',
-    translation: 'неготовность из-за проверок ',
+    translating: 'неготовность из-за проверок ',
     partOfSpeechCode: 'n',
     skyId: '247064'
   },
   {
     targetWord: 'unavailable',
-    translation: 'занятой',
+    translating: 'занятой',
     partOfSpeechCode: 'j',
     skyId: '240321'
   },
   {
     targetWord: 'unavailable',
-    translation: 'не имеющийся ',
+    translating: 'не имеющийся ',
     partOfSpeechCode: 'j',
     skyId: '239577'
   },
   {
     targetWord: 'unavailable',
-    translation: 'недоступный',
+    translating: 'недоступный',
     partOfSpeechCode: 'j',
     skyId: '140021'
   },
   {
     targetWord: 'unavoidability',
-    translation: 'неизбежность',
+    translating: 'неизбежность',
     partOfSpeechCode: 'n',
     skyId: '88853'
   },
   {
     targetWord: 'unavoidable casualty',
-    translation: 'непреодолимая сила',
+    translating: 'непреодолимая сила',
     partOfSpeechCode: 'n',
     skyId: '225697'
   },
   {
     targetWord: 'unavoidably',
-    translation: 'неизбежно',
+    translating: 'неизбежно',
     partOfSpeechCode: 'r',
     skyId: '248262'
   },
   {
     targetWord: 'unawakened',
-    translation: 'непробуждённом',
+    translating: 'непробуждённом',
     partOfSpeechCode: 'j',
     skyId: '80211'
   },
   {
     targetWord: 'unawares',
-    translation: 'неумышленно',
+    translating: 'неумышленно',
     partOfSpeechCode: 'r',
     skyId: '165505'
   },
   {
     targetWord: 'unawares',
-    translation: 'врасплох',
+    translating: 'врасплох',
     partOfSpeechCode: 'r',
     skyId: '165504'
   },
   {
     targetWord: 'unawares',
-    translation: 'непреднамеренно',
+    translating: 'непреднамеренно',
     partOfSpeechCode: 'r',
     skyId: '165503'
   },
   {
     targetWord: 'unbalance',
-    translation: 'разбалансировка',
+    translating: 'разбалансировка',
     partOfSpeechCode: 'n',
     skyId: '250783'
   },
   {
     targetWord: 'unbalance',
-    translation: 'дисбаланс',
+    translating: 'дисбаланс',
     partOfSpeechCode: 'n',
     skyId: '177245'
   },
   {
     targetWord: 'unbalance',
-    translation: 'расстраивать',
+    translating: 'расстраивать',
     partOfSpeechCode: 'v',
     skyId: '177248'
   },
   {
     targetWord: 'unbalance',
-    translation: 'нарушать равновесие',
+    translating: 'нарушать равновесие',
     partOfSpeechCode: 'v',
     skyId: '177247'
   },
   {
     targetWord: 'unbalance protection',
-    translation: 'защита от несимметрии',
+    translating: 'защита от несимметрии',
     partOfSpeechCode: 'n',
     skyId: '247863'
   },
@@ -2857,2971 +2857,2971 @@ export const uArr = [
   },
   {
     targetWord: 'unbalanced',
-    translation: 'неадекватный ',
+    translating: 'неадекватный ',
     partOfSpeechCode: 'j',
     skyId: '242489'
   },
   {
     targetWord: 'unbalanced',
-    translation: 'несбалансированный',
+    translating: 'несбалансированный',
     partOfSpeechCode: 'j',
     skyId: '253201'
   },
   {
     targetWord: 'unbalanced',
-    translation: 'сумасшедший',
+    translating: 'сумасшедший',
     partOfSpeechCode: 'j',
     skyId: '79805'
   },
   {
     targetWord: 'unbalanced',
-    translation: 'неуравновешенный',
+    translating: 'неуравновешенный',
     partOfSpeechCode: 'j',
     skyId: '242488'
   },
   {
     targetWord: 'unbanded',
-    translation: 'unbanded',
+    translating: 'unbanded',
     partOfSpeechCode: 'j',
     skyId: '77481'
   },
   {
     targetWord: 'unbaptized',
-    translation: 'некрещённый',
+    translating: 'некрещённый',
     partOfSpeechCode: 'j',
     skyId: '72554'
   },
   {
     targetWord: 'unbar',
-    translation: 'чтобы отодвинуть засов',
+    translating: 'чтобы отодвинуть засов',
     partOfSpeechCode: 'v',
     skyId: '161225'
   },
   {
     targetWord: 'unbarred',
-    translation: 'не закрытый на засов',
+    translating: 'не закрытый на засов',
     partOfSpeechCode: 'j',
     skyId: '161226'
   },
   {
     targetWord: 'unbearable',
-    translation: 'невыносимый',
+    translating: 'невыносимый',
     partOfSpeechCode: 'j',
     skyId: '239579'
   },
   {
     targetWord: 'unbearably',
-    translation: 'невыносимо',
+    translating: 'невыносимо',
     partOfSpeechCode: 'r',
     skyId: '140754'
   },
   {
     targetWord: 'unbeatable',
-    translation: 'непревзойденный',
+    translating: 'непревзойденный',
     partOfSpeechCode: 'j',
     skyId: '77395'
   },
   {
     targetWord: 'unbeatable',
-    translation: 'непобедимый',
+    translating: 'непобедимый',
     partOfSpeechCode: 'j',
     skyId: '77394'
   },
   {
     targetWord: 'unbeaten',
-    translation: 'непобедимый',
+    translating: 'непобедимый',
     partOfSpeechCode: 'j',
     skyId: '104236'
   },
   {
     targetWord: 'unbecoming',
-    translation: 'неприличный',
+    translating: 'неприличный',
     partOfSpeechCode: 'j',
     skyId: '68004'
   },
   {
     targetWord: 'unbefitting',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '161408'
   },
   {
     targetWord: 'unbeknown',
-    translation: 'без ведома',
+    translating: 'без ведома',
     partOfSpeechCode: 'r',
     skyId: '222209'
   },
   {
     targetWord: 'unbeknown',
-    translation: 'без ведома',
+    translating: 'без ведома',
     partOfSpeechCode: 'j',
     skyId: '222209'
   },
   {
     targetWord: 'unbeknownst',
-    translation: 'без ведома',
+    translating: 'без ведома',
     partOfSpeechCode: 'r',
     skyId: '124578'
   },
   {
     targetWord: 'unbeknownst',
-    translation: 'без ведома',
+    translating: 'без ведома',
     partOfSpeechCode: 'j',
     skyId: '124578'
   },
   {
     targetWord: 'unbelief',
-    translation: 'неверие',
+    translating: 'неверие',
     partOfSpeechCode: 'n',
     skyId: '81366'
   },
   {
     targetWord: 'unbelievable',
-    translation: 'неубедительный',
+    translating: 'неубедительный',
     partOfSpeechCode: 'j',
     skyId: '165494'
   },
   {
     targetWord: 'unbelievable',
-    translation: 'неправдоподобный',
+    translating: 'неправдоподобный',
     partOfSpeechCode: 'j',
     skyId: '165493'
   },
   {
     targetWord: 'unbelievably',
-    translation: 'необыкновенно',
+    translating: 'необыкновенно',
     partOfSpeechCode: 'r',
     skyId: '165515'
   },
   {
     targetWord: 'unbelieving',
-    translation: 'неверующий',
+    translating: 'неверующий',
     partOfSpeechCode: 'j',
     skyId: '76715'
   },
   {
     targetWord: 'unbelievingly',
-    translation: 'недоверчиво',
+    translating: 'недоверчиво',
     partOfSpeechCode: 'r',
     skyId: '186577'
   },
   {
     targetWord: 'unbelt',
-    translation: 'чтобы расстегивать пояс',
+    translating: 'чтобы расстегивать пояс',
     partOfSpeechCode: 'v',
     skyId: '225118'
   },
   {
     targetWord: 'unbend',
-    translation: 'расслаблять',
+    translating: 'расслаблять',
     partOfSpeechCode: 'v',
     skyId: '123103'
   },
   {
     targetWord: 'unbend',
-    translation: 'расслабляться',
+    translating: 'расслабляться',
     partOfSpeechCode: 'v',
     skyId: '123102'
   },
   {
     targetWord: 'unbend',
-    translation: 'ослаблять напряжение',
+    translating: 'ослаблять напряжение',
     partOfSpeechCode: 'v',
     skyId: '123101'
   },
   {
     targetWord: 'unbend',
-    translation: 'разгибать',
+    translating: 'разгибать',
     partOfSpeechCode: 'v',
     skyId: '123100'
   },
   {
     targetWord: 'unbendable',
-    translation: 'непреклонный',
+    translating: 'непреклонный',
     partOfSpeechCode: 'j',
     skyId: '111304'
   },
   {
     targetWord: 'unbending',
-    translation: 'разгибание',
+    translating: 'разгибание',
     partOfSpeechCode: 'j',
     skyId: '123104'
   },
   {
     targetWord: 'unbent',
-    translation: 'разогнутый',
+    translating: 'разогнутый',
     partOfSpeechCode: 'j',
     skyId: '35516'
   },
   {
     targetWord: 'unbiased',
-    translation: 'непредвзятый',
+    translating: 'непредвзятый',
     partOfSpeechCode: 'j',
     skyId: '136533'
   },
   {
     targetWord: 'unbiased',
-    translation: 'беспристрастный',
+    translating: 'беспристрастный',
     partOfSpeechCode: 'j',
     skyId: '136532'
   },
   {
     targetWord: 'unbiassed',
-    translation: 'непредвзятый',
+    translating: 'непредвзятый',
     partOfSpeechCode: 'j',
     skyId: '25992'
   },
   {
     targetWord: 'unbiassed',
-    translation: 'полноценный',
+    translating: 'полноценный',
     partOfSpeechCode: 'j',
     skyId: '25991'
   },
   {
     targetWord: 'unbind',
-    translation: 'развязывать',
+    translating: 'развязывать',
     partOfSpeechCode: 'v',
     skyId: '120082'
   },
   {
     targetWord: 'unbitter',
-    translation: 'unbitter',
+    translating: 'unbitter',
     partOfSpeechCode: 'j',
     skyId: '166221'
   },
   {
     targetWord: 'unbleached',
-    translation: 'неотбелённый',
+    translating: 'неотбелённый',
     partOfSpeechCode: 'j',
     skyId: '32416'
   },
   {
     targetWord: 'unblemished',
-    translation: 'безупречный',
+    translating: 'безупречный',
     partOfSpeechCode: 'j',
     skyId: '109855'
   },
   {
     targetWord: 'unblessed',
-    translation: 'неблагословлённый',
+    translating: 'неблагословлённый',
     partOfSpeechCode: 'j',
     skyId: '48091'
   },
   {
     targetWord: 'unblinking',
-    translation: 'недрогнувший',
+    translating: 'недрогнувший',
     partOfSpeechCode: 'j',
     skyId: '67424'
   },
   {
     targetWord: 'unblinking',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '67423'
   },
   {
     targetWord: 'unblinkingly',
-    translation: 'невозмутимо',
+    translating: 'невозмутимо',
     partOfSpeechCode: 'r',
     skyId: '114425'
   },
   {
     targetWord: 'unblock',
-    translation: 'разблокировать',
+    translating: 'разблокировать',
     partOfSpeechCode: 'v',
     skyId: '10926'
   },
   {
     targetWord: 'unbloody',
-    translation: 'бескровный',
+    translating: 'бескровный',
     partOfSpeechCode: 'j',
     skyId: '157735'
   },
   {
     targetWord: 'unblushing',
-    translation: 'бесстыдный',
+    translating: 'бесстыдный',
     partOfSpeechCode: 'j',
     skyId: '147599'
   },
   {
     targetWord: 'unblushingly',
-    translation: 'беззастенчиво',
+    translating: 'беззастенчиво',
     partOfSpeechCode: 'r',
     skyId: '64337'
   },
   {
     targetWord: 'unbolt',
-    translation: 'отпирать',
+    translating: 'отпирать',
     partOfSpeechCode: 'v',
     skyId: '118637'
   },
   {
     targetWord: 'unbolted',
-    translation: 'развинченный',
+    translating: 'развинченный',
     partOfSpeechCode: 'j',
     skyId: '118638'
   },
   {
     targetWord: 'unborn',
-    translation: 'не рождённый',
+    translating: 'не рождённый',
     partOfSpeechCode: 'j',
     skyId: '85473'
   },
   {
     targetWord: 'unbound',
-    translation: 'несвязанный',
+    translating: 'несвязанный',
     partOfSpeechCode: 'j',
     skyId: '15083'
   },
   {
     targetWord: 'unboundedness',
-    translation: 'бесконечность',
+    translating: 'бесконечность',
     partOfSpeechCode: 'n',
     skyId: '135051'
   },
   {
     targetWord: 'unbowed',
-    translation: 'непокорённый',
+    translating: 'непокорённый',
     partOfSpeechCode: 'j',
     skyId: '152120'
   },
   {
     targetWord: 'unbowed',
-    translation: 'несогнутый',
+    translating: 'несогнутый',
     partOfSpeechCode: 'j',
     skyId: '152119'
   },
   {
     targetWord: 'unbox',
-    translation: 'распаковывать',
+    translating: 'распаковывать',
     partOfSpeechCode: 'v',
     skyId: '105759'
   },
   {
     targetWord: 'unbraced',
-    translation: 'нескованный',
+    translating: 'нескованный',
     partOfSpeechCode: 'j',
     skyId: '43156'
   },
   {
     targetWord: 'unbraid',
-    translation: 'расплетать',
+    translating: 'расплетать',
     partOfSpeechCode: 'v',
     skyId: '190533'
   },
   {
     targetWord: 'unbraided',
-    translation: 'расплетенный',
+    translating: 'расплетенный',
     partOfSpeechCode: 'j',
     skyId: '243822'
   },
   {
     targetWord: 'unbrainwashed',
-    translation: 'unbrainwashed',
+    translating: 'unbrainwashed',
     partOfSpeechCode: 'j',
     skyId: '192951'
   },
   {
     targetWord: 'unbranched',
-    translation: 'неразветвленные',
+    translating: 'неразветвленные',
     partOfSpeechCode: 'j',
     skyId: '128479'
   },
   {
     targetWord: 'unbranded',
-    translation: 'немарочный',
+    translating: 'немарочный',
     partOfSpeechCode: 'j',
     skyId: '107151'
   },
   {
     targetWord: 'unbreakable',
-    translation: 'небьющийся',
+    translating: 'небьющийся',
     partOfSpeechCode: 'j',
     skyId: '41525'
   },
   {
     targetWord: 'unbridgeable',
-    translation: 'непроходимый',
+    translating: 'непроходимый',
     partOfSpeechCode: 'j',
     skyId: '187903'
   },
   {
     targetWord: 'unbridled',
-    translation: 'необузданный',
+    translating: 'необузданный',
     partOfSpeechCode: 'j',
     skyId: '169991'
   },
   {
     targetWord: 'unbroken',
-    translation: 'целый',
+    translating: 'целый',
     partOfSpeechCode: 'j',
     skyId: '78823'
   },
   {
     targetWord: 'unbroken',
-    translation: 'ненарушенный',
+    translating: 'ненарушенный',
     partOfSpeechCode: 'j',
     skyId: '78822'
   },
   {
     targetWord: 'unbroken',
-    translation: 'невспаханный',
+    translating: 'невспаханный',
     partOfSpeechCode: 'j',
     skyId: '78821'
   },
   {
     targetWord: 'unbroken',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '78820'
   },
   {
     targetWord: 'unbroken',
-    translation: 'неразрушимый',
+    translating: 'неразрушимый',
     partOfSpeechCode: 'j',
     skyId: '78819'
   },
   {
     targetWord: 'unbuckle',
-    translation: 'расстёгивать',
+    translating: 'расстёгивать',
     partOfSpeechCode: 'v',
     skyId: '174549'
   },
   {
     targetWord: 'unburden',
-    translation: 'разгрузиться',
+    translating: 'разгрузиться',
     partOfSpeechCode: 'v',
     skyId: '129148'
   },
   {
     targetWord: 'unburden',
-    translation: 'изливать душу',
+    translating: 'изливать душу',
     partOfSpeechCode: 'v',
     skyId: '129147'
   },
   {
     targetWord: 'unburdened',
-    translation: 'не обременённый',
+    translating: 'не обременённый',
     partOfSpeechCode: 'j',
     skyId: '32580'
   },
   {
     targetWord: 'unburdened',
-    translation: 'необременённый',
+    translating: 'необременённый',
     partOfSpeechCode: 'j',
     skyId: '32579'
   },
   {
     targetWord: 'unburied',
-    translation: 'непогребённый',
+    translating: 'непогребённый',
     partOfSpeechCode: 'j',
     skyId: '115659'
   },
   {
     targetWord: 'unbutton',
-    translation: 'расстегивать',
+    translating: 'расстегивать',
     partOfSpeechCode: 'v',
     skyId: '190980'
   },
   {
     targetWord: 'uncalled-for',
-    translation: 'неуместный',
+    translating: 'неуместный',
     partOfSpeechCode: 'j',
     skyId: '153600'
   },
   {
     targetWord: 'uncalled-for',
-    translation: 'невостребованный',
+    translating: 'невостребованный',
     partOfSpeechCode: 'j',
     skyId: '153599'
   },
   {
     targetWord: 'uncannily',
-    translation: 'жутко',
+    translating: 'жутко',
     partOfSpeechCode: 'r',
     skyId: '136846'
   },
   {
     targetWord: 'uncanny',
-    translation: 'сверхъестественный',
+    translating: 'сверхъестественный',
     partOfSpeechCode: 'j',
     skyId: '11941'
   },
   {
     targetWord: 'uncanny resemblance',
-    translation: 'поразительное сходство',
+    translating: 'поразительное сходство',
     partOfSpeechCode: 'ph',
     skyId: '263700'
   },
   {
     targetWord: 'uncapped',
-    translation: 'неограниченный',
+    translating: 'неограниченный',
     partOfSpeechCode: 'j',
     skyId: '185665'
   },
   {
     targetWord: 'uncared-for',
-    translation: 'безнадзорный',
+    translating: 'безнадзорный',
     partOfSpeechCode: 'j',
     skyId: '16319'
   },
   {
     targetWord: 'uncaring',
-    translation: 'безразличный',
+    translating: 'безразличный',
     partOfSpeechCode: 'j',
     skyId: '183393'
   },
   {
     targetWord: 'uncarpeted',
-    translation: 'непокрытый ковром',
+    translating: 'непокрытый ковром',
     partOfSpeechCode: 'j',
     skyId: '154680'
   },
   {
     targetWord: 'uncaused',
-    translation: 'беспричинный',
+    translating: 'беспричинный',
     partOfSpeechCode: 'j',
     skyId: '59315'
   },
   {
     targetWord: 'unceasing',
-    translation: 'непрерывный',
+    translating: 'непрерывный',
     partOfSpeechCode: 'j',
     skyId: '27340'
   },
   {
     targetWord: 'unceasing',
-    translation: 'непрекращающийся',
+    translating: 'непрекращающийся',
     partOfSpeechCode: 'j',
     skyId: '27339'
   },
   {
     targetWord: 'unceasingly',
-    translation: 'беспрерывно',
+    translating: 'беспрерывно',
     partOfSpeechCode: 'r',
     skyId: '148613'
   },
   {
     targetWord: 'uncensored',
-    translation: 'не подлежащий цензуре',
+    translating: 'не подлежащий цензуре',
     partOfSpeechCode: 'j',
     skyId: '39817'
   },
   {
     targetWord: 'unceremonious',
-    translation: 'грубый',
+    translating: 'грубый',
     partOfSpeechCode: 'j',
     skyId: '53066'
   },
   {
     targetWord: 'unceremonious',
-    translation: 'бесцеремонный',
+    translating: 'бесцеремонный',
     partOfSpeechCode: 'j',
     skyId: '53065'
   },
   {
     targetWord: 'unceremoniously',
-    translation: 'бесцеремонно',
+    translating: 'бесцеремонно',
     partOfSpeechCode: 'r',
     skyId: '111105'
   },
   {
     targetWord: 'unceremoniousness',
-    translation: 'бесцеремонность',
+    translating: 'бесцеремонность',
     partOfSpeechCode: 'n',
     skyId: '137367'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неуверенный ',
+    translating: 'неуверенный ',
     partOfSpeechCode: 'j',
     skyId: '239582'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неоднозначный',
+    translating: 'неоднозначный',
     partOfSpeechCode: 'j',
     skyId: '141758'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неустойчивый',
+    translating: 'неустойчивый',
     partOfSpeechCode: 'j',
     skyId: '141757'
   },
   {
     targetWord: 'uncertain',
-    translation: 'изменчивый',
+    translating: 'изменчивый',
     partOfSpeechCode: 'j',
     skyId: '141756'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неясный',
+    translating: 'неясный',
     partOfSpeechCode: 'j',
     skyId: '141755'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неопределенный',
+    translating: 'неопределенный',
     partOfSpeechCode: 'j',
     skyId: '141754'
   },
   {
     targetWord: 'uncertain',
-    translation: 'неточный',
+    translating: 'неточный',
     partOfSpeechCode: 'j',
     skyId: '141752'
   },
   {
     targetWord: 'uncertain future',
-    translation: 'неопределенное будущее',
+    translating: 'неопределенное будущее',
     partOfSpeechCode: 'n',
     skyId: '239160'
   },
   {
     targetWord: 'uncertainly',
-    translation: 'неопределённо',
+    translating: 'неопределённо',
     partOfSpeechCode: 'r',
     skyId: '124372'
   },
   {
     targetWord: 'uncertainly',
-    translation: 'неуверенно',
+    translating: 'неуверенно',
     partOfSpeechCode: 'r',
     skyId: '124371'
   },
   {
     targetWord: 'uncertainness',
-    translation: 'неопределённость',
+    translating: 'неопределённость',
     partOfSpeechCode: 'n',
     skyId: '120367'
   },
   {
     targetWord: 'uncertainty',
-    translation: 'неуверенность',
+    translating: 'неуверенность',
     partOfSpeechCode: 'n',
     skyId: '15496'
   },
   {
     targetWord: 'uncertainty',
-    translation: 'неопределённость',
+    translating: 'неопределённость',
     partOfSpeechCode: 'n',
     skyId: '15495'
   },
   {
     targetWord: 'uncertified',
-    translation: 'незаверенный',
+    translating: 'незаверенный',
     partOfSpeechCode: 'j',
     skyId: '183963'
   },
   {
     targetWord: 'unchain',
-    translation: 'расковывать',
+    translating: 'расковывать',
     partOfSpeechCode: 'v',
     skyId: '85147'
   },
   {
     targetWord: 'unchain',
-    translation: 'освобождать',
+    translating: 'освобождать',
     partOfSpeechCode: 'v',
     skyId: '85148'
   },
   {
     targetWord: 'unchained',
-    translation: 'освобожденный',
+    translating: 'освобожденный',
     partOfSpeechCode: 'j',
     skyId: '85149'
   },
   {
     targetWord: 'unchallenged',
-    translation: 'не вызывающий возражений',
+    translating: 'не вызывающий возражений',
     partOfSpeechCode: 'j',
     skyId: '23148'
   },
   {
     targetWord: 'unchangeable',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '125728'
   },
   {
     targetWord: 'unchangeably',
-    translation: 'неизменно',
+    translating: 'неизменно',
     partOfSpeechCode: 'r',
     skyId: '134212'
   },
   {
     targetWord: 'unchanged',
-    translation: 'неизменившийся',
+    translating: 'неизменившийся',
     partOfSpeechCode: 'j',
     skyId: '239553'
   },
   {
     targetWord: 'unchanged',
-    translation: 'оставшийся прежним',
+    translating: 'оставшийся прежним',
     partOfSpeechCode: 'j',
     skyId: '154967'
   },
   {
     targetWord: 'unchanged',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '154966'
   },
   {
     targetWord: 'unchanging',
-    translation: 'неменяющийся',
+    translating: 'неменяющийся',
     partOfSpeechCode: 'j',
     skyId: '150560'
   },
   {
     targetWord: 'unchanging',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '150559'
   },
   {
     targetWord: 'uncharacteristic',
-    translation: 'нехарактерный',
+    translating: 'нехарактерный',
     partOfSpeechCode: 'j',
     skyId: '63635'
   },
   {
     targetWord: 'uncharacteristically',
-    translation: 'нетипично',
+    translating: 'нетипично',
     partOfSpeechCode: 'r',
     skyId: '3054'
   },
   {
     targetWord: 'uncharged',
-    translation: 'незаряженный',
+    translating: 'незаряженный',
     partOfSpeechCode: 'j',
     skyId: '79344'
   },
   {
     targetWord: 'uncharted',
-    translation: 'неизведанный',
+    translating: 'неизведанный',
     partOfSpeechCode: 'j',
     skyId: '131228'
   },
   {
     targetWord: 'unchartered',
-    translation: 'незафрахтованный',
+    translating: 'незафрахтованный',
     partOfSpeechCode: 'j',
     skyId: '188259'
   },
   {
     targetWord: 'unchaste',
-    translation: 'нецеломудренный',
+    translating: 'нецеломудренный',
     partOfSpeechCode: 'j',
     skyId: '103587'
   },
   {
     targetWord: 'unchecked',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '27114'
   },
   {
     targetWord: 'uncheerful',
-    translation: 'безрадостный',
+    translating: 'безрадостный',
     partOfSpeechCode: 'j',
     skyId: '139980'
   },
   {
     targetWord: 'unchivalrous',
-    translation: 'неблагородный',
+    translating: 'неблагородный',
     partOfSpeechCode: 'j',
     skyId: '128021'
   },
   {
     targetWord: 'unchivalrously',
-    translation: 'unchivalrously',
+    translating: 'unchivalrously',
     partOfSpeechCode: 'r',
     skyId: '51820'
   },
   {
     targetWord: 'unchristian',
-    translation: 'нехристианский',
+    translating: 'нехристианский',
     partOfSpeechCode: 'j',
     skyId: '164575'
   },
   {
     targetWord: 'unchristianly',
-    translation: 'unchristianly',
+    translating: 'unchristianly',
     partOfSpeechCode: 'j',
     skyId: '183144'
   },
   {
     targetWord: 'unchurch',
-    translation: 'отлучать от церкви',
+    translating: 'отлучать от церкви',
     partOfSpeechCode: 'v',
     skyId: '166058'
   },
   {
     targetWord: 'uncial',
-    translation: 'унциальный',
+    translating: 'унциальный',
     partOfSpeechCode: 'j',
     skyId: '111388'
   },
   {
     targetWord: 'uncial',
-    translation: 'унциал',
+    translating: 'унциал',
     partOfSpeechCode: 'n',
     skyId: '111387'
   },
   {
     targetWord: 'unciform bone',
-    translation: 'крючковидная кость',
+    translating: 'крючковидная кость',
     partOfSpeechCode: 'n',
     skyId: '143920'
   },
   {
     targetWord: 'uncivil',
-    translation: 'грубый',
+    translating: 'грубый',
     partOfSpeechCode: 'j',
     skyId: '149271'
   },
   {
     targetWord: 'uncivilised',
-    translation: 'нецивилизованный',
+    translating: 'нецивилизованный',
     partOfSpeechCode: 'j',
     skyId: '15544'
   },
   {
     targetWord: 'uncivilized',
-    translation: 'нецивилизованный',
+    translating: 'нецивилизованный',
     partOfSpeechCode: 'j',
     skyId: '152195'
   },
   {
     targetWord: 'uncivilly',
-    translation: 'невежливо',
+    translating: 'невежливо',
     partOfSpeechCode: 'r',
     skyId: '220484'
   },
   {
     targetWord: 'unclasp',
-    translation: 'разжимать',
+    translating: 'разжимать',
     partOfSpeechCode: 'v',
     skyId: '129748'
   },
   {
     targetWord: 'uncle tom',
-    translation: 'дядя том',
+    translating: 'дядя том',
     partOfSpeechCode: 'n',
     skyId: '113777'
   },
   {
     targetWord: 'unclean',
-    translation: 'нечистый',
+    translating: 'нечистый',
     partOfSpeechCode: 'j',
     skyId: '141076'
   },
   {
     targetWord: 'unclean',
-    translation: 'грязный',
+    translating: 'грязный',
     partOfSpeechCode: 'j',
     skyId: '141075'
   },
   {
     targetWord: 'uncleanliness',
-    translation: 'нечистоплотность',
+    translating: 'нечистоплотность',
     partOfSpeechCode: 'n',
     skyId: '1063'
   },
   {
     targetWord: 'uncleanly',
-    translation: 'нечистоплотный',
+    translating: 'нечистоплотный',
     partOfSpeechCode: 'j',
     skyId: '189918'
   },
   {
     targetWord: 'uncleanness',
-    translation: 'загрязнённость',
+    translating: 'загрязнённость',
     partOfSpeechCode: 'n',
     skyId: '222216'
   },
   {
     targetWord: 'unclear',
-    translation: 'непонятный',
+    translating: 'непонятный',
     partOfSpeechCode: 'j',
     skyId: '166491'
   },
   {
     targetWord: 'unclear',
-    translation: 'неясный',
+    translating: 'неясный',
     partOfSpeechCode: 'j',
     skyId: '166490'
   },
   {
     targetWord: 'unclearly',
-    translation: 'неясно',
+    translating: 'неясно',
     partOfSpeechCode: 'r',
     skyId: '118727'
   },
   {
     targetWord: 'unclearness',
-    translation: 'неясность',
+    translating: 'неясность',
     partOfSpeechCode: 'n',
     skyId: '71680'
   },
   {
     targetWord: 'unclench',
-    translation: 'разжимать',
+    translating: 'разжимать',
     partOfSpeechCode: 'v',
     skyId: '264656'
   },
   {
     targetWord: 'unclip',
-    translation: 'отсоединять',
+    translating: 'отсоединять',
     partOfSpeechCode: 'v',
     skyId: '30100'
   },
   {
     targetWord: 'unclipped',
-    translation: 'необрезаемый',
+    translating: 'необрезаемый',
     partOfSpeechCode: 'j',
     skyId: '132964'
   },
   {
     targetWord: 'unclog',
-    translation: 'прочищать',
+    translating: 'прочищать',
     partOfSpeechCode: 'v',
     skyId: '113632'
   },
   {
     targetWord: 'unclothe',
-    translation: 'раздевать',
+    translating: 'раздевать',
     partOfSpeechCode: 'v',
     skyId: '160053'
   },
   {
     targetWord: 'unclothed',
-    translation: 'раздетый',
+    translating: 'раздетый',
     partOfSpeechCode: 'j',
     skyId: '160054'
   },
   {
     targetWord: 'unclouded',
-    translation: 'прозрачный',
+    translating: 'прозрачный',
     partOfSpeechCode: 'j',
     skyId: '87944'
   },
   {
     targetWord: 'unclouded',
-    translation: 'безоблачный',
+    translating: 'безоблачный',
     partOfSpeechCode: 'j',
     skyId: '87943'
   },
   {
     targetWord: 'unclouded',
-    translation: 'чистый',
+    translating: 'чистый',
     partOfSpeechCode: 'j',
     skyId: '87941'
   },
   {
     targetWord: 'unclutter',
-    translation: 'расчищать',
+    translating: 'расчищать',
     partOfSpeechCode: 'v',
     skyId: '180882'
   },
   {
     targetWord: 'uncluttered',
-    translation: 'лаконичный',
+    translating: 'лаконичный',
     partOfSpeechCode: 'j',
     skyId: '180883'
   },
   {
     targetWord: 'unco',
-    translation: 'удивительно',
+    translating: 'удивительно',
     partOfSpeechCode: 'r',
     skyId: '52352'
   },
   {
     targetWord: 'uncoated',
-    translation: 'без покрытия',
+    translating: 'без покрытия',
     partOfSpeechCode: 'j',
     skyId: '128700'
   },
   {
     targetWord: 'uncoerced',
-    translation: 'безудержное',
+    translating: 'безудержное',
     partOfSpeechCode: 'j',
     skyId: '80357'
   },
   {
     targetWord: 'uncoil',
-    translation: 'разматывать',
+    translating: 'разматывать',
     partOfSpeechCode: 'v',
     skyId: '146791'
   },
   {
     targetWord: 'uncoiled',
-    translation: 'развёрнутый',
+    translating: 'развёрнутый',
     partOfSpeechCode: 'j',
     skyId: '61411'
   },
   {
     targetWord: 'uncollected',
-    translation: 'несобранный',
+    translating: 'несобранный',
     partOfSpeechCode: 'j',
     skyId: '57446'
   },
   {
     targetWord: 'uncollectible',
-    translation: 'безнадежный ко взысканию',
+    translating: 'безнадежный ко взысканию',
     partOfSpeechCode: 'j',
     skyId: '111466'
   },
   {
     targetWord: 'uncolored',
-    translation: 'бесцветный',
+    translating: 'бесцветный',
     partOfSpeechCode: 'j',
     skyId: '68127'
   },
   {
     targetWord: 'uncombed',
-    translation: 'растрёпанный',
+    translating: 'растрёпанный',
     partOfSpeechCode: 'j',
     skyId: '143102'
   },
   {
     targetWord: 'uncomely',
-    translation: 'некрасивый',
+    translating: 'некрасивый',
     partOfSpeechCode: 'j',
     skyId: '10102'
   },
   {
     targetWord: 'uncomfortable',
-    translation: 'неудобный',
+    translating: 'неудобный',
     partOfSpeechCode: 'j',
     skyId: '218772'
   },
   {
     targetWord: 'uncomfortable',
-    translation: 'неловкий ',
+    translating: 'неловкий ',
     partOfSpeechCode: 'j',
     skyId: '218771'
   },
   {
     targetWord: 'uncomfortableness',
-    translation: 'неловкость',
+    translating: 'неловкость',
     partOfSpeechCode: 'n',
     skyId: '152868'
   },
   {
     targetWord: 'uncomfortableness',
-    translation: 'дискомфорт',
+    translating: 'дискомфорт',
     partOfSpeechCode: 'n',
     skyId: '152867'
   },
   {
     targetWord: 'uncomfortably',
-    translation: 'неудобно',
+    translating: 'неудобно',
     partOfSpeechCode: 'r',
     skyId: '218753'
   },
   {
     targetWord: 'uncommercial',
-    translation: 'некоммерческий',
+    translating: 'некоммерческий',
     partOfSpeechCode: 'j',
     skyId: '63549'
   },
   {
     targetWord: 'uncommitted',
-    translation: 'без обязательств ',
+    translating: 'без обязательств ',
     partOfSpeechCode: 'j',
     skyId: '6356'
   },
   {
     targetWord: 'uncommitted',
-    translation: 'не связавший себя',
+    translating: 'не связавший себя',
     partOfSpeechCode: 'j',
     skyId: '6355'
   },
   {
     targetWord: 'uncommon',
-    translation: 'необычный',
+    translating: 'необычный',
     partOfSpeechCode: 'j',
     skyId: '245040'
   },
   {
     targetWord: 'uncommon',
-    translation: 'редкий',
+    translating: 'редкий',
     partOfSpeechCode: 'j',
     skyId: '164541'
   },
   {
     targetWord: 'uncommonly',
-    translation: 'необычайно',
+    translating: 'необычайно',
     partOfSpeechCode: 'r',
     skyId: '141284'
   },
   {
     targetWord: 'uncommonness',
-    translation: 'необычность',
+    translating: 'необычность',
     partOfSpeechCode: 'n',
     skyId: '117083'
   },
   {
     targetWord: 'uncommunicative',
-    translation: 'необщительный',
+    translating: 'необщительный',
     partOfSpeechCode: 'j',
     skyId: '160511'
   },
   {
     targetWord: 'uncomparable',
-    translation: 'несравнимый',
+    translating: 'несравнимый',
     partOfSpeechCode: 'j',
     skyId: '25898'
   },
   {
     targetWord: 'uncompassionate',
-    translation: 'жестокосердный',
+    translating: 'жестокосердный',
     partOfSpeechCode: 'j',
     skyId: '118987'
   },
   {
     targetWord: 'uncompensated',
-    translation: 'нескомпенсированный',
+    translating: 'нескомпенсированный',
     partOfSpeechCode: 'j',
     skyId: '133146'
   },
   {
     targetWord: 'uncomplaining',
-    translation: 'безропотный',
+    translating: 'безропотный',
     partOfSpeechCode: 'j',
     skyId: '12449'
   },
   {
     targetWord: 'uncomplainingly',
-    translation: 'безропотно',
+    translating: 'безропотно',
     partOfSpeechCode: 'r',
     skyId: '192499'
   },
   {
     targetWord: 'uncomplete',
-    translation: 'незаконченный',
+    translating: 'незаконченный',
     partOfSpeechCode: 'j',
     skyId: '132560'
   },
   {
     targetWord: 'uncompleted',
-    translation: 'незавершённый',
+    translating: 'незавершённый',
     partOfSpeechCode: 'j',
     skyId: '141018'
   },
   {
     targetWord: 'uncomplicated',
-    translation: 'несложный',
+    translating: 'несложный',
     partOfSpeechCode: 'j',
     skyId: '130541'
   },
   {
     targetWord: 'uncomprehended',
-    translation: 'непонятный',
+    translating: 'непонятный',
     partOfSpeechCode: 'j',
     skyId: '94797'
   },
   {
     targetWord: 'uncompress',
-    translation: 'распаковывать',
+    translating: 'распаковывать',
     partOfSpeechCode: 'v',
     skyId: '186150'
   },
   {
     targetWord: 'uncompromising',
-    translation: 'бескомпромиссный',
+    translating: 'бескомпромиссный',
     partOfSpeechCode: 'j',
     skyId: '96482'
   },
   {
     targetWord: 'unconcealed',
-    translation: 'нескрываемый',
+    translating: 'нескрываемый',
     partOfSpeechCode: 'j',
     skyId: '40005'
   },
   {
     targetWord: 'unconcern',
-    translation: 'беззаботность',
+    translating: 'беззаботность',
     partOfSpeechCode: 'n',
     skyId: '65151'
   },
   {
     targetWord: 'unconcerned',
-    translation: 'беспечный',
+    translating: 'беспечный',
     partOfSpeechCode: 'j',
     skyId: '72232'
   },
   {
     targetWord: 'unconcerned',
-    translation: 'равнодушный',
+    translating: 'равнодушный',
     partOfSpeechCode: 'j',
     skyId: '72233'
   },
   {
     targetWord: 'unconcernedly',
-    translation: 'равнодушно',
+    translating: 'равнодушно',
     partOfSpeechCode: 'r',
     skyId: '138285'
   },
   {
     targetWord: 'unconditional',
-    translation: 'безоговорочный',
+    translating: 'безоговорочный',
     partOfSpeechCode: 'j',
     skyId: '52058'
   },
   {
     targetWord: 'unconditional',
-    translation: 'безусловный',
+    translating: 'безусловный',
     partOfSpeechCode: 'j',
     skyId: '242504'
   },
   {
     targetWord: 'unconditional love',
-    translation: 'безусловная любовь',
+    translating: 'безусловная любовь',
     partOfSpeechCode: 'n',
     skyId: '239159'
   },
   {
     targetWord: 'unconditionally',
-    translation: 'безоговорочно',
+    translating: 'безоговорочно',
     partOfSpeechCode: 'r',
     skyId: '15707'
   },
   {
     targetWord: 'unconditionally',
-    translation: 'безусловно',
+    translating: 'безусловно',
     partOfSpeechCode: 'r',
     skyId: '15706'
   },
   {
     targetWord: 'unconditioned',
-    translation: 'безусловный',
+    translating: 'безусловный',
     partOfSpeechCode: 'j',
     skyId: '55871'
   },
   {
     targetWord: 'unconditioned reflex',
-    translation: 'безусловный рефлекс',
+    translating: 'безусловный рефлекс',
     partOfSpeechCode: 'n',
     skyId: '60922'
   },
   {
     targetWord: 'unconfessed',
-    translation: 'неисповеданный',
+    translating: 'неисповеданный',
     partOfSpeechCode: 'j',
     skyId: '52995'
   },
   {
     targetWord: 'unconfessed',
-    translation: 'неисповеданный',
+    translating: 'неисповеданный',
     partOfSpeechCode: 'n',
     skyId: '52995'
   },
   {
     targetWord: 'unconfident',
-    translation: 'неуверенный',
+    translating: 'неуверенный',
     partOfSpeechCode: 'j',
     skyId: '261462'
   },
   {
     targetWord: 'unconfined aquifer',
-    translation: 'безнапорный водоносный горизонт',
+    translating: 'безнапорный водоносный горизонт',
     partOfSpeechCode: 'n',
     skyId: '246570'
   },
   {
     targetWord: 'unconfirmed',
-    translation: 'неподтвержденный',
+    translating: 'неподтвержденный',
     partOfSpeechCode: 'j',
     skyId: '54969'
   },
   {
     targetWord: 'unconformable',
-    translation: 'несоответствующий',
+    translating: 'несоответствующий',
     partOfSpeechCode: 'j',
     skyId: '24727'
   },
   {
     targetWord: 'uncongenial',
-    translation: 'неблагоприятный',
+    translating: 'неблагоприятный',
     partOfSpeechCode: 'j',
     skyId: '57002'
   },
   {
     targetWord: 'unconnected',
-    translation: 'несвязанный',
+    translating: 'несвязанный',
     partOfSpeechCode: 'j',
     skyId: '91119'
   },
   {
     targetWord: 'unconquerable',
-    translation: 'непобедимый',
+    translating: 'непобедимый',
     partOfSpeechCode: 'j',
     skyId: '122915'
   },
   {
     targetWord: 'unconquered',
-    translation: 'непокоренный',
+    translating: 'непокоренный',
     partOfSpeechCode: 'j',
     skyId: '139301'
   },
   {
     targetWord: 'unconscientious',
-    translation: 'недобросовестный',
+    translating: 'недобросовестный',
     partOfSpeechCode: 'j',
     skyId: '217442'
   },
   {
     targetWord: 'unconscientiousness',
-    translation: 'недобросовестность',
+    translating: 'недобросовестность',
     partOfSpeechCode: 'n',
     skyId: '126763'
   },
   {
     targetWord: 'unconscionable',
-    translation: 'недобросовестный',
+    translating: 'недобросовестный',
     partOfSpeechCode: 'j',
     skyId: '79130'
   },
   {
     targetWord: 'unconscionable',
-    translation: 'бессовестный',
+    translating: 'бессовестный',
     partOfSpeechCode: 'j',
     skyId: '79129'
   },
   {
     targetWord: 'unconscious',
-    translation: 'не осознаваемый',
+    translating: 'не осознаваемый',
     partOfSpeechCode: 'j',
     skyId: '182173'
   },
   {
     targetWord: 'unconscious',
-    translation: 'не осознающий',
+    translating: 'не осознающий',
     partOfSpeechCode: 'j',
     skyId: '182174'
   },
   {
     targetWord: 'unconscious',
-    translation: 'без сознания',
+    translating: 'без сознания',
     partOfSpeechCode: 'j',
     skyId: '182172'
   },
   {
     targetWord: 'unconscious',
-    translation: 'бессознательное',
+    translating: 'бессознательное',
     partOfSpeechCode: 'n',
     skyId: '182171'
   },
   {
     targetWord: 'unconscious mind',
-    translation: 'бессознательное',
+    translating: 'бессознательное',
     partOfSpeechCode: 'n',
     skyId: '162208'
   },
   {
     targetWord: 'unconscious process',
-    translation: 'подсознательный процесс',
+    translating: 'подсознательный процесс',
     partOfSpeechCode: 'n',
     skyId: '26791'
   },
   {
     targetWord: 'unconsciously',
-    translation: 'бессознательно',
+    translating: 'бессознательно',
     partOfSpeechCode: 'r',
     skyId: '130141'
   },
   {
     targetWord: 'unconsciousness',
-    translation: 'бессознательное состояние',
+    translating: 'бессознательное состояние',
     partOfSpeechCode: 'n',
     skyId: '31453'
   },
   {
     targetWord: 'unconsecrated',
-    translation: 'неосвященный',
+    translating: 'неосвященный',
     partOfSpeechCode: 'j',
     skyId: '145339'
   },
   {
     targetWord: 'unconsidered',
-    translation: 'необдуманный',
+    translating: 'необдуманный',
     partOfSpeechCode: 'j',
     skyId: '110520'
   },
   {
     targetWord: 'unconsolidated',
-    translation: 'неконсолидированный',
+    translating: 'неконсолидированный',
     partOfSpeechCode: 'j',
     skyId: '159013'
   },
   {
     targetWord: 'unconstitutional',
-    translation: 'неконституционный',
+    translating: 'неконституционный',
     partOfSpeechCode: 'j',
     skyId: '223777'
   },
   {
     targetWord: 'unconstitutionally',
-    translation: 'неконституционно',
+    translating: 'неконституционно',
     partOfSpeechCode: 'r',
     skyId: '53482'
   },
   {
     targetWord: 'unconstrained',
-    translation: 'непринуждённый',
+    translating: 'непринуждённый',
     partOfSpeechCode: 'j',
     skyId: '11737'
   },
   {
     targetWord: 'unconstraint',
-    translation: 'непринуждённость',
+    translating: 'непринуждённость',
     partOfSpeechCode: 'n',
     skyId: '87418'
   },
   {
     targetWord: 'unconstricted',
-    translation: 'unconstricted',
+    translating: 'unconstricted',
     partOfSpeechCode: 'j',
     skyId: '100463'
   },
   {
     targetWord: 'unconsummated',
-    translation: 'нереализованный',
+    translating: 'нереализованный',
     partOfSpeechCode: 'j',
     skyId: '125730'
   },
   {
     targetWord: 'uncontaminated',
-    translation: 'не подвергшийся пагубному влиянию',
+    translating: 'не подвергшийся пагубному влиянию',
     partOfSpeechCode: 'j',
     skyId: '69563'
   },
   {
     targetWord: 'uncontaminating',
-    translation: 'чистый',
+    translating: 'чистый',
     partOfSpeechCode: 'j',
     skyId: '55214'
   },
   {
     targetWord: 'uncontested',
-    translation: 'бесспорный',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyId: '4680'
   },
   {
     targetWord: 'uncontrollable',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '227620'
   },
   {
     targetWord: 'uncontrollable',
-    translation: 'необузданный',
+    translating: 'необузданный',
     partOfSpeechCode: 'j',
     skyId: '227622'
   },
   {
     targetWord: 'uncontrollable',
-    translation: 'неудержимый',
+    translating: 'неудержимый',
     partOfSpeechCode: 'j',
     skyId: '227621'
   },
   {
     targetWord: 'uncontrollably',
-    translation: 'неконтролируемо',
+    translating: 'неконтролируемо',
     partOfSpeechCode: 'r',
     skyId: '227608'
   },
   {
     targetWord: 'uncontrolled',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '188752'
   },
   {
     targetWord: 'uncontroversial',
-    translation: 'бесспорный',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyId: '104500'
   },
   {
     targetWord: 'unconventional',
-    translation: 'незаконный',
+    translating: 'незаконный',
     partOfSpeechCode: 'j',
     skyId: '70431'
   },
   {
     targetWord: 'unconventional',
-    translation: 'нестандартный',
+    translating: 'нестандартный',
     partOfSpeechCode: 'j',
     skyId: '70430'
   },
   {
     targetWord: 'unconventional',
-    translation: 'нетрадиционный',
+    translating: 'нетрадиционный',
     partOfSpeechCode: 'j',
     skyId: '70429'
   },
   {
     targetWord: 'unconventional story',
-    translation: 'незаурядная история',
+    translating: 'незаурядная история',
     partOfSpeechCode: 'n',
     skyId: '255809'
   },
   {
     targetWord: 'unconventionality',
-    translation: 'необычность',
+    translating: 'необычность',
     partOfSpeechCode: 'n',
     skyId: '141132'
   },
   {
     targetWord: 'unconventionally',
-    translation: 'нестандартно',
+    translating: 'нестандартно',
     partOfSpeechCode: 'r',
     skyId: '167898'
   },
   {
     targetWord: 'unconvincing',
-    translation: 'неубедительный',
+    translating: 'неубедительный',
     partOfSpeechCode: 'j',
     skyId: '56279'
   },
   {
     targetWord: 'unconvincingly',
-    translation: 'неубедительно',
+    translating: 'неубедительно',
     partOfSpeechCode: 'r',
     skyId: '70955'
   },
   {
     targetWord: 'uncooked',
-    translation: 'сырой',
+    translating: 'сырой',
     partOfSpeechCode: 'j',
     skyId: '156035'
   },
   {
     targetWord: 'uncool',
-    translation: 'стрёмный',
+    translating: 'стрёмный',
     partOfSpeechCode: 'j',
     skyId: '4101'
   },
   {
     targetWord: 'uncooperative',
-    translation: 'несговорчивый',
+    translating: 'несговорчивый',
     partOfSpeechCode: 'j',
     skyId: '51310'
   },
   {
     targetWord: 'uncooperative',
-    translation: 'не желающий сотрудничать',
+    translating: 'не желающий сотрудничать',
     partOfSpeechCode: 'j',
     skyId: '51309'
   },
   {
     targetWord: 'uncoordinated',
-    translation: 'несогласованный',
+    translating: 'несогласованный',
     partOfSpeechCode: 'j',
     skyId: '113162'
   },
   {
     targetWord: 'uncordial',
-    translation: 'uncordial',
+    translating: 'uncordial',
     partOfSpeechCode: 'j',
     skyId: '120701'
   },
   {
     targetWord: 'uncork',
-    translation: 'откупорить',
+    translating: 'откупорить',
     partOfSpeechCode: 'v',
     skyId: '129605'
   },
   {
     targetWord: 'uncork',
-    translation: 'выпускать',
+    translating: 'выпускать',
     partOfSpeechCode: 'v',
     skyId: '129604'
   },
   {
     targetWord: 'uncorrectable',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '87431'
   },
   {
     targetWord: 'uncorrected',
-    translation: 'без поправки',
+    translating: 'без поправки',
     partOfSpeechCode: 'j',
     skyId: '35074'
   },
   {
     targetWord: 'uncorrupted',
-    translation: 'неповреждённый',
+    translating: 'неповреждённый',
     partOfSpeechCode: 'j',
     skyId: '16511'
   },
   {
     targetWord: 'uncorrupted',
-    translation: 'неповрежденный',
+    translating: 'неповрежденный',
     partOfSpeechCode: 'j',
     skyId: '16510'
   },
   {
     targetWord: 'uncountable',
-    translation: 'неисчислимый',
+    translating: 'неисчислимый',
     partOfSpeechCode: 'ph',
     skyId: '230334'
   },
   {
     targetWord: 'uncountable noun',
-    translation: 'неисчисляемое существительное',
+    translating: 'неисчисляемое существительное',
     partOfSpeechCode: 'n',
     skyId: '237352'
   },
   {
     targetWord: 'uncounted',
-    translation: 'несметный',
+    translating: 'несметный',
     partOfSpeechCode: 'j',
     skyId: '225705'
   },
   {
     targetWord: 'uncouple',
-    translation: 'разъединять',
+    translating: 'разъединять',
     partOfSpeechCode: 'v',
     skyId: '17418'
   },
   {
     targetWord: 'uncouth',
-    translation: 'неотесанный',
+    translating: 'неотесанный',
     partOfSpeechCode: 'j',
     skyId: '113842'
   },
   {
     targetWord: 'uncouthly',
-    translation: 'неуклюже',
+    translating: 'неуклюже',
     partOfSpeechCode: 'r',
     skyId: '132175'
   },
   {
     targetWord: 'uncover',
-    translation: 'рассекретить',
+    translating: 'рассекретить',
     partOfSpeechCode: 'v',
     skyId: '240323'
   },
   {
     targetWord: 'uncover',
-    translation: 'оголять',
+    translating: 'оголять',
     partOfSpeechCode: 'v',
     skyId: '218731'
   },
   {
     targetWord: 'uncover',
-    translation: 'раскрывать',
+    translating: 'раскрывать',
     partOfSpeechCode: 'v',
     skyId: '218730'
   },
   {
     targetWord: 'uncover a secret',
-    translation: 'раскрыть секрет',
+    translating: 'раскрыть секрет',
     partOfSpeechCode: 'ph',
     skyId: '237851'
   },
   {
     targetWord: 'uncovered',
-    translation: 'раскрытый',
+    translating: 'раскрытый',
     partOfSpeechCode: 'j',
     skyId: '136213'
   },
   {
     targetWord: 'uncovering',
-    translation: 'открытие',
+    translating: 'открытие',
     partOfSpeechCode: 'n',
     skyId: '218729'
   },
   {
     targetWord: 'uncovering',
-    translation: 'шелушение',
+    translating: 'шелушение',
     partOfSpeechCode: 'n',
     skyId: '218728'
   },
   {
     targetWord: 'uncrate',
-    translation: 'чтобы распаковать',
+    translating: 'чтобы распаковать',
     partOfSpeechCode: 'v',
     skyId: '192811'
   },
   {
     targetWord: 'uncreased',
-    translation: 'выглаженный',
+    translating: 'выглаженный',
     partOfSpeechCode: 'j',
     skyId: '90295'
   },
   {
     targetWord: 'uncreative',
-    translation: 'нетворческий',
+    translating: 'нетворческий',
     partOfSpeechCode: 'j',
     skyId: '157020'
   },
   {
     targetWord: 'uncritical',
-    translation: 'некритический',
+    translating: 'некритический',
     partOfSpeechCode: 'j',
     skyId: '16538'
   },
   {
     targetWord: 'uncritically',
-    translation: 'некритически',
+    translating: 'некритически',
     partOfSpeechCode: 'r',
     skyId: '96429'
   },
   {
     targetWord: 'uncropped',
-    translation: 'неподрезано',
+    translating: 'неподрезано',
     partOfSpeechCode: 'j',
     skyId: '5289'
   },
   {
     targetWord: 'uncross',
-    translation: 'распрямить',
+    translating: 'распрямить',
     partOfSpeechCode: 'v',
     skyId: '105362'
   },
   {
     targetWord: 'uncrossed',
-    translation: 'неперечеркнутый',
+    translating: 'неперечеркнутый',
     partOfSpeechCode: 'j',
     skyId: '105363'
   },
   {
     targetWord: 'uncrowded',
-    translation: 'непереполненный',
+    translating: 'непереполненный',
     partOfSpeechCode: 'j',
     skyId: '180910'
   },
   {
     targetWord: 'uncrowned',
-    translation: 'некоронованный',
+    translating: 'некоронованный',
     partOfSpeechCode: 'j',
     skyId: '185469'
   },
   {
     targetWord: 'uncrystallized',
-    translation: 'некристаллизованный',
+    translating: 'некристаллизованный',
     partOfSpeechCode: 'j',
     skyId: '32088'
   },
   {
     targetWord: 'unction',
-    translation: 'соборование',
+    translating: 'соборование',
     partOfSpeechCode: 'n',
     skyId: '105444'
   },
   {
     targetWord: 'unction',
-    translation: 'смазывание',
+    translating: 'смазывание',
     partOfSpeechCode: 'n',
     skyId: '105443'
   },
   {
     targetWord: 'unctuous',
-    translation: 'елейный',
+    translating: 'елейный',
     partOfSpeechCode: 'j',
     skyId: '122240'
   },
   {
     targetWord: 'unctuously',
-    translation: 'вкрадчиво',
+    translating: 'вкрадчиво',
     partOfSpeechCode: 'r',
     skyId: '150377'
   },
   {
     targetWord: 'unctuousness',
-    translation: 'елейность',
+    translating: 'елейность',
     partOfSpeechCode: 'n',
     skyId: '44746'
   },
   {
     targetWord: 'uncultivable',
-    translation: 'некультивируемые',
+    translating: 'некультивируемые',
     partOfSpeechCode: 'j',
     skyId: '127186'
   },
   {
     targetWord: 'uncultivated',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '172675'
   },
   {
     targetWord: 'uncultured',
-    translation: 'некультурный',
+    translating: 'некультурный',
     partOfSpeechCode: 'j',
     skyId: '75333'
   },
   {
     targetWord: 'uncured',
-    translation: 'неприправленный',
+    translating: 'неприправленный',
     partOfSpeechCode: 'j',
     skyId: '210152'
   },
   {
     targetWord: 'uncurl',
-    translation: 'раскручиваться',
+    translating: 'раскручиваться',
     partOfSpeechCode: 'v',
     skyId: '151456'
   },
   {
     targetWord: 'uncurtained',
-    translation: 'незанавешенный',
+    translating: 'незанавешенный',
     partOfSpeechCode: 'j',
     skyId: '6216'
   },
   {
     targetWord: 'uncus',
-    translation: 'крючок',
+    translating: 'крючок',
     partOfSpeechCode: 'n',
     skyId: '96195'
   },
   {
     targetWord: 'uncut',
-    translation: 'несокращённый',
+    translating: 'несокращённый',
     partOfSpeechCode: 'j',
     skyId: '167703'
   },
   {
     targetWord: 'uncut',
-    translation: 'неразрезанный',
+    translating: 'неразрезанный',
     partOfSpeechCode: 'j',
     skyId: '167702'
   },
   {
     targetWord: 'uncut',
-    translation: 'неподстриженный',
+    translating: 'неподстриженный',
     partOfSpeechCode: 'j',
     skyId: '167697'
   },
   {
     targetWord: 'undamaged',
-    translation: 'неповрежденный',
+    translating: 'неповрежденный',
     partOfSpeechCode: 'j',
     skyId: '187900'
   },
   {
     targetWord: 'undated',
-    translation: 'недатированный',
+    translating: 'недатированный',
     partOfSpeechCode: 'j',
     skyId: '13237'
   },
   {
     targetWord: 'undaunted',
-    translation: 'храбрый',
+    translating: 'храбрый',
     partOfSpeechCode: 'j',
     skyId: '92522'
   },
   {
     targetWord: 'undaunted',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '92521'
   },
   {
     targetWord: 'undead',
-    translation: 'нежить',
+    translating: 'нежить',
     partOfSpeechCode: 'n',
     skyId: '232422'
   },
   {
     targetWord: 'undeceive',
-    translation: 'разуверять',
+    translating: 'разуверять',
     partOfSpeechCode: 'v',
     skyId: '98328'
   },
   {
     targetWord: 'undeceived',
-    translation: 'разуверившийся',
+    translating: 'разуверившийся',
     partOfSpeechCode: 'j',
     skyId: '98329'
   },
   {
     targetWord: 'undecipherable',
-    translation: 'не поддающийся расшифровке',
+    translating: 'не поддающийся расшифровке',
     partOfSpeechCode: 'j',
     skyId: '188237'
   },
   {
     targetWord: 'undeciphered',
-    translation: 'нерасшифрованными',
+    translating: 'нерасшифрованными',
     partOfSpeechCode: 'j',
     skyId: '114810'
   },
   {
     targetWord: 'undeclared',
-    translation: 'непровозглашенный',
+    translating: 'непровозглашенный',
     partOfSpeechCode: 'j',
     skyId: '5812'
   },
   {
     targetWord: 'undecomposable',
-    translation: 'неразложимый',
+    translating: 'неразложимый',
     partOfSpeechCode: 'j',
     skyId: '139106'
   },
   {
     targetWord: 'undedicated',
-    translation: 'не посвящённый',
+    translating: 'не посвящённый',
     partOfSpeechCode: 'j',
     skyId: '219990'
   },
   {
     targetWord: 'undefeated',
-    translation: 'непобежденный',
+    translating: 'непобежденный',
     partOfSpeechCode: 'j',
     skyId: '166133'
   },
   {
     targetWord: 'undefended',
-    translation: 'незащищённый',
+    translating: 'незащищённый',
     partOfSpeechCode: 'j',
     skyId: '35126'
   },
   {
     targetWord: 'undefiled',
-    translation: 'непорочный',
+    translating: 'непорочный',
     partOfSpeechCode: 'j',
     skyId: '188532'
   },
   {
     targetWord: 'undefiled',
-    translation: 'безупречный',
+    translating: 'безупречный',
     partOfSpeechCode: 'j',
     skyId: '188531'
   },
   {
     targetWord: 'undefinable',
-    translation: 'неизъяснимый',
+    translating: 'неизъяснимый',
     partOfSpeechCode: 'j',
     skyId: '45467'
   },
   {
     targetWord: 'undefined',
-    translation: 'неопределённый',
+    translating: 'неопределённый',
     partOfSpeechCode: 'j',
     skyId: '188831'
   },
   {
     targetWord: 'undelineated',
-    translation: 'неточный',
+    translating: 'неточный',
     partOfSpeechCode: 'j',
     skyId: '55859'
   },
   {
     targetWord: 'undemanding',
-    translation: 'нетребовательный',
+    translating: 'нетребовательный',
     partOfSpeechCode: 'j',
     skyId: '59705'
   },
   {
     targetWord: 'undemocratic',
-    translation: 'недемократический',
+    translating: 'недемократический',
     partOfSpeechCode: 'j',
     skyId: '41655'
   },
   {
     targetWord: 'undemocratically',
-    translation: 'недемократично',
+    translating: 'недемократично',
     partOfSpeechCode: 'r',
     skyId: '34200'
   },
   {
     targetWord: 'undeniably',
-    translation: 'несомненно',
+    translating: 'несомненно',
     partOfSpeechCode: 'r',
     skyId: '136178'
   },
   {
     targetWord: 'undenominational',
-    translation: 'не относящийся ',
+    translating: 'не относящийся ',
     partOfSpeechCode: 'j',
     skyId: '165114'
   },
   {
     targetWord: 'under',
-    translation: 'моложе',
+    translating: 'моложе',
     partOfSpeechCode: 'r',
     skyId: '240197'
   },
   {
     targetWord: 'under',
-    translation: 'под',
+    translating: 'под',
     partOfSpeechCode: 'prp',
     skyId: '191685'
   },
   {
     targetWord: 'under',
-    translation: 'вниз',
+    translating: 'вниз',
     partOfSpeechCode: 'r',
     skyId: '191686'
   },
   {
     targetWord: 'under',
-    translation: 'под',
+    translating: 'под',
     partOfSpeechCode: 'r',
     skyId: '191685'
   },
   {
     targetWord: 'under',
-    translation: 'за горизонтом',
+    translating: 'за горизонтом',
     partOfSpeechCode: 'r',
     skyId: '191684'
   },
   {
     targetWord: 'under',
-    translation: 'меньше',
+    translating: 'меньше',
     partOfSpeechCode: 'r',
     skyId: '191683'
   },
   {
     targetWord: 'under',
-    translation: 'в подчинении',
+    translating: 'в подчинении',
     partOfSpeechCode: 'r',
     skyId: '191682'
   },
   {
     targetWord: 'under',
-    translation: 'ниже',
+    translating: 'ниже',
     partOfSpeechCode: 'r',
     skyId: '191680'
   },
   {
     targetWord: 'under',
-    translation: 'в бессознательном состоянии',
+    translating: 'в бессознательном состоянии',
     partOfSpeechCode: 'r',
     skyId: '191681'
   },
   {
     targetWord: 'under',
-    translation: 'младший по должности',
+    translating: 'младший по должности',
     partOfSpeechCode: 'j',
     skyId: '191678'
   },
   {
     targetWord: 'under',
-    translation: 'нижний',
+    translating: 'нижний',
     partOfSpeechCode: 'j',
     skyId: '191677'
   },
   {
     targetWord: 'under a cloud',
-    translation: 'в подавленном состоянии',
+    translating: 'в подавленном состоянии',
     partOfSpeechCode: 'ph',
     skyId: '240943'
   },
   {
     targetWord: 'under arms',
-    translation: 'с оружием',
+    translating: 'с оружием',
     partOfSpeechCode: 'r',
     skyId: '168055'
   },
   {
     targetWord: 'under attack',
-    translation: 'подверженный атаке',
+    translating: 'подверженный атаке',
     partOfSpeechCode: 'j',
     skyId: '363'
   },
   {
     targetWord: 'under fire',
-    translation: 'под огнём',
+    translating: 'под огнём',
     partOfSpeechCode: 'j',
     skyId: '84152'
   },
   {
     targetWord: 'under guarantee',
-    translation: 'на гарантийном обслуживании',
+    translating: 'на гарантийном обслуживании',
     partOfSpeechCode: 'ph',
     skyId: '229371'
   },
   {
     targetWord: 'under no circumstances',
-    translation: 'ни при каких обстоятельствах',
+    translating: 'ни при каких обстоятельствах',
     partOfSpeechCode: 'ph',
     skyId: '255540'
   },
   {
     targetWord: 'under one roof',
-    translation: 'под одной крышей',
+    translating: 'под одной крышей',
     partOfSpeechCode: 'ph',
     skyId: '231103'
   },
   {
     targetWord: "under one's belt",
-    translation: 'в послужном списке',
+    translating: 'в послужном списке',
     partOfSpeechCode: 'phi',
     skyId: '256418'
   },
   {
     targetWord: 'under pressure',
-    translation: 'под давлением',
+    translating: 'под давлением',
     partOfSpeechCode: 'ph',
     skyId: '236074'
   },
   {
     targetWord: 'under scrutiny',
-    translation: 'под пристальным вниманием',
+    translating: 'под пристальным вниманием',
     partOfSpeechCode: 'ph',
     skyId: '240944'
   },
   {
     targetWord: 'under suspicion',
-    translation: 'под подозрением',
+    translating: 'под подозрением',
     partOfSpeechCode: 'ph',
     skyId: '261625'
   },
   {
     targetWord: 'under that',
-    translation: 'под этим',
+    translating: 'под этим',
     partOfSpeechCode: 'r',
     skyId: '136436'
   },
   {
     targetWord: 'under the chair',
-    translation: 'под стулом',
+    translating: 'под стулом',
     partOfSpeechCode: 'ph',
     skyId: '230241'
   },
   {
     targetWord: 'under the circumstances',
-    translation: 'при обстоятельствах',
+    translating: 'при обстоятельствах',
     partOfSpeechCode: 'r',
     skyId: '239484'
   },
   {
     targetWord: 'under the hood',
-    translation: 'под капотом',
+    translating: 'под капотом',
     partOfSpeechCode: 'ph',
     skyId: '263762'
   },
   {
     targetWord: 'under the name of',
-    translation: 'под именем',
+    translating: 'под именем',
     partOfSpeechCode: 'ph',
     skyId: '259738'
   },
   {
     targetWord: 'under the railway line',
-    translation: 'под железнодорожным путем',
+    translating: 'под железнодорожным путем',
     partOfSpeechCode: 'ph',
     skyId: '228457'
   },
   {
     targetWord: 'under the table',
-    translation: 'тайно',
+    translating: 'тайно',
     partOfSpeechCode: 'phi',
     skyId: '252073'
   },
   {
     targetWord: 'under the weather',
-    translation: 'больной',
+    translating: 'больной',
     partOfSpeechCode: 'j',
     skyId: '19126'
   },
   {
     targetWord: 'under threat',
-    translation: 'под угрозой',
+    translating: 'под угрозой',
     partOfSpeechCode: 'r',
     skyId: '255851'
   },
   {
     targetWord: 'under twelve',
-    translation: 'до 12 лет',
+    translating: 'до 12 лет',
     partOfSpeechCode: 'prp',
     skyId: '236657'
   },
   {
     targetWord: 'under wraps',
-    translation: 'засекреченный',
+    translating: 'засекреченный',
     partOfSpeechCode: 'j',
     skyId: '89811'
   },
   {
     targetWord: 'under-performing',
-    translation: 'неэффективный',
+    translating: 'неэффективный',
     partOfSpeechCode: 'j',
     skyId: '231732'
   },
   {
     targetWord: 'under-representation',
-    translation: 'недопредставленность',
+    translating: 'недопредставленность',
     partOfSpeechCode: 'n',
     skyId: '266163'
   },
   {
     targetWord: 'under-ripe',
-    translation: 'недозрелый',
+    translating: 'недозрелый',
     partOfSpeechCode: 'j',
     skyId: '256472'
   },
   {
     targetWord: 'under-the-table',
-    translation: 'подпольный',
+    translating: 'подпольный',
     partOfSpeechCode: 'j',
     skyId: '219140'
   },
   {
     targetWord: 'underachieve',
-    translation: 'не стараться',
+    translating: 'не стараться',
     partOfSpeechCode: 'v',
     skyId: '113110'
   },
   {
     targetWord: 'underachievement',
-    translation: 'исполнение хуже ожидаемого',
+    translating: 'исполнение хуже ожидаемого',
     partOfSpeechCode: 'n',
     skyId: '168199'
   },
   {
     targetWord: 'underachiever',
-    translation: 'отстающий ',
+    translating: 'отстающий ',
     partOfSpeechCode: 'n',
     skyId: '97627'
   },
   {
     targetWord: 'underact',
-    translation: 'недоигрывать',
+    translating: 'недоигрывать',
     partOfSpeechCode: 'v',
     skyId: '220136'
   },
   {
     targetWord: 'underage',
-    translation: 'несовершеннолетний',
+    translating: 'несовершеннолетний',
     partOfSpeechCode: 'j',
     skyId: '160783'
   },
   {
     targetWord: 'underarm',
-    translation: 'под мышкой',
+    translating: 'под мышкой',
     partOfSpeechCode: 'r',
     skyId: '185701'
   },
   {
     targetWord: 'underarm',
-    translation: 'подмышкой',
+    translating: 'подмышкой',
     partOfSpeechCode: 'j',
     skyId: '185700'
   },
   {
     targetWord: 'underbelly',
-    translation: 'подбрюшье',
+    translating: 'подбрюшье',
     partOfSpeechCode: 'n',
     skyId: '5251'
   },
   {
     targetWord: 'underbelly',
-    translation: 'низ живота',
+    translating: 'низ живота',
     partOfSpeechCode: 'n',
     skyId: '5249'
   },
   {
     targetWord: 'underbid',
-    translation: 'понизить цену',
+    translating: 'понизить цену',
     partOfSpeechCode: 'v',
     skyId: '192213'
   },
   {
     targetWord: 'underbid',
-    translation: 'делать меньшую ставку',
+    translating: 'делать меньшую ставку',
     partOfSpeechCode: 'v',
     skyId: '192212'
   },
   {
     targetWord: 'underbodice',
-    translation: 'камисоль',
+    translating: 'камисоль',
     partOfSpeechCode: 'n',
     skyId: '122586'
   },
   {
     targetWord: 'underbody',
-    translation: 'нижняя часть туловища',
+    translating: 'нижняя часть туловища',
     partOfSpeechCode: 'n',
     skyId: '50768'
   },
   {
     targetWord: 'underboss',
-    translation: 'босса',
+    translating: 'босса',
     partOfSpeechCode: 'n',
     skyId: '168773'
   },
   {
     targetWord: 'underbred',
-    translation: 'непородистый',
+    translating: 'непородистый',
     partOfSpeechCode: 'j',
     skyId: '69671'
   },
   {
     targetWord: 'underbrush',
-    translation: 'подлесок',
+    translating: 'подлесок',
     partOfSpeechCode: 'n',
     skyId: '182851'
   },
   {
     targetWord: 'underbuy',
-    translation: 'покупать ниже стоимости',
+    translating: 'покупать ниже стоимости',
     partOfSpeechCode: 'v',
     skyId: '233410'
   },
   {
     targetWord: 'undercarriage',
-    translation: 'ходовая часть',
+    translating: 'ходовая часть',
     partOfSpeechCode: 'n',
     skyId: '192877'
   },
   {
     targetWord: 'undercast',
-    translation: 'оценивать ниже ',
+    translating: 'оценивать ниже ',
     partOfSpeechCode: 'v',
     skyId: '233415'
   },
   {
     targetWord: 'undercharge',
-    translation: 'занижать цену',
+    translating: 'занижать цену',
     partOfSpeechCode: 'v',
     skyId: '135183'
   },
   {
     targetWord: 'undercharge',
-    translation: 'уменьшенный заряд',
+    translating: 'уменьшенный заряд',
     partOfSpeechCode: 'n',
     skyId: '135182'
   },
   {
     targetWord: 'undercharge',
-    translation: 'заниженная цена',
+    translating: 'заниженная цена',
     partOfSpeechCode: 'n',
     skyId: '135181'
   },
   {
     targetWord: 'underclass',
-    translation: 'низший',
+    translating: 'низший',
     partOfSpeechCode: 'j',
     skyId: '124854'
   },
   {
     targetWord: 'underclass',
-    translation: 'низший класс общества',
+    translating: 'низший класс общества',
     partOfSpeechCode: 'n',
     skyId: '124853'
   },
   {
     targetWord: 'underclassman',
-    translation: 'студент первого курса',
+    translating: 'студент первого курса',
     partOfSpeechCode: 'n',
     skyId: '35796'
   },
   {
     targetWord: 'underclothes',
-    translation: 'нижнее бельё',
+    translating: 'нижнее бельё',
     partOfSpeechCode: 'n',
     skyId: '32270'
   },
   {
     targetWord: 'underclothing',
-    translation: 'нижнее бельё',
+    translating: 'нижнее бельё',
     partOfSpeechCode: 'n',
     skyId: '171936'
   },
   {
     targetWord: 'undercoat',
-    translation: 'грунтовать',
+    translating: 'грунтовать',
     partOfSpeechCode: 'v',
     skyId: '212732'
   },
   {
     targetWord: 'undercook',
-    translation: 'недоваривать',
+    translating: 'недоваривать',
     partOfSpeechCode: 'v',
     skyId: '238083'
   },
   {
     targetWord: 'undercooked',
-    translation: 'недожаренный; недоваренный',
+    translating: 'недожаренный; недоваренный',
     partOfSpeechCode: 'j',
     skyId: '265838'
   },
   {
     targetWord: 'undercover',
-    translation: 'тайный',
+    translating: 'тайный',
     partOfSpeechCode: 'j',
     skyId: '99456'
   },
   {
     targetWord: 'undercover agent',
-    translation: 'тайный агент',
+    translating: 'тайный агент',
     partOfSpeechCode: 'n',
     skyId: '10513'
   },
   {
     targetWord: 'undercover operation',
-    translation: 'тайная операция',
+    translating: 'тайная операция',
     partOfSpeechCode: 'n',
     skyId: '114488'
   },
   {
     targetWord: 'undercover work',
-    translation: 'шпионаж',
+    translating: 'шпионаж',
     partOfSpeechCode: 'n',
     skyId: '192280'
   },
   {
     targetWord: 'undercurrent',
-    translation: 'скрытая тенденция',
+    translating: 'скрытая тенденция',
     partOfSpeechCode: 'n',
     skyId: '66485'
   },
   {
     targetWord: 'undercut',
-    translation: 'ударять снизу',
+    translating: 'ударять снизу',
     partOfSpeechCode: 'v',
     skyId: '59984'
   },
   {
     targetWord: 'undercut',
-    translation: 'подрезать',
+    translating: 'подрезать',
     partOfSpeechCode: 'v',
     skyId: '59985'
   },
   {
     targetWord: 'undercut',
-    translation: 'вырезать',
+    translating: 'вырезать',
     partOfSpeechCode: 'v',
     skyId: '59982'
   },
   {
     targetWord: 'undercut',
-    translation: 'урезать цену',
+    translating: 'урезать цену',
     partOfSpeechCode: 'v',
     skyId: '59981'
   },
   {
     targetWord: 'undercut',
-    translation: 'бросок снизу',
+    translating: 'бросок снизу',
     partOfSpeechCode: 'n',
     skyId: '59979'
   },
   {
     targetWord: 'undercut',
-    translation: 'подрубка',
+    translating: 'подрубка',
     partOfSpeechCode: 'n',
     skyId: '59978'
   },
   {
     targetWord: 'undercut',
-    translation: 'вырезка',
+    translating: 'вырезка',
     partOfSpeechCode: 'n',
     skyId: '59977'
   },
   {
     targetWord: 'underdevelop',
-    translation: 'недопроявить',
+    translating: 'недопроявить',
     partOfSpeechCode: 'v',
     skyId: '218341'
   },
   {
     targetWord: 'underdeveloped',
-    translation: 'слаборазвитый',
+    translating: 'слаборазвитый',
     partOfSpeechCode: 'j',
     skyId: '218343'
   },
   {
     targetWord: 'underdevelopment',
-    translation: 'отсталость',
+    translating: 'отсталость',
     partOfSpeechCode: 'n',
     skyId: '79989'
   },
   {
     targetWord: 'underdo',
-    translation: 'недоделывать',
+    translating: 'недоделывать',
     partOfSpeechCode: 'v',
     skyId: '233430'
   },
   {
     targetWord: 'underdog',
-    translation: 'аутсайдер',
+    translating: 'аутсайдер',
     partOfSpeechCode: 'n',
     skyId: '253948'
   },
   {
     targetWord: 'underdog',
-    translation: 'неудачник',
+    translating: 'неудачник',
     partOfSpeechCode: 'n',
     skyId: '155472'
   },
   {
     targetWord: 'underdone',
-    translation: 'недоваренный',
+    translating: 'недоваренный',
     partOfSpeechCode: 'j',
     skyId: '1262'
   },
   {
     targetWord: 'underdraw',
-    translation: 'подчёркивать',
+    translating: 'подчёркивать',
     partOfSpeechCode: 'v',
     skyId: '233432'
   },
   {
     targetWord: 'underdrawers',
-    translation: 'кальсоны',
+    translating: 'кальсоны',
     partOfSpeechCode: 'n',
     skyId: '62151'
   },
   {
     targetWord: 'underdress',
-    translation: 'одеваться неформально',
+    translating: 'одеваться неформально',
     partOfSpeechCode: 'v',
     skyId: '218749'
   },
   {
     targetWord: 'underdress',
-    translation: 'одеваться недостаточно тепло',
+    translating: 'одеваться недостаточно тепло',
     partOfSpeechCode: 'v',
     skyId: '218748'
   },
   {
     targetWord: 'underdressed',
-    translation: 'неподходяще одетый',
+    translating: 'неподходяще одетый',
     partOfSpeechCode: 'j',
     skyId: '133700'
   },
   {
     targetWord: 'undereat',
-    translation: 'недоедать',
+    translating: 'недоедать',
     partOfSpeechCode: 'v',
     skyId: '233435'
   },
   {
     targetWord: 'undereducated',
-    translation: 'малообразованный',
+    translating: 'малообразованный',
     partOfSpeechCode: 'j',
     skyId: '120789'
   },
   {
     targetWord: 'underemployed',
-    translation: 'занятый неполный рабочий день',
+    translating: 'занятый неполный рабочий день',
     partOfSpeechCode: 'j',
     skyId: '180208'
   },
   {
     targetWord: 'underestimate',
-    translation: 'недооценивать',
+    translating: 'недооценивать',
     partOfSpeechCode: 'v',
     skyId: '245041'
   },
   {
     targetWord: 'underestimate',
-    translation: 'недооценка',
+    translating: 'недооценка',
     partOfSpeechCode: 'n',
     skyId: '88004'
   },
   {
     targetWord: 'underexpose',
-    translation: 'недоэкспонировать',
+    translating: 'недоэкспонировать',
     partOfSpeechCode: 'v',
     skyId: '149382'
   },
   {
     targetWord: 'underexpose',
-    translation: 'недодержать',
+    translating: 'недодержать',
     partOfSpeechCode: 'v',
     skyId: '149381'
   },
   {
     targetWord: 'underfed',
-    translation: 'недоедающий',
+    translating: 'недоедающий',
     partOfSpeechCode: 'j',
     skyId: '1862'
   },
   {
     targetWord: 'underfeed',
-    translation: 'недокармливать',
+    translating: 'недокармливать',
     partOfSpeechCode: 'v',
     skyId: '233440'
   },
   {
     targetWord: 'underfloor',
-    translation: 'напольное покрытие',
+    translating: 'напольное покрытие',
     partOfSpeechCode: 'n',
     skyId: '256668'
   },
   {
     targetWord: 'underfoot',
-    translation: 'под ногами',
+    translating: 'под ногами',
     partOfSpeechCode: 'r',
     skyId: '693'
   },
   {
     targetWord: 'underframe',
-    translation: 'каркас',
+    translating: 'каркас',
     partOfSpeechCode: 'n',
     skyId: '88022'
   },
   {
     targetWord: 'underfrequency protection',
-    translation: 'реле контроля частоты',
+    translating: 'реле контроля частоты',
     partOfSpeechCode: 'n',
     skyId: '247864'
   },
   {
     targetWord: 'underfunding',
-    translation: 'недофинансирование',
+    translating: 'недофинансирование',
     partOfSpeechCode: 'n',
     skyId: '260993'
   },
   {
     targetWord: 'underfur',
-    translation: 'подшёрсток',
+    translating: 'подшёрсток',
     partOfSpeechCode: 'n',
     skyId: '221459'
   },
   {
     targetWord: 'undergarment',
-    translation: 'нижнее белье',
+    translating: 'нижнее белье',
     partOfSpeechCode: 'n',
     skyId: '157204'
   },
   {
     targetWord: 'undergird',
-    translation: 'поддерживать',
+    translating: 'поддерживать',
     partOfSpeechCode: 'v',
     skyId: '50040'
   },
   {
     targetWord: 'undergo',
-    translation: 'подвергаться; переносить',
+    translating: 'подвергаться; переносить',
     partOfSpeechCode: 'v',
     skyId: '265358'
   },
   {
     targetWord: 'undergo changes',
-    translation: 'претерпевать изменения',
+    translating: 'претерпевать изменения',
     partOfSpeechCode: 'ph',
     skyId: '265041'
   },
   {
     targetWord: 'undergo surgery',
-    translation: 'подвергаться операции',
+    translating: 'подвергаться операции',
     partOfSpeechCode: 'ph',
     skyId: '239157'
   },
   {
     targetWord: 'undergo treatment',
-    translation: 'подвергаться лечению',
+    translating: 'подвергаться лечению',
     partOfSpeechCode: 'v',
     skyId: '239154'
   },
   {
     targetWord: 'undergrad',
-    translation: 'старшекурсник',
+    translating: 'старшекурсник',
     partOfSpeechCode: 'n',
     skyId: '34900'
   },
   {
     targetWord: 'undergraduate',
-    translation: 'студент',
+    translating: 'студент',
     partOfSpeechCode: 'n',
     skyId: '119583'
   },
   {
     targetWord: 'underground',
-    translation: 'под землей',
+    translating: 'под землей',
     partOfSpeechCode: 'r',
     skyId: '184038'
   },
   {
     targetWord: 'underground',
-    translation: 'подпольно',
+    translating: 'подпольно',
     partOfSpeechCode: 'r',
     skyId: '184037'
   },
   {
     targetWord: 'underground',
-    translation: 'подпольный',
+    translating: 'подпольный',
     partOfSpeechCode: 'j',
     skyId: '184036'
   },
   {
     targetWord: 'underground',
-    translation: 'подземный',
+    translating: 'подземный',
     partOfSpeechCode: 'j',
     skyId: '184035'
   },
   {
     targetWord: 'underground',
-    translation: 'метро',
+    translating: 'метро',
     partOfSpeechCode: 'n',
     skyId: '184034'
   },
   {
     targetWord: 'underground',
-    translation: 'подпольная организация',
+    translating: 'подпольная организация',
     partOfSpeechCode: 'n',
     skyId: '184033'
   },
   {
     targetWord: 'underground engineering communications',
-    translation: 'подземные инженерные коммуникации',
+    translating: 'подземные инженерные коммуникации',
     partOfSpeechCode: 'n',
     skyId: '246571'
   },
   {
     targetWord: 'underground mining',
-    translation: 'подземные горные работы',
+    translating: 'подземные горные работы',
     partOfSpeechCode: 'n',
     skyId: '260952'
   },
   {
     targetWord: 'underground press',
-    translation: 'самиздат',
+    translating: 'самиздат',
     partOfSpeechCode: 'n',
     skyId: '46012'
   },
   {
     targetWord: 'underground train',
-    translation: 'метро',
+    translating: 'метро',
     partOfSpeechCode: 'n',
     skyId: '252324'
   },
   {
     targetWord: 'underground/subway',
-    translation: 'метро',
+    translating: 'метро',
     partOfSpeechCode: 'ph',
     skyId: '229092'
   },
   {
     targetWord: 'undergrowth',
-    translation: 'подлесок',
+    translating: 'подлесок',
     partOfSpeechCode: 'n',
     skyId: '44461'
   },
   {
     targetWord: 'underhand',
-    translation: 'сдерживаемый рукой',
+    translating: 'сдерживаемый рукой',
     partOfSpeechCode: 'r',
     skyId: '73299'
   },
   {
     targetWord: 'underhand',
-    translation: 'закулисный',
+    translating: 'закулисный',
     partOfSpeechCode: 'r',
     skyId: '73298'
   },
   {
     targetWord: 'underhand',
-    translation: 'закулисный',
+    translating: 'закулисный',
     partOfSpeechCode: 'j',
     skyId: '73298'
   },
   {
     targetWord: 'underhand',
-    translation: 'ладонью наружу или вверх',
+    translating: 'ладонью наружу или вверх',
     partOfSpeechCode: 'j',
     skyId: '73296'
   },
   {
     targetWord: 'underhanded',
-    translation: 'умалчиваемый',
+    translating: 'умалчиваемый',
     partOfSpeechCode: 'j',
     skyId: '25069'
   },
   {
     targetWord: 'underhandedly',
-    translation: 'исподтишка',
+    translating: 'исподтишка',
     partOfSpeechCode: 'r',
     skyId: '61223'
   },
   {
     targetWord: 'underhung',
-    translation: 'выступающий вперед',
+    translating: 'выступающий вперед',
     partOfSpeechCode: 'j',
     skyId: '89875'
   },
   {
     targetWord: 'underimpedance protection',
-    translation: 'защита от пониженного импеданса',
+    translating: 'защита от пониженного импеданса',
     partOfSpeechCode: 'n',
     skyId: '247865'
   },
   {
     targetWord: 'underivative',
-    translation: 'underivative',
+    translating: 'underivative',
     partOfSpeechCode: 'j',
     skyId: '77555'
   },
   {
     targetWord: 'underlay',
-    translation: 'подложка ковра',
+    translating: 'подложка ковра',
     partOfSpeechCode: 'n',
     skyId: '33414'
   },
   {
     targetWord: 'underlay',
-    translation: 'подпирать',
+    translating: 'подпирать',
     partOfSpeechCode: 'v',
     skyId: '33417'
   },
   {
     targetWord: 'underlay',
-    translation: 'подкладывать',
+    translating: 'подкладывать',
     partOfSpeechCode: 'v',
     skyId: '33416'
   },
   {
     targetWord: 'underlay',
-    translation: 'приподнимать',
+    translating: 'приподнимать',
     partOfSpeechCode: 'v',
     skyId: '33415'
   },
   {
     targetWord: 'underlayment',
-    translation: 'кровельный ковер',
+    translating: 'кровельный ковер',
     partOfSpeechCode: 'n',
     skyId: '258959'
   },
   {
     targetWord: 'underlayment',
-    translation: 'ковер панель',
+    translating: 'ковер панель',
     partOfSpeechCode: 'n',
     skyId: '10632'
   },
   {
     targetWord: 'underlet',
-    translation: 'сдавать в аренду ',
+    translating: 'сдавать в аренду ',
     partOfSpeechCode: 'v',
     skyId: '233468'
   },
   {
     targetWord: 'underlie',
-    translation: 'лежат в основе',
+    translating: 'лежат в основе',
     partOfSpeechCode: 'v',
     skyId: '162875'
   },
   {
     targetWord: 'underlie',
-    translation: 'лежать в основе',
+    translating: 'лежать в основе',
     partOfSpeechCode: 'v',
     skyId: '162874'
   },
   {
     targetWord: 'underline',
-    translation: 'подчёркивать ',
+    translating: 'подчёркивать ',
     partOfSpeechCode: 'v',
     skyId: '144882'
   },
   {
     targetWord: 'underline',
-    translation: 'подчеркивать ',
+    translating: 'подчеркивать ',
     partOfSpeechCode: 'v',
     skyId: '144881'
   },
   {
     targetWord: 'underline',
-    translation: 'подчёркивающая линия ',
+    translating: 'подчёркивающая линия ',
     partOfSpeechCode: 'n',
     skyId: '144880'
   },
   {
     targetWord: 'underline the importance of',
-    translation: 'подчеркивать важность чего-то',
+    translating: 'подчеркивать важность чего-то',
     partOfSpeechCode: 'ph',
     skyId: '251735'
   },
   {
     targetWord: 'underling',
-    translation: 'подчинённый',
+    translating: 'подчинённый',
     partOfSpeechCode: 'n',
     skyId: '189147'
   },
   {
     targetWord: 'underlip',
-    translation: 'нижняя губа',
+    translating: 'нижняя губа',
     partOfSpeechCode: 'n',
     skyId: '142477'
   },
   {
     targetWord: 'underlying',
-    translation: 'основной',
+    translating: 'основной',
     partOfSpeechCode: 'j',
     skyId: '162878'
   },
   {
     targetWord: 'underlying',
-    translation: 'расположенный под',
+    translating: 'расположенный под',
     partOfSpeechCode: 'j',
     skyId: '162877'
   },
   {
     targetWord: 'underlying',
-    translation: 'лежащий в основе',
+    translating: 'лежащий в основе',
     partOfSpeechCode: 'j',
     skyId: '162876'
   },
   {
     targetWord: 'underlying surface',
-    translation: 'подстилающая поверхность',
+    translating: 'подстилающая поверхность',
     partOfSpeechCode: 'n',
     skyId: '246708'
   },
   {
     targetWord: 'undermanned',
-    translation: 'неукомплектованный',
+    translating: 'неукомплектованный',
     partOfSpeechCode: 'j',
     skyId: '153410'
   },
   {
     targetWord: 'undermentioned',
-    translation: 'нижеупомянутый',
+    translating: 'нижеупомянутый',
     partOfSpeechCode: 'j',
     skyId: '222854'
   },
   {
     targetWord: 'undermine',
-    translation: 'подкапывать',
+    translating: 'подкапывать',
     partOfSpeechCode: 'v',
     skyId: '144647'
   },
   {
     targetWord: 'undermine',
-    translation: 'подрывать',
+    translating: 'подрывать',
     partOfSpeechCode: 'v',
     skyId: '144646'
   },
   {
     targetWord: 'undermine fidelity',
-    translation: 'ослабить чувство привязанности',
+    translating: 'ослабить чувство привязанности',
     partOfSpeechCode: 'ph',
     skyId: '254434'
   },
   {
     targetWord: 'undermine relations',
-    translation: 'подрывать отношения',
+    translating: 'подрывать отношения',
     partOfSpeechCode: 'ph',
     skyId: '231022'
   },
   {
     targetWord: 'underneath',
-    translation: 'под',
+    translating: 'под',
     partOfSpeechCode: 'prp',
     skyId: '27911'
   },
   {
     targetWord: 'underneath',
-    translation: 'внизу ',
+    translating: 'внизу ',
     partOfSpeechCode: 'r',
     skyId: '27912'
   },
   {
     targetWord: 'undernourish',
-    translation: 'недокармливать',
+    translating: 'недокармливать',
     partOfSpeechCode: 'v',
     skyId: '95997'
   },
@@ -5833,2089 +5833,2089 @@ export const uArr = [
   },
   {
     targetWord: 'undernourished',
-    translation: 'недоедающий',
+    translating: 'недоедающий',
     partOfSpeechCode: 'j',
     skyId: '253312'
   },
   {
     targetWord: 'underpaid',
-    translation: 'низкооплачиваемый',
+    translating: 'низкооплачиваемый',
     partOfSpeechCode: 'j',
     skyId: '230481'
   },
   {
     targetWord: 'underpants',
-    translation: 'трусы',
+    translating: 'трусы',
     partOfSpeechCode: 'n',
     skyId: '57769'
   },
   {
     targetWord: 'underpart',
-    translation: 'нижняя часть',
+    translating: 'нижняя часть',
     partOfSpeechCode: 'n',
     skyId: '149401'
   },
   {
     targetWord: 'underpass',
-    translation: 'подземный переход',
+    translating: 'подземный переход',
     partOfSpeechCode: 'n',
     skyId: '191466'
   },
   {
     targetWord: 'underpay',
-    translation: 'недоплачивать',
+    translating: 'недоплачивать',
     partOfSpeechCode: 'v',
     skyId: '79941'
   },
   {
     targetWord: 'underpayment',
-    translation: 'недооплата',
+    translating: 'недооплата',
     partOfSpeechCode: 'n',
     skyId: '10657'
   },
   {
     targetWord: 'underpayment',
-    translation: 'недоплата',
+    translating: 'недоплата',
     partOfSpeechCode: 'n',
     skyId: '10656'
   },
   {
     targetWord: 'underperform',
-    translation: 'не справляться с обязанностями',
+    translating: 'не справляться с обязанностями',
     partOfSpeechCode: 'v',
     skyId: '7840'
   },
   {
     targetWord: 'underpin',
-    translation: 'подпирать',
+    translating: 'подпирать',
     partOfSpeechCode: 'v',
     skyId: '197617'
   },
   {
     targetWord: 'underpinning',
-    translation: 'усиление фундамента',
+    translating: 'усиление фундамента',
     partOfSpeechCode: 'n',
     skyId: '257656'
   },
   {
     targetWord: 'underplay',
-    translation: 'преуменьшать',
+    translating: 'преуменьшать',
     partOfSpeechCode: 'v',
     skyId: '161755'
   },
   {
     targetWord: 'underpopulated',
-    translation: 'малонаселённый',
+    translating: 'малонаселённый',
     partOfSpeechCode: 'j',
     skyId: '90820'
   },
   {
     targetWord: 'underprepared',
-    translation: 'неподготовленный',
+    translating: 'неподготовленный',
     partOfSpeechCode: 'j',
     skyId: '235760'
   },
   {
     targetWord: 'underpressure',
-    translation: 'разрежение',
+    translating: 'разрежение',
     partOfSpeechCode: 'n',
     skyId: '248440'
   },
   {
     targetWord: 'underprice',
-    translation: 'назначать цену ниже обычной',
+    translating: 'назначать цену ниже обычной',
     partOfSpeechCode: 'v',
     skyId: '149408'
   },
   {
     targetWord: 'underproduce',
-    translation: 'производить меньше нормы',
+    translating: 'производить меньше нормы',
     partOfSpeechCode: 'v',
     skyId: '98330'
   },
   {
     targetWord: 'underqualified',
-    translation: 'малоквалифицированный',
+    translating: 'малоквалифицированный',
     partOfSpeechCode: 'j',
     skyId: '235849'
   },
   {
     targetWord: 'underrate',
-    translation: 'недооценивать',
+    translating: 'недооценивать',
     partOfSpeechCode: 'v',
     skyId: '118398'
   },
   {
     targetWord: 'underrated',
-    translation: 'недооценённый',
+    translating: 'недооценённый',
     partOfSpeechCode: 'j',
     skyId: '235712'
   },
   {
     targetWord: 'underrating',
-    translation: 'недооценка',
+    translating: 'недооценка',
     partOfSpeechCode: 'n',
     skyId: '118397'
   },
   {
     targetWord: 'underrepresented',
-    translation: 'недостаточно представленный',
+    translating: 'недостаточно представленный',
     partOfSpeechCode: 'j',
     skyId: '265114'
   },
   {
     targetWord: 'underrun',
-    translation: 'работать с недогрузкой',
+    translating: 'работать с недогрузкой',
     partOfSpeechCode: 'v',
     skyId: '233496'
   },
   {
     targetWord: 'underscore',
-    translation: 'подчёркивание',
+    translating: 'подчёркивание',
     partOfSpeechCode: 'n',
     skyId: '245169'
   },
   {
     targetWord: 'underscore',
-    translation: 'подчёркивать',
+    translating: 'подчёркивать',
     partOfSpeechCode: 'v',
     skyId: '41195'
   },
   {
     targetWord: 'underscore',
-    translation: 'акцентировать внимание ',
+    translating: 'акцентировать внимание ',
     partOfSpeechCode: 'v',
     skyId: '41194'
   },
   {
     targetWord: 'underscore',
-    translation: 'подчеркивание',
+    translating: 'подчеркивание',
     partOfSpeechCode: 'n',
     skyId: '41193'
   },
   {
     targetWord: 'undersea',
-    translation: 'подводный',
+    translating: 'подводный',
     partOfSpeechCode: 'j',
     skyId: '6337'
   },
   {
     targetWord: 'underseal',
-    translation: 'днища',
+    translating: 'днища',
     partOfSpeechCode: 'n',
     skyId: '4233'
   },
   {
     targetWord: 'undersecretary',
-    translation: 'заместитель министра',
+    translating: 'заместитель министра',
     partOfSpeechCode: 'n',
     skyId: '127289'
   },
   {
     targetWord: 'undersell',
-    translation: 'продавать дешевле',
+    translating: 'продавать дешевле',
     partOfSpeechCode: 'v',
     skyId: '96207'
   },
   {
     targetWord: 'undershirt',
-    translation: 'майка',
+    translating: 'майка',
     partOfSpeechCode: 'n',
     skyId: '73904'
   },
   {
     targetWord: 'undershoot',
-    translation: 'недотянуть',
+    translating: 'недотянуть',
     partOfSpeechCode: 'v',
     skyId: '189243'
   },
   {
     targetWord: 'undershot',
-    translation: 'выступающий вперёд',
+    translating: 'выступающий вперёд',
     partOfSpeechCode: 'j',
     skyId: '165499'
   },
   {
     targetWord: 'underside',
-    translation: 'нижняя часть',
+    translating: 'нижняя часть',
     partOfSpeechCode: 'n',
     skyId: '17182'
   },
   {
     targetWord: 'undersign',
-    translation: 'подписывать',
+    translating: 'подписывать',
     partOfSpeechCode: 'v',
     skyId: '7449'
   },
   {
     targetWord: 'undersigned',
-    translation: 'нижеподписавшиеся',
+    translating: 'нижеподписавшиеся',
     partOfSpeechCode: 'n',
     skyId: '244041'
   },
   {
     targetWord: 'undersized',
-    translation: 'низкорослый',
+    translating: 'низкорослый',
     partOfSpeechCode: 'j',
     skyId: '111667'
   },
   {
     targetWord: 'underskirt',
-    translation: 'подъюбник',
+    translating: 'подъюбник',
     partOfSpeechCode: 'n',
     skyId: '52613'
   },
   {
     targetWord: 'undersoil',
-    translation: 'недра',
+    translating: 'недра',
     partOfSpeechCode: 'n',
     skyId: '226852'
   },
   {
     targetWord: 'underspend',
-    translation: 'тратить меньше',
+    translating: 'тратить меньше',
     partOfSpeechCode: 'v',
     skyId: '220073'
   },
   {
     targetWord: 'understaffed',
-    translation: 'неукомплектованный',
+    translating: 'неукомплектованный',
     partOfSpeechCode: 'j',
     skyId: '161930'
   },
   {
     targetWord: 'understand',
-    translation: 'осознавать',
+    translating: 'осознавать',
     partOfSpeechCode: 'v',
     skyId: '239987'
   },
   {
     targetWord: 'understand',
-    translation: 'полагать',
+    translating: 'полагать',
     partOfSpeechCode: 'v',
     skyId: '126444'
   },
   {
     targetWord: 'understand',
-    translation: 'понимать',
+    translating: 'понимать',
     partOfSpeechCode: 'v',
     skyId: '237353'
   },
   {
     targetWord: 'understand everything',
-    translation: 'все понимать',
+    translating: 'все понимать',
     partOfSpeechCode: 'ph',
     skyId: '240023'
   },
   {
     targetWord: 'understandability',
-    translation: 'понятность',
+    translating: 'понятность',
     partOfSpeechCode: 'n',
     skyId: '166025'
   },
   {
     targetWord: 'understandable',
-    translation: 'понятный ',
+    translating: 'понятный ',
     partOfSpeechCode: 'j',
     skyId: '239480'
   },
   {
     targetWord: 'understandable',
-    translation: 'понятный',
+    translating: 'понятный',
     partOfSpeechCode: 'j',
     skyId: '58685'
   },
   {
     targetWord: 'understandably',
-    translation: 'очевидно',
+    translating: 'очевидно',
     partOfSpeechCode: 'r',
     skyId: '253351'
   },
   {
     targetWord: 'understandably',
-    translation: 'по понятным причинам',
+    translating: 'по понятным причинам',
     partOfSpeechCode: 'r',
     skyId: '240327'
   },
   {
     targetWord: 'understandably',
-    translation: 'понятно',
+    translating: 'понятно',
     partOfSpeechCode: 'r',
     skyId: '66505'
   },
   {
     targetWord: 'understanding',
-    translation: 'отзывчивый',
+    translating: 'отзывчивый',
     partOfSpeechCode: 'j',
     skyId: '239479'
   },
   {
     targetWord: 'understanding',
-    translation: 'сочувствие',
+    translating: 'сочувствие',
     partOfSpeechCode: 'n',
     skyId: '239478'
   },
   {
     targetWord: 'understanding',
-    translation: 'понимающий',
+    translating: 'понимающий',
     partOfSpeechCode: 'j',
     skyId: '58877'
   },
   {
     targetWord: 'understanding',
-    translation: 'разум',
+    translating: 'разум',
     partOfSpeechCode: 'n',
     skyId: '58871'
   },
   {
     targetWord: 'understanding',
-    translation: 'взаимопонимание',
+    translating: 'взаимопонимание',
     partOfSpeechCode: 'n',
     skyId: '58870'
   },
   {
     targetWord: 'understanding',
-    translation: 'понимание',
+    translating: 'понимание',
     partOfSpeechCode: 'n',
     skyId: '239477'
   },
   {
     targetWord: 'understanding',
-    translation: 'соглашение',
+    translating: 'соглашение',
     partOfSpeechCode: 'n',
     skyId: '58869'
   },
   {
     targetWord: 'understandingly',
-    translation: 'понимающе',
+    translating: 'понимающе',
     partOfSpeechCode: 'r',
     skyId: '80363'
   },
   {
     targetWord: 'understate',
-    translation: 'преуменьшать',
+    translating: 'преуменьшать',
     partOfSpeechCode: 'v',
     skyId: '34814'
   },
   {
     targetWord: 'understated',
-    translation: 'непритязательный',
+    translating: 'непритязательный',
     partOfSpeechCode: 'j',
     skyId: '7830'
   },
   {
     targetWord: 'understatement',
-    translation: 'сдержанное высказывание',
+    translating: 'сдержанное высказывание',
     partOfSpeechCode: 'n',
     skyId: '225919'
   },
   {
     targetWord: 'understeer',
-    translation: 'недостаточная поворачиваемость',
+    translating: 'недостаточная поворачиваемость',
     partOfSpeechCode: 'n',
     skyId: '232703'
   },
   {
     targetWord: 'understood',
-    translation: 'понятный',
+    translating: 'понятный',
     partOfSpeechCode: 'j',
     skyId: '126447'
   },
   {
     targetWord: 'understood',
-    translation: 'понятый',
+    translating: 'понятый',
     partOfSpeechCode: 'j',
     skyId: '126446'
   },
   {
     targetWord: 'understructure',
-    translation: 'фундамент',
+    translating: 'фундамент',
     partOfSpeechCode: 'n',
     skyId: '95935'
   },
   {
     targetWord: 'understudy',
-    translation: 'дублировать',
+    translating: 'дублировать',
     partOfSpeechCode: 'v',
     skyId: '7330'
   },
   {
     targetWord: 'understudy',
-    translation: 'дублёр',
+    translating: 'дублёр',
     partOfSpeechCode: 'n',
     skyId: '7329'
   },
   {
     targetWord: 'undersurface',
-    translation: 'нижняя поверхность',
+    translating: 'нижняя поверхность',
     partOfSpeechCode: 'n',
     skyId: '128523'
   },
   {
     targetWord: 'undertake',
-    translation: 'осуществлять',
+    translating: 'осуществлять',
     partOfSpeechCode: 'v',
     skyId: '245043'
   },
   {
     targetWord: 'undertake',
-    translation: 'заключать контракт',
+    translating: 'заключать контракт',
     partOfSpeechCode: 'v',
     skyId: '224705'
   },
   {
     targetWord: 'undertake',
-    translation: 'обязываться',
+    translating: 'обязываться',
     partOfSpeechCode: 'v',
     skyId: '224704'
   },
   {
     targetWord: 'undertake',
-    translation: 'брать на себя',
+    translating: 'брать на себя',
     partOfSpeechCode: 'v',
     skyId: '224706'
   },
   {
     targetWord: 'undertake',
-    translation: 'принимать ответственность за',
+    translating: 'принимать ответственность за',
     partOfSpeechCode: 'v',
     skyId: '224702'
   },
   {
     targetWord: 'undertake research',
-    translation: 'проводить исследование, проводить научное исследование',
+    translating: 'проводить исследование, проводить научное исследование',
     partOfSpeechCode: 'ph',
     skyId: '263196'
   },
   {
     targetWord: 'undertaker',
-    translation: 'сотрудник похоронного бюро',
+    translating: 'сотрудник похоронного бюро',
     partOfSpeechCode: 'n',
     skyId: '141227'
   },
   {
     targetWord: 'undertaking',
-    translation: 'похоронное бюро',
+    translating: 'похоронное бюро',
     partOfSpeechCode: 'n',
     skyId: '91569'
   },
   {
     targetWord: 'undertaking',
-    translation: 'дело',
+    translating: 'дело',
     partOfSpeechCode: 'n',
     skyId: '91568'
   },
   {
     targetWord: 'undertone',
-    translation: 'оттенок',
+    translating: 'оттенок',
     partOfSpeechCode: 'n',
     skyId: '17222'
   },
   {
     targetWord: 'undertone',
-    translation: 'полутон',
+    translating: 'полутон',
     partOfSpeechCode: 'n',
     skyId: '17221'
   },
   {
     targetWord: 'undertow',
-    translation: 'низовое подводное течение',
+    translating: 'низовое подводное течение',
     partOfSpeechCode: 'n',
     skyId: '83126'
   },
   {
     targetWord: 'undertow',
-    translation: 'скрытая тенденция',
+    translating: 'скрытая тенденция',
     partOfSpeechCode: 'n',
     skyId: '83125'
   },
   {
     targetWord: 'underutilised',
-    translation: 'слабо используемый',
+    translating: 'слабо используемый',
     partOfSpeechCode: 'j',
     skyId: '261731'
   },
   {
     targetWord: 'undervaluation',
-    translation: 'недооценка',
+    translating: 'недооценка',
     partOfSpeechCode: 'n',
     skyId: '166622'
   },
   {
     targetWord: 'undervalue',
-    translation: 'недооценивать',
+    translating: 'недооценивать',
     partOfSpeechCode: 'v',
     skyId: '166692'
   },
   {
     targetWord: 'undervalued',
-    translation: 'недооцененный',
+    translating: 'недооцененный',
     partOfSpeechCode: 'j',
     skyId: '235702'
   },
   {
     targetWord: 'undervoltage protection',
-    translation: 'защита минимального напряжения',
+    translating: 'защита минимального напряжения',
     partOfSpeechCode: 'n',
     skyId: '247866'
   },
   {
     targetWord: 'underwater',
-    translation: 'подземные воды',
+    translating: 'подземные воды',
     partOfSpeechCode: 'n',
     skyId: '232603'
   },
   {
     targetWord: 'underwater',
-    translation: 'подводный',
+    translating: 'подводный',
     partOfSpeechCode: 'j',
     skyId: '226403'
   },
   {
     targetWord: 'underwater city',
-    translation: 'подводный город',
+    translating: 'подводный город',
     partOfSpeechCode: 'n',
     skyId: '256095'
   },
   {
     targetWord: 'underwater diver',
-    translation: 'водолаз',
+    translating: 'водолаз',
     partOfSpeechCode: 'n',
     skyId: '63372'
   },
   {
     targetWord: 'underway',
-    translation: 'в стадии реализации',
+    translating: 'в стадии реализации',
     partOfSpeechCode: 'j',
     skyId: '152242'
   },
   {
     targetWord: 'underwear',
-    translation: 'нижнее белье',
+    translating: 'нижнее белье',
     partOfSpeechCode: 'n',
     skyId: '43129'
   },
   {
     targetWord: 'underweight',
-    translation: 'слишком худой',
+    translating: 'слишком худой',
     partOfSpeechCode: 'j',
     skyId: '19654'
   },
   {
     targetWord: 'underwhelm',
-    translation: 'не приводить в восторг',
+    translating: 'не приводить в восторг',
     partOfSpeechCode: 'v',
     skyId: '262216'
   },
   {
     targetWord: 'underwing',
-    translation: 'ленточницы',
+    translating: 'ленточницы',
     partOfSpeechCode: 'n',
     skyId: '21160'
   },
   {
     targetWord: 'underwood',
-    translation: 'подлесок',
+    translating: 'подлесок',
     partOfSpeechCode: 'n',
     skyId: '83527'
   },
   {
     targetWord: 'underworld',
-    translation: 'загробный мир',
+    translating: 'загробный мир',
     partOfSpeechCode: 'n',
     skyId: '101833'
   },
   {
     targetWord: 'underworld',
-    translation: 'преступный мир',
+    translating: 'преступный мир',
     partOfSpeechCode: 'n',
     skyId: '101832'
   },
   {
     targetWord: 'underwrite',
-    translation: 'страховать',
+    translating: 'страховать',
     partOfSpeechCode: 'v',
     skyId: '163950'
   },
   {
     targetWord: 'underwrite',
-    translation: 'обещать финансовую поддержку',
+    translating: 'обещать финансовую поддержку',
     partOfSpeechCode: 'v',
     skyId: '163949'
   },
   {
     targetWord: 'underwriter',
-    translation: 'страховой агент',
+    translating: 'страховой агент',
     partOfSpeechCode: 'n',
     skyId: '152759'
   },
   {
     targetWord: 'underwriter',
-    translation: 'страховщик',
+    translating: 'страховщик',
     partOfSpeechCode: 'n',
     skyId: '152758'
   },
   {
     targetWord: 'undescended testicle',
-    translation: 'неопущение яичка',
+    translating: 'неопущение яичка',
     partOfSpeechCode: 'n',
     skyId: '108235'
   },
   {
     targetWord: 'undeserved',
-    translation: 'незаслуженный',
+    translating: 'незаслуженный',
     partOfSpeechCode: 'j',
     skyId: '145378'
   },
   {
     targetWord: 'undeservedly',
-    translation: 'незаслуженно',
+    translating: 'незаслуженно',
     partOfSpeechCode: 'r',
     skyId: '135902'
   },
   {
     targetWord: 'undeserving',
-    translation: 'недостойный',
+    translating: 'недостойный',
     partOfSpeechCode: 'j',
     skyId: '62020'
   },
   {
     targetWord: 'undesigned',
-    translation: 'неумышленный',
+    translating: 'неумышленный',
     partOfSpeechCode: 'j',
     skyId: '227685'
   },
   {
     targetWord: 'undesirable',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '172829'
   },
   {
     targetWord: 'undesirable',
-    translation: 'нежелательный',
+    translating: 'нежелательный',
     partOfSpeechCode: 'j',
     skyId: '172828'
   },
   {
     targetWord: 'undesirable',
-    translation: 'нежелательное лицо',
+    translating: 'нежелательное лицо',
     partOfSpeechCode: 'n',
     skyId: '172827'
   },
   {
     targetWord: 'undesired',
-    translation: 'нежелательный',
+    translating: 'нежелательный',
     partOfSpeechCode: 'j',
     skyId: '134894'
   },
   {
     targetWord: 'undesirous',
-    translation: 'нежелающий',
+    translating: 'нежелающий',
     partOfSpeechCode: 'j',
     skyId: '41782'
   },
   {
     targetWord: 'undetectable',
-    translation: 'неопределяемый',
+    translating: 'неопределяемый',
     partOfSpeechCode: 'j',
     skyId: '181698'
   },
   {
     targetWord: 'undetectable',
-    translation: 'необнаружимый',
+    translating: 'необнаружимый',
     partOfSpeechCode: 'j',
     skyId: '181697'
   },
   {
     targetWord: 'undetected',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '7799'
   },
   {
     targetWord: 'undeterminable',
-    translation: 'неопределимый',
+    translating: 'неопределимый',
     partOfSpeechCode: 'j',
     skyId: '60594'
   },
   {
     targetWord: 'undetermined',
-    translation: 'неопределённый',
+    translating: 'неопределённый',
     partOfSpeechCode: 'j',
     skyId: '42206'
   },
   {
     targetWord: 'undeterred',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '117106'
   },
   {
     targetWord: 'undeveloped',
-    translation: 'неразвитый',
+    translating: 'неразвитый',
     partOfSpeechCode: 'j',
     skyId: '113572'
   },
   {
     targetWord: 'undiagnosed',
-    translation: 'недиагностированный',
+    translating: 'недиагностированный',
     partOfSpeechCode: 'j',
     skyId: '66137'
   },
   {
     targetWord: 'undifferentiated',
-    translation: 'недифференцированный',
+    translating: 'недифференцированный',
     partOfSpeechCode: 'j',
     skyId: '216591'
   },
   {
     targetWord: 'undignified',
-    translation: 'недостойный',
+    translating: 'недостойный',
     partOfSpeechCode: 'j',
     skyId: '185607'
   },
   {
     targetWord: 'undiluted',
-    translation: 'неразбавленный',
+    translating: 'неразбавленный',
     partOfSpeechCode: 'j',
     skyId: '78049'
   },
   {
     targetWord: 'undiminished',
-    translation: 'неуменьшенный',
+    translating: 'неуменьшенный',
     partOfSpeechCode: 'j',
     skyId: '17907'
   },
   {
     targetWord: 'undimmed',
-    translation: 'непотускневший',
+    translating: 'непотускневший',
     partOfSpeechCode: 'j',
     skyId: '169555'
   },
   {
     targetWord: 'undiplomatic',
-    translation: 'недипломатичный',
+    translating: 'недипломатичный',
     partOfSpeechCode: 'j',
     skyId: '54283'
   },
   {
     targetWord: 'undiplomatically',
-    translation: 'недипломатично',
+    translating: 'недипломатично',
     partOfSpeechCode: 'r',
     skyId: '162146'
   },
   {
     targetWord: 'undiscerning',
-    translation: 'не проницательный человек',
+    translating: 'не проницательный человек',
     partOfSpeechCode: 'j',
     skyId: '150336'
   },
   {
     targetWord: 'undiscipline',
-    translation: 'недисциплинированность',
+    translating: 'недисциплинированность',
     partOfSpeechCode: 'n',
     skyId: '100841'
   },
   {
     targetWord: 'undisciplined',
-    translation: 'недисциплинированный',
+    translating: 'недисциплинированный',
     partOfSpeechCode: 'j',
     skyId: '16645'
   },
   {
     targetWord: 'undisclosed',
-    translation: 'неизвестный',
+    translating: 'неизвестный',
     partOfSpeechCode: 'j',
     skyId: '186812'
   },
   {
     targetWord: 'undiscovered',
-    translation: 'неоткрытый',
+    translating: 'неоткрытый',
     partOfSpeechCode: 'j',
     skyId: '37267'
   },
   {
     targetWord: 'undiscovered',
-    translation: 'неисследованный',
+    translating: 'неисследованный',
     partOfSpeechCode: 'j',
     skyId: '37266'
   },
   {
     targetWord: 'undiscriminating',
-    translation: 'неразборчивый',
+    translating: 'неразборчивый',
     partOfSpeechCode: 'j',
     skyId: '23017'
   },
   {
     targetWord: 'undisguised',
-    translation: 'нескрываемый',
+    translating: 'нескрываемый',
     partOfSpeechCode: 'j',
     skyId: '87394'
   },
   {
     targetWord: 'undismayed',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '135889'
   },
   {
     targetWord: 'undisputable',
-    translation: 'бесспорный',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyId: '117168'
   },
   {
     targetWord: 'undisputed',
-    translation: 'неоспоримый',
+    translating: 'неоспоримый',
     partOfSpeechCode: 'j',
     skyId: '127411'
   },
   {
     targetWord: 'undisputedly',
-    translation: 'бесспорно',
+    translating: 'бесспорно',
     partOfSpeechCode: 'r',
     skyId: '116063'
   },
   {
     targetWord: 'undissolved',
-    translation: 'нерастворённый',
+    translating: 'нерастворённый',
     partOfSpeechCode: 'j',
     skyId: '75117'
   },
   {
     targetWord: 'undistinguished',
-    translation: 'малозаметный',
+    translating: 'малозаметный',
     partOfSpeechCode: 'j',
     skyId: '132430'
   },
   {
     targetWord: 'undistorted',
-    translation: 'неискажённый',
+    translating: 'неискажённый',
     partOfSpeechCode: 'j',
     skyId: '60486'
   },
   {
     targetWord: 'undisturbed',
-    translation: 'спокойный',
+    translating: 'спокойный',
     partOfSpeechCode: 'j',
     skyId: '157381'
   },
   {
     targetWord: 'undividable',
-    translation: 'неделимый',
+    translating: 'неделимый',
     partOfSpeechCode: 'j',
     skyId: '37763'
   },
   {
     targetWord: 'undivided',
-    translation: 'неделимый',
+    translating: 'неделимый',
     partOfSpeechCode: 'j',
     skyId: '6453'
   },
   {
     targetWord: 'undivided',
-    translation: 'неразделённый',
+    translating: 'неразделённый',
     partOfSpeechCode: 'j',
     skyId: '6452'
   },
   {
     targetWord: 'undivided',
-    translation: 'единодушный',
+    translating: 'единодушный',
     partOfSpeechCode: 'j',
     skyId: '6450'
   },
   {
     targetWord: 'undivided interest',
-    translation: 'общая собственность',
+    translating: 'общая собственность',
     partOfSpeechCode: 'n',
     skyId: '160498'
   },
   {
     targetWord: 'undo',
-    translation: 'отменять ',
+    translating: 'отменять ',
     partOfSpeechCode: 'v',
     skyId: '239476'
   },
   {
     targetWord: 'undo',
-    translation: 'развязывать ',
+    translating: 'развязывать ',
     partOfSpeechCode: 'v',
     skyId: '239475'
   },
   {
     targetWord: 'undo',
-    translation: 'распаковывать',
+    translating: 'распаковывать',
     partOfSpeechCode: 'v',
     skyId: '212122'
   },
   {
     targetWord: 'undo',
-    translation: 'развязать',
+    translating: 'развязать',
     partOfSpeechCode: 'v',
     skyId: '212121'
   },
   {
     targetWord: 'undo',
-    translation: 'падать',
+    translating: 'падать',
     partOfSpeechCode: 'v',
     skyId: '212120'
   },
   {
     targetWord: 'undo',
-    translation: 'разбирать',
+    translating: 'разбирать',
     partOfSpeechCode: 'v',
     skyId: '212119'
   },
   {
     targetWord: 'undo',
-    translation: 'отменить действие',
+    translating: 'отменить действие',
     partOfSpeechCode: 'v',
     skyId: '212118'
   },
   {
     targetWord: 'undock',
-    translation: 'отстыковка',
+    translating: 'отстыковка',
     partOfSpeechCode: 'v',
     skyId: '73868'
   },
   {
     targetWord: 'undocumented',
-    translation: 'не имеющий документов',
+    translating: 'не имеющий документов',
     partOfSpeechCode: 'j',
     skyId: '164914'
   },
   {
     targetWord: 'undoer',
-    translation: 'разрушитель',
+    translating: 'разрушитель',
     partOfSpeechCode: 'n',
     skyId: '157840'
   },
   {
     targetWord: 'undoer',
-    translation: 'undoer',
+    translating: 'undoer',
     partOfSpeechCode: 'n',
     skyId: '157839'
   },
   {
     targetWord: 'undoing',
-    translation: 'развязывание',
+    translating: 'развязывание',
     partOfSpeechCode: 'n',
     skyId: '215562'
   },
   {
     targetWord: 'undoing',
-    translation: 'аннулирование',
+    translating: 'аннулирование',
     partOfSpeechCode: 'n',
     skyId: '215561'
   },
   {
     targetWord: 'undomestic',
-    translation: 'недомашний',
+    translating: 'недомашний',
     partOfSpeechCode: 'j',
     skyId: '168177'
   },
   {
     targetWord: 'undomesticated',
-    translation: 'неприрученный',
+    translating: 'неприрученный',
     partOfSpeechCode: 'j',
     skyId: '175359'
   },
   {
     targetWord: 'undomesticated',
-    translation: 'неосвоенный',
+    translating: 'неосвоенный',
     partOfSpeechCode: 'j',
     skyId: '175358'
   },
   {
     targetWord: 'undone',
-    translation: 'расстегнутый',
+    translating: 'расстегнутый',
     partOfSpeechCode: 'j',
     skyId: '167060'
   },
   {
     targetWord: 'undone',
-    translation: 'погибший',
+    translating: 'погибший',
     partOfSpeechCode: 'j',
     skyId: '167059'
   },
   {
     targetWord: 'undone',
-    translation: 'невыполненный',
+    translating: 'невыполненный',
     partOfSpeechCode: 'j',
     skyId: '167058'
   },
   {
     targetWord: 'undoubted',
-    translation: 'несомненный',
+    translating: 'несомненный',
     partOfSpeechCode: 'j',
     skyId: '242444'
   },
   {
     targetWord: 'undoubtedly',
-    translation: 'несомненно',
+    translating: 'несомненно',
     partOfSpeechCode: 'r',
     skyId: '101404'
   },
   {
     targetWord: 'undramatic',
-    translation: 'без драматизма',
+    translating: 'без драматизма',
     partOfSpeechCode: 'j',
     skyId: '25705'
   },
   {
     targetWord: 'undrawn',
-    translation: 'ненарисованный',
+    translating: 'ненарисованный',
     partOfSpeechCode: 'j',
     skyId: '64901'
   },
   {
     targetWord: 'undress',
-    translation: 'раздевать',
+    translating: 'раздевать',
     partOfSpeechCode: 'v',
     skyId: '211085'
   },
   {
     targetWord: 'undress',
-    translation: 'раздеваться',
+    translating: 'раздеваться',
     partOfSpeechCode: 'v',
     skyId: '211084'
   },
   {
     targetWord: 'undressed',
-    translation: 'раздетый',
+    translating: 'раздетый',
     partOfSpeechCode: 'j',
     skyId: '253332'
   },
   {
     targetWord: 'undressed',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '133252'
   },
   {
     targetWord: 'undulant fever',
-    translation: 'бруцеллёз',
+    translating: 'бруцеллёз',
     partOfSpeechCode: 'n',
     skyId: '12629'
   },
   {
     targetWord: 'undulate',
-    translation: 'волнистый',
+    translating: 'волнистый',
     partOfSpeechCode: 'j',
     skyId: '45162'
   },
   {
     targetWord: 'undulate',
-    translation: 'вызывать волнообразное движение',
+    translating: 'вызывать волнообразное движение',
     partOfSpeechCode: 'v',
     skyId: '45158'
   },
   {
     targetWord: 'undulate',
-    translation: 'волноваться',
+    translating: 'волноваться',
     partOfSpeechCode: 'v',
     skyId: '45161'
   },
   {
     targetWord: 'undulate',
-    translation: 'быть округлым',
+    translating: 'быть округлым',
     partOfSpeechCode: 'v',
     skyId: '45159'
   },
   {
     targetWord: 'undulation',
-    translation: 'волнение',
+    translating: 'волнение',
     partOfSpeechCode: 'n',
     skyId: '78348'
   },
   {
     targetWord: 'undulation',
-    translation: 'волнистость',
+    translating: 'волнистость',
     partOfSpeechCode: 'n',
     skyId: '78347'
   },
   {
     targetWord: 'unduly',
-    translation: 'чрезмерно',
+    translating: 'чрезмерно',
     partOfSpeechCode: 'r',
     skyId: '158514'
   },
   {
     targetWord: 'undutiful',
-    translation: 'непослушный',
+    translating: 'непослушный',
     partOfSpeechCode: 'j',
     skyId: '148958'
   },
   {
     targetWord: 'undyed',
-    translation: 'неокрашенной',
+    translating: 'неокрашенной',
     partOfSpeechCode: 'j',
     skyId: '170075'
   },
   {
     targetWord: 'undying',
-    translation: 'бессмертный',
+    translating: 'бессмертный',
     partOfSpeechCode: 'j',
     skyId: '33115'
   },
   {
     targetWord: 'uneager',
-    translation: 'uneager',
+    translating: 'uneager',
     partOfSpeechCode: 'j',
     skyId: '218162'
   },
   {
     targetWord: 'unearned',
-    translation: 'незаработанный',
+    translating: 'незаработанный',
     partOfSpeechCode: 'j',
     skyId: '132210'
   },
   {
     targetWord: 'unearth',
-    translation: 'отыскать',
+    translating: 'отыскать',
     partOfSpeechCode: 'v',
     skyId: '263775'
   },
   {
     targetWord: 'unearth',
-    translation: 'раскапывать',
+    translating: 'раскапывать',
     partOfSpeechCode: 'v',
     skyId: '155199'
   },
   {
     targetWord: 'unearth',
-    translation: 'раскрывать',
+    translating: 'раскрывать',
     partOfSpeechCode: 'v',
     skyId: '155198'
   },
   {
     targetWord: 'unearthly',
-    translation: 'неземной',
+    translating: 'неземной',
     partOfSpeechCode: 'j',
     skyId: '152852'
   },
   {
     targetWord: 'unease',
-    translation: 'беспокойство',
+    translating: 'беспокойство',
     partOfSpeechCode: 'n',
     skyId: '67119'
   },
   {
     targetWord: 'uneasily',
-    translation: 'беспокойно',
+    translating: 'беспокойно',
     partOfSpeechCode: 'r',
     skyId: '225509'
   },
   {
     targetWord: 'uneasiness',
-    translation: 'тревога',
+    translating: 'тревога',
     partOfSpeechCode: 'n',
     skyId: '99710'
   },
   {
     targetWord: 'uneasiness',
-    translation: 'взволнованность',
+    translating: 'взволнованность',
     partOfSpeechCode: 'n',
     skyId: '99709'
   },
   {
     targetWord: 'uneasiness',
-    translation: 'социальное беспокойство',
+    translating: 'социальное беспокойство',
     partOfSpeechCode: 'n',
     skyId: '99708'
   },
   {
     targetWord: 'uneasiness',
-    translation: 'недомогание',
+    translating: 'недомогание',
     partOfSpeechCode: 'n',
     skyId: '99707'
   },
   {
     targetWord: 'uneasiness',
-    translation: 'беспокойство',
+    translating: 'беспокойство',
     partOfSpeechCode: 'n',
     skyId: '99706'
   },
   {
     targetWord: 'uneasy',
-    translation: 'неудобный',
+    translating: 'неудобный',
     partOfSpeechCode: 'j',
     skyId: '67125'
   },
   {
     targetWord: 'uneasy',
-    translation: 'неловкий',
+    translating: 'неловкий',
     partOfSpeechCode: 'j',
     skyId: '67124'
   },
   {
     targetWord: 'uneasy',
-    translation: 'тревожный',
+    translating: 'тревожный',
     partOfSpeechCode: 'j',
     skyId: '239470'
   },
   {
     targetWord: 'uneasy',
-    translation: 'беспокойный',
+    translating: 'беспокойный',
     partOfSpeechCode: 'j',
     skyId: '67122'
   },
   {
     targetWord: 'uneatable',
-    translation: 'несъедобный',
+    translating: 'несъедобный',
     partOfSpeechCode: 'j',
     skyId: '172001'
   },
   {
     targetWord: 'uneaten',
-    translation: 'несъеденный',
+    translating: 'несъеденный',
     partOfSpeechCode: 'j',
     skyId: '266935'
   },
   {
     targetWord: 'uneconomical',
-    translation: 'неэкономичный',
+    translating: 'неэкономичный',
     partOfSpeechCode: 'j',
     skyId: '223426'
   },
   {
     targetWord: 'unedited',
-    translation: 'неотредактированный',
+    translating: 'неотредактированный',
     partOfSpeechCode: 'j',
     skyId: '88134'
   },
   {
     targetWord: 'uneducated',
-    translation: 'необразованный',
+    translating: 'необразованный',
     partOfSpeechCode: 'j',
     skyId: '70881'
   },
   {
     targetWord: 'uneducated person',
-    translation: 'необразованный человек',
+    translating: 'необразованный человек',
     partOfSpeechCode: 'n',
     skyId: '23666'
   },
   {
     targetWord: 'uneffective',
-    translation: 'неэффективный',
+    translating: 'неэффективный',
     partOfSpeechCode: 'j',
     skyId: '227500'
   },
   {
     targetWord: 'unembarrassed',
-    translation: 'нестеснительный',
+    translating: 'нестеснительный',
     partOfSpeechCode: 'j',
     skyId: '165053'
   },
   {
     targetWord: 'unembellished',
-    translation: 'незамысловатый',
+    translating: 'незамысловатый',
     partOfSpeechCode: 'j',
     skyId: '224427'
   },
   {
     targetWord: 'unembodied',
-    translation: 'невоплощённом',
+    translating: 'невоплощённом',
     partOfSpeechCode: 'j',
     skyId: '55893'
   },
   {
     targetWord: 'unemotional',
-    translation: 'бесстрастный',
+    translating: 'бесстрастный',
     partOfSpeechCode: 'j',
     skyId: '89560'
   },
   {
     targetWord: 'unemotional person',
-    translation: 'стоик',
+    translating: 'стоик',
     partOfSpeechCode: 'n',
     skyId: '175347'
   },
   {
     targetWord: 'unemotionally',
-    translation: 'бесстрастно',
+    translating: 'бесстрастно',
     partOfSpeechCode: 'r',
     skyId: '100154'
   },
   {
     targetWord: 'unemployable',
-    translation: 'нетрудособный',
+    translating: 'нетрудособный',
     partOfSpeechCode: 'j',
     skyId: '120310'
   },
   {
     targetWord: 'unemployed',
-    translation: 'безработный',
+    translating: 'безработный',
     partOfSpeechCode: 'j',
     skyId: '43342'
   },
   {
     targetWord: 'unemployed',
-    translation: 'безработный',
+    translating: 'безработный',
     partOfSpeechCode: 'n',
     skyId: '43342'
   },
   {
     targetWord: 'unemployed people',
-    translation: 'безработные',
+    translating: 'безработные',
     partOfSpeechCode: 'n',
     skyId: '118004'
   },
   {
     targetWord: 'unemployed person',
-    translation: 'безработный',
+    translating: 'безработный',
     partOfSpeechCode: 'n',
     skyId: '110075'
   },
   {
     targetWord: 'unemployment',
-    translation: 'уровень безработицы',
+    translating: 'уровень безработицы',
     partOfSpeechCode: 'n',
     skyId: '241837'
   },
   {
     targetWord: 'unemployment',
-    translation: 'безработица',
+    translating: 'безработица',
     partOfSpeechCode: 'n',
     skyId: '22703'
   },
   {
     targetWord: 'unemployment benefit',
-    translation: 'пособие по безработице',
+    translating: 'пособие по безработице',
     partOfSpeechCode: 'n',
     skyId: '239146'
   },
   {
     targetWord: 'unemployment compensation',
-    translation: 'пособие по безработице',
+    translating: 'пособие по безработице',
     partOfSpeechCode: 'n',
     skyId: '152769'
   },
   {
     targetWord: 'unemployment rate',
-    translation: 'уровень безработицы',
+    translating: 'уровень безработицы',
     partOfSpeechCode: 'ph',
     skyId: '231042'
   },
   {
     targetWord: 'unemployment rate',
-    translation: 'уровень безработицы',
+    translating: 'уровень безработицы',
     partOfSpeechCode: 'n',
     skyId: '231042'
   },
   {
     targetWord: 'unenclosed',
-    translation: 'неохваченной',
+    translating: 'неохваченной',
     partOfSpeechCode: 'j',
     skyId: '63877'
   },
   {
     targetWord: 'unencumbered',
-    translation: 'необремененный',
+    translating: 'необремененный',
     partOfSpeechCode: 'j',
     skyId: '83886'
   },
   {
     targetWord: 'unencumbered',
-    translation: 'необременённый',
+    translating: 'необременённый',
     partOfSpeechCode: 'j',
     skyId: '83885'
   },
   {
     targetWord: 'unended',
-    translation: 'незаконченный',
+    translating: 'незаконченный',
     partOfSpeechCode: 'j',
     skyId: '170803'
   },
   {
     targetWord: 'unending',
-    translation: 'бесконечный',
+    translating: 'бесконечный',
     partOfSpeechCode: 'j',
     skyId: '219402'
   },
   {
     targetWord: 'unendingly',
-    translation: 'беспрестанно',
+    translating: 'беспрестанно',
     partOfSpeechCode: 'r',
     skyId: '66154'
   },
   {
     targetWord: 'unendowed',
-    translation: 'обделённый',
+    translating: 'обделённый',
     partOfSpeechCode: 'j',
     skyId: '98148'
   },
   {
     targetWord: 'unendurable',
-    translation: 'невыносимый',
+    translating: 'невыносимый',
     partOfSpeechCode: 'j',
     skyId: '83051'
   },
   {
     targetWord: 'unenergetic',
-    translation: 'unenergetic',
+    translating: 'unenergetic',
     partOfSpeechCode: 'j',
     skyId: '136702'
   },
   {
     targetWord: 'unenforceable',
-    translation: 'юридически недействительный',
+    translating: 'юридически недействительный',
     partOfSpeechCode: 'j',
     skyId: '19677'
   },
   {
     targetWord: 'unenforced',
-    translation: 'неисполненный',
+    translating: 'неисполненный',
     partOfSpeechCode: 'j',
     skyId: '83062'
   },
   {
     targetWord: 'unengaged',
-    translation: 'не связанный обязательством',
+    translating: 'не связанный обязательством',
     partOfSpeechCode: 'j',
     skyId: '181736'
   },
   {
     targetWord: 'unengaged',
-    translation: 'незанятым',
+    translating: 'незанятым',
     partOfSpeechCode: 'j',
     skyId: '181737'
   },
   {
     targetWord: 'unenlightened',
-    translation: 'непросвещённый',
+    translating: 'непросвещённый',
     partOfSpeechCode: 'j',
     skyId: '100450'
   },
   {
     targetWord: 'unenlightening',
-    translation: 'не проливающий свет',
+    translating: 'не проливающий свет',
     partOfSpeechCode: 'j',
     skyId: '141602'
   },
   {
     targetWord: 'unenlivened',
-    translation: 'лишённый живости',
+    translating: 'лишённый живости',
     partOfSpeechCode: 'j',
     skyId: '20789'
   },
   {
     targetWord: 'unenrgetic',
-    translation: 'unenrgetic',
+    translating: 'unenrgetic',
     partOfSpeechCode: 'j',
     skyId: '123166'
   },
   {
     targetWord: 'unenthusiastic',
-    translation: 'невосторженный',
+    translating: 'невосторженный',
     partOfSpeechCode: 'j',
     skyId: '76211'
   },
   {
     targetWord: 'unentitled',
-    translation: 'не неуправомоченный',
+    translating: 'не неуправомоченный',
     partOfSpeechCode: 'j',
     skyId: '13430'
   },
   {
     targetWord: 'unenviable',
-    translation: 'незавидный',
+    translating: 'незавидный',
     partOfSpeechCode: 'j',
     skyId: '83542'
   },
   {
     targetWord: 'unenviable',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '83541'
   },
   {
     targetWord: 'unequal',
-    translation: 'несоответствующий',
+    translating: 'несоответствующий',
     partOfSpeechCode: 'j',
     skyId: '33014'
   },
   {
     targetWord: 'unequal',
-    translation: 'неравноценный',
+    translating: 'неравноценный',
     partOfSpeechCode: 'j',
     skyId: '33013'
   },
   {
     targetWord: 'unequaled',
-    translation: 'бесподобный',
+    translating: 'бесподобный',
     partOfSpeechCode: 'j',
     skyId: '129402'
   },
   {
     targetWord: 'unequipped',
-    translation: 'необорудованный',
+    translating: 'необорудованный',
     partOfSpeechCode: 'j',
     skyId: '114529'
   },
   {
     targetWord: 'unequivocally',
-    translation: 'определенно',
+    translating: 'определенно',
     partOfSpeechCode: 'r',
     skyId: '1560'
   },
   {
     targetWord: 'unerring',
-    translation: 'безошибочный',
+    translating: 'безошибочный',
     partOfSpeechCode: 'j',
     skyId: '3391'
   },
   {
     targetWord: 'unethical',
-    translation: 'неэтичный',
+    translating: 'неэтичный',
     partOfSpeechCode: 'j',
     skyId: '158786'
   },
   {
     targetWord: 'unethically',
-    translation: 'неэтично',
+    translating: 'неэтично',
     partOfSpeechCode: 'r',
     skyId: '223883'
   },
   {
     targetWord: 'uneven',
-    translation: 'неравномерный',
+    translating: 'неравномерный',
     partOfSpeechCode: 'j',
     skyId: '172116'
   },
   {
     targetWord: 'uneven',
-    translation: 'нечетный',
+    translating: 'нечетный',
     partOfSpeechCode: 'j',
     skyId: '172115'
   },
   {
     targetWord: 'uneven',
-    translation: 'неравный',
+    translating: 'неравный',
     partOfSpeechCode: 'j',
     skyId: '172114'
   },
   {
     targetWord: 'uneven',
-    translation: 'неровный',
+    translating: 'неровный',
     partOfSpeechCode: 'j',
     skyId: '172117'
   },
   {
     targetWord: 'uneven soil',
-    translation: 'неравномерный грунт',
+    translating: 'неравномерный грунт',
     partOfSpeechCode: 'n',
     skyId: '246556'
   },
   {
     targetWord: 'unevenly',
-    translation: 'неровно',
+    translating: 'неровно',
     partOfSpeechCode: 'r',
     skyId: '103364'
   },
   {
     targetWord: 'unevenly',
-    translation: 'неравномерно',
+    translating: 'неравномерно',
     partOfSpeechCode: 'r',
     skyId: '103362'
   },
   {
     targetWord: 'unevenness',
-    translation: 'неравномерность',
+    translating: 'неравномерность',
     partOfSpeechCode: 'n',
     skyId: '16346'
   },
   {
     targetWord: 'uneventful',
-    translation: 'без особых событий',
+    translating: 'без особых событий',
     partOfSpeechCode: 'j',
     skyId: '58749'
   },
   {
     targetWord: 'uneventfully',
-    translation: 'буднично',
+    translating: 'буднично',
     partOfSpeechCode: 'r',
     skyId: '143334'
   },
   {
     targetWord: 'unexacting',
-    translation: 'невзыскательный',
+    translating: 'невзыскательный',
     partOfSpeechCode: 'j',
     skyId: '103522'
   },
   {
     targetWord: 'unexceptionable',
-    translation: 'безупречный',
+    translating: 'безупречный',
     partOfSpeechCode: 'j',
     skyId: '138689'
   },
   {
     targetWord: 'unexceptional',
-    translation: 'заурядный',
+    translating: 'заурядный',
     partOfSpeechCode: 'j',
     skyId: '127349'
   },
   {
     targetWord: 'unexchangeable',
-    translation: 'незаменяемый',
+    translating: 'незаменяемый',
     partOfSpeechCode: 'j',
     skyId: '114280'
   },
   {
     targetWord: 'unexcitable',
-    translation: 'невозмутимым',
+    translating: 'невозмутимым',
     partOfSpeechCode: 'j',
     skyId: '41597'
   },
   {
     targetWord: 'unexcited',
-    translation: 'невозбужденный',
+    translating: 'невозбужденный',
     partOfSpeechCode: 'j',
     skyId: '120871'
   },
   {
     targetWord: 'unexciting',
-    translation: 'неинтересный',
+    translating: 'неинтересный',
     partOfSpeechCode: 'j',
     skyId: '215423'
   },
   {
     targetWord: 'unexcitingly',
-    translation: 'unexcitingly',
+    translating: 'unexcitingly',
     partOfSpeechCode: 'r',
     skyId: '67454'
   },
   {
     targetWord: 'unexcused',
-    translation: 'без уважительной причины',
+    translating: 'без уважительной причины',
     partOfSpeechCode: 'j',
     skyId: '55836'
   },
   {
     targetWord: 'unexhausted',
-    translation: 'невычерпанный',
+    translating: 'невычерпанный',
     partOfSpeechCode: 'j',
     skyId: '106181'
   },
   {
     targetWord: 'unexpansive',
-    translation: 'unexpansive',
+    translating: 'unexpansive',
     partOfSpeechCode: 'j',
     skyId: '29173'
   },
   {
     targetWord: 'unexpected',
-    translation: 'неожиданный',
+    translating: 'неожиданный',
     partOfSpeechCode: 'j',
     skyId: '129217'
   },
   {
     targetWord: 'unexpectedness',
-    translation: 'неожиданность',
+    translating: 'неожиданность',
     partOfSpeechCode: 'n',
     skyId: '178275'
   },
   {
     targetWord: 'unexpendable',
-    translation: 'абсолютно необходимый',
+    translating: 'абсолютно необходимый',
     partOfSpeechCode: 'j',
     skyId: '219876'
   },
   {
     targetWord: 'unexpended',
-    translation: 'неизрасходованный',
+    translating: 'неизрасходованный',
     partOfSpeechCode: 'j',
     skyId: '176528'
   },
   {
     targetWord: 'unexpired',
-    translation: 'неистекший',
+    translating: 'неистекший',
     partOfSpeechCode: 'j',
     skyId: '27512'
   },
   {
     targetWord: 'unexplained',
-    translation: 'необъяснимый',
+    translating: 'необъяснимый',
     partOfSpeechCode: 'j',
     skyId: '32849'
   },
   {
     targetWord: 'unexplained',
-    translation: 'невыясненный',
+    translating: 'невыясненный',
     partOfSpeechCode: 'j',
     skyId: '32848'
   },
   {
     targetWord: 'unexploded',
-    translation: 'неразорвавшийся',
+    translating: 'неразорвавшийся',
     partOfSpeechCode: 'j',
     skyId: '117468'
   },
   {
     targetWord: 'unexploited',
-    translation: 'неиспользованный',
+    translating: 'неиспользованный',
     partOfSpeechCode: 'j',
     skyId: '71608'
   },
   {
     targetWord: 'unexplored',
-    translation: 'неизведанный',
+    translating: 'неизведанный',
     partOfSpeechCode: 'j',
     skyId: '44285'
   },
   {
     targetWord: 'unexpressed',
-    translation: 'невыраженный',
+    translating: 'невыраженный',
     partOfSpeechCode: 'j',
     skyId: '120866'
   },
   {
     targetWord: 'unexpurgated',
-    translation: 'без купюр',
+    translating: 'без купюр',
     partOfSpeechCode: 'j',
     skyId: '216961'
   },
   {
     targetWord: 'unextended',
-    translation: 'нерасширяемый',
+    translating: 'нерасширяемый',
     partOfSpeechCode: 'j',
     skyId: '162276'
   },
   {
     targetWord: 'unfailing',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '36102'
   },
   {
     targetWord: 'unfailingly',
-    translation: 'безотказно',
+    translating: 'безотказно',
     partOfSpeechCode: 'r',
     skyId: '124326'
   },
   {
     targetWord: 'unfair',
-    translation: 'нечестный',
+    translating: 'нечестный',
     partOfSpeechCode: 'j',
     skyId: '241838'
   },
   {
     targetWord: 'unfair',
-    translation: 'несправедливый',
+    translating: 'несправедливый',
     partOfSpeechCode: 'j',
     skyId: '149946'
   },
   {
     targetWord: 'unfair advantage',
-    translation: 'несправедливое преимущество',
+    translating: 'несправедливое преимущество',
     partOfSpeechCode: 'n',
     skyId: '239144'
   },
   {
     targetWord: 'unfair dismissal',
-    translation: 'несправедливое увольнение',
+    translating: 'несправедливое увольнение',
     partOfSpeechCode: 'n',
     skyId: '239143'
   },
   {
     targetWord: 'unfairly',
-    translation: 'несправедливо',
+    translating: 'несправедливо',
     partOfSpeechCode: 'r',
     skyId: '112273'
   },
   {
     targetWord: 'unfairness',
-    translation: 'несправедливость',
+    translating: 'несправедливость',
     partOfSpeechCode: 'n',
     skyId: '82000'
   },
   {
     targetWord: 'unfaithful',
-    translation: 'предательский',
+    translating: 'предательский',
     partOfSpeechCode: 'j',
     skyId: '183159'
   },
   {
     targetWord: 'unfaithful',
-    translation: 'неблагонадёжный',
+    translating: 'неблагонадёжный',
     partOfSpeechCode: 'j',
     skyId: '183160'
   },
   {
     targetWord: 'unfaithful',
-    translation: 'неверный',
+    translating: 'неверный',
     partOfSpeechCode: 'j',
     skyId: '183158'
   },
   {
     targetWord: 'unfaithfully',
-    translation: 'ненадёжно',
+    translating: 'ненадёжно',
     partOfSpeechCode: 'r',
     skyId: '112528'
   },
   {
     targetWord: 'unfaithfulness',
-    translation: 'неверность',
+    translating: 'неверность',
     partOfSpeechCode: 'n',
     skyId: '34767'
   },
   {
     targetWord: 'unfaltering',
-    translation: 'решительный',
+    translating: 'решительный',
     partOfSpeechCode: 'j',
     skyId: '143826'
   },
   {
     targetWord: 'unfamiliar',
-    translation: 'незнакомый',
+    translating: 'незнакомый',
     partOfSpeechCode: 'j',
     skyId: '136277'
   },
   {
     targetWord: 'unfamiliar with',
-    translation: 'не знакомый с',
+    translating: 'не знакомый с',
     partOfSpeechCode: 'j',
     skyId: '85468'
   },
   {
     targetWord: 'unfamiliarity',
-    translation: 'незнакомство',
+    translating: 'незнакомство',
     partOfSpeechCode: 'n',
     skyId: '214564'
   },
   {
     targetWord: 'unfashionable',
-    translation: 'немодный',
+    translating: 'немодный',
     partOfSpeechCode: 'j',
     skyId: '239465'
   },
   {
     targetWord: 'unfashionably',
-    translation: 'немодно',
+    translating: 'немодно',
     partOfSpeechCode: 'r',
     skyId: '125902'
   },
   {
     targetWord: 'unfasten',
-    translation: 'отстегивать',
+    translating: 'отстегивать',
     partOfSpeechCode: 'v',
     skyId: '180343'
   },
   {
     targetWord: 'unfastened',
-    translation: 'незапертый',
+    translating: 'незапертый',
     partOfSpeechCode: 'j',
     skyId: '180345'
   },
   {
     targetWord: 'unfastened',
-    translation: 'расстёгнутый',
+    translating: 'расстёгнутый',
     partOfSpeechCode: 'j',
     skyId: '180346'
   },
   {
     targetWord: 'unfastener',
-    translation: 'тот, кто открывает',
+    translating: 'тот, кто открывает',
     partOfSpeechCode: 'n',
     skyId: '180323'
   },
   {
     targetWord: 'unfastening',
-    translation: 'развязывание',
+    translating: 'развязывание',
     partOfSpeechCode: 'n',
     skyId: '58952'
   },
   {
     targetWord: 'unfastidious',
-    translation: 'невнимательный',
+    translating: 'невнимательный',
     partOfSpeechCode: 'j',
     skyId: '65325'
   },
   {
     targetWord: 'unfathomable',
-    translation: 'непостижимый',
+    translating: 'непостижимый',
     partOfSpeechCode: 'j',
     skyId: '155092'
   },
   {
     targetWord: 'unfathomable',
-    translation: 'неизмеримый',
+    translating: 'неизмеримый',
     partOfSpeechCode: 'j',
     skyId: '155090'
   },
   {
     targetWord: 'unfathomed',
-    translation: 'неизмеримый',
+    translating: 'неизмеримый',
     partOfSpeechCode: 'j',
     skyId: '67932'
   },
   {
     targetWord: 'unfavorable',
-    translation: 'неблагоприятный',
+    translating: 'неблагоприятный',
     partOfSpeechCode: 'j',
     skyId: '30747'
   },
   {
     targetWord: 'unfavorable judgment',
-    translation: 'неприятное суждение',
+    translating: 'неприятное суждение',
     partOfSpeechCode: 'n',
     skyId: '160781'
   },
   {
     targetWord: 'unfavorable position',
-    translation: 'неблагоприятное положение',
+    translating: 'неблагоприятное положение',
     partOfSpeechCode: 'n',
     skyId: '142773'
   },
   {
     targetWord: 'unfavorably',
-    translation: 'неблагоприятно',
+    translating: 'неблагоприятно',
     partOfSpeechCode: 'r',
     skyId: '30730'
   },
   {
     targetWord: 'unfavourable',
-    translation: 'неблагосклонный',
+    translating: 'неблагосклонный',
     partOfSpeechCode: 'j',
     skyId: '7110'
   },
   {
     targetWord: 'unfavourable',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '7108'
   },
   {
     targetWord: 'unfavourable',
-    translation: 'неблагоприятный',
+    translating: 'неблагоприятный',
     partOfSpeechCode: 'j',
     skyId: '248269'
   },
   {
     targetWord: 'unfavourably',
-    translation: 'неблагоприятно',
+    translating: 'неблагоприятно',
     partOfSpeechCode: 'r',
     skyId: '7133'
   },
   {
     targetWord: 'unfeasible',
-    translation: 'неосуществимый',
+    translating: 'неосуществимый',
     partOfSpeechCode: 'j',
     skyId: '63208'
   },
   {
     targetWord: 'unfeathered',
-    translation: 'unfeathered',
+    translating: 'unfeathered',
     partOfSpeechCode: 'j',
     skyId: '37623'
   },
   {
     targetWord: 'unfed',
-    translation: 'ненакормленный',
+    translating: 'ненакормленный',
     partOfSpeechCode: 'j',
     skyId: '153674'
   },
   {
     targetWord: 'unfeeling',
-    translation: 'бесчувственный',
+    translating: 'бесчувственный',
     partOfSpeechCode: 'j',
     skyId: '127298'
   },
   {
     targetWord: 'unfeelingly',
-    translation: 'бесчувственно',
+    translating: 'бесчувственно',
     partOfSpeechCode: 'r',
     skyId: '86937'
   },
   {
     targetWord: 'unfeigned',
-    translation: 'неподдельный',
+    translating: 'неподдельный',
     partOfSpeechCode: 'j',
     skyId: '11370'
   },
   {
     targetWord: 'unfeignedly',
-    translation: 'искренне',
+    translating: 'искренне',
     partOfSpeechCode: 'r',
     skyId: '223800'
   },
   {
     targetWord: 'unfeminine',
-    translation: 'неженственный',
+    translating: 'неженственный',
     partOfSpeechCode: 'j',
     skyId: '140271'
   },
   {
     targetWord: 'unfertile',
-    translation: 'бесплодный',
+    translating: 'бесплодный',
     partOfSpeechCode: 'j',
     skyId: '89050'
   },
   {
     targetWord: 'unfettered',
-    translation: 'неограниченный',
+    translating: 'неограниченный',
     partOfSpeechCode: 'j',
     skyId: '189072'
   },
   {
     targetWord: 'unfinished',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '13546'
   },
   {
     targetWord: 'unfinished',
-    translation: 'незаконченный',
+    translating: 'незаконченный',
     partOfSpeechCode: 'j',
     skyId: '13545'
   },
   {
     targetWord: 'unfinished',
-    translation: 'недоделанный',
+    translating: 'недоделанный',
     partOfSpeechCode: 'j',
     skyId: '13544'
   },
   {
     targetWord: 'unfinished business',
-    translation: 'незаконченное дело',
+    translating: 'незаконченное дело',
     partOfSpeechCode: 'n',
     skyId: '176398'
   },
   {
     targetWord: 'unfirm',
-    translation: 'unfirm',
+    translating: 'unfirm',
     partOfSpeechCode: 'j',
     skyId: '73030'
   },
   {
     targetWord: 'unfit',
-    translation: 'в плохой физической форме',
+    translating: 'в плохой физической форме',
     partOfSpeechCode: 'j',
     skyId: '241839'
   },
   {
     targetWord: 'unfit',
-    translation: 'непригодный',
+    translating: 'непригодный',
     partOfSpeechCode: 'j',
     skyId: '239456'
   },
   {
     targetWord: 'unfit',
-    translation: 'больной',
+    translating: 'больной',
     partOfSpeechCode: 'j',
     skyId: '94575'
   },
   {
     targetWord: 'unfit',
-    translation: 'не в форме',
+    translating: 'не в форме',
     partOfSpeechCode: 'j',
     skyId: '94574'
   },
   {
     targetWord: 'unfit',
-    translation: 'негодный',
+    translating: 'негодный',
     partOfSpeechCode: 'j',
     skyId: '94573'
   },
@@ -7927,115 +7927,115 @@ export const uArr = [
   },
   {
     targetWord: 'unfitness',
-    translation: 'непригодность',
+    translating: 'непригодность',
     partOfSpeechCode: 'n',
     skyId: '73269'
   },
   {
     targetWord: 'unfitting',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '157304'
   },
   {
     targetWord: 'unfixable',
-    translation: 'неисправимый',
+    translating: 'неисправимый',
     partOfSpeechCode: 'j',
     skyId: '233566'
   },
   {
     targetWord: 'unfixed',
-    translation: 'неопределенный',
+    translating: 'неопределенный',
     partOfSpeechCode: 'j',
     skyId: '98982'
   },
   {
     targetWord: 'unfixed',
-    translation: 'незакрепленный',
+    translating: 'незакрепленный',
     partOfSpeechCode: 'j',
     skyId: '98981'
   },
   {
     targetWord: 'unflagging',
-    translation: 'неослабевающий',
+    translating: 'неослабевающий',
     partOfSpeechCode: 'j',
     skyId: '33313'
   },
   {
     targetWord: 'unflappable',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '29085'
   },
   {
     targetWord: 'unflattering',
-    translation: 'нелестный',
+    translating: 'нелестный',
     partOfSpeechCode: 'j',
     skyId: '115993'
   },
   {
     targetWord: 'unflavoured',
-    translation: 'без вкусовых добавок',
+    translating: 'без вкусовых добавок',
     partOfSpeechCode: 'j',
     skyId: '264909'
   },
   {
     targetWord: 'unfledged',
-    translation: 'зелёный',
+    translating: 'зелёный',
     partOfSpeechCode: 'j',
     skyId: '180543'
   },
   {
     targetWord: 'unfledged',
-    translation: 'неоперившийся',
+    translating: 'неоперившийся',
     partOfSpeechCode: 'j',
     skyId: '180542'
   },
   {
     targetWord: 'unflinching',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '34997'
   },
   {
     targetWord: 'unflurried',
-    translation: 'unflurried',
+    translating: 'unflurried',
     partOfSpeechCode: 'j',
     skyId: '170117'
   },
   {
     targetWord: 'unflustered',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '56055'
   },
   {
     targetWord: 'unfocused',
-    translation: 'несфокусированный',
+    translating: 'несфокусированный',
     partOfSpeechCode: 'j',
     skyId: '79693'
   },
   {
     targetWord: 'unfocussed',
-    translation: 'расфокусированный',
+    translating: 'расфокусированный',
     partOfSpeechCode: 'j',
     skyId: '181923'
   },
   {
     targetWord: 'unfold',
-    translation: 'развиваться ',
+    translating: 'развиваться ',
     partOfSpeechCode: 'v',
     skyId: '242457'
   },
   {
     targetWord: 'unfold',
-    translation: 'раскрываться',
+    translating: 'раскрываться',
     partOfSpeechCode: 'v',
     skyId: '198883'
   },
   {
     targetWord: 'unforbearing',
-    translation: 'нетерпеливый',
+    translating: 'нетерпеливый',
     partOfSpeechCode: 'j',
     skyId: '97645'
   },
@@ -8047,3541 +8047,3541 @@ export const uArr = [
   },
   {
     targetWord: 'unforced',
-    translation: 'невынужденных',
+    translating: 'невынужденных',
     partOfSpeechCode: 'j',
     skyId: '54602'
   },
   {
     targetWord: 'unforced',
-    translation: 'невынужденный',
+    translating: 'невынужденный',
     partOfSpeechCode: 'j',
     skyId: '54601'
   },
   {
     targetWord: 'unforeseeable',
-    translation: 'непредвиденный',
+    translating: 'непредвиденный',
     partOfSpeechCode: 'j',
     skyId: '154595'
   },
   {
     targetWord: 'unforeseen',
-    translation: 'непредвиденный',
+    translating: 'непредвиденный',
     partOfSpeechCode: 'j',
     skyId: '57354'
   },
   {
     targetWord: 'unforested',
-    translation: 'безлесной',
+    translating: 'безлесной',
     partOfSpeechCode: 'j',
     skyId: '184755'
   },
   {
     targetWord: 'unforfeitable',
-    translation: 'неотъемлемый',
+    translating: 'неотъемлемый',
     partOfSpeechCode: 'j',
     skyId: '110212'
   },
   {
     targetWord: 'unforgettable',
-    translation: 'незабываемый',
+    translating: 'незабываемый',
     partOfSpeechCode: 'j',
     skyId: '184921'
   },
   {
     targetWord: 'unforgivable',
-    translation: 'непростительный',
+    translating: 'непростительный',
     partOfSpeechCode: 'j',
     skyId: '169086'
   },
   {
     targetWord: 'unforgivably',
-    translation: 'непростительно',
+    translating: 'непростительно',
     partOfSpeechCode: 'r',
     skyId: '169095'
   },
   {
     targetWord: 'unforgiving',
-    translation: 'неумолимый',
+    translating: 'неумолимый',
     partOfSpeechCode: 'j',
     skyId: '190185'
   },
   {
     targetWord: 'unforgivingly',
-    translation: 'неумолимо',
+    translating: 'неумолимо',
     partOfSpeechCode: 'r',
     skyId: '177036'
   },
   {
     targetWord: 'unformed',
-    translation: 'несформированный',
+    translating: 'несформированный',
     partOfSpeechCode: 'j',
     skyId: '122087'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'невезучий',
+    translating: 'невезучий',
     partOfSpeechCode: 'j',
     skyId: '239700'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'прискорбный',
+    translating: 'прискорбный',
     partOfSpeechCode: 'j',
     skyId: '239699'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'неудачный',
+    translating: 'неудачный',
     partOfSpeechCode: 'j',
     skyId: '185947'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'несчастный',
+    translating: 'несчастный',
     partOfSpeechCode: 'j',
     skyId: '185949'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'злосчастный',
+    translating: 'злосчастный',
     partOfSpeechCode: 'j',
     skyId: '185948'
   },
   {
     targetWord: 'unfortunate',
-    translation: 'несчастный человек',
+    translating: 'несчастный человек',
     partOfSpeechCode: 'n',
     skyId: '185946'
   },
   {
     targetWord: 'unfortunate person',
-    translation: 'несчастный человек',
+    translating: 'несчастный человек',
     partOfSpeechCode: 'n',
     skyId: '168477'
   },
   {
     targetWord: 'unfortunately',
-    translation: 'к сожалению',
+    translating: 'к сожалению',
     partOfSpeechCode: 'r',
     skyId: '230743'
   },
   {
     targetWord: 'unfortunately, I’ll be busy',
-    translation: 'к сожалению, я буду занят',
+    translating: 'к сожалению, я буду занят',
     partOfSpeechCode: 'ph',
     skyId: '256856'
   },
   {
     targetWord: 'unfounded',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '121600'
   },
   {
     targetWord: 'unframed',
-    translation: 'рамы',
+    translating: 'рамы',
     partOfSpeechCode: 'j',
     skyId: '167468'
   },
   {
     targetWord: 'unfreeze',
-    translation: 'размораживать',
+    translating: 'размораживать',
     partOfSpeechCode: 'v',
     skyId: '171833'
   },
   {
     targetWord: 'unfrequented',
-    translation: 'малолюдный',
+    translating: 'малолюдный',
     partOfSpeechCode: 'j',
     skyId: '165085'
   },
   {
     targetWord: 'unfriendliness',
-    translation: 'неприязнь',
+    translating: 'неприязнь',
     partOfSpeechCode: 'n',
     skyId: '122069'
   },
   {
     targetWord: 'unfriendly',
-    translation: 'неприветливый',
+    translating: 'неприветливый',
     partOfSpeechCode: 'j',
     skyId: '254700'
   },
   {
     targetWord: 'unfriendly',
-    translation: 'недружественный',
+    translating: 'недружественный',
     partOfSpeechCode: 'j',
     skyId: '254701'
   },
   {
     targetWord: 'unfriendly',
-    translation: 'неудобный',
+    translating: 'неудобный',
     partOfSpeechCode: 'j',
     skyId: '222932'
   },
   {
     targetWord: 'unfriendly',
-    translation: 'недружелюбный',
+    translating: 'недружелюбный',
     partOfSpeechCode: 'j',
     skyId: '222935'
   },
   {
     targetWord: 'unfrock',
-    translation: 'лишать духовного сана',
+    translating: 'лишать духовного сана',
     partOfSpeechCode: 'v',
     skyId: '223094'
   },
   {
     targetWord: 'unfrozen',
-    translation: 'незамерзший',
+    translating: 'незамерзший',
     partOfSpeechCode: 'j',
     skyId: '171834'
   },
   {
     targetWord: 'unfruitful',
-    translation: 'напрасный',
+    translating: 'напрасный',
     partOfSpeechCode: 'j',
     skyId: '115406'
   },
   {
     targetWord: 'unfulfilled',
-    translation: 'не реализовавший себя',
+    translating: 'не реализовавший себя',
     partOfSpeechCode: 'j',
     skyId: '149616'
   },
   {
     targetWord: 'unfunded',
-    translation: 'без финансирования',
+    translating: 'без финансирования',
     partOfSpeechCode: 'j',
     skyId: '134721'
   },
   {
     targetWord: 'unfunny',
-    translation: 'несмешной',
+    translating: 'несмешной',
     partOfSpeechCode: 'j',
     skyId: '77876'
   },
   {
     targetWord: 'unfurl',
-    translation: 'развернуть',
+    translating: 'развернуть',
     partOfSpeechCode: 'v',
     skyId: '155930'
   },
   {
     targetWord: 'unfurrowed',
-    translation: 'невспаханный',
+    translating: 'невспаханный',
     partOfSpeechCode: 'j',
     skyId: '132882'
   },
   {
     targetWord: 'ungainly',
-    translation: 'неуклюжий',
+    translating: 'неуклюжий',
     partOfSpeechCode: 'j',
     skyId: '153960'
   },
   {
     targetWord: 'ungallant',
-    translation: 'ungallant',
+    translating: 'ungallant',
     partOfSpeechCode: 'j',
     skyId: '84379'
   },
   {
     targetWord: 'ungenerous',
-    translation: 'скупой',
+    translating: 'скупой',
     partOfSpeechCode: 'j',
     skyId: '191746'
   },
   {
     targetWord: 'ungenerous',
-    translation: 'невеликодушный',
+    translating: 'невеликодушный',
     partOfSpeechCode: 'j',
     skyId: '191745'
   },
   {
     targetWord: 'ungentle',
-    translation: 'невежливый',
+    translating: 'невежливый',
     partOfSpeechCode: 'j',
     skyId: '223568'
   },
   {
     targetWord: 'ungentlemanly',
-    translation: 'не джентльменский ',
+    translating: 'не джентльменский ',
     partOfSpeechCode: 'j',
     skyId: '30744'
   },
   {
     targetWord: 'unglamorous',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '84705'
   },
   {
     targetWord: 'unglazed',
-    translation: 'неглазурованная',
+    translating: 'неглазурованная',
     partOfSpeechCode: 'j',
     skyId: '22119'
   },
   {
     targetWord: 'ungodly',
-    translation: 'порочный',
+    translating: 'порочный',
     partOfSpeechCode: 'j',
     skyId: '188843'
   },
   {
     targetWord: 'ungovernable',
-    translation: 'неуправляемый',
+    translating: 'неуправляемый',
     partOfSpeechCode: 'j',
     skyId: '29846'
   },
   {
     targetWord: 'ungoverned',
-    translation: 'неуправляемый',
+    translating: 'неуправляемый',
     partOfSpeechCode: 'j',
     skyId: '80384'
   },
   {
     targetWord: 'ungoverned',
-    translation: 'неуправляемые',
+    translating: 'неуправляемые',
     partOfSpeechCode: 'j',
     skyId: '80383'
   },
   {
     targetWord: 'ungraceful',
-    translation: 'неловкий',
+    translating: 'неловкий',
     partOfSpeechCode: 'j',
     skyId: '113398'
   },
   {
     targetWord: 'ungracious',
-    translation: 'невежливый',
+    translating: 'невежливый',
     partOfSpeechCode: 'j',
     skyId: '8821'
   },
   {
     targetWord: 'ungracious',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '8820'
   },
   {
     targetWord: 'ungradable opposition',
-    translation: 'относительная оппозиция',
+    translating: 'относительная оппозиция',
     partOfSpeechCode: 'n',
     skyId: '134901'
   },
   {
     targetWord: 'ungrammatically',
-    translation: 'безграмотно',
+    translating: 'безграмотно',
     partOfSpeechCode: 'r',
     skyId: '132722'
   },
   {
     targetWord: 'ungrasped',
-    translation: 'ungrasped',
+    translating: 'ungrasped',
     partOfSpeechCode: 'j',
     skyId: '47117'
   },
   {
     targetWord: 'ungrateful',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '117482'
   },
   {
     targetWord: 'ungrateful',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '117481'
   },
   {
     targetWord: 'ungrateful person',
-    translation: 'неблагодарный человек',
+    translating: 'неблагодарный человек',
     partOfSpeechCode: 'n',
     skyId: '57126'
   },
   {
     targetWord: 'ungratefulness',
-    translation: 'неблагодарность',
+    translating: 'неблагодарность',
     partOfSpeechCode: 'n',
     skyId: '186164'
   },
   {
     targetWord: 'ungregarious',
-    translation: 'ungregarious',
+    translating: 'ungregarious',
     partOfSpeechCode: 'j',
     skyId: '63726'
   },
   {
     targetWord: 'ungroomed',
-    translation: 'неопрятный',
+    translating: 'неопрятный',
     partOfSpeechCode: 'j',
     skyId: '189845'
   },
   {
     targetWord: 'ungrudging',
-    translation: 'обильный',
+    translating: 'обильный',
     partOfSpeechCode: 'j',
     skyId: '217231'
   },
   {
     targetWord: 'ungrudgingly',
-    translation: 'ungrudgingly',
+    translating: 'ungrudgingly',
     partOfSpeechCode: 'r',
     skyId: '34290'
   },
   {
     targetWord: 'unguarded',
-    translation: 'неохраняемый',
+    translating: 'неохраняемый',
     partOfSpeechCode: 'j',
     skyId: '21850'
   },
   {
     targetWord: 'unguarded',
-    translation: 'беспечный',
+    translating: 'беспечный',
     partOfSpeechCode: 'j',
     skyId: '21851'
   },
   {
     targetWord: 'unguent',
-    translation: 'мазь',
+    translating: 'мазь',
     partOfSpeechCode: 'n',
     skyId: '210207'
   },
   {
     targetWord: 'unguiculate',
-    translation: 'unguiculate',
+    translating: 'unguiculate',
     partOfSpeechCode: 'j',
     skyId: '78191'
   },
   {
     targetWord: 'unguiculate',
-    translation: 'когтевидными',
+    translating: 'когтевидными',
     partOfSpeechCode: 'n',
     skyId: '78190'
   },
   {
     targetWord: 'unguiculate mammal',
-    translation: 'когтевидными',
+    translating: 'когтевидными',
     partOfSpeechCode: 'n',
     skyId: '106074'
   },
   {
     targetWord: 'unguis',
-    translation: 'копыто',
+    translating: 'копыто',
     partOfSpeechCode: 'n',
     skyId: '56483'
   },
   {
     targetWord: 'ungulata',
-    translation: 'копытных',
+    translating: 'копытных',
     partOfSpeechCode: 'n',
     skyId: '14092'
   },
   {
     targetWord: 'ungulate',
-    translation: 'копытные',
+    translating: 'копытные',
     partOfSpeechCode: 'n',
     skyId: '14096'
   },
   {
     targetWord: 'ungulated',
-    translation: 'копытный',
+    translating: 'копытный',
     partOfSpeechCode: 'j',
     skyId: '282'
   },
   {
     targetWord: 'unhallow',
-    translation: 'осквернить',
+    translating: 'осквернить',
     partOfSpeechCode: 'v',
     skyId: '143631'
   },
   {
     targetWord: 'unhallowed',
-    translation: 'неосвящённый',
+    translating: 'неосвящённый',
     partOfSpeechCode: 'j',
     skyId: '143632'
   },
   {
     targetWord: 'unhampered',
-    translation: 'беспрепятственный',
+    translating: 'беспрепятственный',
     partOfSpeechCode: 'j',
     skyId: '162922'
   },
   {
     targetWord: 'unhand',
-    translation: 'отнимать руки',
+    translating: 'отнимать руки',
     partOfSpeechCode: 'v',
     skyId: '7493'
   },
   {
     targetWord: 'unhappily',
-    translation: 'к несчастью',
+    translating: 'к несчастью',
     partOfSpeechCode: 'r',
     skyId: '178709'
   },
   {
     targetWord: 'unhappily',
-    translation: 'несчастливо',
+    translating: 'несчастливо',
     partOfSpeechCode: 'r',
     skyId: '178708'
   },
   {
     targetWord: 'unhappiness',
-    translation: 'несчастье',
+    translating: 'несчастье',
     partOfSpeechCode: 'n',
     skyId: '112397'
   },
   {
     targetWord: 'unhappy',
-    translation: 'недовольный',
+    translating: 'недовольный',
     partOfSpeechCode: 'j',
     skyId: '241840'
   },
   {
     targetWord: 'unhappy',
-    translation: 'неудачный',
+    translating: 'неудачный',
     partOfSpeechCode: 'j',
     skyId: '75605'
   },
   {
     targetWord: 'unhappy',
-    translation: 'печальный',
+    translating: 'печальный',
     partOfSpeechCode: 'j',
     skyId: '75604'
   },
   {
     targetWord: 'unhappy',
-    translation: 'несчастливый',
+    translating: 'несчастливый',
     partOfSpeechCode: 'j',
     skyId: '75606'
   },
   {
     targetWord: 'unhardened',
-    translation: 'незатвердевшего',
+    translating: 'незатвердевшего',
     partOfSpeechCode: 'j',
     skyId: '193332'
   },
   {
     targetWord: 'unharmed',
-    translation: 'невредимый',
+    translating: 'невредимый',
     partOfSpeechCode: 'j',
     skyId: '36921'
   },
   {
     targetWord: 'unharmonious',
-    translation: 'несогласованный',
+    translating: 'несогласованный',
     partOfSpeechCode: 'j',
     skyId: '152693'
   },
   {
     targetWord: 'unharness',
-    translation: 'распрягать',
+    translating: 'распрягать',
     partOfSpeechCode: 'v',
     skyId: '39926'
   },
   {
     targetWord: 'unhatched',
-    translation: 'невылупленный',
+    translating: 'невылупленный',
     partOfSpeechCode: 'j',
     skyId: '76438'
   },
   {
     targetWord: 'unhealed',
-    translation: 'незаживающие',
+    translating: 'незаживающие',
     partOfSpeechCode: 'j',
     skyId: '1242'
   },
   {
     targetWord: 'unhealthful',
-    translation: 'нездоровый',
+    translating: 'нездоровый',
     partOfSpeechCode: 'j',
     skyId: '86304'
   },
   {
     targetWord: 'unhealthiness',
-    translation: 'проблемы со здоровьем',
+    translating: 'проблемы со здоровьем',
     partOfSpeechCode: 'n',
     skyId: '12731'
   },
   {
     targetWord: 'unhealthy',
-    translation: 'вредный',
+    translating: 'вредный',
     partOfSpeechCode: 'j',
     skyId: '54191'
   },
   {
     targetWord: 'unhealthy',
-    translation: 'нездоровый',
+    translating: 'нездоровый',
     partOfSpeechCode: 'j',
     skyId: '54190'
   },
   {
     targetWord: 'unhearable',
-    translation: 'неслышимы',
+    translating: 'неслышимы',
     partOfSpeechCode: 'j',
     skyId: '189530'
   },
   {
     targetWord: 'unheard',
-    translation: 'неслыханный',
+    translating: 'неслыханный',
     partOfSpeechCode: 'j',
     skyId: '181288'
   },
   {
     targetWord: 'unheard-of',
-    translation: 'неслыханный',
+    translating: 'неслыханный',
     partOfSpeechCode: 'j',
     skyId: '146574'
   },
   {
     targetWord: 'unheated',
-    translation: 'непрогретый',
+    translating: 'непрогретый',
     partOfSpeechCode: 'j',
     skyId: '7173'
   },
   {
     targetWord: 'unheeded',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '18168'
   },
   {
     targetWord: 'unheeding',
-    translation: 'невнимательный',
+    translating: 'невнимательный',
     partOfSpeechCode: 'j',
     skyId: '101456'
   },
   {
     targetWord: 'unhelpful',
-    translation: 'бесполезный ',
+    translating: 'бесполезный ',
     partOfSpeechCode: 'j',
     skyId: '240328'
   },
   {
     targetWord: 'unhelpful',
-    translation: 'не оказывающий помощи',
+    translating: 'не оказывающий помощи',
     partOfSpeechCode: 'j',
     skyId: '239711'
   },
   {
     targetWord: 'unhelpful',
-    translation: 'бесполезный',
+    translating: 'бесполезный',
     partOfSpeechCode: 'j',
     skyId: '97224'
   },
   {
     targetWord: 'unheralded',
-    translation: 'необъявленный',
+    translating: 'необъявленный',
     partOfSpeechCode: 'j',
     skyId: '37627'
   },
   {
     targetWord: 'unhesitating',
-    translation: 'решительный',
+    translating: 'решительный',
     partOfSpeechCode: 'j',
     skyId: '139322'
   },
   {
     targetWord: 'unhewn',
-    translation: 'неотесанный',
+    translating: 'неотесанный',
     partOfSpeechCode: 'j',
     skyId: '88634'
   },
   {
     targetWord: 'unhindered',
-    translation: 'беспрепятственный',
+    translating: 'беспрепятственный',
     partOfSpeechCode: 'j',
     skyId: '132489'
   },
   {
     targetWord: 'unhinge',
-    translation: 'снимать с петель',
+    translating: 'снимать с петель',
     partOfSpeechCode: 'v',
     skyId: '19212'
   },
   {
     targetWord: 'unhinge',
-    translation: 'выбивать из колеи',
+    translating: 'выбивать из колеи',
     partOfSpeechCode: 'v',
     skyId: '19211'
   },
   {
     targetWord: 'unhinged',
-    translation: 'неуравновешенный',
+    translating: 'неуравновешенный',
     partOfSpeechCode: 'j',
     skyId: '14169'
   },
   {
     targetWord: 'unhitch',
-    translation: 'расцеплять',
+    translating: 'расцеплять',
     partOfSpeechCode: 'v',
     skyId: '219455'
   },
   {
     targetWord: 'unholiness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '23770'
   },
   {
     targetWord: 'unholy',
-    translation: 'дьявольский',
+    translating: 'дьявольский',
     partOfSpeechCode: 'j',
     skyId: '215012'
   },
   {
     targetWord: 'unholy',
-    translation: 'нечестивый',
+    translating: 'нечестивый',
     partOfSpeechCode: 'j',
     skyId: '215011'
   },
   {
     targetWord: 'unhook',
-    translation: 'отцепить',
+    translating: 'отцепить',
     partOfSpeechCode: 'v',
     skyId: '29822'
   },
   {
     targetWord: 'unhoped-for',
-    translation: 'неожиданный',
+    translating: 'неожиданный',
     partOfSpeechCode: 'j',
     skyId: '95200'
   },
   {
     targetWord: 'unhopeful',
-    translation: 'смиренный',
+    translating: 'смиренный',
     partOfSpeechCode: 'j',
     skyId: '92609'
   },
   {
     targetWord: 'unhorse',
-    translation: 'сбрасывать',
+    translating: 'сбрасывать',
     partOfSpeechCode: 'v',
     skyId: '133607'
   },
   {
     targetWord: 'unhuman',
-    translation: 'нечеловеческий',
+    translating: 'нечеловеческий',
     partOfSpeechCode: 'j',
     skyId: '69303'
   },
   {
     targetWord: 'unhumorous',
-    translation: 'unhumorous',
+    translating: 'unhumorous',
     partOfSpeechCode: 'j',
     skyId: '47458'
   },
   {
     targetWord: 'unhurried',
-    translation: 'неспешный',
+    translating: 'неспешный',
     partOfSpeechCode: 'j',
     skyId: '133186'
   },
   {
     targetWord: 'unhurriedly',
-    translation: 'неторопливо',
+    translating: 'неторопливо',
     partOfSpeechCode: 'r',
     skyId: '80403'
   },
   {
     targetWord: 'unhurt',
-    translation: 'невредимый',
+    translating: 'невредимый',
     partOfSpeechCode: 'j',
     skyId: '132857'
   },
   {
     targetWord: 'unhygienically',
-    translation: 'негигиенично',
+    translating: 'негигиенично',
     partOfSpeechCode: 'r',
     skyId: '191732'
   },
   {
     targetWord: 'unicellular',
-    translation: 'одноклеточный',
+    translating: 'одноклеточный',
     partOfSpeechCode: 'j',
     skyId: '33408'
   },
   {
     targetWord: 'unicorn',
-    translation: 'единорог',
+    translating: 'единорог',
     partOfSpeechCode: 'n',
     skyId: '128521'
   },
   {
     targetWord: 'unicuspid',
-    translation: 'unicuspid',
+    translating: 'unicuspid',
     partOfSpeechCode: 'j',
     skyId: '119328'
   },
   {
     targetWord: 'unicycle',
-    translation: 'моноцикл',
+    translating: 'моноцикл',
     partOfSpeechCode: 'n',
     skyId: '152630'
   },
   {
     targetWord: 'unidentifiable',
-    translation: 'не поддающийся идентификации',
+    translating: 'не поддающийся идентификации',
     partOfSpeechCode: 'j',
     skyId: '188696'
   },
   {
     targetWord: 'unidentified',
-    translation: 'неопознанный',
+    translating: 'неопознанный',
     partOfSpeechCode: 'j',
     skyId: '51957'
   },
   {
     targetWord: 'unidentified',
-    translation: 'неопределённый',
+    translating: 'неопределённый',
     partOfSpeechCode: 'j',
     skyId: '51956'
   },
   {
     targetWord: 'unidentified flying object',
-    translation: 'неопознанный летающий объект',
+    translating: 'неопознанный летающий объект',
     partOfSpeechCode: 'n',
     skyId: '5704'
   },
   {
     targetWord: 'unidentified flying object (UFO)',
-    translation: 'неопознанный летающий объект (НЛО)',
+    translating: 'неопознанный летающий объект (НЛО)',
     partOfSpeechCode: 'abb',
     skyId: '263612'
   },
   {
     targetWord: 'unidimensional',
-    translation: 'одномерный',
+    translating: 'одномерный',
     partOfSpeechCode: 'j',
     skyId: '31555'
   },
   {
     targetWord: 'unidirectional',
-    translation: 'однонаправленный',
+    translating: 'однонаправленный',
     partOfSpeechCode: 'j',
     skyId: '163058'
   },
   {
     targetWord: 'unification',
-    translation: 'унификация',
+    translating: 'унификация',
     partOfSpeechCode: 'n',
     skyId: '65288'
   },
   {
     targetWord: 'unification',
-    translation: 'объединение',
+    translating: 'объединение',
     partOfSpeechCode: 'n',
     skyId: '65287'
   },
   {
     targetWord: 'unified',
-    translation: 'единый',
+    translating: 'единый',
     partOfSpeechCode: 'j',
     skyId: '178881'
   },
   {
     targetWord: 'unified',
-    translation: 'объединённый',
+    translating: 'объединённый',
     partOfSpeechCode: 'j',
     skyId: '178880'
   },
   {
     targetWord: 'unified protection system',
-    translation: 'универсальная защитная система ',
+    translating: 'универсальная защитная система ',
     partOfSpeechCode: 'n',
     skyId: '248864'
   },
   {
     targetWord: 'uniform',
-    translation: 'равномерный',
+    translating: 'равномерный',
     partOfSpeechCode: 'j',
     skyId: '179551'
   },
   {
     targetWord: 'uniform',
-    translation: 'единый',
+    translating: 'единый',
     partOfSpeechCode: 'j',
     skyId: '179550'
   },
   {
     targetWord: 'uniform',
-    translation: 'одевать в форму',
+    translating: 'одевать в форму',
     partOfSpeechCode: 'v',
     skyId: '194025'
   },
   {
     targetWord: 'uniform',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '179549'
   },
   {
     targetWord: 'uniform',
-    translation: 'одинаковый',
+    translating: 'одинаковый',
     partOfSpeechCode: 'j',
     skyId: '179548'
   },
   {
     targetWord: 'uniform',
-    translation: 'форма',
+    translating: 'форма',
     partOfSpeechCode: 'n',
     skyId: '179546'
   },
   {
     targetWord: 'uniform distribution',
-    translation: 'распределение случайной вещественной величины',
+    translating: 'распределение случайной вещественной величины',
     partOfSpeechCode: 'n',
     skyId: '262927'
   },
   {
     targetWord: 'uniform resource locator',
-    translation: 'унифицированный указатель ресурса',
+    translating: 'унифицированный указатель ресурса',
     partOfSpeechCode: 'n',
     skyId: '76150'
   },
   {
     targetWord: 'uniformed officer',
-    translation: 'офицер в униформе',
+    translating: 'офицер в униформе',
     partOfSpeechCode: 'ph',
     skyId: '232410'
   },
   {
     targetWord: 'uniformity',
-    translation: 'единообразие',
+    translating: 'единообразие',
     partOfSpeechCode: 'n',
     skyId: '107464'
   },
   {
     targetWord: 'uniformity of standards',
-    translation: 'единство стандартов',
+    translating: 'единство стандартов',
     partOfSpeechCode: 'n',
     skyId: '250448'
   },
   {
     targetWord: 'uniformize',
-    translation: 'чтобы униформизируют',
+    translating: 'чтобы униформизируют',
     partOfSpeechCode: 'v',
     skyId: '57367'
   },
   {
     targetWord: 'uniformly',
-    translation: 'единообразно',
+    translating: 'единообразно',
     partOfSpeechCode: 'r',
     skyId: '107704'
   },
   {
     targetWord: 'uniformness',
-    translation: 'гомогенная система',
+    translating: 'гомогенная система',
     partOfSpeechCode: 'n',
     skyId: '67819'
   },
   {
     targetWord: 'unify',
-    translation: 'объединяться',
+    translating: 'объединяться',
     partOfSpeechCode: 'v',
     skyId: '178875'
   },
   {
     targetWord: 'unify',
-    translation: 'объединять',
+    translating: 'объединять',
     partOfSpeechCode: 'v',
     skyId: '178876'
   },
   {
     targetWord: 'unifying',
-    translation: 'объединяющий',
+    translating: 'объединяющий',
     partOfSpeechCode: 'j',
     skyId: '59327'
   },
   {
     targetWord: 'unilateral',
-    translation: 'односторонний',
+    translating: 'односторонний',
     partOfSpeechCode: 'j',
     skyId: '78469'
   },
   {
     targetWord: 'unilateral paralysis',
-    translation: 'гемиплегия',
+    translating: 'гемиплегия',
     partOfSpeechCode: 'n',
     skyId: '70364'
   },
   {
     targetWord: 'unilaterally',
-    translation: 'односторонне',
+    translating: 'односторонне',
     partOfSpeechCode: 'r',
     skyId: '110478'
   },
   {
     targetWord: 'unilluminated',
-    translation: 'неосвещённый',
+    translating: 'неосвещённый',
     partOfSpeechCode: 'j',
     skyId: '48973'
   },
   {
     targetWord: 'unimaginable',
-    translation: 'невероятный',
+    translating: 'невероятный',
     partOfSpeechCode: 'j',
     skyId: '248271'
   },
   {
     targetWord: 'unimaginably',
-    translation: 'невообразимо',
+    translating: 'невообразимо',
     partOfSpeechCode: 'r',
     skyId: '6825'
   },
   {
     targetWord: 'unimaginative',
-    translation: 'прозаический',
+    translating: 'прозаический',
     partOfSpeechCode: 'j',
     skyId: '127255'
   },
   {
     targetWord: 'unimaginative',
-    translation: 'лишенный воображения',
+    translating: 'лишенный воображения',
     partOfSpeechCode: 'j',
     skyId: '127256'
   },
   {
     targetWord: 'unimaginatively',
-    translation: 'без воображения',
+    translating: 'без воображения',
     partOfSpeechCode: 'r',
     skyId: '148521'
   },
   {
     targetWord: 'unimagined',
-    translation: 'невообразимый',
+    translating: 'невообразимый',
     partOfSpeechCode: 'j',
     skyId: '60069'
   },
   {
     targetWord: 'unimpaired',
-    translation: 'нетронутый',
+    translating: 'нетронутый',
     partOfSpeechCode: 'j',
     skyId: '12422'
   },
   {
     targetWord: 'unimpassioned',
-    translation: 'unimpassioned',
+    translating: 'unimpassioned',
     partOfSpeechCode: 'j',
     skyId: '136746'
   },
   {
     targetWord: 'unimpeachable',
-    translation: 'безупречный',
+    translating: 'безупречный',
     partOfSpeechCode: 'j',
     skyId: '141229'
   },
   {
     targetWord: 'unimpeachable',
-    translation: 'безукоризненный',
+    translating: 'безукоризненный',
     partOfSpeechCode: 'j',
     skyId: '141228'
   },
   {
     targetWord: 'unimpeded',
-    translation: 'беспрепятственный',
+    translating: 'беспрепятственный',
     partOfSpeechCode: 'j',
     skyId: '56062'
   },
   {
     targetWord: 'unimportance',
-    translation: 'неважность',
+    translating: 'неважность',
     partOfSpeechCode: 'n',
     skyId: '26687'
   },
   {
     targetWord: 'unimportance',
-    translation: 'малозначительность',
+    translating: 'малозначительность',
     partOfSpeechCode: 'n',
     skyId: '26686'
   },
   {
     targetWord: 'unimportant',
-    translation: 'неважный',
+    translating: 'неважный',
     partOfSpeechCode: 'j',
     skyId: '130140'
   },
   {
     targetWord: 'unimposing',
-    translation: 'невзрачный',
+    translating: 'невзрачный',
     partOfSpeechCode: 'j',
     skyId: '145869'
   },
   {
     targetWord: 'unimpressed',
-    translation: 'не в восторге',
+    translating: 'не в восторге',
     partOfSpeechCode: 'j',
     skyId: '186376'
   },
   {
     targetWord: 'unimpressionable',
-    translation: 'невпечатлительный, невосприимчивый',
+    translating: 'невпечатлительный, невосприимчивый',
     partOfSpeechCode: 'j',
     skyId: '71975'
   },
   {
     targetWord: 'unimpressive',
-    translation: 'невпечатляющий',
+    translating: 'невпечатляющий',
     partOfSpeechCode: 'j',
     skyId: '179878'
   },
   {
     targetWord: 'unimpressively',
-    translation: 'unimpressively',
+    translating: 'unimpressively',
     partOfSpeechCode: 'r',
     skyId: '118960'
   },
   {
     targetWord: 'unincorporated association',
-    translation: 'волонтерская ассоциация',
+    translating: 'волонтерская ассоциация',
     partOfSpeechCode: 'n',
     skyId: '248454'
   },
   {
     targetWord: 'uninfected',
-    translation: 'неинфицированный',
+    translating: 'неинфицированный',
     partOfSpeechCode: 'j',
     skyId: '154292'
   },
   {
     targetWord: 'uninflected',
-    translation: 'грамматически неизменяемый',
+    translating: 'грамматически неизменяемый',
     partOfSpeechCode: 'j',
     skyId: '36634'
   },
   {
     targetWord: 'uninflected',
-    translation: 'неизменяемое',
+    translating: 'неизменяемое',
     partOfSpeechCode: 'j',
     skyId: '36633'
   },
   {
     targetWord: 'uninfluenced',
-    translation: 'непредубеждённый',
+    translating: 'непредубеждённый',
     partOfSpeechCode: 'j',
     skyId: '643'
   },
   {
     targetWord: 'uninformative',
-    translation: 'не содержащий новой информации',
+    translating: 'не содержащий новой информации',
     partOfSpeechCode: 'j',
     skyId: '12648'
   },
   {
     targetWord: 'uninformatively',
-    translation: 'uninformatively',
+    translating: 'uninformatively',
     partOfSpeechCode: 'r',
     skyId: '122804'
   },
   {
     targetWord: 'uninformed',
-    translation: 'неосведомлённый',
+    translating: 'неосведомлённый',
     partOfSpeechCode: 'j',
     skyId: '9933'
   },
   {
     targetWord: 'uninhabitable',
-    translation: 'непригодный для жизни',
+    translating: 'непригодный для жизни',
     partOfSpeechCode: 'j',
     skyId: '252158'
   },
   {
     targetWord: 'uninhabitable',
-    translation: 'необитаемый',
+    translating: 'необитаемый',
     partOfSpeechCode: 'j',
     skyId: '106549'
   },
   {
     targetWord: 'uninhabited',
-    translation: 'необитаемый',
+    translating: 'необитаемый',
     partOfSpeechCode: 'j',
     skyId: '64909'
   },
   {
     targetWord: 'uninhabited island',
-    translation: 'необитаемый остров',
+    translating: 'необитаемый остров',
     partOfSpeechCode: 'n',
     skyId: '245129'
   },
   {
     targetWord: 'uninhibited',
-    translation: 'раскованный',
+    translating: 'раскованный',
     partOfSpeechCode: 'j',
     skyId: '80460'
   },
   {
     targetWord: 'uninitiate',
-    translation: 'непосвящённый',
+    translating: 'непосвящённый',
     partOfSpeechCode: 'j',
     skyId: '48121'
   },
   {
     targetWord: 'uninitiated',
-    translation: 'несведущий',
+    translating: 'несведущий',
     partOfSpeechCode: 'j',
     skyId: '133882'
   },
   {
     targetWord: 'uninjured',
-    translation: 'неповреждённый',
+    translating: 'неповреждённый',
     partOfSpeechCode: 'j',
     skyId: '123317'
   },
   {
     targetWord: 'uninominal',
-    translation: 'одномандатных',
+    translating: 'одномандатных',
     partOfSpeechCode: 'j',
     skyId: '101107'
   },
   {
     targetWord: 'uninspired',
-    translation: 'невдохновлённый',
+    translating: 'невдохновлённый',
     partOfSpeechCode: 'j',
     skyId: '217301'
   },
   {
     targetWord: 'uninspiring',
-    translation: 'скучный',
+    translating: 'скучный',
     partOfSpeechCode: 'j',
     skyId: '187397'
   },
   {
     targetWord: 'uninstall',
-    translation: 'деинсталлировать',
+    translating: 'деинсталлировать',
     partOfSpeechCode: 'v',
     skyId: '266765'
   },
   {
     targetWord: 'uninstructed',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '180735'
   },
   {
     targetWord: 'uninsurable',
-    translation: 'не подлежащий страхованию',
+    translating: 'не подлежащий страхованию',
     partOfSpeechCode: 'j',
     skyId: '172432'
   },
   {
     targetWord: 'uninsured',
-    translation: 'незастрахованный',
+    translating: 'незастрахованный',
     partOfSpeechCode: 'j',
     skyId: '99192'
   },
   {
     targetWord: 'unintegrated',
-    translation: 'невстроенной',
+    translating: 'невстроенной',
     partOfSpeechCode: 'j',
     skyId: '184703'
   },
   {
     targetWord: 'unintelligent',
-    translation: 'неинтеллигентный',
+    translating: 'неинтеллигентный',
     partOfSpeechCode: 'j',
     skyId: '84439'
   },
   {
     targetWord: 'unintelligibility',
-    translation: 'неразборчивость',
+    translating: 'неразборчивость',
     partOfSpeechCode: 'n',
     skyId: '84166'
   },
   {
     targetWord: 'unintelligible',
-    translation: 'непонятный',
+    translating: 'непонятный',
     partOfSpeechCode: 'j',
     skyId: '220532'
   },
   {
     targetWord: 'unintelligibly',
-    translation: 'непонятно',
+    translating: 'непонятно',
     partOfSpeechCode: 'r',
     skyId: '184217'
   },
   {
     targetWord: 'unintendedly',
-    translation: 'непреднамеренно',
+    translating: 'непреднамеренно',
     partOfSpeechCode: 'r',
     skyId: '266760'
   },
   {
     targetWord: 'unintentional',
-    translation: 'непреднамеренный',
+    translating: 'непреднамеренный',
     partOfSpeechCode: 'j',
     skyId: '143959'
   },
   {
     targetWord: 'unintentional',
-    translation: 'неумышленный',
+    translating: 'неумышленный',
     partOfSpeechCode: 'j',
     skyId: '143958'
   },
   {
     targetWord: 'unintentionally',
-    translation: 'непреднамеренно',
+    translating: 'непреднамеренно',
     partOfSpeechCode: 'r',
     skyId: '2098'
   },
   {
     targetWord: 'uninterested',
-    translation: 'безразличный',
+    translating: 'безразличный',
     partOfSpeechCode: 'j',
     skyId: '137164'
   },
   {
     targetWord: 'uninterested',
-    translation: 'равнодушный',
+    translating: 'равнодушный',
     partOfSpeechCode: 'j',
     skyId: '137163'
   },
   {
     targetWord: 'uninteresting',
-    translation: 'неинтересный',
+    translating: 'неинтересный',
     partOfSpeechCode: 'j',
     skyId: '104757'
   },
   {
     targetWord: 'uninterestingly',
-    translation: 'неинтересно',
+    translating: 'неинтересно',
     partOfSpeechCode: 'r',
     skyId: '131706'
   },
   {
     targetWord: 'uninterrupted',
-    translation: 'непрерывный',
+    translating: 'непрерывный',
     partOfSpeechCode: 'j',
     skyId: '2810'
   },
   {
     targetWord: 'uninterruptedly',
-    translation: 'непрерывно',
+    translating: 'непрерывно',
     partOfSpeechCode: 'r',
     skyId: '35525'
   },
   {
     targetWord: 'uninterruptible power supply system',
-    translation: 'система бесперебойного питания ',
+    translating: 'система бесперебойного питания ',
     partOfSpeechCode: 'n',
     skyId: '247505'
   },
   {
     targetWord: 'uninterruptible power supply system with three-phase outlet',
-    translation: 'система бесперебойного питания с трёхфазным выходом',
+    translating: 'система бесперебойного питания с трёхфазным выходом',
     partOfSpeechCode: 'n',
     skyId: '247867'
   },
   {
     targetWord: 'unintimidated',
-    translation: 'бесстрашный',
+    translating: 'бесстрашный',
     partOfSpeechCode: 'j',
     skyId: '43254'
   },
   {
     targetWord: 'unintimidating',
-    translation: 'нестрашный',
+    translating: 'нестрашный',
     partOfSpeechCode: 'j',
     skyId: '259581'
   },
   {
     targetWord: 'unintrusive',
-    translation: 'ненавязчивый',
+    translating: 'ненавязчивый',
     partOfSpeechCode: 'j',
     skyId: '150194'
   },
   {
     targetWord: 'uninventive',
-    translation: 'неизобретательный',
+    translating: 'неизобретательный',
     partOfSpeechCode: 'j',
     skyId: '95936'
   },
   {
     targetWord: 'uninvited',
-    translation: 'незваный',
+    translating: 'незваный',
     partOfSpeechCode: 'j',
     skyId: '131617'
   },
   {
     targetWord: 'uninvitedly',
-    translation: 'без приглашения',
+    translating: 'без приглашения',
     partOfSpeechCode: 'r',
     skyId: '184673'
   },
   {
     targetWord: 'uninviting',
-    translation: 'непривлекательный',
+    translating: 'непривлекательный',
     partOfSpeechCode: 'j',
     skyId: '35877'
   },
   {
     targetWord: 'uninvolved',
-    translation: 'равнодушный',
+    translating: 'равнодушный',
     partOfSpeechCode: 'j',
     skyId: '101619'
   },
   {
     targetWord: 'uninvolved',
-    translation: 'невовлеченный',
+    translating: 'невовлеченный',
     partOfSpeechCode: 'j',
     skyId: '101618'
   },
   {
     targetWord: 'unio',
-    translation: 'перловицы',
+    translating: 'перловицы',
     partOfSpeechCode: 'n',
     skyId: '85259'
   },
   {
     targetWord: 'union',
-    translation: 'штуцер',
+    translating: 'штуцер',
     partOfSpeechCode: 'n',
     skyId: '249445'
   },
   {
     targetWord: 'union',
-    translation: 'объединение',
+    translating: 'объединение',
     partOfSpeechCode: 'n',
     skyId: '114193'
   },
   {
     targetWord: 'union',
-    translation: 'сращение',
+    translating: 'сращение',
     partOfSpeechCode: 'n',
     skyId: '114188'
   },
   {
     targetWord: 'union',
-    translation: 'брачный союз',
+    translating: 'брачный союз',
     partOfSpeechCode: 'n',
     skyId: '114187'
   },
   {
     targetWord: 'union',
-    translation: 'союз',
+    translating: 'союз',
     partOfSpeechCode: 'n',
     skyId: '239712'
   },
   {
     targetWord: 'union',
-    translation: 'случка',
+    translating: 'случка',
     partOfSpeechCode: 'n',
     skyId: '114185'
   },
   {
     targetWord: 'union',
-    translation: 'Союз',
+    translating: 'Союз',
     partOfSpeechCode: 'n',
     skyId: '114184'
   },
   {
     targetWord: 'union',
-    translation: 'профсоюз',
+    translating: 'профсоюз',
     partOfSpeechCode: 'n',
     skyId: '114183'
   },
   {
     targetWord: 'union army',
-    translation: 'армия союза',
+    translating: 'армия союза',
     partOfSpeechCode: 'n',
     skyId: '26510'
   },
   {
     targetWord: 'union card',
-    translation: 'профсоюзный билет',
+    translating: 'профсоюзный билет',
     partOfSpeechCode: 'n',
     skyId: '125589'
   },
   {
     targetWord: 'union representative',
-    translation: 'представитель профсоюза',
+    translating: 'представитель профсоюза',
     partOfSpeechCode: 'n',
     skyId: '17560'
   },
   {
     targetWord: 'union soldier',
-    translation: 'союз солдат',
+    translating: 'союз солдат',
     partOfSpeechCode: 'n',
     skyId: '82811'
   },
   {
     targetWord: 'unionised',
-    translation: 'профсоюзы',
+    translating: 'профсоюзы',
     partOfSpeechCode: 'j',
     skyId: '103760'
   },
   {
     targetWord: 'unionism',
-    translation: 'профсоюзного движения',
+    translating: 'профсоюзного движения',
     partOfSpeechCode: 'n',
     skyId: '134978'
   },
   {
     targetWord: 'unionist',
-    translation: 'член профсоюза',
+    translating: 'член профсоюза',
     partOfSpeechCode: 'n',
     skyId: '134985'
   },
   {
     targetWord: 'unionization',
-    translation: 'объединение в профсоюзы',
+    translating: 'объединение в профсоюзы',
     partOfSpeechCode: 'n',
     skyId: '122777'
   },
   {
     targetWord: 'unionize',
-    translation: 'призывать к объединению',
+    translating: 'призывать к объединению',
     partOfSpeechCode: 'v',
     skyId: '127308'
   },
   {
     targetWord: 'unionize',
-    translation: 'объединяться',
+    translating: 'объединяться',
     partOfSpeechCode: 'v',
     skyId: '127309'
   },
   {
     targetWord: 'unipolar depression',
-    translation: 'большое депрессивное расстройство',
+    translating: 'большое депрессивное расстройство',
     partOfSpeechCode: 'n',
     skyId: '437'
   },
   {
     targetWord: 'unique',
-    translation: 'необыкновенный',
+    translating: 'необыкновенный',
     partOfSpeechCode: 'j',
     skyId: '143154'
   },
   {
     targetWord: 'unique',
-    translation: 'специфичный',
+    translating: 'специфичный',
     partOfSpeechCode: 'j',
     skyId: '143152'
   },
   {
     targetWord: 'unique',
-    translation: 'уникальный',
+    translating: 'уникальный',
     partOfSpeechCode: 'j',
     skyId: '143153'
   },
   {
     targetWord: 'unique design',
-    translation: 'уникальный проект',
+    translating: 'уникальный проект',
     partOfSpeechCode: 'ph',
     skyId: '231634'
   },
   {
     targetWord: 'unique feature',
-    translation: 'уникальная черта',
+    translating: 'уникальная черта',
     partOfSpeechCode: 'n',
     skyId: '264045'
   },
   {
     targetWord: 'uniquely',
-    translation: 'уникально',
+    translating: 'уникально',
     partOfSpeechCode: 'r',
     skyId: '95430'
   },
   {
     targetWord: 'uniqueness',
-    translation: 'уникальность',
+    translating: 'уникальность',
     partOfSpeechCode: 'n',
     skyId: '175791'
   },
   {
     targetWord: 'unironed',
-    translation: 'неглаженый',
+    translating: 'неглаженый',
     partOfSpeechCode: 'j',
     skyId: '71784'
   },
   {
     targetWord: 'unisex',
-    translation: 'годный для лиц обоего пола',
+    translating: 'годный для лиц обоего пола',
     partOfSpeechCode: 'j',
     skyId: '232854'
   },
   {
     targetWord: 'unisex',
-    translation: 'унисекс',
+    translating: 'унисекс',
     partOfSpeechCode: 'j',
     skyId: '34589'
   },
   {
     targetWord: 'unisexual',
-    translation: 'однополый',
+    translating: 'однополый',
     partOfSpeechCode: 'j',
     skyId: '129721'
   },
   {
     targetWord: 'unison',
-    translation: 'унисон',
+    translating: 'унисон',
     partOfSpeechCode: 'n',
     skyId: '56167'
   },
   {
     targetWord: 'unit',
-    translation: 'единица алкоголя',
+    translating: 'единица алкоголя',
     partOfSpeechCode: 'n',
     skyId: '255897'
   },
   {
     targetWord: 'unit',
-    translation: 'ячейка',
+    translating: 'ячейка',
     partOfSpeechCode: 'n',
     skyId: '240336'
   },
   {
     targetWord: 'unit',
-    translation: 'отряд',
+    translating: 'отряд',
     partOfSpeechCode: 'n',
     skyId: '85284'
   },
   {
     targetWord: 'unit',
-    translation: 'часть',
+    translating: 'часть',
     partOfSpeechCode: 'n',
     skyId: '85283'
   },
   {
     targetWord: 'unit',
-    translation: 'элемент',
+    translating: 'элемент',
     partOfSpeechCode: 'n',
     skyId: '85282'
   },
   {
     targetWord: 'unit',
-    translation: 'отдел',
+    translating: 'отдел',
     partOfSpeechCode: 'n',
     skyId: '85281'
   },
   {
     targetWord: 'unit',
-    translation: 'группа',
+    translating: 'группа',
     partOfSpeechCode: 'n',
     skyId: '85280'
   },
   {
     targetWord: 'unit',
-    translation: 'единица измерения',
+    translating: 'единица измерения',
     partOfSpeechCode: 'n',
     skyId: '85279'
   },
   {
     targetWord: 'unit character',
-    translation: 'единичный характер',
+    translating: 'единичный характер',
     partOfSpeechCode: 'n',
     skyId: '99088'
   },
   {
     targetWord: 'unit conversion',
-    translation: 'перевод единиц измерения',
+    translating: 'перевод единиц измерения',
     partOfSpeechCode: 'n',
     skyId: '258691'
   },
   {
     targetWord: 'unit cost',
-    translation: 'стоимость единицы продукции',
+    translating: 'стоимость единицы продукции',
     partOfSpeechCode: 'n',
     skyId: '1813'
   },
   {
     targetWord: 'unit investment trust',
-    translation: 'паевой инвестиционный фонд',
+    translating: 'паевой инвестиционный фонд',
     partOfSpeechCode: 'n',
     skyId: '6566'
   },
   {
     targetWord: 'unit of ammunition',
-    translation: 'единицы боеприпасов',
+    translating: 'единицы боеприпасов',
     partOfSpeechCode: 'n',
     skyId: '224979'
   },
   {
     targetWord: 'unit of measurement',
-    translation: 'единица измерения',
+    translating: 'единица измерения',
     partOfSpeechCode: 'n',
     skyId: '148892'
   },
   {
     targetWord: 'unit of time',
-    translation: 'единица измерения времени',
+    translating: 'единица измерения времени',
     partOfSpeechCode: 'n',
     skyId: '56052'
   },
   {
     targetWord: 'unit shedding device',
-    translation: 'устройство укрытия блока',
+    translating: 'устройство укрытия блока',
     partOfSpeechCode: 'n',
     skyId: '247632'
   },
   {
     targetWord: 'unit shutdown',
-    translation: 'остановка энергоблока',
+    translating: 'остановка энергоблока',
     partOfSpeechCode: 'n',
     skyId: '248441'
   },
   {
     targetWord: 'unit start-up',
-    translation: 'пуск энергоблока',
+    translating: 'пуск энергоблока',
     partOfSpeechCode: 'n',
     skyId: '248442'
   },
   {
     targetWord: 'unit transformer',
-    translation: 'блочный трансформатор',
+    translating: 'блочный трансформатор',
     partOfSpeechCode: 'n',
     skyId: '248265'
   },
   {
     targetWord: 'unit trust',
-    translation: 'паевой инвестиционный фонд',
+    translating: 'паевой инвестиционный фонд',
     partOfSpeechCode: 'n',
     skyId: '93175'
   },
   {
     targetWord: 'unitard',
-    translation: 'гимнастическое трико',
+    translating: 'гимнастическое трико',
     partOfSpeechCode: 'n',
     skyId: '54710'
   },
   {
     targetWord: 'unitarian',
-    translation: 'сторонник унитарного государства',
+    translating: 'сторонник унитарного государства',
     partOfSpeechCode: 'n',
     skyId: '154747'
   },
   {
     targetWord: 'unitary',
-    translation: 'унитарный',
+    translating: 'унитарный',
     partOfSpeechCode: 'j',
     skyId: '172806'
   },
   {
     targetWord: 'unite',
-    translation: 'объединять',
+    translating: 'объединять',
     partOfSpeechCode: 'v',
     skyId: '240802'
   },
   {
     targetWord: 'unite',
-    translation: 'соединять',
+    translating: 'соединять',
     partOfSpeechCode: 'v',
     skyId: '196124'
   },
   {
     targetWord: 'unite',
-    translation: 'соединяться',
+    translating: 'соединяться',
     partOfSpeechCode: 'v',
     skyId: '196125'
   },
   {
     targetWord: 'unite',
-    translation: 'объединяться',
+    translating: 'объединяться',
     partOfSpeechCode: 'v',
     skyId: '196122'
   },
   {
     targetWord: 'united',
-    translation: 'дружный',
+    translating: 'дружный',
     partOfSpeechCode: 'j',
     skyId: '264127'
   },
   {
     targetWord: 'united',
-    translation: 'единый',
+    translating: 'единый',
     partOfSpeechCode: 'j',
     skyId: '239715'
   },
   {
     targetWord: 'united',
-    translation: 'объединенный',
+    translating: 'объединенный',
     partOfSpeechCode: 'j',
     skyId: '239714'
   },
   {
     targetWord: 'united',
-    translation: 'объединённый',
+    translating: 'объединённый',
     partOfSpeechCode: 'j',
     skyId: '55521'
   },
   {
     targetWord: "united arab emirates's capital",
-    translation: 'столица объединенных арабских эмиратов',
+    translating: 'столица объединенных арабских эмиратов',
     partOfSpeechCode: 'n',
     skyId: '3759'
   },
   {
     targetWord: 'united nations agency',
-    translation: 'Агентство Организации Объединенных Наций',
+    translating: 'Агентство Организации Объединенных Наций',
     partOfSpeechCode: 'n',
     skyId: '162983'
   },
   {
     targetWord: "united society of believers in christ's second appearing",
-    translation: 'шейкеры',
+    translating: 'шейкеры',
     partOfSpeechCode: 'n',
     skyId: '225878'
   },
   {
     targetWord: 'united states air force',
-    translation: 'военно-воздушные силы США ',
+    translating: 'военно-воздушные силы США ',
     partOfSpeechCode: 'n',
     skyId: '60582'
   },
   {
     targetWord: 'united states army',
-    translation: 'армия сша',
+    translating: 'армия сша',
     partOfSpeechCode: 'n',
     skyId: '117723'
   },
   {
     targetWord: 'united states civil war',
-    translation: 'Гражданская война в США',
+    translating: 'Гражданская война в США',
     partOfSpeechCode: 'n',
     skyId: '173167'
   },
   {
     targetWord: 'united states post office',
-    translation: 'почтовое ведомство США',
+    translating: 'почтовое ведомство США',
     partOfSpeechCode: 'n',
     skyId: '121321'
   },
   {
     targetWord: 'unitedly',
-    translation: 'все вместе',
+    translating: 'все вместе',
     partOfSpeechCode: 'r',
     skyId: '55180'
   },
   {
     targetWord: 'unitize',
-    translation: 'унифицировать',
+    translating: 'унифицировать',
     partOfSpeechCode: 'v',
     skyId: '135430'
   },
   {
     targetWord: 'unity [ˈjuːnətɪ]',
-    translation: 'единство',
+    translating: 'единство',
     partOfSpeechCode: 'ph',
     skyId: '228909'
   },
   {
     targetWord: 'univalent',
-    translation: 'одновалентный',
+    translating: 'одновалентный',
     partOfSpeechCode: 'j',
     skyId: '87377'
   },
   {
     targetWord: 'univalve',
-    translation: 'одностворчатый',
+    translating: 'одностворчатый',
     partOfSpeechCode: 'j',
     skyId: '178529'
   },
   {
     targetWord: 'univalve',
-    translation: 'брюхоногие',
+    translating: 'брюхоногие',
     partOfSpeechCode: 'n',
     skyId: '178528'
   },
   {
     targetWord: 'universal',
-    translation: 'повсеместный',
+    translating: 'повсеместный',
     partOfSpeechCode: 'j',
     skyId: '239716'
   },
   {
     targetWord: 'universal',
-    translation: 'всемирный',
+    translating: 'всемирный',
     partOfSpeechCode: 'j',
     skyId: '232601'
   },
   {
     targetWord: 'universal',
-    translation: 'универсальный',
+    translating: 'универсальный',
     partOfSpeechCode: 'j',
     skyId: '127133'
   },
   {
     targetWord: 'universal',
-    translation: 'всеобщий',
+    translating: 'всеобщий',
     partOfSpeechCode: 'j',
     skyId: '127132'
   },
   {
     targetWord: 'universal',
-    translation: 'глобальный',
+    translating: 'глобальный',
     partOfSpeechCode: 'j',
     skyId: '127131'
   },
   {
     targetWord: 'universal',
-    translation: 'универсальный шарнир',
+    translating: 'универсальный шарнир',
     partOfSpeechCode: 'n',
     skyId: '127130'
   },
   {
     targetWord: 'universal',
-    translation: 'универсальность',
+    translating: 'универсальность',
     partOfSpeechCode: 'n',
     skyId: '127129'
   },
   {
     targetWord: 'universal',
-    translation: 'всеобщее',
+    translating: 'всеобщее',
     partOfSpeechCode: 'n',
     skyId: '127128'
   },
   {
     targetWord: 'universal',
-    translation: 'языковая универсалия',
+    translating: 'языковая универсалия',
     partOfSpeechCode: 'n',
     skyId: '127127'
   },
   {
     targetWord: 'universal crossarm',
-    translation: 'траверса универсальная',
+    translating: 'траверса универсальная',
     partOfSpeechCode: 'n',
     skyId: '247633'
   },
   {
     targetWord: 'universal dowel',
-    translation: 'универсальный дюбель',
+    translating: 'универсальный дюбель',
     partOfSpeechCode: 'n',
     skyId: '247634'
   },
   {
     targetWord: 'universal joint',
-    translation: 'карданная передача',
+    translating: 'карданная передача',
     partOfSpeechCode: 'n',
     skyId: '117838'
   },
   {
     targetWord: 'universal proposition',
-    translation: 'общее суждение',
+    translating: 'общее суждение',
     partOfSpeechCode: 'n',
     skyId: '66722'
   },
   {
     targetWord: 'universal resource locator',
-    translation: 'адрес в интернете',
+    translating: 'адрес в интернете',
     partOfSpeechCode: 'n',
     skyId: '55035'
   },
   {
     targetWord: 'universal set',
-    translation: 'универсальное множество',
+    translating: 'универсальное множество',
     partOfSpeechCode: 'n',
     skyId: '184150'
   },
   {
     targetWord: 'universal time system',
-    translation: 'система единого времени',
+    translating: 'система единого времени',
     partOfSpeechCode: 'n',
     skyId: '250387'
   },
   {
     targetWord: 'universalist',
-    translation: 'универсалистской',
+    translating: 'универсалистской',
     partOfSpeechCode: 'j',
     skyId: '159502'
   },
   {
     targetWord: 'universalistic',
-    translation: 'универсалистический',
+    translating: 'универсалистический',
     partOfSpeechCode: 'j',
     skyId: '28904'
   },
   {
     targetWord: 'universality',
-    translation: 'всеобщность',
+    translating: 'всеобщность',
     partOfSpeechCode: 'n',
     skyId: '117267'
   },
   {
     targetWord: 'universalize',
-    translation: 'обобщать',
+    translating: 'обобщать',
     partOfSpeechCode: 'v',
     skyId: '98273'
   },
   {
     targetWord: 'universally',
-    translation: 'повсеместно',
+    translating: 'повсеместно',
     partOfSpeechCode: 'r',
     skyId: '240804'
   },
   {
     targetWord: 'universally',
-    translation: 'повсюду',
+    translating: 'повсюду',
     partOfSpeechCode: 'r',
     skyId: '113660'
   },
   {
     targetWord: 'universe',
-    translation: 'универсум дискурса',
+    translating: 'универсум дискурса',
     partOfSpeechCode: 'n',
     skyId: '84743'
   },
   {
     targetWord: 'universe',
-    translation: 'генеральная совокупность',
+    translating: 'генеральная совокупность',
     partOfSpeechCode: 'n',
     skyId: '84742'
   },
   {
     targetWord: 'universe',
-    translation: 'вселенная',
+    translating: 'вселенная',
     partOfSpeechCode: 'n',
     skyId: '84741'
   },
   {
     targetWord: 'universe of discourse',
-    translation: 'универсум дискурса',
+    translating: 'универсум дискурса',
     partOfSpeechCode: 'n',
     skyId: '170590'
   },
   {
     targetWord: 'university',
-    translation: 'университет',
+    translating: 'университет',
     partOfSpeechCode: 'n',
     skyId: '13152'
   },
   {
     targetWord: 'university campus',
-    translation: 'университетский городок',
+    translating: 'университетский городок',
     partOfSpeechCode: 'n',
     skyId: '263116'
   },
   {
     targetWord: 'university extension',
-    translation: 'расширение услуг',
+    translating: 'расширение услуг',
     partOfSpeechCode: 'n',
     skyId: '102432'
   },
   {
     targetWord: 'university faculty',
-    translation: 'профессорско-преподавательский состав',
+    translating: 'профессорско-преподавательский состав',
     partOfSpeechCode: 'ph',
     skyId: '230555'
   },
   {
     targetWord: 'university places',
-    translation: 'место в университете',
+    translating: 'место в университете',
     partOfSpeechCode: 'n',
     skyId: '263117'
   },
   {
     targetWord: 'university student',
-    translation: 'студент университета',
+    translating: 'студент университета',
     partOfSpeechCode: 'n',
     skyId: '165606'
   },
   {
     targetWord: 'univocal',
-    translation: 'однозначный',
+    translating: 'однозначный',
     partOfSpeechCode: 'j',
     skyId: '106450'
   },
   {
     targetWord: 'unjust',
-    translation: 'нечестный',
+    translating: 'нечестный',
     partOfSpeechCode: 'j',
     skyId: '113394'
   },
   {
     targetWord: 'unjust',
-    translation: 'несправедливый',
+    translating: 'несправедливый',
     partOfSpeechCode: 'j',
     skyId: '113393'
   },
   {
     targetWord: 'unjustifiable',
-    translation: 'неоправданный',
+    translating: 'неоправданный',
     partOfSpeechCode: 'j',
     skyId: '83304'
   },
   {
     targetWord: 'unjustifiably',
-    translation: 'неоправданно',
+    translating: 'неоправданно',
     partOfSpeechCode: 'r',
     skyId: '83287'
   },
   {
     targetWord: 'unjustified',
-    translation: 'незаслуженный',
+    translating: 'незаслуженный',
     partOfSpeechCode: 'j',
     skyId: '240805'
   },
   {
     targetWord: 'unjustified',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '226390'
   },
   {
     targetWord: 'unkemptness',
-    translation: 'беспорядок',
+    translating: 'беспорядок',
     partOfSpeechCode: 'n',
     skyId: '152599'
   },
   {
     targetWord: 'unkept',
-    translation: 'несоблюдаемый',
+    translating: 'несоблюдаемый',
     partOfSpeechCode: 'j',
     skyId: '86754'
   },
   {
     targetWord: 'unkind',
-    translation: 'бесчеловечный',
+    translating: 'бесчеловечный',
     partOfSpeechCode: 'j',
     skyId: '31233'
   },
   {
     targetWord: 'unkind',
-    translation: 'недобрый',
+    translating: 'недобрый',
     partOfSpeechCode: 'j',
     skyId: '31232'
   },
   {
     targetWord: 'unkind person',
-    translation: 'недобрый человек',
+    translating: 'недобрый человек',
     partOfSpeechCode: 'n',
     skyId: '149619'
   },
   {
     targetWord: 'unkindness',
-    translation: 'недоброжелательность',
+    translating: 'недоброжелательность',
     partOfSpeechCode: 'n',
     skyId: '144421'
   },
   {
     targetWord: 'unknowable',
-    translation: 'непознаваемый',
+    translating: 'непознаваемый',
     partOfSpeechCode: 'j',
     skyId: '158678'
   },
   {
     targetWord: 'unknowing',
-    translation: 'незнающий',
+    translating: 'незнающий',
     partOfSpeechCode: 'j',
     skyId: '40408'
   },
   {
     targetWord: 'unknowingly',
-    translation: 'неосознанно',
+    translating: 'неосознанно',
     partOfSpeechCode: 'r',
     skyId: '147078'
   },
   {
     targetWord: 'unknowledgeable',
-    translation: 'неосведомлённый',
+    translating: 'неосведомлённый',
     partOfSpeechCode: 'j',
     skyId: '117666'
   },
   {
     targetWord: 'unknown',
-    translation: 'неопределённое',
+    translating: 'неопределённое',
     partOfSpeechCode: 'n',
     skyId: '259313'
   },
   {
     targetWord: 'unknown',
-    translation: 'неизведанный',
+    translating: 'неизведанный',
     partOfSpeechCode: 'j',
     skyId: '27322'
   },
   {
     targetWord: 'unknown',
-    translation: 'неизвестный ',
+    translating: 'неизвестный ',
     partOfSpeechCode: 'j',
     skyId: '27323'
   },
   {
     targetWord: 'unknown',
-    translation: 'неизвестный',
+    translating: 'неизвестный',
     partOfSpeechCode: 'j',
     skyId: '27324'
   },
   {
     targetWord: 'unknown',
-    translation: 'незнакомец',
+    translating: 'незнакомец',
     partOfSpeechCode: 'n',
     skyId: '27318'
   },
   {
     targetWord: 'unknown',
-    translation: 'неизвестное',
+    translating: 'неизвестное',
     partOfSpeechCode: 'n',
     skyId: '27319'
   },
   {
     targetWord: 'unknown quantity',
-    translation: 'неизвестное количество',
+    translating: 'неизвестное количество',
     partOfSpeechCode: 'n',
     skyId: '153768'
   },
   {
     targetWord: 'unknown region',
-    translation: 'неизвестная область',
+    translating: 'неизвестная область',
     partOfSpeechCode: 'n',
     skyId: '83433'
   },
   {
     targetWord: 'unlace',
-    translation: 'развязывать',
+    translating: 'развязывать',
     partOfSpeechCode: 'v',
     skyId: '197344'
   },
   {
     targetWord: 'unlade',
-    translation: 'разгружать',
+    translating: 'разгружать',
     partOfSpeechCode: 'v',
     skyId: '11362'
   },
   {
     targetWord: 'unladylike',
-    translation: 'неподобающий леди',
+    translating: 'неподобающий леди',
     partOfSpeechCode: 'j',
     skyId: '121388'
   },
   {
     targetWord: 'unlash',
-    translation: 'отвязывать',
+    translating: 'отвязывать',
     partOfSpeechCode: 'v',
     skyId: '2220'
   },
   {
     targetWord: 'unlatched',
-    translation: 'отстёгнутый',
+    translating: 'отстёгнутый',
     partOfSpeechCode: 'j',
     skyId: '64617'
   },
   {
     targetWord: 'unlaureled',
-    translation: 'unlaureled',
+    translating: 'unlaureled',
     partOfSpeechCode: 'j',
     skyId: '44266'
   },
   {
     targetWord: 'unlawful',
-    translation: 'незаконный',
+    translating: 'незаконный',
     partOfSpeechCode: 'j',
     skyId: '183430'
   },
   {
     targetWord: 'unlawful',
-    translation: 'противозаконный',
+    translating: 'противозаконный',
     partOfSpeechCode: 'j',
     skyId: '183427'
   },
   {
     targetWord: 'unlawful',
-    translation: 'недозволенный',
+    translating: 'недозволенный',
     partOfSpeechCode: 'j',
     skyId: '183428'
   },
   {
     targetWord: 'unlawful',
-    translation: 'беззаконный',
+    translating: 'беззаконный',
     partOfSpeechCode: 'j',
     skyId: '183426'
   },
   {
     targetWord: 'unlawfully',
-    translation: 'незаконно',
+    translating: 'незаконно',
     partOfSpeechCode: 'r',
     skyId: '57304'
   },
   {
     targetWord: 'unlax',
-    translation: 'чтобы unlax',
+    translating: 'чтобы unlax',
     partOfSpeechCode: 'v',
     skyId: '76037'
   },
   {
     targetWord: 'unlay',
-    translation: 'распускать на пряди',
+    translating: 'распускать на пряди',
     partOfSpeechCode: 'v',
     skyId: '233463'
   },
   {
     targetWord: 'unleaded',
-    translation: 'неэтилированный',
+    translating: 'неэтилированный',
     partOfSpeechCode: 'j',
     skyId: '121927'
   },
   {
     targetWord: 'unleaded gasoline',
-    translation: 'неэтилированный бензин',
+    translating: 'неэтилированный бензин',
     partOfSpeechCode: 'n',
     skyId: '23947'
   },
   {
     targetWord: 'unlearn',
-    translation: 'отучиваться',
+    translating: 'отучиваться',
     partOfSpeechCode: 'v',
     skyId: '186045'
   },
   {
     targetWord: 'unlearn',
-    translation: 'разучиваться',
+    translating: 'разучиваться',
     partOfSpeechCode: 'v',
     skyId: '186046'
   },
   {
     targetWord: 'unleash',
-    translation: 'спускать с привязи',
+    translating: 'спускать с привязи',
     partOfSpeechCode: 'v',
     skyId: '73090'
   },
   {
     targetWord: 'unleash',
-    translation: 'высвобождать',
+    translating: 'высвобождать',
     partOfSpeechCode: 'v',
     skyId: '73091'
   },
   {
     targetWord: 'unleavened',
-    translation: 'пресный',
+    translating: 'пресный',
     partOfSpeechCode: 'j',
     skyId: '1297'
   },
   {
     targetWord: 'unleavened bread',
-    translation: 'маца',
+    translating: 'маца',
     partOfSpeechCode: 'n',
     skyId: '104302'
   },
   {
     targetWord: 'unless',
-    translation: 'если не',
+    translating: 'если не',
     partOfSpeechCode: 'cjc',
     skyId: '227911'
   },
   {
     targetWord: 'unless noted otherwise',
-    translation: 'если не указано иначе',
+    translating: 'если не указано иначе',
     partOfSpeechCode: 'ph',
     skyId: '247409'
   },
   {
     targetWord: 'unless specified otherwise',
-    translation: 'если не указано иначе',
+    translating: 'если не указано иначе',
     partOfSpeechCode: 'n',
     skyId: '247410'
   },
   {
     targetWord: 'unlettered',
-    translation: 'неграмотный',
+    translating: 'неграмотный',
     partOfSpeechCode: 'j',
     skyId: '84966'
   },
   {
     targetWord: 'unlighted',
-    translation: 'неосвещенных',
+    translating: 'неосвещенных',
     partOfSpeechCode: 'j',
     skyId: '92280'
   },
   {
     targetWord: 'unlighted',
-    translation: 'неосвещённый',
+    translating: 'неосвещённый',
     partOfSpeechCode: 'j',
     skyId: '92279'
   },
   {
     targetWord: 'unlikable',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '112895'
   },
   {
     targetWord: 'unlike',
-    translation: 'непохоже',
+    translating: 'непохоже',
     partOfSpeechCode: 'prp',
     skyId: '242460'
   },
   {
     targetWord: 'unlike',
-    translation: 'в отличие от',
+    translating: 'в отличие от',
     partOfSpeechCode: 'prp',
     skyId: '233815'
   },
   {
     targetWord: 'unlikeable',
-    translation: 'несимпатичный',
+    translating: 'несимпатичный',
     partOfSpeechCode: 'j',
     skyId: '3230'
   },
   {
     targetWord: 'unlikeable',
-    translation: 'отталкивающий',
+    translating: 'отталкивающий',
     partOfSpeechCode: 'j',
     skyId: '3229'
   },
   {
     targetWord: 'unlikelihood',
-    translation: 'маловероятность',
+    translating: 'маловероятность',
     partOfSpeechCode: 'n',
     skyId: '115450'
   },
   {
     targetWord: 'unlikeliness',
-    translation: 'маловероятность',
+    translating: 'маловероятность',
     partOfSpeechCode: 'n',
     skyId: '170369'
   },
   {
     targetWord: 'unlikely',
-    translation: 'вряд ли',
+    translating: 'вряд ли',
     partOfSpeechCode: 'r',
     skyId: '251984'
   },
   {
     targetWord: 'unlikely',
-    translation: 'маловероятный',
+    translating: 'маловероятный',
     partOfSpeechCode: 'j',
     skyId: '229287'
   },
   {
     targetWord: 'unlikeness',
-    translation: 'несходство',
+    translating: 'несходство',
     partOfSpeechCode: 'n',
     skyId: '150774'
   },
   {
     targetWord: 'unlimited',
-    translation: 'безграничный',
+    translating: 'безграничный',
     partOfSpeechCode: 'j',
     skyId: '56198'
   },
   {
     targetWord: 'unlimited',
-    translation: 'неограниченный',
+    translating: 'неограниченный',
     partOfSpeechCode: 'j',
     skyId: '239746'
   },
   {
     targetWord: 'unlimited MetroCard',
-    translation: 'безлимитная карта метро',
+    translating: 'безлимитная карта метро',
     partOfSpeechCode: 'ph',
     skyId: '232334'
   },
   {
     targetWord: 'unlisted',
-    translation: 'не включённый в список',
+    translating: 'не включённый в список',
     partOfSpeechCode: 'j',
     skyId: '28540'
   },
   {
     targetWord: 'unliterary',
-    translation: 'нелитературный',
+    translating: 'нелитературный',
     partOfSpeechCode: 'j',
     skyId: '183458'
   },
   {
     targetWord: 'unlittered',
-    translation: 'unlittered',
+    translating: 'unlittered',
     partOfSpeechCode: 'j',
     skyId: '187495'
   },
   {
     targetWord: 'unlivable',
-    translation: 'непригодный для проживания',
+    translating: 'непригодный для проживания',
     partOfSpeechCode: 'j',
     skyId: '133573'
   },
   {
     targetWord: 'unlive',
-    translation: 'менять образ жизни',
+    translating: 'менять образ жизни',
     partOfSpeechCode: 'v',
     skyId: '63951'
   },
   {
     targetWord: 'unliveried',
-    translation: 'unliveried',
+    translating: 'unliveried',
     partOfSpeechCode: 'j',
     skyId: '142712'
   },
   {
     targetWord: 'unload',
-    translation: 'разгружать',
+    translating: 'разгружать',
     partOfSpeechCode: 'v',
     skyId: '122577'
   },
   {
     targetWord: 'unload onto',
-    translation: 'вываливать (что-то) на ',
+    translating: 'вываливать (что-то) на ',
     partOfSpeechCode: 'v',
     skyId: '251103'
   },
   {
     targetWord: 'unloaded',
-    translation: 'незаряженный',
+    translating: 'незаряженный',
     partOfSpeechCode: 'j',
     skyId: '122578'
   },
   {
     targetWord: 'unloading',
-    translation: 'разгрузка',
+    translating: 'разгрузка',
     partOfSpeechCode: 'n',
     skyId: '1363'
   },
   {
     targetWord: 'unlock',
-    translation: 'отпирать',
+    translating: 'отпирать',
     partOfSpeechCode: 'v',
     skyId: '239751'
   },
   {
     targetWord: 'unlock',
-    translation: 'разблокировать',
+    translating: 'разблокировать',
     partOfSpeechCode: 'v',
     skyId: '186864'
   },
   {
     targetWord: 'unlock',
-    translation: 'отпускать',
+    translating: 'отпускать',
     partOfSpeechCode: 'v',
     skyId: '186863'
   },
   {
     targetWord: 'unlock',
-    translation: 'отпирать замок',
+    translating: 'отпирать замок',
     partOfSpeechCode: 'v',
     skyId: '186862'
   },
   {
     targetWord: 'unlocked',
-    translation: 'разблокированный',
+    translating: 'разблокированный',
     partOfSpeechCode: 'j',
     skyId: '254228'
   },
   {
     targetWord: 'unlocked',
-    translation: 'незапертый',
+    translating: 'незапертый',
     partOfSpeechCode: 'j',
     skyId: '123443'
   },
   {
     targetWord: 'unlogical',
-    translation: 'нелогичный',
+    translating: 'нелогичный',
     partOfSpeechCode: 'j',
     skyId: '27754'
   },
   {
     targetWord: 'unlooked-for',
-    translation: 'неожиданный',
+    translating: 'неожиданный',
     partOfSpeechCode: 'j',
     skyId: '137666'
   },
   {
     targetWord: 'unloose',
-    translation: 'развязывать',
+    translating: 'развязывать',
     partOfSpeechCode: 'v',
     skyId: '59397'
   },
   {
     targetWord: 'unloosen',
-    translation: 'освобождать',
+    translating: 'освобождать',
     partOfSpeechCode: 'v',
     skyId: '82562'
   },
   {
     targetWord: 'unloving',
-    translation: 'нелюбящий',
+    translating: 'нелюбящий',
     partOfSpeechCode: 'j',
     skyId: '66866'
   },
   {
     targetWord: 'unluckily',
-    translation: 'неудачно',
+    translating: 'неудачно',
     partOfSpeechCode: 'r',
     skyId: '219297'
   },
   {
     targetWord: 'unlucky',
-    translation: 'неудачливый',
+    translating: 'неудачливый',
     partOfSpeechCode: 'j',
     skyId: '124128'
   },
   {
     targetWord: 'unlucky',
-    translation: 'несчастливый',
+    translating: 'несчастливый',
     partOfSpeechCode: 'j',
     skyId: '124127'
   },
   {
     targetWord: 'unmade',
-    translation: 'незастеленный',
+    translating: 'незастеленный',
     partOfSpeechCode: 'j',
     skyId: '20170'
   },
   {
     targetWord: 'unmake',
-    translation: 'уничтожать',
+    translating: 'уничтожать',
     partOfSpeechCode: 'v',
     skyId: '36710'
   },
   {
     targetWord: 'unmalted',
-    translation: 'несоложенная',
+    translating: 'несоложенная',
     partOfSpeechCode: 'j',
     skyId: '50459'
   },
   {
     targetWord: 'unmanageable',
-    translation: 'неуправляемый',
+    translating: 'неуправляемый',
     partOfSpeechCode: 'j',
     skyId: '31589'
   },
   {
     targetWord: 'unmanageably',
-    translation: 'неуправляемо',
+    translating: 'неуправляемо',
     partOfSpeechCode: 'r',
     skyId: '120536'
   },
   {
     targetWord: 'unmanliness',
-    translation: 'изнеженность',
+    translating: 'изнеженность',
     partOfSpeechCode: 'n',
     skyId: '133326'
   },
   {
     targetWord: 'unmanly',
-    translation: 'женоподобно',
+    translating: 'женоподобно',
     partOfSpeechCode: 'r',
     skyId: '38475'
   },
   {
     targetWord: 'unmanly',
-    translation: 'немужественный',
+    translating: 'немужественный',
     partOfSpeechCode: 'j',
     skyId: '38474'
   },
   {
     targetWord: 'unmanned',
-    translation: 'беспилотный',
+    translating: 'беспилотный',
     partOfSpeechCode: 'j',
     skyId: '89142'
   },
   {
     targetWord: 'unmanned aerial vehicle',
-    translation: 'беспилотный летательный аппарат',
+    translating: 'беспилотный летательный аппарат',
     partOfSpeechCode: 'n',
     skyId: '252809'
   },
   {
     targetWord: 'unmannerly',
-    translation: 'невоспитанный',
+    translating: 'невоспитанный',
     partOfSpeechCode: 'j',
     skyId: '116453'
   },
   {
     targetWord: 'unmapped',
-    translation: 'несопоставленный',
+    translating: 'несопоставленный',
     partOfSpeechCode: 'j',
     skyId: '179952'
   },
   {
     targetWord: 'unmarked',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '127549'
   },
   {
     targetWord: 'unmarked',
-    translation: 'немаркированный',
+    translating: 'немаркированный',
     partOfSpeechCode: 'j',
     skyId: '127548'
   },
   {
     targetWord: 'unmarketable',
-    translation: 'неходовой',
+    translating: 'неходовой',
     partOfSpeechCode: 'j',
     skyId: '33286'
   },
   {
     targetWord: 'unmarred',
-    translation: 'неиспорченный',
+    translating: 'неиспорченный',
     partOfSpeechCode: 'j',
     skyId: '67681'
   },
   {
     targetWord: 'unmarried',
-    translation: 'неженатый / незамужняя',
+    translating: 'неженатый / незамужняя',
     partOfSpeechCode: 'j',
     skyId: '38622'
   },
   {
     targetWord: 'unmarried man',
-    translation: 'холостяк',
+    translating: 'холостяк',
     partOfSpeechCode: 'n',
     skyId: '99562'
   },
   {
     targetWord: 'unmarried woman',
-    translation: 'незамужняя женщина',
+    translating: 'незамужняя женщина',
     partOfSpeechCode: 'n',
     skyId: '66299'
   },
   {
     targetWord: 'unmask',
-    translation: 'разоблачить',
+    translating: 'разоблачить',
     partOfSpeechCode: 'v',
     skyId: '195147'
   },
   {
     targetWord: 'unmask',
-    translation: 'разоблачать',
+    translating: 'разоблачать',
     partOfSpeechCode: 'v',
     skyId: '195146'
   },
   {
     targetWord: 'unmasking',
-    translation: 'разоблачение',
+    translating: 'разоблачение',
     partOfSpeechCode: 'n',
     skyId: '84731'
   },
   {
     targetWord: 'unmatchable',
-    translation: 'несравнимый',
+    translating: 'несравнимый',
     partOfSpeechCode: 'j',
     skyId: '22525'
   },
   {
     targetWord: 'unmeasurable',
-    translation: 'неизмеримый',
+    translating: 'неизмеримый',
     partOfSpeechCode: 'j',
     skyId: '220967'
   },
   {
     targetWord: 'unmeasured',
-    translation: 'непомерный',
+    translating: 'непомерный',
     partOfSpeechCode: 'j',
     skyId: '78922'
   },
   {
     targetWord: 'unmeasured',
-    translation: 'неизмеримый',
+    translating: 'неизмеримый',
     partOfSpeechCode: 'j',
     skyId: '78921'
   },
   {
     targetWord: 'unmechanized',
-    translation: 'unmechanized',
+    translating: 'unmechanized',
     partOfSpeechCode: 'j',
     skyId: '48862'
   },
   {
     targetWord: 'unmelodious',
-    translation: 'немелодичный',
+    translating: 'немелодичный',
     partOfSpeechCode: 'j',
     skyId: '115654'
   },
   {
     targetWord: 'unmelodiously',
-    translation: 'unmelodiously',
+    translating: 'unmelodiously',
     partOfSpeechCode: 'r',
     skyId: '62380'
   },
   {
     targetWord: 'unmelted',
-    translation: 'нерастаявший',
+    translating: 'нерастаявший',
     partOfSpeechCode: 'j',
     skyId: '86178'
   },
   {
     targetWord: 'unmemorable',
-    translation: 'не незабываемый',
+    translating: 'не незабываемый',
     partOfSpeechCode: 'j',
     skyId: '162150'
   },
   {
     targetWord: 'unmemorably',
-    translation: 'незабываемо',
+    translating: 'незабываемо',
     partOfSpeechCode: 'r',
     skyId: '162140'
   },
   {
     targetWord: 'unmentionable',
-    translation: 'запретный',
+    translating: 'запретный',
     partOfSpeechCode: 'j',
     skyId: '123419'
   },
   {
     targetWord: 'unmentionable',
-    translation: 'предмет нижнего белья',
+    translating: 'предмет нижнего белья',
     partOfSpeechCode: 'n',
     skyId: '123418'
   },
   {
     targetWord: 'unmerciful',
-    translation: 'безжалостный',
+    translating: 'безжалостный',
     partOfSpeechCode: 'j',
     skyId: '124254'
   },
   {
     targetWord: 'unmercifully',
-    translation: 'немилосердно',
+    translating: 'немилосердно',
     partOfSpeechCode: 'r',
     skyId: '83517'
   },
   {
     targetWord: 'unmerited',
-    translation: 'незаслуженный',
+    translating: 'незаслуженный',
     partOfSpeechCode: 'j',
     skyId: '34584'
   },
   {
     targetWord: 'unmeritorious',
-    translation: 'unmeritorious',
+    translating: 'unmeritorious',
     partOfSpeechCode: 'j',
     skyId: '131899'
   },
   {
     targetWord: 'unmilitary',
-    translation: 'unmilitary',
+    translating: 'unmilitary',
     partOfSpeechCode: 'j',
     skyId: '63634'
   },
   {
     targetWord: 'unmindful',
-    translation: 'не обращая внимания',
+    translating: 'не обращая внимания',
     partOfSpeechCode: 'j',
     skyId: '171233'
   },
   {
     targetWord: 'unmindful',
-    translation: 'невнимательный',
+    translating: 'невнимательный',
     partOfSpeechCode: 'j',
     skyId: '171232'
   },
   {
     targetWord: 'unmined',
-    translation: 'unmined',
+    translating: 'unmined',
     partOfSpeechCode: 'j',
     skyId: '99149'
   },
   {
     targetWord: 'unmissable',
-    translation: 'такой, который нельзя пропустить',
+    translating: 'такой, который нельзя пропустить',
     partOfSpeechCode: 'j',
     skyId: '259947'
   },
   {
     targetWord: 'unmitigable',
-    translation: 'неумолимый',
+    translating: 'неумолимый',
     partOfSpeechCode: 'j',
     skyId: '32946'
   },
   {
     targetWord: 'unmitigated',
-    translation: 'абсолютный',
+    translating: 'абсолютный',
     partOfSpeechCode: 'j',
     skyId: '35639'
   },
   {
     targetWord: 'unmixed',
-    translation: 'несмешанным',
+    translating: 'несмешанным',
     partOfSpeechCode: 'j',
     skyId: '167046'
   },
   {
     targetWord: 'unmixed',
-    translation: 'несмешанный',
+    translating: 'несмешанный',
     partOfSpeechCode: 'j',
     skyId: '167045'
   },
   {
     targetWord: 'unmoderated',
-    translation: 'модерируется',
+    translating: 'модерируется',
     partOfSpeechCode: 'j',
     skyId: '147549'
   },
   {
     targetWord: 'unmodifiable',
-    translation: 'нередактируемым',
+    translating: 'нередактируемым',
     partOfSpeechCode: 'j',
     skyId: '225595'
   },
   {
     targetWord: 'unmodified',
-    translation: 'неизменность',
+    translating: 'неизменность',
     partOfSpeechCode: 'j',
     skyId: '119133'
   },
   {
     targetWord: 'unmodulated',
-    translation: 'немодулированная',
+    translating: 'немодулированная',
     partOfSpeechCode: 'j',
     skyId: '7226'
   },
   {
     targetWord: 'unmolested',
-    translation: 'неповрежденный',
+    translating: 'неповрежденный',
     partOfSpeechCode: 'j',
     skyId: '121599'
   },
   {
     targetWord: 'unmotivated',
-    translation: 'немотивированный',
+    translating: 'немотивированный',
     partOfSpeechCode: 'j',
     skyId: '92060'
   },
   {
     targetWord: 'unmovable',
-    translation: 'неподвижный',
+    translating: 'неподвижный',
     partOfSpeechCode: 'j',
     skyId: '58908'
   },
   {
     targetWord: 'unmoved',
-    translation: 'равнодушный',
+    translating: 'равнодушный',
     partOfSpeechCode: 'j',
     skyId: '84403'
   },
   {
     targetWord: 'unmoving',
-    translation: 'неподвижный',
+    translating: 'неподвижный',
     partOfSpeechCode: 'j',
     skyId: '153582'
   },
   {
     targetWord: 'unmown',
-    translation: 'нескошенный',
+    translating: 'нескошенный',
     partOfSpeechCode: 'j',
     skyId: '169020'
   },
   {
     targetWord: 'unmusical',
-    translation: 'немузыкальный',
+    translating: 'немузыкальный',
     partOfSpeechCode: 'j',
     skyId: '63271'
   },
   {
     targetWord: 'unmusically',
-    translation: 'unmusically',
+    translating: 'unmusically',
     partOfSpeechCode: 'r',
     skyId: '153577'
   },
   {
     targetWord: 'unmutilated',
-    translation: 'без изъянов',
+    translating: 'без изъянов',
     partOfSpeechCode: 'j',
     skyId: '88035'
   },
   {
     targetWord: 'unnameable',
-    translation: 'неописуемый',
+    translating: 'неописуемый',
     partOfSpeechCode: 'j',
     skyId: '261360'
   },
   {
     targetWord: 'unnatural',
-    translation: 'противоестественный',
+    translating: 'противоестественный',
     partOfSpeechCode: 'j',
     skyId: '181726'
   },
   {
     targetWord: 'unnatural',
-    translation: 'неестественный',
+    translating: 'неестественный',
     partOfSpeechCode: 'j',
     skyId: '181727'
   },
   {
     targetWord: 'unnaturally',
-    translation: 'противоестественно',
+    translating: 'противоестественно',
     partOfSpeechCode: 'r',
     skyId: '27052'
   },
   {
     targetWord: 'unnaturally',
-    translation: 'неестественно',
+    translating: 'неестественно',
     partOfSpeechCode: 'r',
     skyId: '27051'
   },
   {
     targetWord: 'unnaturalness',
-    translation: 'неестественность',
+    translating: 'неестественность',
     partOfSpeechCode: 'n',
     skyId: '77833'
   },
   {
     targetWord: 'unnecessarily',
-    translation: 'без необходимости',
+    translating: 'без необходимости',
     partOfSpeechCode: 'r',
     skyId: '189313'
   },
   {
     targetWord: 'unnecessarily',
-    translation: 'излишне',
+    translating: 'излишне',
     partOfSpeechCode: 'r',
     skyId: '189312'
   },
   {
     targetWord: 'unnecessary possessions',
-    translation: 'ненужные вещи',
+    translating: 'ненужные вещи',
     partOfSpeechCode: 'ph',
     skyId: '229355'
   },
   {
     targetWord: 'unneeded',
-    translation: 'ненужный',
+    translating: 'ненужный',
     partOfSpeechCode: 'j',
     skyId: '91552'
   },
   {
     targetWord: 'unnerve',
-    translation: 'нервировать',
+    translating: 'нервировать',
     partOfSpeechCode: 'v',
     skyId: '175547'
   },
   {
     targetWord: 'unnerved',
-    translation: 'расстроенный',
+    translating: 'расстроенный',
     partOfSpeechCode: 'j',
     skyId: '159404'
   },
   {
     targetWord: 'unnerving',
-    translation: 'пугающий',
+    translating: 'пугающий',
     partOfSpeechCode: 'j',
     skyId: '175548'
   },
   {
     targetWord: 'unneurotic',
-    translation: 'не предрасположенный к нервным заболеваниям',
+    translating: 'не предрасположенный к нервным заболеваниям',
     partOfSpeechCode: 'j',
     skyId: '10797'
   },
   {
     targetWord: 'unnilquadium',
-    translation: 'резерфордий',
+    translating: 'резерфордий',
     partOfSpeechCode: 'n',
     skyId: '172070'
   },
   {
     targetWord: 'unnoticeable',
-    translation: 'незаметный',
+    translating: 'незаметный',
     partOfSpeechCode: 'j',
     skyId: '218096'
   },
   {
     targetWord: 'unnoticeably',
-    translation: 'незаметно',
+    translating: 'незаметно',
     partOfSpeechCode: 'r',
     skyId: '218123'
   },
   {
     targetWord: 'unnoticed',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '111135'
   },
   {
     targetWord: 'unnumberable',
-    translation: 'бессчётный',
+    translating: 'бессчётный',
     partOfSpeechCode: 'j',
     skyId: '117376'
   },
   {
     targetWord: 'unnumbered',
-    translation: 'несметный',
+    translating: 'несметный',
     partOfSpeechCode: 'j',
     skyId: '188358'
   },
   {
     targetWord: 'unnumerable',
-    translation: 'бесчётный',
+    translating: 'бесчётный',
     partOfSpeechCode: 'j',
     skyId: '82221'
   },
   {
     targetWord: 'unobjectionable',
-    translation: 'бесспорный ',
+    translating: 'бесспорный ',
     partOfSpeechCode: 'j',
     skyId: '120389'
   },
   {
     targetWord: 'unobjectionable',
-    translation: 'не вызывает возражений',
+    translating: 'не вызывает возражений',
     partOfSpeechCode: 'j',
     skyId: '120388'
   },
   {
     targetWord: 'unobjectionable',
-    translation: 'не вызывающий возражений',
+    translating: 'не вызывающий возражений',
     partOfSpeechCode: 'j',
     skyId: '120387'
   },
   {
     targetWord: 'unobliging',
-    translation: 'неуслужливый',
+    translating: 'неуслужливый',
     partOfSpeechCode: 'j',
     skyId: '59406'
   },
   {
     targetWord: 'unobservant',
-    translation: 'ненаблюдательный',
+    translating: 'ненаблюдательный',
     partOfSpeechCode: 'j',
     skyId: '30098'
   },
   {
     targetWord: 'unobserved',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '186509'
   },
   {
     targetWord: 'unobstructed',
-    translation: 'беспрепятственный',
+    translating: 'беспрепятственный',
     partOfSpeechCode: 'j',
     skyId: '159653'
   },
   {
     targetWord: 'unobtainable',
-    translation: 'недостижимый',
+    translating: 'недостижимый',
     partOfSpeechCode: 'j',
     skyId: '108439'
   },
   {
     targetWord: 'unobtrusive',
-    translation: 'ненавязчивый',
+    translating: 'ненавязчивый',
     partOfSpeechCode: 'j',
     skyId: '93998'
   },
   {
     targetWord: 'unobtrusively',
-    translation: 'ненавязчиво',
+    translating: 'ненавязчиво',
     partOfSpeechCode: 'r',
     skyId: '63036'
   },
   {
     targetWord: 'unobtrusiveness',
-    translation: 'ненавязчивость',
+    translating: 'ненавязчивость',
     partOfSpeechCode: 'n',
     skyId: '114093'
   },
   {
     targetWord: 'unobvious',
-    translation: 'неочевидный',
+    translating: 'неочевидный',
     partOfSpeechCode: 'j',
     skyId: '77724'
   },
   {
     targetWord: 'unoccupied',
-    translation: 'необитаемый',
+    translating: 'необитаемый',
     partOfSpeechCode: 'j',
     skyId: '205000'
   },
   {
     targetWord: 'unoccupied',
-    translation: 'незанятый',
+    translating: 'незанятый',
     partOfSpeechCode: 'j',
     skyId: '204999'
   },
   {
     targetWord: 'unoffending',
-    translation: 'безобидный',
+    translating: 'безобидный',
     partOfSpeechCode: 'j',
     skyId: '76066'
   },
   {
     targetWord: 'unofficial',
-    translation: 'неофициальный',
+    translating: 'неофициальный',
     partOfSpeechCode: 'j',
     skyId: '130562'
   },
   {
     targetWord: 'unofficially',
-    translation: 'неофициально',
+    translating: 'неофициально',
     partOfSpeechCode: 'r',
     skyId: '133227'
   },
   {
     targetWord: 'unopen',
-    translation: 'Unopen',
+    translating: 'Unopen',
     partOfSpeechCode: 'j',
     skyId: '226286'
   },
   {
     targetWord: 'unopened',
-    translation: 'нераспечатанный',
+    translating: 'нераспечатанный',
     partOfSpeechCode: 'j',
     skyId: '159337'
   },
   {
     targetWord: 'unopposed',
-    translation: 'не имеющий противника',
+    translating: 'не имеющий противника',
     partOfSpeechCode: 'j',
     skyId: '110477'
   },
   {
     targetWord: 'unordered',
-    translation: 'неупорядоченный',
+    translating: 'неупорядоченный',
     partOfSpeechCode: 'j',
     skyId: '21803'
   },
   {
     targetWord: 'unorganized',
-    translation: 'не являющийся членом профсоюза',
+    translating: 'не являющийся членом профсоюза',
     partOfSpeechCode: 'j',
     skyId: '72386'
   },
   {
     targetWord: 'unorganized',
-    translation: 'неорганизованный',
+    translating: 'неорганизованный',
     partOfSpeechCode: 'j',
     skyId: '72385'
   },
   {
     targetWord: 'unoriented',
-    translation: 'неориентированную',
+    translating: 'неориентированную',
     partOfSpeechCode: 'j',
     skyId: '93484'
   },
   {
     targetWord: 'unoriginal',
-    translation: 'неоригинальный',
+    translating: 'неоригинальный',
     partOfSpeechCode: 'j',
     skyId: '190491'
   },
   {
     targetWord: 'unornamented',
-    translation: 'обыкновенный',
+    translating: 'обыкновенный',
     partOfSpeechCode: 'j',
     skyId: '22346'
   },
   {
     targetWord: 'unorthodox',
-    translation: 'неортодоксальный',
+    translating: 'неортодоксальный',
     partOfSpeechCode: 'j',
     skyId: '164179'
   },
   {
     targetWord: 'unorthodox',
-    translation: 'необщепринятый',
+    translating: 'необщепринятый',
     partOfSpeechCode: 'j',
     skyId: '164178'
   },
   {
     targetWord: 'unostentatious',
-    translation: 'ненавязчивый',
+    translating: 'ненавязчивый',
     partOfSpeechCode: 'j',
     skyId: '137779'
   },
   {
     targetWord: 'unowned',
-    translation: 'бесхозный',
+    translating: 'бесхозный',
     partOfSpeechCode: 'j',
     skyId: '137055'
   },
   {
     targetWord: 'unpack',
-    translation: 'распаковывать',
+    translating: 'распаковывать',
     partOfSpeechCode: 'v',
     skyId: '113356'
   },
   {
     targetWord: 'unpackaged',
-    translation: 'неупакованный',
+    translating: 'неупакованный',
     partOfSpeechCode: 'j',
     skyId: '153957'
   },
   {
     targetWord: 'unpaid',
-    translation: 'на безвозмездной основе',
+    translating: 'на безвозмездной основе',
     partOfSpeechCode: 'j',
     skyId: '28744'
   },
   {
     targetWord: 'unpaid',
-    translation: 'неуплаченный',
+    translating: 'неуплаченный',
     partOfSpeechCode: 'j',
     skyId: '28742'
   },
   {
     targetWord: 'unpaid',
-    translation: 'неоплачиваемый',
+    translating: 'неоплачиваемый',
     partOfSpeechCode: 'j',
     skyId: '28743'
   },
   {
     targetWord: 'unpaid work',
-    translation: 'неоплачиваемая работа',
+    translating: 'неоплачиваемая работа',
     partOfSpeechCode: 'n',
     skyId: '255765'
   },
   {
     targetWord: 'unpaintable',
-    translation: 'unpaintable',
+    translating: 'unpaintable',
     partOfSpeechCode: 'j',
     skyId: '226423'
   },
   {
     targetWord: 'unpaired',
-    translation: 'непарный',
+    translating: 'непарный',
     partOfSpeechCode: 'j',
     skyId: '176992'
   },
   {
     targetWord: 'unpalatability',
-    translation: 'непригодность',
+    translating: 'непригодность',
     partOfSpeechCode: 'n',
     skyId: '86896'
   },
   {
     targetWord: 'unpalatable',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '34407'
   },
   {
     targetWord: 'unparallel',
-    translation: 'превосходный',
+    translating: 'превосходный',
     partOfSpeechCode: 'j',
     skyId: '150018'
   },
   {
     targetWord: 'unparalleled',
-    translation: 'не имеющий равного',
+    translating: 'не имеющий равного',
     partOfSpeechCode: 'j',
     skyId: '3743'
   },
   {
     targetWord: 'unpardonable',
-    translation: 'непростительный',
+    translating: 'непростительный',
     partOfSpeechCode: 'j',
     skyId: '131772'
   },
   {
     targetWord: 'unpardonably',
-    translation: 'непростительно',
+    translating: 'непростительно',
     partOfSpeechCode: 'r',
     skyId: '131745'
   },
   {
     targetWord: 'unpassable',
-    translation: 'непроходимый',
+    translating: 'непроходимый',
     partOfSpeechCode: 'j',
     skyId: '220740'
   },
   {
     targetWord: 'unpasteurised',
-    translation: 'непастеризованный',
+    translating: 'непастеризованный',
     partOfSpeechCode: 'j',
     skyId: '97395'
   },
   {
     targetWord: 'unpatented',
-    translation: 'незапатентованный',
+    translating: 'незапатентованный',
     partOfSpeechCode: 'j',
     skyId: '101424'
   },
   {
     targetWord: 'unpatriotic',
-    translation: 'непатриотичный',
+    translating: 'непатриотичный',
     partOfSpeechCode: 'j',
     skyId: '33433'
   },
   {
     targetWord: 'unpatriotically',
-    translation: 'непатриотично',
+    translating: 'непатриотично',
     partOfSpeechCode: 'r',
     skyId: '138246'
   },
   {
     targetWord: 'unpatterned',
-    translation: 'без рисунка',
+    translating: 'без рисунка',
     partOfSpeechCode: 'j',
     skyId: '80192'
   },
   {
     targetWord: 'unpaved',
-    translation: 'немощёный',
+    translating: 'немощёный',
     partOfSpeechCode: 'j',
     skyId: '225227'
   },
   {
     targetWord: 'unpeaceful',
-    translation: 'unpeaceful',
+    translating: 'unpeaceful',
     partOfSpeechCode: 'j',
     skyId: '29325'
   },
   {
     targetWord: 'unpeeled',
-    translation: 'неочищенный',
+    translating: 'неочищенный',
     partOfSpeechCode: 'j',
     skyId: '264808'
   },
   {
     targetWord: 'unpeopled',
-    translation: 'безлюдный',
+    translating: 'безлюдный',
     partOfSpeechCode: 'j',
     skyId: '167788'
   },
   {
     targetWord: 'unperceivable',
-    translation: 'незначительный',
+    translating: 'незначительный',
     partOfSpeechCode: 'j',
     skyId: '181470'
   },
   {
     targetWord: 'unperceived',
-    translation: 'незамеченный',
+    translating: 'незамеченный',
     partOfSpeechCode: 'j',
     skyId: '130484'
   },
   {
     targetWord: 'unperceptive',
-    translation: 'недогадливый',
+    translating: 'недогадливый',
     partOfSpeechCode: 'j',
     skyId: '94769'
   },
   {
     targetWord: 'unperformed',
-    translation: 'невыполненный',
+    translating: 'невыполненный',
     partOfSpeechCode: 'j',
     skyId: '85874'
   },
   {
     targetWord: 'unpermed',
-    translation: 'unpermed',
+    translating: 'unpermed',
     partOfSpeechCode: 'j',
     skyId: '150930'
   },
   {
     targetWord: 'unperson',
-    translation: 'видный деятель, потерявший положение',
+    translating: 'видный деятель, потерявший положение',
     partOfSpeechCode: 'n',
     skyId: '85704'
   },
   {
     targetWord: 'unpersuadable',
-    translation: 'не поддающийся убеждению',
+    translating: 'не поддающийся убеждению',
     partOfSpeechCode: 'j',
     skyId: '96471'
   },
   {
     targetWord: 'unpersuaded',
-    translation: 'неуверенный',
+    translating: 'неуверенный',
     partOfSpeechCode: 'j',
     skyId: '139772'
   },
   {
     targetWord: 'unpersuasive',
-    translation: 'неубедительный',
+    translating: 'неубедительный',
     partOfSpeechCode: 'j',
     skyId: '52952'
   },
   {
     targetWord: 'unperturbed',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '224987'
   },
   {
     targetWord: 'unpick',
-    translation: 'распарывать',
+    translating: 'распарывать',
     partOfSpeechCode: 'v',
     skyId: '140618'
   },
   {
     targetWord: 'unpick',
-    translation: 'распускать',
+    translating: 'распускать',
     partOfSpeechCode: 'v',
     skyId: '140617'
   },
   {
     targetWord: 'unpierced',
-    translation: 'unpierced',
+    translating: 'unpierced',
     partOfSpeechCode: 'j',
     skyId: '747'
   },
   {
     targetWord: 'unpin',
-    translation: 'вынимать булавки',
+    translating: 'вынимать булавки',
     partOfSpeechCode: 'v',
     skyId: '80872'
   },
   {
     targetWord: 'unplanned',
-    translation: 'незапланированный',
+    translating: 'незапланированный',
     partOfSpeechCode: 'j',
     skyId: '158285'
   },
   {
     targetWord: 'unplayable',
-    translation: 'непригодный для игры',
+    translating: 'непригодный для игры',
     partOfSpeechCode: 'j',
     skyId: '168350'
   },
   {
     targetWord: 'unpleasant',
-    translation: 'невежливый',
+    translating: 'невежливый',
     partOfSpeechCode: 'j',
     skyId: '240806'
   },
   {
     targetWord: 'unpleasant',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '215169'
   },
   {
     targetWord: 'unpleasantly',
-    translation: 'неприятно',
+    translating: 'неприятно',
     partOfSpeechCode: 'r',
     skyId: '183098'
   },
   {
     targetWord: 'unpleasantness',
-    translation: 'неприятность',
+    translating: 'неприятность',
     partOfSpeechCode: 'n',
     skyId: '39644'
   },
   {
     targetWord: 'unpleasing',
-    translation: 'неугодный',
+    translating: 'неугодный',
     partOfSpeechCode: 'j',
     skyId: '186558'
   },
   {
     targetWord: 'unplowed',
-    translation: 'невспаханный',
+    translating: 'невспаханный',
     partOfSpeechCode: 'j',
     skyId: '171112'
   },
   {
     targetWord: 'unplug',
-    translation: 'отключить ',
+    translating: 'отключить ',
     partOfSpeechCode: 'v',
     skyId: '62481'
   },
   {
     targetWord: 'unplug from a daily stress',
-    translation: 'забывать о ежедневном стрессе',
+    translating: 'забывать о ежедневном стрессе',
     partOfSpeechCode: 'ph',
     skyId: '254908'
   },
   {
     targetWord: 'unplugged',
-    translation: 'акустический',
+    translating: 'акустический',
     partOfSpeechCode: 'j',
     skyId: '233509'
   },
   {
     targetWord: 'unplugging',
-    translation: 'отключение',
+    translating: 'отключение',
     partOfSpeechCode: 'n',
     skyId: '263174'
   },
   {
     targetWord: 'unplumbed',
-    translation: 'unplumbed',
+    translating: 'unplumbed',
     partOfSpeechCode: 'j',
     skyId: '180884'
   },
   {
     targetWord: 'unpointed',
-    translation: 'тупой',
+    translating: 'тупой',
     partOfSpeechCode: 'j',
     skyId: '156696'
   },
@@ -11593,2599 +11593,2599 @@ export const uArr = [
   },
   {
     targetWord: 'unpolished',
-    translation: 'нешлифованный',
+    translating: 'нешлифованный',
     partOfSpeechCode: 'j',
     skyId: '90983'
   },
   {
     targetWord: 'unpolished',
-    translation: 'неполированный',
+    translating: 'неполированный',
     partOfSpeechCode: 'j',
     skyId: '90982'
   },
   {
     targetWord: 'unpolitical',
-    translation: 'аполитичный',
+    translating: 'аполитичный',
     partOfSpeechCode: 'j',
     skyId: '101909'
   },
   {
     targetWord: 'unpolluted',
-    translation: 'незагрязнённый',
+    translating: 'незагрязнённый',
     partOfSpeechCode: 'j',
     skyId: '166378'
   },
   {
     targetWord: 'unpopular',
-    translation: 'непопулярный',
+    translating: 'непопулярный',
     partOfSpeechCode: 'j',
     skyId: '91952'
   },
   {
     targetWord: 'unpopularity',
-    translation: 'непопулярность',
+    translating: 'непопулярность',
     partOfSpeechCode: 'n',
     skyId: '46379'
   },
   {
     targetWord: 'unpopulated',
-    translation: 'ненаселённый',
+    translating: 'ненаселённый',
     partOfSpeechCode: 'j',
     skyId: '92034'
   },
   {
     targetWord: 'unposed',
-    translation: 'не занимающий определённую позу',
+    translating: 'не занимающий определённую позу',
     partOfSpeechCode: 'j',
     skyId: '83251'
   },
   {
     targetWord: 'unpowered',
-    translation: 'без двигателя',
+    translating: 'без двигателя',
     partOfSpeechCode: 'j',
     skyId: '90647'
   },
   {
     targetWord: 'unprecedentedly',
-    translation: 'беспрецедентно',
+    translating: 'беспрецедентно',
     partOfSpeechCode: 'r',
     skyId: '108476'
   },
   {
     targetWord: 'unpredictability',
-    translation: 'трудность прогнозирования',
+    translating: 'трудность прогнозирования',
     partOfSpeechCode: 'n',
     skyId: '155513'
   },
   {
     targetWord: 'unpredictability',
-    translation: 'непредсказуемость',
+    translating: 'непредсказуемость',
     partOfSpeechCode: 'n',
     skyId: '155514'
   },
   {
     targetWord: 'unpredictable',
-    translation: 'непредсказуемый',
+    translating: 'непредсказуемый',
     partOfSpeechCode: 'j',
     skyId: '169235'
   },
   {
     targetWord: 'unpredictably',
-    translation: 'непредсказуемо',
+    translating: 'непредсказуемо',
     partOfSpeechCode: 'r',
     skyId: '169230'
   },
   {
     targetWord: 'unprejudiced',
-    translation: 'непредвзятый',
+    translating: 'непредвзятый',
     partOfSpeechCode: 'j',
     skyId: '49142'
   },
   {
     targetWord: 'unpremeditated',
-    translation: 'непреднамеренный',
+    translating: 'непреднамеренный',
     partOfSpeechCode: 'j',
     skyId: '62050'
   },
   {
     targetWord: 'unprepared',
-    translation: 'неподготовленный',
+    translating: 'неподготовленный',
     partOfSpeechCode: 'j',
     skyId: '119060'
   },
   {
     targetWord: 'unpresentable',
-    translation: 'непрезентабельный',
+    translating: 'непрезентабельный',
     partOfSpeechCode: 'j',
     skyId: '189417'
   },
   {
     targetWord: 'unpresidential',
-    translation: 'непрезидентский',
+    translating: 'непрезидентский',
     partOfSpeechCode: 'j',
     skyId: '80715'
   },
   {
     targetWord: 'unpretending',
-    translation: 'скромный',
+    translating: 'скромный',
     partOfSpeechCode: 'j',
     skyId: '49208'
   },
   {
     targetWord: 'unpretentious',
-    translation: 'непретенциозный',
+    translating: 'непретенциозный',
     partOfSpeechCode: 'j',
     skyId: '51555'
   },
   {
     targetWord: 'unpretentious',
-    translation: 'скромный',
+    translating: 'скромный',
     partOfSpeechCode: 'j',
     skyId: '51556'
   },
   {
     targetWord: 'unpretentiously',
-    translation: 'скромно',
+    translating: 'скромно',
     partOfSpeechCode: 'r',
     skyId: '37271'
   },
   {
     targetWord: 'unpreventable',
-    translation: 'неизбежный',
+    translating: 'неизбежный',
     partOfSpeechCode: 'j',
     skyId: '57061'
   },
   {
     targetWord: 'unpriestly',
-    translation: 'unpriestly',
+    translating: 'unpriestly',
     partOfSpeechCode: 'j',
     skyId: '45518'
   },
   {
     targetWord: 'unprincipled',
-    translation: 'беспринципный',
+    translating: 'беспринципный',
     partOfSpeechCode: 'j',
     skyId: '195307'
   },
   {
     targetWord: 'unprintable',
-    translation: 'непечатный',
+    translating: 'непечатный',
     partOfSpeechCode: 'j',
     skyId: '91800'
   },
   {
     targetWord: 'unproblematic',
-    translation: 'беспроблемный',
+    translating: 'беспроблемный',
     partOfSpeechCode: 'j',
     skyId: '92492'
   },
   {
     targetWord: 'unprocessed',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '218955'
   },
   {
     targetWord: 'unproductive',
-    translation: 'бесполезный',
+    translating: 'бесполезный',
     partOfSpeechCode: 'j',
     skyId: '245044'
   },
   {
     targetWord: 'unproductive',
-    translation: 'непродуктивный',
+    translating: 'непродуктивный',
     partOfSpeechCode: 'j',
     skyId: '165632'
   },
   {
     targetWord: 'unproductively',
-    translation: 'непродуктивно',
+    translating: 'непродуктивно',
     partOfSpeechCode: 'r',
     skyId: '178859'
   },
   {
     targetWord: 'unprofessional',
-    translation: 'непрофессиональный',
+    translating: 'непрофессиональный',
     partOfSpeechCode: 'j',
     skyId: '240807'
   },
   {
     targetWord: 'unprofitable',
-    translation: 'невыгодный',
+    translating: 'невыгодный',
     partOfSpeechCode: 'j',
     skyId: '5647'
   },
   {
     targetWord: 'unprogressive',
-    translation: 'unprogressive',
+    translating: 'unprogressive',
     partOfSpeechCode: 'j',
     skyId: '143146'
   },
   {
     targetWord: 'unprompted',
-    translation: 'неспровоцированный',
+    translating: 'неспровоцированный',
     partOfSpeechCode: 'j',
     skyId: '224399'
   },
   {
     targetWord: 'unpronounceable',
-    translation: 'непроизносимый',
+    translating: 'непроизносимый',
     partOfSpeechCode: 'j',
     skyId: '115748'
   },
   {
     targetWord: 'unpropitious',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '85939'
   },
   {
     targetWord: 'unprotected',
-    translation: 'незащищённый',
+    translating: 'незащищённый',
     partOfSpeechCode: 'j',
     skyId: '96238'
   },
   {
     targetWord: 'unprovable',
-    translation: 'недоказуемо',
+    translating: 'недоказуемо',
     partOfSpeechCode: 'j',
     skyId: '69912'
   },
   {
     targetWord: 'unproved',
-    translation: 'недоказанный',
+    translating: 'недоказанный',
     partOfSpeechCode: 'j',
     skyId: '67518'
   },
   {
     targetWord: 'unproven',
-    translation: 'недоказанный',
+    translating: 'недоказанный',
     partOfSpeechCode: 'j',
     skyId: '164305'
   },
   {
     targetWord: 'unproven reserves',
-    translation: 'недоказанные запасы',
+    translating: 'недоказанные запасы',
     partOfSpeechCode: 'n',
     skyId: '265132'
   },
   {
     targetWord: 'unprovided for',
-    translation: 'непредусмотренных для',
+    translating: 'непредусмотренных для',
     partOfSpeechCode: 'j',
     skyId: '144371'
   },
   {
     targetWord: 'unprovoked',
-    translation: 'беспричинный',
+    translating: 'беспричинный',
     partOfSpeechCode: 'j',
     skyId: '218388'
   },
   {
     targetWord: 'unpublished',
-    translation: 'неопубликованный',
+    translating: 'неопубликованный',
     partOfSpeechCode: 'j',
     skyId: '153466'
   },
   {
     targetWord: 'unpunctual',
-    translation: 'непунктуальный',
+    translating: 'непунктуальный',
     partOfSpeechCode: 'j',
     skyId: '76637'
   },
   {
     targetWord: 'unpunished',
-    translation: 'безнаказанный',
+    translating: 'безнаказанный',
     partOfSpeechCode: 'j',
     skyId: '106408'
   },
   {
     targetWord: 'unpurified',
-    translation: 'неочищенный',
+    translating: 'неочищенный',
     partOfSpeechCode: 'j',
     skyId: '107778'
   },
   {
     targetWord: 'unputdownable',
-    translation: 'захватывающий',
+    translating: 'захватывающий',
     partOfSpeechCode: 'j',
     skyId: '252977'
   },
   {
     targetWord: 'unqualified',
-    translation: 'неквалифицированный',
+    translating: 'неквалифицированный',
     partOfSpeechCode: 'j',
     skyId: '240808'
   },
   {
     targetWord: 'unqualified',
-    translation: 'не имеющий квалификации',
+    translating: 'не имеющий квалификации',
     partOfSpeechCode: 'j',
     skyId: '81200'
   },
   {
     targetWord: 'unqualified',
-    translation: 'не отвечающий требованиям',
+    translating: 'не отвечающий требованиям',
     partOfSpeechCode: 'j',
     skyId: '81199'
   },
   {
     targetWord: 'unqualified',
-    translation: 'безоговорочный',
+    translating: 'безоговорочный',
     partOfSpeechCode: 'j',
     skyId: '81198'
   },
   {
     targetWord: 'unquantifiable',
-    translation: 'не поддающийся количественной оценке',
+    translating: 'не поддающийся количественной оценке',
     partOfSpeechCode: 'j',
     skyId: '252045'
   },
   {
     targetWord: 'unquestioned',
-    translation: 'бесспорный',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyId: '138194'
   },
   {
     targetWord: 'unquestioningly',
-    translation: 'безусловно',
+    translating: 'безусловно',
     partOfSpeechCode: 'r',
     skyId: '70369'
   },
   {
     targetWord: 'unquiet',
-    translation: 'беспокойный',
+    translating: 'беспокойный',
     partOfSpeechCode: 'j',
     skyId: '31680'
   },
   {
     targetWord: 'unquietly',
-    translation: 'беспокойно',
+    translating: 'беспокойно',
     partOfSpeechCode: 'r',
     skyId: '190647'
   },
   {
     targetWord: 'unquotable',
-    translation: 'нецензурный',
+    translating: 'нецензурный',
     partOfSpeechCode: 'j',
     skyId: '153925'
   },
   {
     targetWord: 'unratable',
-    translation: 'не облагаемый налогом',
+    translating: 'не облагаемый налогом',
     partOfSpeechCode: 'j',
     skyId: '60736'
   },
   {
     targetWord: 'unravel',
-    translation: 'открывать',
+    translating: 'открывать',
     partOfSpeechCode: 'v',
     skyId: '261009'
   },
   {
     targetWord: 'unravel',
-    translation: 'рушиться',
+    translating: 'рушиться',
     partOfSpeechCode: 'v',
     skyId: '261010'
   },
   {
     targetWord: 'unravel',
-    translation: 'распутываться',
+    translating: 'распутываться',
     partOfSpeechCode: 'v',
     skyId: '94517'
   },
   {
     targetWord: 'unravel',
-    translation: 'распутывать',
+    translating: 'распутывать',
     partOfSpeechCode: 'v',
     skyId: '94516'
   },
   {
     targetWord: 'unraveller',
-    translation: 'расплетающий человек',
+    translating: 'расплетающий человек',
     partOfSpeechCode: 'n',
     skyId: '182501'
   },
   {
     targetWord: 'unreachable',
-    translation: 'недостижимый',
+    translating: 'недостижимый',
     partOfSpeechCode: 'j',
     skyId: '29176'
   },
   {
     targetWord: 'unreached',
-    translation: 'недоступный',
+    translating: 'недоступный',
     partOfSpeechCode: 'j',
     skyId: '107798'
   },
   {
     targetWord: 'unread',
-    translation: 'непрочитанный',
+    translating: 'непрочитанный',
     partOfSpeechCode: 'j',
     skyId: '161821'
   },
   {
     targetWord: 'unreadable',
-    translation: 'неразборчивый',
+    translating: 'неразборчивый',
     partOfSpeechCode: 'j',
     skyId: '75388'
   },
   {
     targetWord: 'unready',
-    translation: 'несообразительный',
+    translating: 'несообразительный',
     partOfSpeechCode: 'j',
     skyId: '8634'
   },
   {
     targetWord: 'unreal',
-    translation: 'потрясающий',
+    translating: 'потрясающий',
     partOfSpeechCode: 'j',
     skyId: '252286'
   },
   {
     targetWord: 'unreal',
-    translation: 'невозможный',
+    translating: 'невозможный',
     partOfSpeechCode: 'j',
     skyId: '240809'
   },
   {
     targetWord: 'unreal',
-    translation: 'нереальный',
+    translating: 'нереальный',
     partOfSpeechCode: 'j',
     skyId: '161814'
   },
   {
     targetWord: 'unreal',
-    translation: 'искуственный',
+    translating: 'искуственный',
     partOfSpeechCode: 'j',
     skyId: '161813'
   },
   {
     targetWord: 'unreal',
-    translation: 'воображаемый',
+    translating: 'воображаемый',
     partOfSpeechCode: 'j',
     skyId: '161812'
   },
   {
     targetWord: 'unrealistic',
-    translation: 'нереалистический',
+    translating: 'нереалистический',
     partOfSpeechCode: 'j',
     skyId: '239753'
   },
   {
     targetWord: 'unrealistic',
-    translation: 'нереальный',
+    translating: 'нереальный',
     partOfSpeechCode: 'j',
     skyId: '89223'
   },
   {
     targetWord: 'unrealistically',
-    translation: 'нереалистично',
+    translating: 'нереалистично',
     partOfSpeechCode: 'r',
     skyId: '122357'
   },
   {
     targetWord: 'unreality',
-    translation: 'нереальность',
+    translating: 'нереальность',
     partOfSpeechCode: 'n',
     skyId: '163462'
   },
   {
     targetWord: 'unrealizable',
-    translation: 'несбыточный',
+    translating: 'несбыточный',
     partOfSpeechCode: 'j',
     skyId: '36058'
   },
   {
     targetWord: 'unrealized',
-    translation: 'нереализованный',
+    translating: 'нереализованный',
     partOfSpeechCode: 'j',
     skyId: '117754'
   },
   {
     targetWord: 'unreason',
-    translation: 'абсурдность',
+    translating: 'абсурдность',
     partOfSpeechCode: 'n',
     skyId: '128731'
   },
   {
     targetWord: 'unreasonable',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '239756'
   },
   {
     targetWord: 'unreasonable',
-    translation: 'неразумный',
+    translating: 'неразумный',
     partOfSpeechCode: 'j',
     skyId: '68223'
   },
   {
     targetWord: 'unreasonably',
-    translation: 'необоснованно',
+    translating: 'необоснованно',
     partOfSpeechCode: 'r',
     skyId: '240810'
   },
   {
     targetWord: 'unreasonably',
-    translation: 'неоправданно',
+    translating: 'неоправданно',
     partOfSpeechCode: 'r',
     skyId: '68228'
   },
   {
     targetWord: 'unreasonably high prices',
-    translation: 'неоправданно высокие цены',
+    translating: 'неоправданно высокие цены',
     partOfSpeechCode: 'ph',
     skyId: '265661'
   },
   {
     targetWord: 'unreasoning',
-    translation: 'беспочвенный',
+    translating: 'беспочвенный',
     partOfSpeechCode: 'j',
     skyId: '103156'
   },
   {
     targetWord: 'unreceptive',
-    translation: 'невосприимчивый',
+    translating: 'невосприимчивый',
     partOfSpeechCode: 'j',
     skyId: '101925'
   },
   {
     targetWord: 'unreciprocated',
-    translation: 'безответный',
+    translating: 'безответный',
     partOfSpeechCode: 'j',
     skyId: '176377'
   },
   {
     targetWord: 'unrecognisable',
-    translation: 'неузнаваем',
+    translating: 'неузнаваем',
     partOfSpeechCode: 'r',
     skyId: '36809'
   },
   {
     targetWord: 'unrecognisable',
-    translation: 'неузнаваемый',
+    translating: 'неузнаваемый',
     partOfSpeechCode: 'j',
     skyId: '36808'
   },
   {
     targetWord: 'unrecognised',
-    translation: 'нераспознанный',
+    translating: 'нераспознанный',
     partOfSpeechCode: 'j',
     skyId: '191521'
   },
   {
     targetWord: 'unrecognizable',
-    translation: 'неузнаваемый',
+    translating: 'неузнаваемый',
     partOfSpeechCode: 'j',
     skyId: '117022'
   },
   {
     targetWord: 'unrecognizably',
-    translation: 'неузнаваемо',
+    translating: 'неузнаваемо',
     partOfSpeechCode: 'r',
     skyId: '22910'
   },
   {
     targetWord: 'unrecognized',
-    translation: 'непризнанный',
+    translating: 'непризнанный',
     partOfSpeechCode: 'j',
     skyId: '79340'
   },
   {
     targetWord: 'unrecognized',
-    translation: 'неузнаваемый',
+    translating: 'неузнаваемый',
     partOfSpeechCode: 'j',
     skyId: '79339'
   },
   {
     targetWord: 'unreconciled',
-    translation: 'непримиримый',
+    translating: 'непримиримый',
     partOfSpeechCode: 'j',
     skyId: '14365'
   },
   {
     targetWord: 'unreconstructed',
-    translation: 'неперестроившийся',
+    translating: 'неперестроившийся',
     partOfSpeechCode: 'j',
     skyId: '113388'
   },
   {
     targetWord: 'unrecorded',
-    translation: 'незафиксированный',
+    translating: 'незафиксированный',
     partOfSpeechCode: 'j',
     skyId: '173335'
   },
   {
     targetWord: 'unrecoverable',
-    translation: 'невосстанавливаемый',
+    translating: 'невосстанавливаемый',
     partOfSpeechCode: 'j',
     skyId: '224362'
   },
   {
     targetWord: 'unredeemable',
-    translation: 'невосполнимый',
+    translating: 'невосполнимый',
     partOfSpeechCode: 'j',
     skyId: '5341'
   },
   {
     targetWord: 'unredeemed',
-    translation: 'неискупленный',
+    translating: 'неискупленный',
     partOfSpeechCode: 'j',
     skyId: '210170'
   },
   {
     targetWord: 'unreel',
-    translation: 'разматывать',
+    translating: 'разматывать',
     partOfSpeechCode: 'v',
     skyId: '221111'
   },
   {
     targetWord: 'unrefined',
-    translation: 'грубый',
+    translating: 'грубый',
     partOfSpeechCode: 'j',
     skyId: '25368'
   },
   {
     targetWord: 'unrefined',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '25367'
   },
   {
     targetWord: 'unreflective',
-    translation: 'непродуманный',
+    translating: 'непродуманный',
     partOfSpeechCode: 'j',
     skyId: '119569'
   },
   {
     targetWord: 'unregenerate',
-    translation: 'неисправимый',
+    translating: 'неисправимый',
     partOfSpeechCode: 'j',
     skyId: '223863'
   },
   {
     targetWord: 'unregenerate',
-    translation: 'неперерождённый',
+    translating: 'неперерождённый',
     partOfSpeechCode: 'j',
     skyId: '223862'
   },
   {
     targetWord: 'unregenerate',
-    translation: 'неперерожденный',
+    translating: 'неперерожденный',
     partOfSpeechCode: 'j',
     skyId: '223861'
   },
   {
     targetWord: 'unregistered',
-    translation: 'незарегистрированный',
+    translating: 'незарегистрированный',
     partOfSpeechCode: 'j',
     skyId: '213864'
   },
   {
     targetWord: 'unregretful',
-    translation: 'unregretful',
+    translating: 'unregretful',
     partOfSpeechCode: 'j',
     skyId: '64991'
   },
   {
     targetWord: 'unregulated',
-    translation: 'нерегулируемый',
+    translating: 'нерегулируемый',
     partOfSpeechCode: 'j',
     skyId: '165124'
   },
   {
     targetWord: 'unregulated',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '165123'
   },
   {
     targetWord: 'unrehearsed',
-    translation: 'неподготовленный',
+    translating: 'неподготовленный',
     partOfSpeechCode: 'j',
     skyId: '7590'
   },
   {
     targetWord: 'unreinforced concrete',
-    translation: 'неармированный бетон',
+    translating: 'неармированный бетон',
     partOfSpeechCode: 'n',
     skyId: '258474'
   },
   {
     targetWord: 'unrelated',
-    translation: 'не имеющий отношения ',
+    translating: 'не имеющий отношения ',
     partOfSpeechCode: 'j',
     skyId: '240811'
   },
   {
     targetWord: 'unrelated',
-    translation: 'не связанный',
+    translating: 'не связанный',
     partOfSpeechCode: 'j',
     skyId: '14557'
   },
   {
     targetWord: 'unrelated',
-    translation: 'несвязанный',
+    translating: 'несвязанный',
     partOfSpeechCode: 'j',
     skyId: '14556'
   },
   {
     targetWord: 'unrelaxed',
-    translation: 'нерелаксированных',
+    translating: 'нерелаксированных',
     partOfSpeechCode: 'j',
     skyId: '44648'
   },
   {
     targetWord: 'unreleased',
-    translation: 'ещё не выпущенный',
+    translating: 'ещё не выпущенный',
     partOfSpeechCode: 'j',
     skyId: '191441'
   },
   {
     targetWord: 'unrelenting',
-    translation: 'неуменьшающийся',
+    translating: 'неуменьшающийся',
     partOfSpeechCode: 'j',
     skyId: '253328'
   },
   {
     targetWord: 'unrelenting',
-    translation: 'неослабевающий',
+    translating: 'неослабевающий',
     partOfSpeechCode: 'j',
     skyId: '253233'
   },
   {
     targetWord: 'unrelenting',
-    translation: 'безжалостный',
+    translating: 'безжалостный',
     partOfSpeechCode: 'j',
     skyId: '25661'
   },
   {
     targetWord: 'unrelentingly',
-    translation: 'неумолимо',
+    translating: 'неумолимо',
     partOfSpeechCode: 'r',
     skyId: '19333'
   },
   {
     targetWord: 'unreliability',
-    translation: 'ненадежность',
+    translating: 'ненадежность',
     partOfSpeechCode: 'n',
     skyId: '95103'
   },
   {
     targetWord: 'unreliable',
-    translation: 'недостоверный',
+    translating: 'недостоверный',
     partOfSpeechCode: 'j',
     skyId: '254676'
   },
   {
     targetWord: 'unreliable',
-    translation: 'ненадёжный',
+    translating: 'ненадёжный',
     partOfSpeechCode: 'j',
     skyId: '173857'
   },
   {
     targetWord: 'unreliable supplier',
-    translation: 'ненадёжный поставщик',
+    translating: 'ненадёжный поставщик',
     partOfSpeechCode: 'ph',
     skyId: '251619'
   },
   {
     targetWord: 'unreliably',
-    translation: 'ненадёжно',
+    translating: 'ненадёжно',
     partOfSpeechCode: 'r',
     skyId: '173843'
   },
   {
     targetWord: 'unrelieved',
-    translation: 'необлегченный',
+    translating: 'необлегченный',
     partOfSpeechCode: 'j',
     skyId: '129130'
   },
   {
     targetWord: 'unremarkably',
-    translation: 'обычно',
+    translating: 'обычно',
     partOfSpeechCode: 'r',
     skyId: '10803'
   },
   {
     targetWord: 'unremedied',
-    translation: 'неисправленный',
+    translating: 'неисправленный',
     partOfSpeechCode: 'j',
     skyId: '178028'
   },
   {
     targetWord: 'unremitting',
-    translation: 'беспрестанный',
+    translating: 'беспрестанный',
     partOfSpeechCode: 'j',
     skyId: '111473'
   },
   {
     targetWord: 'unremunerative',
-    translation: 'невыгодный',
+    translating: 'невыгодный',
     partOfSpeechCode: 'j',
     skyId: '125555'
   },
   {
     targetWord: 'unrenewable',
-    translation: 'невозобновляемый',
+    translating: 'невозобновляемый',
     partOfSpeechCode: 'j',
     skyId: '216202'
   },
   {
     targetWord: 'unrentable',
-    translation: 'не подлежащий аренде',
+    translating: 'не подлежащий аренде',
     partOfSpeechCode: 'j',
     skyId: '120258'
   },
   {
     targetWord: 'unrepeatable',
-    translation: 'неповторимый',
+    translating: 'неповторимый',
     partOfSpeechCode: 'j',
     skyId: '22110'
   },
   {
     targetWord: 'unrepeatable',
-    translation: 'не подлежащий повторению',
+    translating: 'не подлежащий повторению',
     partOfSpeechCode: 'j',
     skyId: '22109'
   },
   {
     targetWord: 'unrepentant',
-    translation: 'упрямый',
+    translating: 'упрямый',
     partOfSpeechCode: 'j',
     skyId: '116352'
   },
   {
     targetWord: 'unrepentant',
-    translation: 'нераскаявшийся',
+    translating: 'нераскаявшийся',
     partOfSpeechCode: 'j',
     skyId: '116351'
   },
   {
     targetWord: 'unrepentantly',
-    translation: 'без раскаяния',
+    translating: 'без раскаяния',
     partOfSpeechCode: 'r',
     skyId: '153370'
   },
   {
     targetWord: 'unreplaceable',
-    translation: 'незаменимый',
+    translating: 'незаменимый',
     partOfSpeechCode: 'j',
     skyId: '60254'
   },
   {
     targetWord: 'unreportable',
-    translation: 'unreportable',
+    translating: 'unreportable',
     partOfSpeechCode: 'j',
     skyId: '213887'
   },
   {
     targetWord: 'unreported',
-    translation: 'незарегистрированный',
+    translating: 'незарегистрированный',
     partOfSpeechCode: 'j',
     skyId: '45766'
   },
   {
     targetWord: 'unrepresentative',
-    translation: 'нехарактерный',
+    translating: 'нехарактерный',
     partOfSpeechCode: 'j',
     skyId: '180806'
   },
   {
     targetWord: 'unrequited',
-    translation: 'безответный',
+    translating: 'безответный',
     partOfSpeechCode: 'j',
     skyId: '10549'
   },
   {
     targetWord: 'unrequited love',
-    translation: 'безответная любовь',
+    translating: 'безответная любовь',
     partOfSpeechCode: 'n',
     skyId: '239141'
   },
   {
     targetWord: 'unresentful',
-    translation: 'невозмущённый',
+    translating: 'невозмущённый',
     partOfSpeechCode: 'j',
     skyId: '88913'
   },
   {
     targetWord: 'unreserved',
-    translation: 'безоговорочный',
+    translating: 'безоговорочный',
     partOfSpeechCode: 'j',
     skyId: '137469'
   },
   {
     targetWord: 'unreserved',
-    translation: 'незабронированный',
+    translating: 'незабронированный',
     partOfSpeechCode: 'j',
     skyId: '137468'
   },
   {
     targetWord: 'unreservedly',
-    translation: 'безоговорочно',
+    translating: 'безоговорочно',
     partOfSpeechCode: 'r',
     skyId: '46904'
   },
   {
     targetWord: 'unresolvable',
-    translation: 'неразрешимый',
+    translating: 'неразрешимый',
     partOfSpeechCode: 'j',
     skyId: '98540'
   },
   {
     targetWord: 'unresolved',
-    translation: 'нестройный',
+    translating: 'нестройный',
     partOfSpeechCode: 'j',
     skyId: '124360'
   },
   {
     targetWord: 'unresolved',
-    translation: 'нерешённый',
+    translating: 'нерешённый',
     partOfSpeechCode: 'j',
     skyId: '124359'
   },
   {
     targetWord: 'unresolved',
-    translation: 'нерешенный',
+    translating: 'нерешенный',
     partOfSpeechCode: 'j',
     skyId: '124358'
   },
   {
     targetWord: 'unrespectable',
-    translation: 'неуважаемый',
+    translating: 'неуважаемый',
     partOfSpeechCode: 'j',
     skyId: '150519'
   },
   {
     targetWord: 'unresponsive',
-    translation: 'безразличный',
+    translating: 'безразличный',
     partOfSpeechCode: 'j',
     skyId: '35565'
   },
   {
     targetWord: 'unresponsive',
-    translation: 'невосприимчивый',
+    translating: 'невосприимчивый',
     partOfSpeechCode: 'j',
     skyId: '35564'
   },
   {
     targetWord: 'unrest',
-    translation: 'беспорядки',
+    translating: 'беспорядки',
     partOfSpeechCode: 'n',
     skyId: '233315'
   },
   {
     targetWord: 'unrest',
-    translation: 'беспокойство',
+    translating: 'беспокойство',
     partOfSpeechCode: 'n',
     skyId: '10918'
   },
   {
     targetWord: 'unrest',
-    translation: 'волнения',
+    translating: 'волнения',
     partOfSpeechCode: 'n',
     skyId: '10917'
   },
   {
     targetWord: 'unrested',
-    translation: 'неотдохнувший',
+    translating: 'неотдохнувший',
     partOfSpeechCode: 'j',
     skyId: '22539'
   },
   {
     targetWord: 'unrestrained',
-    translation: 'безудержный',
+    translating: 'безудержный',
     partOfSpeechCode: 'j',
     skyId: '68479'
   },
   {
     targetWord: 'unrestrainedly',
-    translation: 'безудержно',
+    translating: 'безудержно',
     partOfSpeechCode: 'r',
     skyId: '30609'
   },
   {
     targetWord: 'unrestricted',
-    translation: 'вольный',
+    translating: 'вольный',
     partOfSpeechCode: 'j',
     skyId: '44758'
   },
   {
     targetWord: 'unrestricted',
-    translation: 'неограниченный',
+    translating: 'неограниченный',
     partOfSpeechCode: 'j',
     skyId: '44756'
   },
   {
     targetWord: 'unrevealed',
-    translation: 'нераскрытый',
+    translating: 'нераскрытый',
     partOfSpeechCode: 'j',
     skyId: '45137'
   },
   {
     targetWord: 'unrevised',
-    translation: 'неотредактированном',
+    translating: 'неотредактированном',
     partOfSpeechCode: 'j',
     skyId: '96866'
   },
   {
     targetWord: 'unrewarded',
-    translation: 'невознагражденный',
+    translating: 'невознагражденный',
     partOfSpeechCode: 'j',
     skyId: '191923'
   },
   {
     targetWord: 'unrewarding',
-    translation: 'неблагодарный',
+    translating: 'неблагодарный',
     partOfSpeechCode: 'j',
     skyId: '3962'
   },
   {
     targetWord: 'unrhymed',
-    translation: 'незарифмованной',
+    translating: 'незарифмованной',
     partOfSpeechCode: 'j',
     skyId: '18475'
   },
   {
     targetWord: 'unrhythmical',
-    translation: 'аритмичный',
+    translating: 'аритмичный',
     partOfSpeechCode: 'j',
     skyId: '147889'
   },
   {
     targetWord: 'unrighteous',
-    translation: 'неправедный',
+    translating: 'неправедный',
     partOfSpeechCode: 'j',
     skyId: '159278'
   },
   {
     targetWord: 'unrighteously',
-    translation: 'неправедно',
+    translating: 'неправедно',
     partOfSpeechCode: 'r',
     skyId: '107457'
   },
   {
     targetWord: 'unrighteousness',
-    translation: 'неправедность',
+    translating: 'неправедность',
     partOfSpeechCode: 'n',
     skyId: '86564'
   },
   {
     targetWord: 'unripe',
-    translation: 'неготовый',
+    translating: 'неготовый',
     partOfSpeechCode: 'j',
     skyId: '107866'
   },
   {
     targetWord: 'unripe',
-    translation: 'незрелый',
+    translating: 'незрелый',
     partOfSpeechCode: 'j',
     skyId: '107865'
   },
   {
     targetWord: 'unripened',
-    translation: 'незрелый',
+    translating: 'незрелый',
     partOfSpeechCode: 'j',
     skyId: '55198'
   },
   {
     targetWord: 'unrivaled',
-    translation: 'непревзойденный',
+    translating: 'непревзойденный',
     partOfSpeechCode: 'j',
     skyId: '185451'
   },
   {
     targetWord: 'unrivalled',
-    translation: 'непревзойдённый',
+    translating: 'непревзойдённый',
     partOfSpeechCode: 'j',
     skyId: '90559'
   },
   {
     targetWord: 'unromantic',
-    translation: 'неромантичный',
+    translating: 'неромантичный',
     partOfSpeechCode: 'j',
     skyId: '156528'
   },
   {
     targetWord: 'unromantically',
-    translation: 'неромантично',
+    translating: 'неромантично',
     partOfSpeechCode: 'r',
     skyId: '72582'
   },
   {
     targetWord: 'unroofed',
-    translation: 'unroofed',
+    translating: 'unroofed',
     partOfSpeechCode: 'j',
     skyId: '27884'
   },
   {
     targetWord: 'unruffled',
-    translation: 'невозмутимый',
+    translating: 'невозмутимый',
     partOfSpeechCode: 'j',
     skyId: '157779'
   },
   {
     targetWord: 'unruliness',
-    translation: 'непокорность',
+    translating: 'непокорность',
     partOfSpeechCode: 'n',
     skyId: '126343'
   },
   {
     targetWord: 'unsaddle',
-    translation: 'расседлывать',
+    translating: 'расседлывать',
     partOfSpeechCode: 'v',
     skyId: '195312'
   },
   {
     targetWord: 'unsafe',
-    translation: 'находящийся в опасности',
+    translating: 'находящийся в опасности',
     partOfSpeechCode: 'j',
     skyId: '240812'
   },
   {
     targetWord: 'unsafe',
-    translation: 'опасный',
+    translating: 'опасный',
     partOfSpeechCode: 'j',
     skyId: '231147'
   },
   {
     targetWord: 'unsaid',
-    translation: 'несказанный',
+    translating: 'несказанный',
     partOfSpeechCode: 'j',
     skyId: '131918'
   },
   {
     targetWord: 'unsalted',
-    translation: 'несолёный',
+    translating: 'несолёный',
     partOfSpeechCode: 'j',
     skyId: '22928'
   },
   {
     targetWord: 'unsanctioned',
-    translation: 'несанкционированный',
+    translating: 'несанкционированный',
     partOfSpeechCode: 'j',
     skyId: '91303'
   },
   {
     targetWord: 'unsanitary',
-    translation: 'антисанитарный',
+    translating: 'антисанитарный',
     partOfSpeechCode: 'j',
     skyId: '50746'
   },
   {
     targetWord: 'unsaponified',
-    translation: 'неомыляемый',
+    translating: 'неомыляемый',
     partOfSpeechCode: 'j',
     skyId: '95109'
   },
   {
     targetWord: 'unsatisfactorily',
-    translation: 'неудовлетворительно',
+    translating: 'неудовлетворительно',
     partOfSpeechCode: 'r',
     skyId: '137025'
   },
   {
     targetWord: 'unsatisfactoriness',
-    translation: 'неудовлетворённость',
+    translating: 'неудовлетворённость',
     partOfSpeechCode: 'n',
     skyId: '156639'
   },
   {
     targetWord: 'unsatisfactory',
-    translation: 'неудовлетворительный',
+    translating: 'неудовлетворительный',
     partOfSpeechCode: 'j',
     skyId: '239749'
   },
   {
     targetWord: 'unsatisfiable',
-    translation: 'невыполнимый',
+    translating: 'невыполнимый',
     partOfSpeechCode: 'j',
     skyId: '55988'
   },
   {
     targetWord: 'unsatisfied',
-    translation: 'неудовлетворённый',
+    translating: 'неудовлетворённый',
     partOfSpeechCode: 'j',
     skyId: '161536'
   },
   {
     targetWord: 'unsatisfied',
-    translation: 'неудовлетворенный',
+    translating: 'неудовлетворенный',
     partOfSpeechCode: 'j',
     skyId: '161535'
   },
   {
     targetWord: 'unsatisfying',
-    translation: 'не соответствующий ожиданиям',
+    translating: 'не соответствующий ожиданиям',
     partOfSpeechCode: 'j',
     skyId: '81737'
   },
   {
     targetWord: 'unsaturated',
-    translation: 'ненасыщенный',
+    translating: 'ненасыщенный',
     partOfSpeechCode: 'j',
     skyId: '5471'
   },
   {
     targetWord: 'unsavory',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '63871'
   },
   {
     targetWord: 'unsavoury',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '162555'
   },
   {
     targetWord: 'unsavoury',
-    translation: 'отталкивающий (морально)',
+    translating: 'отталкивающий (морально)',
     partOfSpeechCode: 'j',
     skyId: '162554'
   },
   {
     targetWord: 'unsay',
-    translation: 'брать назад свои слова',
+    translating: 'брать назад свои слова',
     partOfSpeechCode: 'v',
     skyId: '131917'
   },
   {
     targetWord: 'unscathed',
-    translation: 'невредимый',
+    translating: 'невредимый',
     partOfSpeechCode: 'j',
     skyId: '53492'
   },
   {
     targetWord: 'unscheduled',
-    translation: 'незапланированный',
+    translating: 'незапланированный',
     partOfSpeechCode: 'j',
     skyId: '131832'
   },
   {
     targetWord: 'unscheduled check',
-    translation: 'внеочередное опробование',
+    translating: 'внеочередное опробование',
     partOfSpeechCode: 'n',
     skyId: '246762'
   },
   {
     targetWord: 'unscholarly',
-    translation: 'неэрудированный',
+    translating: 'неэрудированный',
     partOfSpeechCode: 'j',
     skyId: '41331'
   },
   {
     targetWord: 'unschooled',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '52098'
   },
   {
     targetWord: 'unscientific',
-    translation: 'антинаучный',
+    translating: 'антинаучный',
     partOfSpeechCode: 'j',
     skyId: '141680'
   },
   {
     targetWord: 'unscramble',
-    translation: 'распутывать',
+    translating: 'распутывать',
     partOfSpeechCode: 'v',
     skyId: '148199'
   },
   {
     targetWord: 'unscramble',
-    translation: 'расшифровывать',
+    translating: 'расшифровывать',
     partOfSpeechCode: 'v',
     skyId: '148198'
   },
   {
     targetWord: 'unscrew',
-    translation: 'раскручивать',
+    translating: 'раскручивать',
     partOfSpeechCode: 'v',
     skyId: '52527'
   },
   {
     targetWord: 'unscripted',
-    translation: 'неподготовленный',
+    translating: 'неподготовленный',
     partOfSpeechCode: 'j',
     skyId: '175478'
   },
   {
     targetWord: 'unscrupulous',
-    translation: 'беспринципный',
+    translating: 'беспринципный',
     partOfSpeechCode: 'j',
     skyId: '219397'
   },
   {
     targetWord: 'unscrupulously',
-    translation: 'бессовестно',
+    translating: 'бессовестно',
     partOfSpeechCode: 'r',
     skyId: '15360'
   },
   {
     targetWord: 'unscrupulousness',
-    translation: 'беспринципность',
+    translating: 'беспринципность',
     partOfSpeechCode: 'n',
     skyId: '65241'
   },
   {
     targetWord: 'unseal',
-    translation: 'распечатывать',
+    translating: 'распечатывать',
     partOfSpeechCode: 'v',
     skyId: '157491'
   },
   {
     targetWord: 'unsealed',
-    translation: 'нераспечатанный',
+    translating: 'нераспечатанный',
     partOfSpeechCode: 'j',
     skyId: '111236'
   },
   {
     targetWord: 'unsealed',
-    translation: 'сомнительный',
+    translating: 'сомнительный',
     partOfSpeechCode: 'j',
     skyId: '111235'
   },
   {
     targetWord: 'unsealed source',
-    translation: 'открытый источник',
+    translating: 'открытый источник',
     partOfSpeechCode: 'n',
     skyId: '246091'
   },
   {
     targetWord: 'unseasonable',
-    translation: 'неурочный',
+    translating: 'неурочный',
     partOfSpeechCode: 'j',
     skyId: '173758'
   },
   {
     targetWord: 'unseasonable',
-    translation: 'не по сезону',
+    translating: 'не по сезону',
     partOfSpeechCode: 'j',
     skyId: '173757'
   },
   {
     targetWord: 'unseasonably',
-    translation: 'не по сезону',
+    translating: 'не по сезону',
     partOfSpeechCode: 'r',
     skyId: '173755'
   },
   {
     targetWord: 'unseasoned',
-    translation: 'неприученный',
+    translating: 'неприученный',
     partOfSpeechCode: 'j',
     skyId: '72219'
   },
   {
     targetWord: 'unseasoned',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '72221'
   },
   {
     targetWord: 'unseasoned',
-    translation: 'неприправленный',
+    translating: 'неприправленный',
     partOfSpeechCode: 'j',
     skyId: '72220'
   },
   {
     targetWord: 'unseat',
-    translation: 'сбросить с седла',
+    translating: 'сбросить с седла',
     partOfSpeechCode: 'v',
     skyId: '157506'
   },
   {
     targetWord: 'unseat',
-    translation: 'свергать',
+    translating: 'свергать',
     partOfSpeechCode: 'v',
     skyId: '157505'
   },
   {
     targetWord: 'unsectarian',
-    translation: 'unsectarian',
+    translating: 'unsectarian',
     partOfSpeechCode: 'j',
     skyId: '63169'
   },
   {
     targetWord: 'unsecured',
-    translation: 'необеспеченный',
+    translating: 'необеспеченный',
     partOfSpeechCode: 'j',
     skyId: '121051'
   },
   {
     targetWord: 'unsecured',
-    translation: 'незапертый',
+    translating: 'незапертый',
     partOfSpeechCode: 'j',
     skyId: '121050'
   },
   {
     targetWord: 'unsecured bond',
-    translation: 'облигация',
+    translating: 'облигация',
     partOfSpeechCode: 'n',
     skyId: '34241'
   },
   {
     targetWord: 'unsecured network',
-    translation: 'незащищённая сеть',
+    translating: 'незащищённая сеть',
     partOfSpeechCode: 'ph',
     skyId: '266876'
   },
   {
     targetWord: 'unseeable',
-    translation: 'невидимый',
+    translating: 'невидимый',
     partOfSpeechCode: 'j',
     skyId: '135484'
   },
   {
     targetWord: 'unseeing',
-    translation: 'невидящий',
+    translating: 'невидящий',
     partOfSpeechCode: 'j',
     skyId: '84267'
   },
   {
     targetWord: 'unseemly',
-    translation: 'неприличный',
+    translating: 'неприличный',
     partOfSpeechCode: 'j',
     skyId: '170575'
   },
   {
     targetWord: 'unseen',
-    translation: 'невидимый',
+    translating: 'невидимый',
     partOfSpeechCode: 'j',
     skyId: '98359'
   },
   {
     targetWord: 'unsegmented',
-    translation: 'сегментированный',
+    translating: 'сегментированный',
     partOfSpeechCode: 'j',
     skyId: '70342'
   },
   {
     targetWord: 'unselective',
-    translation: 'неизбирательный',
+    translating: 'неизбирательный',
     partOfSpeechCode: 'j',
     skyId: '15380'
   },
   {
     targetWord: 'unselfconscious',
-    translation: 'раскованный',
+    translating: 'раскованный',
     partOfSpeechCode: 'j',
     skyId: '142470'
   },
   {
     targetWord: 'unselfconsciously',
-    translation: 'незастенчиво',
+    translating: 'незастенчиво',
     partOfSpeechCode: 'r',
     skyId: '96545'
   },
   {
     targetWord: 'unselfconsciousness',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '153040'
   },
   {
     targetWord: 'unselfish',
-    translation: 'щедрый',
+    translating: 'щедрый',
     partOfSpeechCode: 'j',
     skyId: '170822'
   },
   {
     targetWord: 'unselfish',
-    translation: 'бескорыстный',
+    translating: 'бескорыстный',
     partOfSpeechCode: 'j',
     skyId: '170821'
   },
   {
     targetWord: 'unselfishly',
-    translation: 'бескорыстно',
+    translating: 'бескорыстно',
     partOfSpeechCode: 'r',
     skyId: '44865'
   },
   {
     targetWord: 'unselfishness',
-    translation: 'бескорыстие',
+    translating: 'бескорыстие',
     partOfSpeechCode: 'n',
     skyId: '216873'
   },
   {
     targetWord: 'unsent',
-    translation: 'неотправленный',
+    translating: 'неотправленный',
     partOfSpeechCode: 'j',
     skyId: '64461'
   },
   {
     targetWord: 'unsentimental',
-    translation: 'несентиментальный',
+    translating: 'несентиментальный',
     partOfSpeechCode: 'j',
     skyId: '50755'
   },
   {
     targetWord: 'unsentimentally',
-    translation: 'несентиментально',
+    translating: 'несентиментально',
     partOfSpeechCode: 'r',
     skyId: '18187'
   },
   {
     targetWord: 'unserviceable',
-    translation: 'непригодным',
+    translating: 'непригодным',
     partOfSpeechCode: 'j',
     skyId: '69562'
   },
   {
     targetWord: 'unsettle',
-    translation: 'волновать',
+    translating: 'волновать',
     partOfSpeechCode: 'v',
     skyId: '183677'
   },
   {
     targetWord: 'unsettled',
-    translation: 'нерешённый',
+    translating: 'нерешённый',
     partOfSpeechCode: 'j',
     skyId: '162337'
   },
   {
     targetWord: 'unsettled',
-    translation: 'изменчивый',
+    translating: 'изменчивый',
     partOfSpeechCode: 'j',
     skyId: '162336'
   },
   {
     targetWord: 'unsettled',
-    translation: 'неустановившийся',
+    translating: 'неустановившийся',
     partOfSpeechCode: 'j',
     skyId: '162335'
   },
   {
     targetWord: 'unsettled',
-    translation: 'сомневающийся',
+    translating: 'сомневающийся',
     partOfSpeechCode: 'j',
     skyId: '162334'
   },
   {
     targetWord: 'unsettling',
-    translation: 'тревожный, тревожащий',
+    translating: 'тревожный, тревожащий',
     partOfSpeechCode: 'j',
     skyId: '264109'
   },
   {
     targetWord: 'unsex',
-    translation: 'чтобы кастрировать',
+    translating: 'чтобы кастрировать',
     partOfSpeechCode: 'v',
     skyId: '163210'
   },
   {
     targetWord: 'unshackled',
-    translation: 'без оков',
+    translating: 'без оков',
     partOfSpeechCode: 'j',
     skyId: '177924'
   },
   {
     targetWord: 'unshaded',
-    translation: 'незатушеванная',
+    translating: 'незатушеванная',
     partOfSpeechCode: 'j',
     skyId: '223663'
   },
   {
     targetWord: 'unshadowed',
-    translation: 'неомраченный',
+    translating: 'неомраченный',
     partOfSpeechCode: 'j',
     skyId: '43864'
   },
   {
     targetWord: 'unshakable',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '180623'
   },
   {
     targetWord: 'unshaken',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '55752'
   },
   {
     targetWord: 'unshaped',
-    translation: 'неоформленный',
+    translating: 'неоформленный',
     partOfSpeechCode: 'j',
     skyId: '174778'
   },
   {
     targetWord: 'unshapely',
-    translation: 'бесформенный',
+    translating: 'бесформенный',
     partOfSpeechCode: 'j',
     skyId: '86649'
   },
   {
     targetWord: 'unshared',
-    translation: 'неразделённый',
+    translating: 'неразделённый',
     partOfSpeechCode: 'j',
     skyId: '137731'
   },
   {
     targetWord: 'unshaved',
-    translation: 'небритый',
+    translating: 'небритый',
     partOfSpeechCode: 'j',
     skyId: '126449'
   },
   {
     targetWord: 'unshaven',
-    translation: 'небритый',
+    translating: 'небритый',
     partOfSpeechCode: 'j',
     skyId: '126437'
   },
   {
     targetWord: 'unsheared',
-    translation: 'не стриженный',
+    translating: 'не стриженный',
     partOfSpeechCode: 'j',
     skyId: '57415'
   },
   {
     targetWord: 'unsheathe',
-    translation: 'обнажить',
+    translating: 'обнажить',
     partOfSpeechCode: 'v',
     skyId: '127293'
   },
   {
     targetWord: 'unsheathed',
-    translation: 'обнажённый',
+    translating: 'обнажённый',
     partOfSpeechCode: 'j',
     skyId: '127294'
   },
   {
     targetWord: 'unshielded',
-    translation: 'незащищённый',
+    translating: 'незащищённый',
     partOfSpeechCode: 'j',
     skyId: '19656'
   },
   {
     targetWord: 'unshockable',
-    translation: 'unshockable',
+    translating: 'unshockable',
     partOfSpeechCode: 'j',
     skyId: '73783'
   },
   {
     targetWord: 'unshorn',
-    translation: 'неподстриженный',
+    translating: 'неподстриженный',
     partOfSpeechCode: 'j',
     skyId: '53157'
   },
   {
     targetWord: 'unshrinking',
-    translation: 'неустрашимый',
+    translating: 'неустрашимый',
     partOfSpeechCode: 'j',
     skyId: '20099'
   },
   {
     targetWord: 'unshuttered',
-    translation: 'unshuttered',
+    translating: 'unshuttered',
     partOfSpeechCode: 'j',
     skyId: '89872'
   },
   {
     targetWord: 'unsighted',
-    translation: 'слепой',
+    translating: 'слепой',
     partOfSpeechCode: 'j',
     skyId: '192195'
   },
   {
     targetWord: 'unsightly',
-    translation: 'неприглядный',
+    translating: 'неприглядный',
     partOfSpeechCode: 'j',
     skyId: '124341'
   },
   {
     targetWord: 'unsigned',
-    translation: 'неподписанный',
+    translating: 'неподписанный',
     partOfSpeechCode: 'j',
     skyId: '227326'
   },
   {
     targetWord: 'unsimilarity',
-    translation: 'несходство',
+    translating: 'несходство',
     partOfSpeechCode: 'n',
     skyId: '27190'
   },
   {
     targetWord: 'unsinkable',
-    translation: 'непотопляемый',
+    translating: 'непотопляемый',
     partOfSpeechCode: 'j',
     skyId: '264'
   },
   {
     targetWord: 'unsized',
-    translation: 'несортированный',
+    translating: 'несортированный',
     partOfSpeechCode: 'j',
     skyId: '55945'
   },
   {
     targetWord: 'unskilled',
-    translation: 'неподготовленный',
+    translating: 'неподготовленный',
     partOfSpeechCode: 'j',
     skyId: '42964'
   },
   {
     targetWord: 'unskilled',
-    translation: 'неопытный',
+    translating: 'неопытный',
     partOfSpeechCode: 'j',
     skyId: '42963'
   },
   {
     targetWord: 'unskilled',
-    translation: 'неквалифицированный',
+    translating: 'неквалифицированный',
     partOfSpeechCode: 'j',
     skyId: '42962'
   },
   {
     targetWord: 'unskilled employee',
-    translation: 'неквалифицированный работник',
+    translating: 'неквалифицированный работник',
     partOfSpeechCode: 'n',
     skyId: '266530'
   },
   {
     targetWord: 'unskilled person',
-    translation: 'неквалифицированный человек',
+    translating: 'неквалифицированный человек',
     partOfSpeechCode: 'n',
     skyId: '95340'
   },
   {
     targetWord: 'unskillful',
-    translation: 'неумелый',
+    translating: 'неумелый',
     partOfSpeechCode: 'j',
     skyId: '130459'
   },
   {
     targetWord: 'unskillfulness',
-    translation: 'неумелости',
+    translating: 'неумелости',
     partOfSpeechCode: 'n',
     skyId: '1042'
   },
   {
     targetWord: 'unsleeping',
-    translation: 'неспящий',
+    translating: 'неспящий',
     partOfSpeechCode: 'j',
     skyId: '88691'
   },
   {
     targetWord: 'unsmiling',
-    translation: 'неулыбчивый',
+    translating: 'неулыбчивый',
     partOfSpeechCode: 'j',
     skyId: '97797'
   },
   {
     targetWord: 'unsmooth',
-    translation: 'неровной',
+    translating: 'неровной',
     partOfSpeechCode: 'j',
     skyId: '47916'
   },
   {
     targetWord: 'unsociability',
-    translation: 'нелюдимость',
+    translating: 'нелюдимость',
     partOfSpeechCode: 'n',
     skyId: '39457'
   },
   {
     targetWord: 'unsociable',
-    translation: 'необщительный',
+    translating: 'необщительный',
     partOfSpeechCode: 'j',
     skyId: '144704'
   },
   {
     targetWord: 'unsociably',
-    translation: 'несоциально',
+    translating: 'несоциально',
     partOfSpeechCode: 'r',
     skyId: '175647'
   },
   {
     targetWord: 'unsocial',
-    translation: 'необщительный',
+    translating: 'необщительный',
     partOfSpeechCode: 'j',
     skyId: '184455'
   },
   {
     targetWord: 'unsoiled',
-    translation: 'незагрязнённый',
+    translating: 'незагрязнённый',
     partOfSpeechCode: 'j',
     skyId: '172760'
   },
   {
     targetWord: 'unsold',
-    translation: 'непроданный',
+    translating: 'непроданный',
     partOfSpeechCode: 'j',
     skyId: '29728'
   },
   {
     targetWord: 'unsolder',
-    translation: 'непроданный',
+    translating: 'непроданный',
     partOfSpeechCode: 'j',
     skyId: '136862'
   },
   {
     targetWord: 'unsoldierly',
-    translation: 'unsoldierly',
+    translating: 'unsoldierly',
     partOfSpeechCode: 'j',
     skyId: '215416'
   },
   {
     targetWord: 'unsolicited',
-    translation: 'непрошенный',
+    translating: 'непрошенный',
     partOfSpeechCode: 'j',
     skyId: '87190'
   },
   {
     targetWord: 'unsoluble',
-    translation: 'неразрешимый',
+    translating: 'неразрешимый',
     partOfSpeechCode: 'j',
     skyId: '20086'
   },
   {
     targetWord: 'unsolvable',
-    translation: 'неразрешимый',
+    translating: 'неразрешимый',
     partOfSpeechCode: 'j',
     skyId: '160570'
   },
   {
     targetWord: 'unsolved',
-    translation: 'нерешённый',
+    translating: 'нерешённый',
     partOfSpeechCode: 'j',
     skyId: '41524'
   },
   {
     targetWord: 'unsophisticated',
-    translation: 'простой',
+    translating: 'простой',
     partOfSpeechCode: 'j',
     skyId: '36591'
   },
   {
     targetWord: 'unsophisticated',
-    translation: 'простодушный',
+    translating: 'простодушный',
     partOfSpeechCode: 'j',
     skyId: '36592'
   },
   {
     targetWord: 'unsophisticated',
-    translation: 'наивный',
+    translating: 'наивный',
     partOfSpeechCode: 'j',
     skyId: '36590'
   },
   {
     targetWord: 'unsorted',
-    translation: 'несортированный',
+    translating: 'несортированный',
     partOfSpeechCode: 'j',
     skyId: '185874'
   },
   {
     targetWord: 'unsought',
-    translation: 'непрошеный',
+    translating: 'непрошеный',
     partOfSpeechCode: 'j',
     skyId: '218186'
   },
   {
     targetWord: 'unsound',
-    translation: 'ненормальный',
+    translating: 'ненормальный',
     partOfSpeechCode: 'j',
     skyId: '136893'
   },
   {
     targetWord: 'unsound',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '136895'
   },
   {
     targetWord: 'unsound',
-    translation: 'нездоровый',
+    translating: 'нездоровый',
     partOfSpeechCode: 'j',
     skyId: '136894'
   },
   {
     targetWord: 'unsounded',
-    translation: 'неизмеренный',
+    translating: 'неизмеренный',
     partOfSpeechCode: 'j',
     skyId: '108899'
   },
   {
     targetWord: 'unsoundness',
-    translation: 'несостоятельность',
+    translating: 'несостоятельность',
     partOfSpeechCode: 'n',
     skyId: '155508'
   },
   {
     targetWord: 'unsown',
-    translation: 'невысеянные',
+    translating: 'невысеянные',
     partOfSpeechCode: 'j',
     skyId: '112586'
   },
   {
     targetWord: 'unsparing',
-    translation: 'беспощадный',
+    translating: 'беспощадный',
     partOfSpeechCode: 'j',
     skyId: '119300'
   },
   {
     targetWord: 'unsparing',
-    translation: 'щедрый',
+    translating: 'щедрый',
     partOfSpeechCode: 'j',
     skyId: '119299'
   },
   {
     targetWord: 'unspeakable',
-    translation: 'неописуемый',
+    translating: 'неописуемый',
     partOfSpeechCode: 'j',
     skyId: '177598'
   },
   {
     targetWord: 'unspeakable',
-    translation: 'чудовищный',
+    translating: 'чудовищный',
     partOfSpeechCode: 'j',
     skyId: '177597'
   },
   {
     targetWord: 'unspeakable',
-    translation: 'непередаваемый',
+    translating: 'непередаваемый',
     partOfSpeechCode: 'j',
     skyId: '177596'
   },
   {
     targetWord: 'unspeakably',
-    translation: 'невыразимо',
+    translating: 'невыразимо',
     partOfSpeechCode: 'r',
     skyId: '177574'
   },
   {
     targetWord: 'unspecific',
-    translation: 'неспецифический',
+    translating: 'неспецифический',
     partOfSpeechCode: 'j',
     skyId: '70513'
   },
   {
     targetWord: 'unspecified',
-    translation: 'неопределённый',
+    translating: 'неопределённый',
     partOfSpeechCode: 'j',
     skyId: '190578'
   },
   {
     targetWord: 'unspectacular',
-    translation: 'незахватывающий',
+    translating: 'незахватывающий',
     partOfSpeechCode: 'j',
     skyId: '74662'
   },
   {
     targetWord: 'unspell',
-    translation: 'расколдовывать',
+    translating: 'расколдовывать',
     partOfSpeechCode: 'v',
     skyId: '220498'
   },
   {
     targetWord: 'unspent',
-    translation: 'неизрасходованный',
+    translating: 'неизрасходованный',
     partOfSpeechCode: 'j',
     skyId: '77123'
   },
   {
     targetWord: 'unspoiled',
-    translation: 'неиспорченный',
+    translating: 'неиспорченный',
     partOfSpeechCode: 'j',
     skyId: '10558'
   },
   {
     targetWord: 'unspoiled',
-    translation: 'нетронутый',
+    translating: 'нетронутый',
     partOfSpeechCode: 'j',
     skyId: '240816'
   },
   {
     targetWord: 'unspoilt',
-    translation: 'неиспорченный, нетронутый',
+    translating: 'неиспорченный, нетронутый',
     partOfSpeechCode: 'j',
     skyId: '52794'
   },
   {
     targetWord: 'unspoilt area',
-    translation: 'нетронутая природная зона, нетронутая рукой человека зона',
+    translating: 'нетронутая природная зона, нетронутая рукой человека зона',
     partOfSpeechCode: 'n',
     skyId: '263352'
   },
   {
     targetWord: 'unspoilt countryside',
-    translation: 'нетронутая природа',
+    translating: 'нетронутая природа',
     partOfSpeechCode: 'n',
     skyId: '264012'
   },
   {
     targetWord: 'unspoken',
-    translation: 'невысказанный',
+    translating: 'невысказанный',
     partOfSpeechCode: 'j',
     skyId: '225026'
   },
   {
     targetWord: 'unspoken',
-    translation: 'невыраженный',
+    translating: 'невыраженный',
     partOfSpeechCode: 'j',
     skyId: '225025'
   },
   {
     targetWord: 'unspoken accusation',
-    translation: 'молчаливое обвинение',
+    translating: 'молчаливое обвинение',
     partOfSpeechCode: 'n',
     skyId: '107531'
   },
   {
     targetWord: 'unsporting',
-    translation: 'непорядочный',
+    translating: 'непорядочный',
     partOfSpeechCode: 'j',
     skyId: '17544'
   },
   {
     targetWord: 'unsportsmanlike',
-    translation: 'нечестный',
+    translating: 'нечестный',
     partOfSpeechCode: 'j',
     skyId: '158030'
   },
   {
     targetWord: 'unstable',
-    translation: 'неустойчивый',
+    translating: 'неустойчивый',
     partOfSpeechCode: 'j',
     skyId: '111034'
   },
   {
     targetWord: 'unstable',
-    translation: 'неуравновешенный',
+    translating: 'неуравновешенный',
     partOfSpeechCode: 'j',
     skyId: '111032'
   },
   {
     targetWord: 'unstable',
-    translation: 'непостоянный',
+    translating: 'непостоянный',
     partOfSpeechCode: 'j',
     skyId: '111031'
   },
   {
     targetWord: 'unstable',
-    translation: 'нестабильный',
+    translating: 'нестабильный',
     partOfSpeechCode: 'j',
     skyId: '111033'
   },
   {
     targetWord: 'unstable organic compound',
-    translation: 'непостоянное органическое соединение',
+    translating: 'непостоянное органическое соединение',
     partOfSpeechCode: 'n',
     skyId: '246670'
   },
   {
     targetWord: 'unstained',
-    translation: 'незапятнанный',
+    translating: 'незапятнанный',
     partOfSpeechCode: 'j',
     skyId: '161972'
   },
   {
     targetWord: 'unstaple',
-    translation: 'чтобы unstaple',
+    translating: 'чтобы unstaple',
     partOfSpeechCode: 'v',
     skyId: '215715'
   },
   {
     targetWord: 'unstarred',
-    translation: 'пометка',
+    translating: 'пометка',
     partOfSpeechCode: 'j',
     skyId: '138934'
   },
   {
     targetWord: 'unstated',
-    translation: 'несформулированный',
+    translating: 'несформулированный',
     partOfSpeechCode: 'j',
     skyId: '117266'
   },
   {
     targetWord: 'unstatesmanlike',
-    translation: 'unstatesmanlike',
+    translating: 'unstatesmanlike',
     partOfSpeechCode: 'j',
     skyId: '148206'
   },
   {
     targetWord: 'unsteadily',
-    translation: 'неустойчиво',
+    translating: 'неустойчиво',
     partOfSpeechCode: 'r',
     skyId: '42827'
   },
   {
     targetWord: 'unsteadiness',
-    translation: 'неустойчивость',
+    translating: 'неустойчивость',
     partOfSpeechCode: 'n',
     skyId: '7372'
   },
   {
     targetWord: 'unsteady',
-    translation: 'неустойчивый',
+    translating: 'неустойчивый',
     partOfSpeechCode: 'j',
     skyId: '106422'
   },
   {
     targetWord: 'unsterilized',
-    translation: 'нестерелизованный',
+    translating: 'нестерелизованный',
     partOfSpeechCode: 'j',
     skyId: '160470'
   },
   {
     targetWord: 'unstilted',
-    translation: 'unstilted',
+    translating: 'unstilted',
     partOfSpeechCode: 'j',
     skyId: '102541'
   },
   {
     targetWord: 'unstimulating',
-    translation: 'неинтересный',
+    translating: 'неинтересный',
     partOfSpeechCode: 'j',
     skyId: '57164'
   },
   {
     targetWord: 'unstinted',
-    translation: 'обильный',
+    translating: 'обильный',
     partOfSpeechCode: 'j',
     skyId: '186281'
   },
   {
     targetWord: 'unstinting',
-    translation: 'щедрый',
+    translating: 'щедрый',
     partOfSpeechCode: 'j',
     skyId: '53967'
   },
   {
     targetWord: 'unstirred',
-    translation: 'неперемешанный',
+    translating: 'неперемешанный',
     partOfSpeechCode: 'j',
     skyId: '29010'
   },
   {
     targetWord: 'unstoppable',
-    translation: 'неудержимый',
+    translating: 'неудержимый',
     partOfSpeechCode: 'j',
     skyId: '126479'
   },
   {
     targetWord: 'unstoppered',
-    translation: 'откупорил',
+    translating: 'откупорил',
     partOfSpeechCode: 'j',
     skyId: '98545'
   },
   {
     targetWord: 'unstrain',
-    translation: 'расслабить',
+    translating: 'расслабить',
     partOfSpeechCode: 'v',
     skyId: '156036'
   },
   {
     targetWord: 'unstrained',
-    translation: 'непринуждённый',
+    translating: 'непринуждённый',
     partOfSpeechCode: 'j',
     skyId: '156037'
   },
   {
     targetWord: 'unstrap',
-    translation: 'отстёгивать',
+    translating: 'отстёгивать',
     partOfSpeechCode: 'v',
     skyId: '106296'
   },
   {
     targetWord: 'unstratified',
-    translation: 'нестратифицированный',
+    translating: 'нестратифицированный',
     partOfSpeechCode: 'j',
     skyId: '151714'
   },
   {
     targetWord: 'unstressed',
-    translation: 'безударный',
+    translating: 'безударный',
     partOfSpeechCode: 'j',
     skyId: '81951'
   },
   {
     targetWord: 'unstring',
-    translation: 'снимать',
+    translating: 'снимать',
     partOfSpeechCode: 'v',
     skyId: '162679'
   },
   {
     targetWord: 'unstrung',
-    translation: 'опечаленный',
+    translating: 'опечаленный',
     partOfSpeechCode: 'j',
     skyId: '162680'
   },
   {
     targetWord: 'unstuck',
-    translation: 'неприклеенный',
+    translating: 'неприклеенный',
     partOfSpeechCode: 'j',
     skyId: '68194'
   },
   {
     targetWord: 'unstuck',
-    translation: 'свободный',
+    translating: 'свободный',
     partOfSpeechCode: 'j',
     skyId: '68193'
   },
   {
     targetWord: 'unstuff',
-    translation: 'чтобы растаривание',
+    translating: 'чтобы растаривание',
     partOfSpeechCode: 'v',
     skyId: '84684'
   },
   {
     targetWord: 'unstylish',
-    translation: 'немодный',
+    translating: 'немодный',
     partOfSpeechCode: 'j',
     skyId: '182361'
   },
   {
     targetWord: 'unsub',
-    translation: 'неизвестный субъект',
+    translating: 'неизвестный субъект',
     partOfSpeechCode: 'n',
     skyId: '257478'
   },
   {
     targetWord: 'unsubdivided',
-    translation: 'неразделённый',
+    translating: 'неразделённый',
     partOfSpeechCode: 'j',
     skyId: '86952'
   },
   {
     targetWord: 'unsubdued',
-    translation: 'непокоренный',
+    translating: 'непокоренный',
     partOfSpeechCode: 'j',
     skyId: '192095'
   },
   {
     targetWord: 'unsubscribe',
-    translation: 'отписаться',
+    translating: 'отписаться',
     partOfSpeechCode: 'v',
     skyId: '257084'
   },
   {
     targetWord: 'unsubstantial',
-    translation: 'невещественный',
+    translating: 'невещественный',
     partOfSpeechCode: 'j',
     skyId: '5229'
   },
   {
     targetWord: 'unsubstantiated',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '9974'
   },
   {
     targetWord: 'unsubtle',
-    translation: 'далёкий от утончённости',
+    translating: 'далёкий от утончённости',
     partOfSpeechCode: 'j',
     skyId: '41499'
   },
   {
     targetWord: 'unsuccessful',
-    translation: 'не добившийся успеха',
+    translating: 'не добившийся успеха',
     partOfSpeechCode: 'j',
     skyId: '103570'
   },
   {
     targetWord: 'unsuccessful',
-    translation: 'безуспешный',
+    translating: 'безуспешный',
     partOfSpeechCode: 'j',
     skyId: '239750'
   },
   {
     targetWord: 'unsuccessfully',
-    translation: 'безуспешно',
+    translating: 'безуспешно',
     partOfSpeechCode: 'r',
     skyId: '31798'
   },
   {
     targetWord: 'unsufferable',
-    translation: 'невыносимый',
+    translating: 'невыносимый',
     partOfSpeechCode: 'j',
     skyId: '226642'
   },
   {
     targetWord: 'unsuitability',
-    translation: 'непригодность',
+    translating: 'непригодность',
     partOfSpeechCode: 'n',
     skyId: '184286'
   },
   {
     targetWord: 'unsuitable',
-    translation: 'неподобающий',
+    translating: 'неподобающий',
     partOfSpeechCode: 'j',
     skyId: '87528'
   },
   {
     targetWord: 'unsuitable',
-    translation: 'неприемлемый',
+    translating: 'неприемлемый',
     partOfSpeechCode: 'j',
     skyId: '87527'
   },
   {
     targetWord: 'unsuitable',
-    translation: 'непригодный',
+    translating: 'непригодный',
     partOfSpeechCode: 'j',
     skyId: '87526'
   },
   {
     targetWord: 'unsuitable',
-    translation: 'неподходящий',
+    translating: 'неподходящий',
     partOfSpeechCode: 'j',
     skyId: '239757'
   },
   {
     targetWord: 'unsuitableness',
-    translation: 'непригодность',
+    translating: 'непригодность',
     partOfSpeechCode: 'n',
     skyId: '57132'
   },
   {
     targetWord: 'unsuitably',
-    translation: 'неподобающе',
+    translating: 'неподобающе',
     partOfSpeechCode: 'r',
     skyId: '87545'
   },
   {
     targetWord: 'unsuited',
-    translation: 'непригодный',
+    translating: 'непригодный',
     partOfSpeechCode: 'j',
     skyId: '82592'
   },
   {
     targetWord: 'unsullied',
-    translation: 'незапятнанный',
+    translating: 'незапятнанный',
     partOfSpeechCode: 'j',
     skyId: '30470'
   },
   {
     targetWord: 'unsullied',
-    translation: 'незапачканный',
+    translating: 'незапачканный',
     partOfSpeechCode: 'j',
     skyId: '30469'
   },
   {
     targetWord: 'unsung',
-    translation: 'невоспетый',
+    translating: 'невоспетый',
     partOfSpeechCode: 'j',
     skyId: '95597'
   },
   {
     targetWord: 'unsung',
-    translation: 'неизвестный',
+    translating: 'неизвестный',
     partOfSpeechCode: 'j',
     skyId: '95596'
   },
   {
     targetWord: 'unsupervised',
-    translation: 'бесконтрольный',
+    translating: 'бесконтрольный',
     partOfSpeechCode: 'j',
     skyId: '138969'
   },
   {
     targetWord: 'unsupervised learning',
-    translation: 'обучение без учителя',
+    translating: 'обучение без учителя',
     partOfSpeechCode: 'n',
     skyId: '250157'
   },
   {
     targetWord: 'unsupported',
-    translation: 'без опоры',
+    translating: 'без опоры',
     partOfSpeechCode: 'j',
     skyId: '13327'
   },
   {
     targetWord: 'unsupported',
-    translation: 'не подкреплённый',
+    translating: 'не подкреплённый',
     partOfSpeechCode: 'j',
     skyId: '13326'
   },
   {
     targetWord: 'unsupportive',
-    translation: 'неотзывчивый',
+    translating: 'неотзывчивый',
     partOfSpeechCode: 'j',
     skyId: '8500'
   },
   {
     targetWord: 'unsuppressed',
-    translation: 'неподавленную',
+    translating: 'неподавленную',
     partOfSpeechCode: 'j',
     skyId: '80679'
   },
   {
     targetWord: 'unsure',
-    translation: 'неуверенный в себе',
+    translating: 'неуверенный в себе',
     partOfSpeechCode: 'j',
     skyId: '239759'
   },
   {
     targetWord: 'unsure',
-    translation: 'неуверенный',
+    translating: 'неуверенный',
     partOfSpeechCode: 'j',
     skyId: '225205'
   },
   {
     targetWord: 'unsure',
-    translation: 'робкий',
+    translating: 'робкий',
     partOfSpeechCode: 'j',
     skyId: '225204'
   },
   {
     targetWord: 'unsurmountable',
-    translation: 'непреодолимый',
+    translating: 'непреодолимый',
     partOfSpeechCode: 'j',
     skyId: '71371'
   },
   {
     targetWord: 'unsurpassed',
-    translation: 'непревзойдённый',
+    translating: 'непревзойдённый',
     partOfSpeechCode: 'j',
     skyId: '124298'
   },
   {
     targetWord: 'unsurprised',
-    translation: 'неудивлённый',
+    translating: 'неудивлённый',
     partOfSpeechCode: 'j',
     skyId: '97567'
   },
   {
     targetWord: 'unsurprising',
-    translation: 'неудивительный',
+    translating: 'неудивительный',
     partOfSpeechCode: 'j',
     skyId: '82069'
   },
   {
     targetWord: 'unsurprisingly',
-    translation: 'неудивительно',
+    translating: 'неудивительно',
     partOfSpeechCode: 'r',
     skyId: '266441'
   },
   {
     targetWord: 'unsusceptibility',
-    translation: 'невосприимчивость',
+    translating: 'невосприимчивость',
     partOfSpeechCode: 'n',
     skyId: '66766'
   },
   {
     targetWord: 'unsuspected',
-    translation: 'неожиданный',
+    translating: 'неожиданный',
     partOfSpeechCode: 'j',
     skyId: '74687'
   },
   {
     targetWord: 'unsuspecting',
-    translation: 'ничего не подозревающий',
+    translating: 'ничего не подозревающий',
     partOfSpeechCode: 'j',
     skyId: '222092'
   },
   {
     targetWord: 'unsuspectingly',
-    translation: 'не подозревая',
+    translating: 'не подозревая',
     partOfSpeechCode: 'r',
     skyId: '190414'
   },
   {
     targetWord: 'unsuspicious',
-    translation: 'ничего не подозревающий',
+    translating: 'ничего не подозревающий',
     partOfSpeechCode: 'j',
     skyId: '135283'
   },
   {
     targetWord: 'unsustainable',
-    translation: 'непосильный',
+    translating: 'непосильный',
     partOfSpeechCode: 'j',
     skyId: '242466'
   },
   {
     targetWord: 'unsustainable',
-    translation: 'разрушительный ',
+    translating: 'разрушительный ',
     partOfSpeechCode: 'j',
     skyId: '242465'
   },
   {
     targetWord: 'unsustainable source',
-    translation: 'неустойчивый источник',
+    translating: 'неустойчивый источник',
     partOfSpeechCode: 'n',
     skyId: '237494'
   },
   {
     targetWord: 'unswayed',
-    translation: 'не поддающийся влиянию',
+    translating: 'не поддающийся влиянию',
     partOfSpeechCode: 'j',
     skyId: '215256'
   },
   {
     targetWord: 'unsweet',
-    translation: 'несладкая',
+    translating: 'несладкая',
     partOfSpeechCode: 'j',
     skyId: '190587'
   },
   {
     targetWord: 'unsweetened',
-    translation: 'несладкий',
+    translating: 'несладкий',
     partOfSpeechCode: 'j',
     skyId: '98001'
   },
   {
     targetWord: 'unswept',
-    translation: 'нестреловидной',
+    translating: 'нестреловидной',
     partOfSpeechCode: 'j',
     skyId: '182057'
   },
   {
     targetWord: 'unswerving',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '35725'
   },
   {
     targetWord: 'unswerving',
-    translation: 'не отклоняющийся от прямого пути',
+    translating: 'не отклоняющийся от прямого пути',
     partOfSpeechCode: 'j',
     skyId: '35724'
   },
   {
     targetWord: 'unswervingly',
-    translation: 'неуклонно',
+    translating: 'неуклонно',
     partOfSpeechCode: 'r',
     skyId: '53778'
   },
   {
     targetWord: 'unsworn',
-    translation: 'не под присягой',
+    translating: 'не под присягой',
     partOfSpeechCode: 'j',
     skyId: '30985'
   },
   {
     targetWord: 'unsympathetic',
-    translation: 'несогласный',
+    translating: 'несогласный',
     partOfSpeechCode: 'j',
     skyId: '119733'
   },
   {
     targetWord: 'unsympathetic',
-    translation: 'черствый',
+    translating: 'черствый',
     partOfSpeechCode: 'j',
     skyId: '119732'
   },
   {
     targetWord: 'unsympathetic',
-    translation: 'неоткрытый',
+    translating: 'неоткрытый',
     partOfSpeechCode: 'j',
     skyId: '119731'
   },
   {
     targetWord: 'unsympathetic',
-    translation: 'несимпатичный',
+    translating: 'несимпатичный',
     partOfSpeechCode: 'j',
     skyId: '119730'
   },
   {
     targetWord: 'unsympathetic',
-    translation: 'неприятный',
+    translating: 'неприятный',
     partOfSpeechCode: 'j',
     skyId: '119729'
   },
   {
     targetWord: 'unsympathizing',
-    translation: 'unsympathizing',
+    translating: 'unsympathizing',
     partOfSpeechCode: 'j',
     skyId: '83758'
   },
   {
     targetWord: 'unsystematic',
-    translation: 'бессистемный',
+    translating: 'бессистемный',
     partOfSpeechCode: 'j',
     skyId: '23145'
   },
   {
     targetWord: 'unsystematically',
-    translation: 'бессистемно',
+    translating: 'бессистемно',
     partOfSpeechCode: 'r',
     skyId: '58690'
   },
   {
     targetWord: 'untainted',
-    translation: 'незапятнанный',
+    translating: 'незапятнанный',
     partOfSpeechCode: 'j',
     skyId: '144622'
   },
@@ -14197,1327 +14197,1327 @@ export const uArr = [
   },
   {
     targetWord: 'untalented',
-    translation: 'бездарный',
+    translating: 'бездарный',
     partOfSpeechCode: 'j',
     skyId: '113094'
   },
   {
     targetWord: 'untalkative',
-    translation: 'неразговорчивый',
+    translating: 'неразговорчивый',
     partOfSpeechCode: 'j',
     skyId: '213974'
   },
   {
     targetWord: 'untamed',
-    translation: 'дикий',
+    translating: 'дикий',
     partOfSpeechCode: 'j',
     skyId: '187810'
   },
   {
     targetWord: 'untangle',
-    translation: 'распутывать',
+    translating: 'распутывать',
     partOfSpeechCode: 'v',
     skyId: '120547'
   },
   {
     targetWord: 'untangled',
-    translation: 'распутанный',
+    translating: 'распутанный',
     partOfSpeechCode: 'j',
     skyId: '118668'
   },
   {
     targetWord: 'untangling',
-    translation: 'распутывание',
+    translating: 'распутывание',
     partOfSpeechCode: 'n',
     skyId: '120545'
   },
   {
     targetWord: 'untanned',
-    translation: 'незагоревший',
+    translating: 'незагоревший',
     partOfSpeechCode: 'j',
     skyId: '184024'
   },
   {
     targetWord: 'untappable',
-    translation: 'защищенный от перехвата сообщений',
+    translating: 'защищенный от перехвата сообщений',
     partOfSpeechCode: 'j',
     skyId: '263814'
   },
   {
     targetWord: 'untapped',
-    translation: 'неиспользованный',
+    translating: 'неиспользованный',
     partOfSpeechCode: 'j',
     skyId: '59755'
   },
   {
     targetWord: 'untasted',
-    translation: 'нетронутый ',
+    translating: 'нетронутый ',
     partOfSpeechCode: 'j',
     skyId: '111587'
   },
   {
     targetWord: 'untaught',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '2231'
   },
   {
     targetWord: 'untaxed',
-    translation: 'необлагаемый налогом',
+    translating: 'необлагаемый налогом',
     partOfSpeechCode: 'j',
     skyId: '85854'
   },
   {
     targetWord: 'untechnical',
-    translation: 'untechnical',
+    translating: 'untechnical',
     partOfSpeechCode: 'j',
     skyId: '127860'
   },
   {
     targetWord: 'untellable',
-    translation: 'неописуемый',
+    translating: 'неописуемый',
     partOfSpeechCode: 'j',
     skyId: '119392'
   },
   {
     targetWord: 'untempered',
-    translation: 'неконтролируемый',
+    translating: 'неконтролируемый',
     partOfSpeechCode: 'j',
     skyId: '224451'
   },
   {
     targetWord: 'untempered',
-    translation: 'незакалённый',
+    translating: 'незакалённый',
     partOfSpeechCode: 'j',
     skyId: '224450'
   },
   {
     targetWord: 'untempting',
-    translation: 'untempting',
+    translating: 'untempting',
     partOfSpeechCode: 'j',
     skyId: '190370'
   },
   {
     targetWord: 'untenable',
-    translation: 'несостоятельный',
+    translating: 'несостоятельный',
     partOfSpeechCode: 'j',
     skyId: '79948'
   },
   {
     targetWord: 'untenanted',
-    translation: 'незаселённый',
+    translating: 'незаселённый',
     partOfSpeechCode: 'j',
     skyId: '168175'
   },
   {
     targetWord: 'untended',
-    translation: 'без присмотра',
+    translating: 'без присмотра',
     partOfSpeechCode: 'j',
     skyId: '111026'
   },
   {
     targetWord: 'untested',
-    translation: 'непроверенный',
+    translating: 'непроверенный',
     partOfSpeechCode: 'j',
     skyId: '141272'
   },
   {
     targetWord: 'untethered',
-    translation: 'несвязанный',
+    translating: 'несвязанный',
     partOfSpeechCode: 'j',
     skyId: '223564'
   },
   {
     targetWord: 'unthaw',
-    translation: 'растапливать',
+    translating: 'растапливать',
     partOfSpeechCode: 'v',
     skyId: '92930'
   },
   {
     targetWord: 'untheatrical',
-    translation: 'несценический',
+    translating: 'несценический',
     partOfSpeechCode: 'j',
     skyId: '84430'
   },
   {
     targetWord: 'unthematic',
-    translation: 'немелодичный',
+    translating: 'немелодичный',
     partOfSpeechCode: 'j',
     skyId: '158615'
   },
   {
     targetWord: 'unthinkable',
-    translation: 'немыслимый',
+    translating: 'немыслимый',
     partOfSpeechCode: 'j',
     skyId: '81956'
   },
   {
     targetWord: 'unthinkably',
-    translation: 'немыслимо',
+    translating: 'немыслимо',
     partOfSpeechCode: 'r',
     skyId: '81934'
   },
   {
     targetWord: 'unthinking',
-    translation: 'бездумный',
+    translating: 'бездумный',
     partOfSpeechCode: 'j',
     skyId: '4858'
   },
   {
     targetWord: 'unthinkingly',
-    translation: 'бездумно',
+    translating: 'бездумно',
     partOfSpeechCode: 'r',
     skyId: '130899'
   },
   {
     targetWord: 'unthought',
-    translation: 'неосознанный',
+    translating: 'неосознанный',
     partOfSpeechCode: 'j',
     skyId: '96064'
   },
   {
     targetWord: 'unthought-of',
-    translation: 'неожиданный',
+    translating: 'неожиданный',
     partOfSpeechCode: 'j',
     skyId: '16576'
   },
   {
     targetWord: 'unthoughtful',
-    translation: 'безрассудный',
+    translating: 'безрассудный',
     partOfSpeechCode: 'j',
     skyId: '46995'
   },
   {
     targetWord: 'unthread',
-    translation: 'разгадать',
+    translating: 'разгадать',
     partOfSpeechCode: 'v',
     skyId: '253968'
   },
   {
     targetWord: 'unthreatening',
-    translation: 'благонамеренный',
+    translating: 'благонамеренный',
     partOfSpeechCode: 'j',
     skyId: '92296'
   },
   {
     targetWord: 'untidily',
-    translation: 'неряшливо',
+    translating: 'неряшливо',
     partOfSpeechCode: 'r',
     skyId: '92086'
   },
   {
     targetWord: 'untidiness',
-    translation: 'нечистоплотность',
+    translating: 'нечистоплотность',
     partOfSpeechCode: 'n',
     skyId: '5725'
   },
   {
     targetWord: 'untidy',
-    translation: 'неопрятный',
+    translating: 'неопрятный',
     partOfSpeechCode: 'j',
     skyId: '232879'
   },
   {
     targetWord: 'untie',
-    translation: 'ослабить',
+    translating: 'ослабить',
     partOfSpeechCode: 'v',
     skyId: '225141'
   },
   {
     targetWord: 'untie',
-    translation: 'развязывать',
+    translating: 'развязывать',
     partOfSpeechCode: 'v',
     skyId: '239760'
   },
   {
     targetWord: 'untied',
-    translation: 'освобождённый',
+    translating: 'освобождённый',
     partOfSpeechCode: 'j',
     skyId: '25264'
   },
   {
     targetWord: 'untied',
-    translation: 'с развязанными шнурками',
+    translating: 'с развязанными шнурками',
     partOfSpeechCode: 'j',
     skyId: '25263'
   },
   {
     targetWord: 'untied',
-    translation: 'развязанный',
+    translating: 'развязанный',
     partOfSpeechCode: 'j',
     skyId: '25262'
   },
   {
     targetWord: 'untier',
-    translation: 'тот, кто открывает',
+    translating: 'тот, кто открывает',
     partOfSpeechCode: 'n',
     skyId: '25252'
   },
   {
     targetWord: 'until',
-    translation: 'до',
+    translating: 'до',
     partOfSpeechCode: 'prp',
     skyId: '236313'
   },
   {
     targetWord: 'until',
-    translation: 'до тех пор пока не',
+    translating: 'до тех пор пока не',
     partOfSpeechCode: 'cjc',
     skyId: '227890'
   },
   {
     targetWord: 'until April',
-    translation: 'до апреля',
+    translating: 'до апреля',
     partOfSpeechCode: 'ph',
     skyId: '230277'
   },
   {
     targetWord: 'until last year',
-    translation: 'до прошлого года',
+    translating: 'до прошлого года',
     partOfSpeechCode: 'ph',
     skyId: '262170'
   },
   {
     targetWord: 'until now',
-    translation: 'до сих пор',
+    translating: 'до сих пор',
     partOfSpeechCode: 'r',
     skyId: '219278'
   },
   {
     targetWord: 'untilled',
-    translation: 'невспаханный',
+    translating: 'невспаханный',
     partOfSpeechCode: 'j',
     skyId: '76214'
   },
   {
     targetWord: 'untimbered',
-    translation: 'untimbered',
+    translating: 'untimbered',
     partOfSpeechCode: 'j',
     skyId: '96301'
   },
   {
     targetWord: 'untimely',
-    translation: 'преждевременно',
+    translating: 'преждевременно',
     partOfSpeechCode: 'r',
     skyId: '97900'
   },
   {
     targetWord: 'untimely',
-    translation: 'преждевременный',
+    translating: 'преждевременный',
     partOfSpeechCode: 'j',
     skyId: '97899'
   },
   {
     targetWord: 'untimely',
-    translation: 'несвоевременный',
+    translating: 'несвоевременный',
     partOfSpeechCode: 'j',
     skyId: '97898'
   },
   {
     targetWord: 'untipped',
-    translation: 'untipped',
+    translating: 'untipped',
     partOfSpeechCode: 'j',
     skyId: '220557'
   },
   {
     targetWord: 'untiring',
-    translation: 'неутомимый',
+    translating: 'неутомимый',
     partOfSpeechCode: 'j',
     skyId: '181754'
   },
   {
     targetWord: 'untitled',
-    translation: 'неназванный',
+    translating: 'неназванный',
     partOfSpeechCode: 'j',
     skyId: '214973'
   },
   {
     targetWord: 'unto',
-    translation: 'к ',
+    translating: 'к ',
     partOfSpeechCode: 'prp',
     skyId: '227942'
   },
   {
     targetWord: 'untold',
-    translation: 'бесчисленный',
+    translating: 'бесчисленный',
     partOfSpeechCode: 'j',
     skyId: '106434'
   },
   {
     targetWord: 'untouchable',
-    translation: 'недостижимый',
+    translating: 'недостижимый',
     partOfSpeechCode: 'j',
     skyId: '169210'
   },
   {
     targetWord: 'untouchable',
-    translation: 'неприкасаемый',
+    translating: 'неприкасаемый',
     partOfSpeechCode: 'j',
     skyId: '169209'
   },
   {
     targetWord: 'untouchable',
-    translation: 'неприкосновенный',
+    translating: 'неприкосновенный',
     partOfSpeechCode: 'j',
     skyId: '169206'
   },
   {
     targetWord: 'untouchable',
-    translation: 'член касты неприкасаемых',
+    translating: 'член касты неприкасаемых',
     partOfSpeechCode: 'n',
     skyId: '169205'
   },
   {
     targetWord: 'untouched',
-    translation: 'равнодушный',
+    translating: 'равнодушный',
     partOfSpeechCode: 'j',
     skyId: '117774'
   },
   {
     targetWord: 'untouched',
-    translation: 'нетронутый',
+    translating: 'нетронутый',
     partOfSpeechCode: 'j',
     skyId: '117772'
   },
   {
     targetWord: 'untoward',
-    translation: 'неблагоприятный',
+    translating: 'неблагоприятный',
     partOfSpeechCode: 'j',
     skyId: '49441'
   },
   {
     targetWord: 'untoward',
-    translation: 'непристойный',
+    translating: 'непристойный',
     partOfSpeechCode: 'j',
     skyId: '49440'
   },
   {
     targetWord: 'untraceable',
-    translation: 'не оставляющий следа',
+    translating: 'не оставляющий следа',
     partOfSpeechCode: 'j',
     skyId: '174239'
   },
   {
     targetWord: 'untracked',
-    translation: 'неотслеживаемый',
+    translating: 'неотслеживаемый',
     partOfSpeechCode: 'j',
     skyId: '225317'
   },
   {
     targetWord: 'untraditional',
-    translation: 'нетрадиционный',
+    translating: 'нетрадиционный',
     partOfSpeechCode: 'j',
     skyId: '226050'
   },
   {
     targetWord: 'untrained',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '57660'
   },
   {
     targetWord: 'untrammeled',
-    translation: 'неограниченный, беспрепятственный',
+    translating: 'неограниченный, беспрепятственный',
     partOfSpeechCode: 'j',
     skyId: '160994'
   },
   {
     targetWord: 'untransferable',
-    translation: 'непередаваемы',
+    translating: 'непередаваемы',
     partOfSpeechCode: 'j',
     skyId: '78139'
   },
   {
     targetWord: 'untranslatable',
-    translation: 'непереводимый',
+    translating: 'непереводимый',
     partOfSpeechCode: 'j',
     skyId: '5264'
   },
   {
     targetWord: 'untraveled',
-    translation: 'непроторенный',
+    translating: 'непроторенный',
     partOfSpeechCode: 'j',
     skyId: '180106'
   },
   {
     targetWord: 'untravelled',
-    translation: 'никогда не посещал',
+    translating: 'никогда не посещал',
     partOfSpeechCode: 'j',
     skyId: '135492'
   },
   {
     targetWord: 'untraversed',
-    translation: 'untraversed',
+    translating: 'untraversed',
     partOfSpeechCode: 'j',
     skyId: '74086'
   },
   {
     targetWord: 'untreated',
-    translation: 'необработанный',
+    translating: 'необработанный',
     partOfSpeechCode: 'j',
     skyId: '89405'
   },
   {
     targetWord: 'untreated',
-    translation: 'не подвергающийся лечению',
+    translating: 'не подвергающийся лечению',
     partOfSpeechCode: 'j',
     skyId: '89403'
   },
   {
     targetWord: 'untried',
-    translation: 'подследственный',
+    translating: 'подследственный',
     partOfSpeechCode: 'j',
     skyId: '51401'
   },
   {
     targetWord: 'untried',
-    translation: 'неиспытанный',
+    translating: 'неиспытанный',
     partOfSpeechCode: 'j',
     skyId: '51400'
   },
   {
     targetWord: 'untrimmed',
-    translation: 'необрезанный',
+    translating: 'необрезанный',
     partOfSpeechCode: 'j',
     skyId: '147763'
   },
   {
     targetWord: 'untrodden',
-    translation: 'непротоптанный',
+    translating: 'непротоптанный',
     partOfSpeechCode: 'j',
     skyId: '94528'
   },
   {
     targetWord: 'untroubled',
-    translation: 'безмятежный',
+    translating: 'безмятежный',
     partOfSpeechCode: 'j',
     skyId: '159834'
   },
   {
     targetWord: 'untrue',
-    translation: 'несоответствующий',
+    translating: 'несоответствующий',
     partOfSpeechCode: 'j',
     skyId: '49182'
   },
   {
     targetWord: 'untrue',
-    translation: 'недостоверный',
+    translating: 'недостоверный',
     partOfSpeechCode: 'j',
     skyId: '49181'
   },
   {
     targetWord: 'untrue',
-    translation: 'неправдивый',
+    translating: 'неправдивый',
     partOfSpeechCode: 'j',
     skyId: '240822'
   },
   {
     targetWord: 'untrue',
-    translation: 'неправильный',
+    translating: 'неправильный',
     partOfSpeechCode: 'j',
     skyId: '49179'
   },
   {
     targetWord: 'untruly',
-    translation: 'неверно',
+    translating: 'неверно',
     partOfSpeechCode: 'r',
     skyId: '102665'
   },
   {
     targetWord: 'untrusting',
-    translation: 'недоверчивый',
+    translating: 'недоверчивый',
     partOfSpeechCode: 'j',
     skyId: '169800'
   },
   {
     targetWord: 'untrustworthiness',
-    translation: 'неблагонадёжность',
+    translating: 'неблагонадёжность',
     partOfSpeechCode: 'n',
     skyId: '4747'
   },
   {
     targetWord: 'untrustworthy',
-    translation: 'ненадежный',
+    translating: 'ненадежный',
     partOfSpeechCode: 'j',
     skyId: '166201'
   },
   {
     targetWord: 'untrusty',
-    translation: 'не заслуживающий доверия',
+    translating: 'не заслуживающий доверия',
     partOfSpeechCode: 'j',
     skyId: '13764'
   },
   {
     targetWord: 'untruth',
-    translation: 'ложь',
+    translating: 'ложь',
     partOfSpeechCode: 'n',
     skyId: '221248'
   },
   {
     targetWord: 'untruthful',
-    translation: 'неправдивый',
+    translating: 'неправдивый',
     partOfSpeechCode: 'j',
     skyId: '43205'
   },
   {
     targetWord: 'untruthfully',
-    translation: 'ложно',
+    translating: 'ложно',
     partOfSpeechCode: 'r',
     skyId: '157797'
   },
   {
     targetWord: 'untucked',
-    translation: 'навыпуск',
+    translating: 'навыпуск',
     partOfSpeechCode: 'j',
     skyId: '96867'
   },
   {
     targetWord: 'untufted',
-    translation: 'без кисточек',
+    translating: 'без кисточек',
     partOfSpeechCode: 'j',
     skyId: '164802'
   },
   {
     targetWord: 'unturned',
-    translation: 'неперевёрнутый',
+    translating: 'неперевёрнутый',
     partOfSpeechCode: 'j',
     skyId: '216840'
   },
   {
     targetWord: 'untutored',
-    translation: 'необученный',
+    translating: 'необученный',
     partOfSpeechCode: 'j',
     skyId: '88933'
   },
   {
     targetWord: 'untwine',
-    translation: 'чтобы распутать',
+    translating: 'чтобы распутать',
     partOfSpeechCode: 'v',
     skyId: '73358'
   },
   {
     targetWord: 'untwist',
-    translation: 'расплетать',
+    translating: 'расплетать',
     partOfSpeechCode: 'v',
     skyId: '41391'
   },
   {
     targetWord: 'untwisted',
-    translation: 'раскручивается',
+    translating: 'раскручивается',
     partOfSpeechCode: 'j',
     skyId: '41392'
   },
   {
     targetWord: 'untying',
-    translation: 'развязывание',
+    translating: 'развязывание',
     partOfSpeechCode: 'n',
     skyId: '225139'
   },
   {
     targetWord: 'untypical',
-    translation: 'нетипичный',
+    translating: 'нетипичный',
     partOfSpeechCode: 'j',
     skyId: '65043'
   },
   {
     targetWord: 'ununderstandably',
-    translation: 'невразумительно',
+    translating: 'невразумительно',
     partOfSpeechCode: 'r',
     skyId: '108329'
   },
   {
     targetWord: 'ununderstood',
-    translation: 'непонятый',
+    translating: 'непонятый',
     partOfSpeechCode: 'j',
     skyId: '168789'
   },
   {
     targetWord: 'ununpentium',
-    translation: 'унунпентий',
+    translating: 'унунпентий',
     partOfSpeechCode: 'n',
     skyId: '63464'
   },
   {
     targetWord: 'unusable',
-    translation: 'непригодный',
+    translating: 'непригодный',
     partOfSpeechCode: 'j',
     skyId: '174646'
   },
   {
     targetWord: 'unuseable',
-    translation: 'непригодный',
+    translating: 'непригодный',
     partOfSpeechCode: 'j',
     skyId: '90238'
   },
   {
     targetWord: 'unused',
-    translation: 'непривыкший',
+    translating: 'непривыкший',
     partOfSpeechCode: 'j',
     skyId: '130754'
   },
   {
     targetWord: 'unused',
-    translation: 'неиспользующийся',
+    translating: 'неиспользующийся',
     partOfSpeechCode: 'j',
     skyId: '130753'
   },
   {
     targetWord: 'unused',
-    translation: 'неиспользованный',
+    translating: 'неиспользованный',
     partOfSpeechCode: 'j',
     skyId: '130752'
   },
   {
     targetWord: 'unusefulness',
-    translation: 'бесполезность',
+    translating: 'бесполезность',
     partOfSpeechCode: 'n',
     skyId: '1676'
   },
   {
     targetWord: 'unusual',
-    translation: 'редкий',
+    translating: 'редкий',
     partOfSpeechCode: 'j',
     skyId: '101831'
   },
   {
     targetWord: 'unusual',
-    translation: 'странный',
+    translating: 'странный',
     partOfSpeechCode: 'j',
     skyId: '101830'
   },
   {
     targetWord: 'unusual',
-    translation: 'необычный',
+    translating: 'необычный',
     partOfSpeechCode: 'j',
     skyId: '101829'
   },
   {
     targetWord: 'unusually',
-    translation: 'необыкновенно',
+    translating: 'необыкновенно',
     partOfSpeechCode: 'r',
     skyId: '207773'
   },
   {
     targetWord: 'unusually wealthy',
-    translation: 'необычайно богатый',
+    translating: 'необычайно богатый',
     partOfSpeechCode: 'j',
     skyId: '239139'
   },
   {
     targetWord: 'unutterable',
-    translation: 'труднопроизносимый',
+    translating: 'труднопроизносимый',
     partOfSpeechCode: 'j',
     skyId: '165514'
   },
   {
     targetWord: 'unutterable',
-    translation: 'невыразимый',
+    translating: 'невыразимый',
     partOfSpeechCode: 'j',
     skyId: '165513'
   },
   {
     targetWord: 'unutterably',
-    translation: 'невыразимо',
+    translating: 'невыразимо',
     partOfSpeechCode: 'r',
     skyId: '165491'
   },
   {
     targetWord: 'unvalued',
-    translation: 'неоценённый',
+    translating: 'неоценённый',
     partOfSpeechCode: 'j',
     skyId: '143230'
   },
   {
     targetWord: 'unvanquished',
-    translation: 'непобеждённый',
+    translating: 'непобеждённый',
     partOfSpeechCode: 'j',
     skyId: '140204'
   },
   {
     targetWord: 'unvaried',
-    translation: 'однообразный',
+    translating: 'однообразный',
     partOfSpeechCode: 'j',
     skyId: '34397'
   },
   {
     targetWord: 'unvarnished',
-    translation: 'неприкрашенный',
+    translating: 'неприкрашенный',
     partOfSpeechCode: 'j',
     skyId: '103687'
   },
   {
     targetWord: 'unvarnished',
-    translation: 'нелакированный',
+    translating: 'нелакированный',
     partOfSpeechCode: 'j',
     skyId: '103686'
   },
   {
     targetWord: 'unvarying',
-    translation: 'неизменный',
+    translating: 'неизменный',
     partOfSpeechCode: 'j',
     skyId: '44492'
   },
   {
     targetWord: 'unveil',
-    translation: 'открывать',
+    translating: 'открывать',
     partOfSpeechCode: 'v',
     skyId: '172466'
   },
   {
     targetWord: 'unveil',
-    translation: 'раскрывать',
+    translating: 'раскрывать',
     partOfSpeechCode: 'v',
     skyId: '172465'
   },
   {
     targetWord: 'unveil',
-    translation: 'снимать покрывало',
+    translating: 'снимать покрывало',
     partOfSpeechCode: 'v',
     skyId: '172464'
   },
   {
     targetWord: 'unveiled',
-    translation: 'открытый',
+    translating: 'открытый',
     partOfSpeechCode: 'j',
     skyId: '172467'
   },
   {
     targetWord: 'unveiling',
-    translation: 'дебют',
+    translating: 'дебют',
     partOfSpeechCode: 'n',
     skyId: '165593'
   },
   {
     targetWord: 'unveiling',
-    translation: 'раскрытие',
+    translating: 'раскрытие',
     partOfSpeechCode: 'n',
     skyId: '165592'
   },
   {
     targetWord: 'unventilated',
-    translation: 'непроветриваемый',
+    translating: 'непроветриваемый',
     partOfSpeechCode: 'j',
     skyId: '49331'
   },
   {
     targetWord: 'unverbalized',
-    translation: 'unverbalized',
+    translating: 'unverbalized',
     partOfSpeechCode: 'j',
     skyId: '64873'
   },
   {
     targetWord: 'unverifiable',
-    translation: 'не поддающийся проверке',
+    translating: 'не поддающийся проверке',
     partOfSpeechCode: 'j',
     skyId: '150107'
   },
   {
     targetWord: 'unverified',
-    translation: 'непроверенный',
+    translating: 'непроверенный',
     partOfSpeechCode: 'j',
     skyId: '25343'
   },
   {
     targetWord: 'unversed',
-    translation: 'несведущий',
+    translating: 'несведущий',
     partOfSpeechCode: 'j',
     skyId: '4115'
   },
   {
     targetWord: 'unvoiced',
-    translation: 'непроизнесённый',
+    translating: 'непроизнесённый',
     partOfSpeechCode: 'j',
     skyId: '51325'
   },
   {
     targetWord: 'unvoiced',
-    translation: 'глухой',
+    translating: 'глухой',
     partOfSpeechCode: 'j',
     skyId: '51324'
   },
   {
     targetWord: 'unvoluntary',
-    translation: 'непроизвольный',
+    translating: 'непроизвольный',
     partOfSpeechCode: 'j',
     skyId: '11240'
   },
   {
     targetWord: 'unwanted',
-    translation: 'нежеланный',
+    translating: 'нежеланный',
     partOfSpeechCode: 'j',
     skyId: '9831'
   },
   {
     targetWord: 'unwanted',
-    translation: 'ненужный',
+    translating: 'ненужный',
     partOfSpeechCode: 'j',
     skyId: '9830'
   },
   {
     targetWord: 'unwantedly',
-    translation: 'нежелательно',
+    translating: 'нежелательно',
     partOfSpeechCode: 'r',
     skyId: '98195'
   },
   {
     targetWord: 'unwarmed',
-    translation: 'несогретый',
+    translating: 'несогретый',
     partOfSpeechCode: 'j',
     skyId: '217136'
   },
   {
     targetWord: 'unwarrantable',
-    translation: 'неоправданный',
+    translating: 'неоправданный',
     partOfSpeechCode: 'j',
     skyId: '217874'
   },
   {
     targetWord: 'unwarrantably',
-    translation: 'неоправданно',
+    translating: 'неоправданно',
     partOfSpeechCode: 'r',
     skyId: '217883'
   },
   {
     targetWord: 'unwarranted',
-    translation: 'недозволенный',
+    translating: 'недозволенный',
     partOfSpeechCode: 'j',
     skyId: '107983'
   },
   {
     targetWord: 'unwarranted',
-    translation: 'необоснованный',
+    translating: 'необоснованный',
     partOfSpeechCode: 'j',
     skyId: '107982'
   },
   {
     targetWord: 'unwarranted',
-    translation: 'неоправданный',
+    translating: 'неоправданный',
     partOfSpeechCode: 'j',
     skyId: '107981'
   },
   {
     targetWord: 'unwary',
-    translation: 'неосторожный',
+    translating: 'неосторожный',
     partOfSpeechCode: 'j',
     skyId: '160904'
   },
   {
     targetWord: 'unwavering',
-    translation: 'непоколебимый',
+    translating: 'непоколебимый',
     partOfSpeechCode: 'j',
     skyId: '66027'
   },
   {
     targetWord: 'unwavering',
-    translation: 'стойкий',
+    translating: 'стойкий',
     partOfSpeechCode: 'j',
     skyId: '66026'
   },
   {
     targetWord: 'unwaveringly',
-    translation: 'непоколебимо',
+    translating: 'непоколебимо',
     partOfSpeechCode: 'r',
     skyId: '81864'
   },
   {
     targetWord: 'unwaxed',
-    translation: 'невощеный',
+    translating: 'невощеный',
     partOfSpeechCode: 'j',
     skyId: '213936'
   },
   {
     targetWord: 'unweaned',
-    translation: 'грудных',
+    translating: 'грудных',
     partOfSpeechCode: 'j',
     skyId: '149444'
   },
   {
     targetWord: 'unwearable',
-    translation: 'непригодный для носки',
+    translating: 'непригодный для носки',
     partOfSpeechCode: 'j',
     skyId: '171448'
   },
   {
     targetWord: 'unwearied',
-    translation: 'неутомимый',
+    translating: 'неутомимый',
     partOfSpeechCode: 'j',
     skyId: '5187'
   },
   {
     targetWord: 'unwearying',
-    translation: 'неутомимый',
+    translating: 'неутомимый',
     partOfSpeechCode: 'j',
     skyId: '56626'
   },
   {
     targetWord: 'unweathered',
-    translation: 'неподвергающийся действию ',
+    translating: 'неподвергающийся действию ',
     partOfSpeechCode: 'j',
     skyId: '42146'
   },
   {
     targetWord: 'unweave',
-    translation: 'распутать',
+    translating: 'распутать',
     partOfSpeechCode: 'v',
     skyId: '106010'
   },
   {
     targetWord: 'unwebbed',
-    translation: 'неперепончатый',
+    translating: 'неперепончатый',
     partOfSpeechCode: 'j',
     skyId: '40999'
   },
   {
     targetWord: 'unwed',
-    translation: 'холостой',
+    translating: 'холостой',
     partOfSpeechCode: 'j',
     skyId: '124617'
   },
   {
     targetWord: 'unwelcome',
-    translation: 'нежеланный',
+    translating: 'нежеланный',
     partOfSpeechCode: 'j',
     skyId: '95179'
   },
   {
     targetWord: 'unwelcome',
-    translation: 'нежелательный',
+    translating: 'нежелательный',
     partOfSpeechCode: 'j',
     skyId: '95178'
   },
   {
     targetWord: 'unwell',
-    translation: 'нездоровый',
+    translating: 'нездоровый',
     partOfSpeechCode: 'j',
     skyId: '129031'
   },
   {
     targetWord: 'unwholesome',
-    translation: 'нездоровый',
+    translating: 'нездоровый',
     partOfSpeechCode: 'j',
     skyId: '127406'
   },
   {
     targetWord: 'unwieldiness',
-    translation: 'громоздкости',
+    translating: 'громоздкости',
     partOfSpeechCode: 'n',
     skyId: '43822'
   },
   {
     targetWord: 'unwieldiness',
-    translation: 'громоздкость',
+    translating: 'громоздкость',
     partOfSpeechCode: 'n',
     skyId: '43821'
   },
   {
     targetWord: 'unwieldy',
-    translation: 'неуклюжий',
+    translating: 'неуклюжий',
     partOfSpeechCode: 'j',
     skyId: '6104'
   },
   {
     targetWord: 'unwieldy',
-    translation: 'нескладный',
+    translating: 'нескладный',
     partOfSpeechCode: 'j',
     skyId: '6103'
   },
   {
     targetWord: 'unwieldy',
-    translation: 'громоздкий',
+    translating: 'громоздкий',
     partOfSpeechCode: 'j',
     skyId: '6102'
   },
   {
     targetWord: 'unwilled',
-    translation: 'невольный',
+    translating: 'невольный',
     partOfSpeechCode: 'j',
     skyId: '40737'
   },
   {
     targetWord: 'unwilling',
-    translation: 'нежелающий',
+    translating: 'нежелающий',
     partOfSpeechCode: 'j',
     skyId: '239762'
   },
   {
     targetWord: 'unwilling',
-    translation: 'невольный',
+    translating: 'невольный',
     partOfSpeechCode: 'j',
     skyId: '37404'
   },
   {
     targetWord: 'unwilling',
-    translation: 'нерасположенный',
+    translating: 'нерасположенный',
     partOfSpeechCode: 'j',
     skyId: '37403'
   },
   {
     targetWord: 'unwillingly',
-    translation: 'против желания',
+    translating: 'против желания',
     partOfSpeechCode: 'r',
     skyId: '239761'
   },
   {
     targetWord: 'unwillingly',
-    translation: 'неохотно',
+    translating: 'неохотно',
     partOfSpeechCode: 'r',
     skyId: '68283'
   },
   {
     targetWord: 'unwillingness',
-    translation: 'нежелание',
+    translating: 'нежелание',
     partOfSpeechCode: 'n',
     skyId: '170595'
   },
   {
     targetWord: 'unwind',
-    translation: 'отдыхать',
+    translating: 'отдыхать',
     partOfSpeechCode: 'v',
     skyId: '240824'
   },
   {
     targetWord: 'unwind',
-    translation: 'сбрасывать напряжение',
+    translating: 'сбрасывать напряжение',
     partOfSpeechCode: 'v',
     skyId: '183397'
   },
   {
     targetWord: 'unwind',
-    translation: 'расслабляться',
+    translating: 'расслабляться',
     partOfSpeechCode: 'v',
     skyId: '183396'
   },
   {
     targetWord: 'unwind',
-    translation: 'разматывать',
+    translating: 'разматывать',
     partOfSpeechCode: 'v',
     skyId: '183395'
   },
   {
     targetWord: 'unwise',
-    translation: 'неразумный',
+    translating: 'неразумный',
     partOfSpeechCode: 'j',
     skyId: '182764'
   },
   {
     targetWord: 'unwisely',
-    translation: 'глупо',
+    translating: 'глупо',
     partOfSpeechCode: 'r',
     skyId: '166027'
   },
   {
     targetWord: 'unwiseness',
-    translation: 'каприз',
+    translating: 'каприз',
     partOfSpeechCode: 'n',
     skyId: '33858'
   },
   {
     targetWord: 'unwitting',
-    translation: 'неосведомленный',
+    translating: 'неосведомленный',
     partOfSpeechCode: 'j',
     skyId: '135456'
   },
   {
     targetWord: 'unwitting',
-    translation: 'не знающий',
+    translating: 'не знающий',
     partOfSpeechCode: 'j',
     skyId: '135455'
   },
   {
     targetWord: 'unwitting',
-    translation: 'непреднамеренный',
+    translating: 'непреднамеренный',
     partOfSpeechCode: 'j',
     skyId: '135454'
   },
   {
     targetWord: 'unwittingly',
-    translation: 'непреднамеренно',
+    translating: 'непреднамеренно',
     partOfSpeechCode: 'r',
     skyId: '118646'
   },
   {
     targetWord: 'unwomanly',
-    translation: 'не женское',
+    translating: 'не женское',
     partOfSpeechCode: 'j',
     skyId: '100141'
   },
   {
     targetWord: 'unwonted',
-    translation: 'непривычный',
+    translating: 'непривычный',
     partOfSpeechCode: 'j',
     skyId: '101109'
   },
   {
     targetWord: 'unworkable',
-    translation: 'невыполнимый',
+    translating: 'невыполнимый',
     partOfSpeechCode: 'j',
     skyId: '27839'
   },
   {
     targetWord: 'unworkmanlike',
-    translation: 'сделанный по-любительски',
+    translating: 'сделанный по-любительски',
     partOfSpeechCode: 'j',
     skyId: '223113'
   },
   {
     targetWord: 'unworldly',
-    translation: 'духовный',
+    translating: 'духовный',
     partOfSpeechCode: 'j',
     skyId: '16816'
   },
   {
     targetWord: 'unworldly',
-    translation: 'неземной',
+    translating: 'неземной',
     partOfSpeechCode: 'j',
     skyId: '16815'
   },
   {
     targetWord: 'unworthiness',
-    translation: 'недостоинство',
+    translating: 'недостоинство',
     partOfSpeechCode: 'n',
     skyId: '170851'
   },
   {
     targetWord: 'unworthy',
-    translation: 'гнусный',
+    translating: 'гнусный',
     partOfSpeechCode: 'j',
     skyId: '99854'
   },
   {
     targetWord: 'unworthy',
-    translation: 'недостойный',
+    translating: 'недостойный',
     partOfSpeechCode: 'j',
     skyId: '99853'
   },
   {
     targetWord: 'unwounded',
-    translation: 'не раненный',
+    translating: 'не раненный',
     partOfSpeechCode: 'j',
     skyId: '33490'
   },
   {
     targetWord: 'unwoven',
-    translation: 'нетканый',
+    translating: 'нетканый',
     partOfSpeechCode: 'j',
     skyId: '169224'
   },
   {
     targetWord: 'unwrap',
-    translation: 'раскрывать',
+    translating: 'раскрывать',
     partOfSpeechCode: 'v',
     skyId: '56000'
   },
   {
     targetWord: 'unwrap',
-    translation: 'разворачивать',
+    translating: 'разворачивать',
     partOfSpeechCode: 'v',
     skyId: '55999'
   },
   {
     targetWord: 'unwrap a gift',
-    translation: 'разворачивать подарок',
+    translating: 'разворачивать подарок',
     partOfSpeechCode: 'ph',
     skyId: '257837'
   },
   {
     targetWord: 'unwrapped',
-    translation: 'развёрнутый',
+    translating: 'развёрнутый',
     partOfSpeechCode: 'j',
     skyId: '16798'
   },
   {
     targetWord: 'unwrinkled',
-    translation: 'разглаженный',
+    translating: 'разглаженный',
     partOfSpeechCode: 'j',
     skyId: '192028'
   },
   {
     targetWord: 'unwritten',
-    translation: 'у́стный',
+    translating: 'у́стный',
     partOfSpeechCode: 'j',
     skyId: '130446'
   },
   {
     targetWord: 'unwritten',
-    translation: 'неписаный',
+    translating: 'неписаный',
     partOfSpeechCode: 'j',
     skyId: '130445'
   },
   {
     targetWord: 'unwritten law',
-    translation: 'неписаный закон',
+    translating: 'неписаный закон',
     partOfSpeechCode: 'n',
     skyId: '51348'
   },
   {
     targetWord: 'unyielding',
-    translation: 'непреклонный',
+    translating: 'непреклонный',
     partOfSpeechCode: 'j',
     skyId: '22649'
   },
   {
     targetWord: 'unyoke',
-    translation: 'освобождать от хомута',
+    translating: 'освобождать от хомута',
     partOfSpeechCode: 'v',
     skyId: '124077'
   },
   {
     targetWord: 'unzip',
-    translation: 'расстегнуть молнию',
+    translating: 'расстегнуть молнию',
     partOfSpeechCode: 'v',
     skyId: '34060'
   },
   {
     targetWord: 'up',
-    translation: 'вдоль по',
+    translating: 'вдоль по',
     partOfSpeechCode: 'prp',
     skyId: '253870'
   },
   {
     targetWord: 'up',
-    translation: 'вверх по течению',
+    translating: 'вверх по течению',
     partOfSpeechCode: 'prp',
     skyId: '253868'
   },
   {
     targetWord: 'up',
-    translation: 'радостный',
+    translating: 'радостный',
     partOfSpeechCode: 'j',
     skyId: '253858'
   },
   {
     targetWord: 'up',
-    translation: 'направляющийся на север',
+    translating: 'направляющийся на север',
     partOfSpeechCode: 'j',
     skyId: '253859'
   },
   {
     targetWord: 'up',
-    translation: 'вскочить',
+    translating: 'вскочить',
     partOfSpeechCode: 'v',
     skyId: '253845'
   },
   {
     targetWord: 'up',
-    translation: 'улучшать',
+    translating: 'улучшать',
     partOfSpeechCode: 'v',
     skyId: '253843'
   },
   {
     targetWord: 'up',
-    translation: 'увеличивать',
+    translating: 'увеличивать',
     partOfSpeechCode: 'v',
     skyId: '253844'
   },
   {
     targetWord: 'up',
-    translation: 'подниматься',
+    translating: 'подниматься',
     partOfSpeechCode: 'v',
     skyId: '253842'
   },
   {
     targetWord: 'up',
-    translation: 'до конца',
+    translating: 'до конца',
     partOfSpeechCode: 'r',
     skyId: '239764'
   },
@@ -15530,2443 +15530,2443 @@ export const uArr = [
   },
   {
     targetWord: 'up',
-    translation: 'на',
+    translating: 'на',
     partOfSpeechCode: 'prp',
     skyId: '236332'
   },
   {
     targetWord: 'up',
-    translation: 'на север(е)',
+    translating: 'на север(е)',
     partOfSpeechCode: 'r',
     skyId: '144578'
   },
   {
     targetWord: 'up',
-    translation: 'указывает на приближение к кому-либо или чему-либо',
+    translating: 'указывает на приближение к кому-либо или чему-либо',
     partOfSpeechCode: 'r',
     skyId: '144577'
   },
   {
     targetWord: 'up',
-    translation: 'сильнее',
+    translating: 'сильнее',
     partOfSpeechCode: 'r',
     skyId: '144576'
   },
   {
     targetWord: 'up',
-    translation: 'вверх',
+    translating: 'вверх',
     partOfSpeechCode: 'r',
     skyId: '144579'
   },
   {
     targetWord: 'up',
-    translation: 'наверху',
+    translating: 'наверху',
     partOfSpeechCode: 'r',
     skyId: '144572'
   },
   {
     targetWord: 'up',
-    translation: 'готовый',
+    translating: 'готовый',
     partOfSpeechCode: 'j',
     skyId: '144571'
   },
   {
     targetWord: 'up',
-    translation: 'увеличивающийся',
+    translating: 'увеличивающийся',
     partOfSpeechCode: 'j',
     skyId: '144569'
   },
   {
     targetWord: 'up',
-    translation: 'ведущий наверх',
+    translating: 'ведущий наверх',
     partOfSpeechCode: 'j',
     skyId: '144570'
   },
   {
     targetWord: 'up',
-    translation: 'поднимать',
+    translating: 'поднимать',
     partOfSpeechCode: 'v',
     skyId: '144566'
   },
   {
     targetWord: 'up all night',
-    translation: 'бодрствовать всю ночь',
+    translating: 'бодрствовать всю ночь',
     partOfSpeechCode: 'ph',
     skyId: '261373'
   },
   {
     targetWord: 'up and down',
-    translation: 'вверх и вниз',
+    translating: 'вверх и вниз',
     partOfSpeechCode: 'r',
     skyId: '23572'
   },
   {
     targetWord: 'up and running',
-    translation: 'функционирующий',
+    translating: 'функционирующий',
     partOfSpeechCode: 'ph',
     skyId: '261339'
   },
   {
     targetWord: 'up for grabs',
-    translation: 'ничейный, незанятый',
+    translating: 'ничейный, незанятый',
     partOfSpeechCode: 'j',
     skyId: '262953'
   },
   {
     targetWord: 'up here',
-    translation: 'вот здесь',
+    translating: 'вот здесь',
     partOfSpeechCode: 'r',
     skyId: '108993'
   },
   {
     targetWord: 'up in the air',
-    translation: 'в подвешенном состоянии',
+    translating: 'в подвешенном состоянии',
     partOfSpeechCode: 'j',
     skyId: '57382'
   },
   {
     targetWord: 'up in the air',
-    translation: 'под вопросом',
+    translating: 'под вопросом',
     partOfSpeechCode: 'j',
     skyId: '57381'
   },
   {
     targetWord: 'up on',
-    translation: 'в курсе',
+    translating: 'в курсе',
     partOfSpeechCode: 'j',
     skyId: '121089'
   },
   {
     targetWord: 'up the stairs',
-    translation: 'вверх по лестнице',
+    translating: 'вверх по лестнице',
     partOfSpeechCode: 'r',
     skyId: '61036'
   },
   {
     targetWord: 'up the steps',
-    translation: 'вверх по лестнице',
+    translating: 'вверх по лестнице',
     partOfSpeechCode: 'ph',
     skyId: '229905'
   },
   {
     targetWord: 'up the wazoo',
-    translation: 'дофига, куча',
+    translating: 'дофига, куча',
     partOfSpeechCode: 'phi',
     skyId: '266168'
   },
   {
     targetWord: 'up to',
-    translation: 'вплоть до',
+    translating: 'вплоть до',
     partOfSpeechCode: 'prp',
     skyId: '233816'
   },
   {
     targetWord: 'up to',
-    translation: 'подходящий',
+    translating: 'подходящий',
     partOfSpeechCode: 'j',
     skyId: '181163'
   },
   {
     targetWord: 'up to',
-    translation: 'занятой',
+    translating: 'занятой',
     partOfSpeechCode: 'j',
     skyId: '181162'
   },
   {
     targetWord: 'up to a point',
-    translation: 'до некоторой степени',
+    translating: 'до некоторой степени',
     partOfSpeechCode: 'ph',
     skyId: '230439'
   },
   {
     targetWord: 'up to her neck',
-    translation: 'по шею',
+    translating: 'по шею',
     partOfSpeechCode: 'j',
     skyId: '185836'
   },
   {
     targetWord: 'up to his neck',
-    translation: 'всецело',
+    translating: 'всецело',
     partOfSpeechCode: 'j',
     skyId: '124149'
   },
   {
     targetWord: 'up to now',
-    translation: 'до настоящего времени',
+    translating: 'до настоящего времени',
     partOfSpeechCode: 'r',
     skyId: '125898'
   },
   {
     targetWord: 'up to now',
-    translation: 'до сих пор',
+    translating: 'до сих пор',
     partOfSpeechCode: 'r',
     skyId: '125897'
   },
   {
     targetWord: 'up to par',
-    translation: 'на должном уровне',
+    translating: 'на должном уровне',
     partOfSpeechCode: 'ph',
     skyId: '261468'
   },
   {
     targetWord: 'up to their necks',
-    translation: 'занятый по горло',
+    translating: 'занятый по горло',
     partOfSpeechCode: 'j',
     skyId: '91370'
   },
   {
     targetWord: 'up to you',
-    translation: 'тебе решать',
+    translating: 'тебе решать',
     partOfSpeechCode: 'ph',
     skyId: '256168'
   },
   {
     targetWord: 'up to your neck',
-    translation: 'слишком занятый',
+    translating: 'слишком занятый',
     partOfSpeechCode: 'j',
     skyId: '58743'
   },
   {
     targetWord: 'up your game',
-    translation: 'перейти на новый уровень',
+    translating: 'перейти на новый уровень',
     partOfSpeechCode: 'phi',
     skyId: '259875'
   },
   {
     targetWord: 'up-and-coming',
-    translation: 'многообещающий',
+    translating: 'многообещающий',
     partOfSpeechCode: 'j',
     skyId: '182689'
   },
   {
     targetWord: 'up-grade',
-    translation: 'модернизация',
+    translating: 'модернизация',
     partOfSpeechCode: 'n',
     skyId: '257113'
   },
   {
     targetWord: 'up-sell',
-    translation: 'пытаться продать более дорогой товар',
+    translating: 'пытаться продать более дорогой товар',
     partOfSpeechCode: 'v',
     skyId: '259132'
   },
   {
     targetWord: 'up-tick',
-    translation: 'ап-тик',
+    translating: 'ап-тик',
     partOfSpeechCode: 'n',
     skyId: '183982'
   },
   {
     targetWord: 'up-to-date',
-    translation: 'модный',
+    translating: 'модный',
     partOfSpeechCode: 'j',
     skyId: '140141'
   },
   {
     targetWord: 'up-to-date',
-    translation: 'текущий',
+    translating: 'текущий',
     partOfSpeechCode: 'j',
     skyId: '140140'
   },
   {
     targetWord: 'up-to-date equipment',
-    translation: 'современное оборудование',
+    translating: 'современное оборудование',
     partOfSpeechCode: 'ph',
     skyId: '229283'
   },
   {
     targetWord: 'up-to-date information',
-    translation: 'актуальная информация',
+    translating: 'актуальная информация',
     partOfSpeechCode: 'ph',
     skyId: '258423'
   },
   {
     targetWord: 'up-to-dateness',
-    translation: 'современность',
+    translating: 'современность',
     partOfSpeechCode: 'n',
     skyId: '138402'
   },
   {
     targetWord: 'upbeat',
-    translation: 'жизнерадостный',
+    translating: 'жизнерадостный',
     partOfSpeechCode: 'j',
     skyId: '219886'
   },
   {
     targetWord: 'upbeat',
-    translation: 'слабая доля такта',
+    translating: 'слабая доля такта',
     partOfSpeechCode: 'n',
     skyId: '219885'
   },
   {
     targetWord: 'upbeat',
-    translation: 'благополучие',
+    translating: 'благополучие',
     partOfSpeechCode: 'n',
     skyId: '219884'
   },
   {
     targetWord: 'upbound',
-    translation: 'upbound',
+    translating: 'upbound',
     partOfSpeechCode: 'j',
     skyId: '62561'
   },
   {
     targetWord: 'upbraid',
-    translation: 'придираться',
+    translating: 'придираться',
     partOfSpeechCode: 'v',
     skyId: '199845'
   },
   {
     targetWord: 'upbringing',
-    translation: 'воспитание',
+    translating: 'воспитание',
     partOfSpeechCode: 'n',
     skyId: '93418'
   },
   {
     targetWord: 'upcast',
-    translation: 'вентиляционная шахта',
+    translating: 'вентиляционная шахта',
     partOfSpeechCode: 'n',
     skyId: '159875'
   },
   {
     targetWord: 'upchuck',
-    translation: 'рвать',
+    translating: 'рвать',
     partOfSpeechCode: 'v',
     skyId: '220651'
   },
   {
     targetWord: 'upcoming',
-    translation: 'грядущий',
+    translating: 'грядущий',
     partOfSpeechCode: 'j',
     skyId: '190167'
   },
   {
     targetWord: 'upcountry',
-    translation: 'расположенный внутри страны',
+    translating: 'расположенный внутри страны',
     partOfSpeechCode: 'j',
     skyId: '105284'
   },
   {
     targetWord: 'upcycle',
-    translation: 'перерабатывать',
+    translating: 'перерабатывать',
     partOfSpeechCode: 'v',
     skyId: '262438'
   },
   {
     targetWord: 'upcycling',
-    translation: 'переделка старых вещей',
+    translating: 'переделка старых вещей',
     partOfSpeechCode: 'n',
     skyId: '261569'
   },
   {
     targetWord: 'update',
-    translation: 'обновлять ',
+    translating: 'обновлять ',
     partOfSpeechCode: 'v',
     skyId: '241842'
   },
   {
     targetWord: 'update',
-    translation: 'новая версия',
+    translating: 'новая версия',
     partOfSpeechCode: 'n',
     skyId: '239770'
   },
   {
     targetWord: 'update',
-    translation: 'последние данные',
+    translating: 'последние данные',
     partOfSpeechCode: 'n',
     skyId: '239769'
   },
   {
     targetWord: 'update',
-    translation: 'модернизировать',
+    translating: 'модернизировать',
     partOfSpeechCode: 'v',
     skyId: '239768'
   },
   {
     targetWord: 'update',
-    translation: 'свежие новости',
+    translating: 'свежие новости',
     partOfSpeechCode: 'n',
     skyId: '121975'
   },
   {
     targetWord: 'update',
-    translation: 'сообщать новую информацию',
+    translating: 'сообщать новую информацию',
     partOfSpeechCode: 'v',
     skyId: '121977'
   },
   {
     targetWord: 'update',
-    translation: 'обновлять',
+    translating: 'обновлять',
     partOfSpeechCode: 'v',
     skyId: '121978'
   },
   {
     targetWord: 'update management',
-    translation: 'управление обновлениями',
+    translating: 'управление обновлениями',
     partOfSpeechCode: 'ph',
     skyId: '266849'
   },
   {
     targetWord: 'updated',
-    translation: 'модернизированный',
+    translating: 'модернизированный',
     partOfSpeechCode: 'j',
     skyId: '238079'
   },
   {
     targetWord: 'updating',
-    translation: 'обновление',
+    translating: 'обновление',
     partOfSpeechCode: 'n',
     skyId: '41836'
   },
   {
     targetWord: 'updo',
-    translation: 'высокая прическа',
+    translating: 'высокая прическа',
     partOfSpeechCode: 'n',
     skyId: '252929'
   },
   {
     targetWord: 'upend',
-    translation: 'переворачивать',
+    translating: 'переворачивать',
     partOfSpeechCode: 'v',
     skyId: '182771'
   },
   {
     targetWord: 'upend',
-    translation: 'перевернуть',
+    translating: 'перевернуть',
     partOfSpeechCode: 'v',
     skyId: '182770'
   },
   {
     targetWord: 'upended',
-    translation: 'перевёрнутый',
+    translating: 'перевёрнутый',
     partOfSpeechCode: 'j',
     skyId: '182772'
   },
   {
     targetWord: 'upending',
-    translation: 'выпрямление',
+    translating: 'выпрямление',
     partOfSpeechCode: 'n',
     skyId: '181075'
   },
   {
     targetWord: 'upfield',
-    translation: 'апфилд',
+    translating: 'апфилд',
     partOfSpeechCode: 'j',
     skyId: '99704'
   },
   {
     targetWord: 'upfront',
-    translation: 'авансовый',
+    translating: 'авансовый',
     partOfSpeechCode: 'j',
     skyId: '231697'
   },
   {
     targetWord: 'upfront',
-    translation: 'открытый',
+    translating: 'открытый',
     partOfSpeechCode: 'j',
     skyId: '15473'
   },
   {
     targetWord: 'upgrade',
-    translation: 'улучшать условия',
+    translating: 'улучшать условия',
     partOfSpeechCode: 'v',
     skyId: '180290'
   },
   {
     targetWord: 'upgrade',
-    translation: 'повысить',
+    translating: 'повысить',
     partOfSpeechCode: 'v',
     skyId: '180288'
   },
   {
     targetWord: 'upgrade',
-    translation: 'обновить, модернизировать',
+    translating: 'обновить, модернизировать',
     partOfSpeechCode: 'v',
     skyId: '180287'
   },
   {
     targetWord: 'upgrade',
-    translation: 'улучшить',
+    translating: 'улучшить',
     partOfSpeechCode: 'v',
     skyId: '180286'
   },
   {
     targetWord: 'upgrade',
-    translation: 'повышение',
+    translating: 'повышение',
     partOfSpeechCode: 'n',
     skyId: '180282'
   },
   {
     targetWord: 'upgrade',
-    translation: 'модернизация, усовершенствование, обновление',
+    translating: 'модернизация, усовершенствование, обновление',
     partOfSpeechCode: 'n',
     skyId: '180285'
   },
   {
     targetWord: 'upgrade',
-    translation: 'крутой склон',
+    translating: 'крутой склон',
     partOfSpeechCode: 'n',
     skyId: '180283'
   },
   {
     targetWord: 'upgrade software',
-    translation: 'обновлять программное обеспечение',
+    translating: 'обновлять программное обеспечение',
     partOfSpeechCode: 'ph',
     skyId: '242778'
   },
   {
     targetWord: 'upgrade yourself',
-    translation: 'прокачать себя',
+    translating: 'прокачать себя',
     partOfSpeechCode: 'ph',
     skyId: '260810'
   },
   {
     targetWord: 'upheaval',
-    translation: 'бунт',
+    translating: 'бунт',
     partOfSpeechCode: 'n',
     skyId: '222318'
   },
   {
     targetWord: 'upheaval',
-    translation: 'поднятие',
+    translating: 'поднятие',
     partOfSpeechCode: 'n',
     skyId: '222317'
   },
   {
     targetWord: 'upheaval',
-    translation: 'беспорядки',
+    translating: 'беспорядки',
     partOfSpeechCode: 'n',
     skyId: '222316'
   },
   {
     targetWord: 'uphill',
-    translation: 'в гору',
+    translating: 'в гору',
     partOfSpeechCode: 'r',
     skyId: '9434'
   },
   {
     targetWord: 'uphill',
-    translation: 'требующий усилий',
+    translating: 'требующий усилий',
     partOfSpeechCode: 'r',
     skyId: '9433'
   },
   {
     targetWord: 'uphill',
-    translation: 'идущий в гору',
+    translating: 'идущий в гору',
     partOfSpeechCode: 'j',
     skyId: '9432'
   },
   {
     targetWord: 'uphill',
-    translation: 'подъём',
+    translating: 'подъём',
     partOfSpeechCode: 'n',
     skyId: '9431'
   },
   {
     targetWord: 'uphill battle',
-    translation: 'тяжёлая задача',
+    translating: 'тяжёлая задача',
     partOfSpeechCode: 'ph',
     skyId: '255805'
   },
   {
     targetWord: 'uphill climb',
-    translation: 'подъем в гору / тяжелая борьба',
+    translating: 'подъем в гору / тяжелая борьба',
     partOfSpeechCode: 'phi',
     skyId: '264201'
   },
   {
     targetWord: 'uphold',
-    translation: 'отстаивать',
+    translating: 'отстаивать',
     partOfSpeechCode: 'v',
     skyId: '26705'
   },
   {
     targetWord: 'uphold',
-    translation: 'поддерживать',
+    translating: 'поддерживать',
     partOfSpeechCode: 'v',
     skyId: '248282'
   },
   {
     targetWord: 'upholder',
-    translation: 'сторонник',
+    translating: 'сторонник',
     partOfSpeechCode: 'n',
     skyId: '190582'
   },
   {
     targetWord: 'upholster',
-    translation: 'обивать мебель',
+    translating: 'обивать мебель',
     partOfSpeechCode: 'v',
     skyId: '65605'
   },
   {
     targetWord: 'upholsterer',
-    translation: 'обойщик',
+    translating: 'обойщик',
     partOfSpeechCode: 'n',
     skyId: '131464'
   },
   {
     targetWord: 'upholstery',
-    translation: 'обивка',
+    translating: 'обивка',
     partOfSpeechCode: 'n',
     skyId: '33140'
   },
   {
     targetWord: 'upholstery',
-    translation: 'обивка мебели',
+    translating: 'обивка мебели',
     partOfSpeechCode: 'n',
     skyId: '33139'
   },
   {
     targetWord: 'upholstery material',
-    translation: 'материал обивки',
+    translating: 'материал обивки',
     partOfSpeechCode: 'n',
     skyId: '4895'
   },
   {
     targetWord: 'upholstery needle',
-    translation: 'обивки иглы',
+    translating: 'обивки иглы',
     partOfSpeechCode: 'n',
     skyId: '36336'
   },
   {
     targetWord: 'upkeep',
-    translation: 'уход',
+    translating: 'уход',
     partOfSpeechCode: 'n',
     skyId: '248285'
   },
   {
     targetWord: 'upkeep',
-    translation: 'поддержание',
+    translating: 'поддержание',
     partOfSpeechCode: 'n',
     skyId: '32149'
   },
   {
     targetWord: 'upkeep',
-    translation: 'обслуживание',
+    translating: 'обслуживание',
     partOfSpeechCode: 'n',
     skyId: '32148'
   },
   {
     targetWord: 'upland',
-    translation: 'нагорный',
+    translating: 'нагорный',
     partOfSpeechCode: 'j',
     skyId: '130034'
   },
   {
     targetWord: 'upland',
-    translation: 'возвышенность',
+    translating: 'возвышенность',
     partOfSpeechCode: 'n',
     skyId: '130033'
   },
   {
     targetWord: 'upland plover',
-    translation: 'бартрамия',
+    translating: 'бартрамия',
     partOfSpeechCode: 'n',
     skyId: '169121'
   },
   {
     targetWord: 'upland sandpiper',
-    translation: 'бартрамия',
+    translating: 'бартрамия',
     partOfSpeechCode: 'n',
     skyId: '93111'
   },
   {
     targetWord: 'uplift',
-    translation: 'отрыв подошвы',
+    translating: 'отрыв подошвы',
     partOfSpeechCode: 'n',
     skyId: '249161'
   },
   {
     targetWord: 'uplift',
-    translation: 'бюстгальтер',
+    translating: 'бюстгальтер',
     partOfSpeechCode: 'n',
     skyId: '65122'
   },
   {
     targetWord: 'uplift',
-    translation: 'тектоническое поднятие',
+    translating: 'тектоническое поднятие',
     partOfSpeechCode: 'n',
     skyId: '65121'
   },
   {
     targetWord: 'uplift',
-    translation: 'поднимать',
+    translating: 'поднимать',
     partOfSpeechCode: 'v',
     skyId: '212747'
   },
   {
     targetWord: 'uplift',
-    translation: 'ободрять',
+    translating: 'ободрять',
     partOfSpeechCode: 'v',
     skyId: '212745'
   },
   {
     targetWord: 'uplifting',
-    translation: 'оптимистический',
+    translating: 'оптимистический',
     partOfSpeechCode: 'j',
     skyId: '255247'
   },
   {
     targetWord: 'uplifting',
-    translation: 'поднятие',
+    translating: 'поднятие',
     partOfSpeechCode: 'n',
     skyId: '219'
   },
   {
     targetWord: 'upliftment',
-    translation: 'духовный подъём',
+    translating: 'духовный подъём',
     partOfSpeechCode: 'n',
     skyId: '265249'
   },
   {
     targetWord: 'uplink',
-    translation: 'канал Земля-борт',
+    translating: 'канал Земля-борт',
     partOfSpeechCode: 'n',
     skyId: '174798'
   },
   {
     targetWord: 'upload',
-    translation: 'загружать',
+    translating: 'загружать',
     partOfSpeechCode: 'v',
     skyId: '35880'
   },
   {
     targetWord: 'upmarket',
-    translation: 'элитный',
+    translating: 'элитный',
     partOfSpeechCode: 'j',
     skyId: '10813'
   },
   {
     targetWord: 'upmarket shop',
-    translation: 'элитный магазин',
+    translating: 'элитный магазин',
     partOfSpeechCode: 'ph',
     skyId: '252352'
   },
   {
     targetWord: 'upmost',
-    translation: 'наивысший',
+    translating: 'наивысший',
     partOfSpeechCode: 'j',
     skyId: '94754'
   },
   {
     targetWord: 'upon',
-    translation: 'на',
+    translating: 'на',
     partOfSpeechCode: 'prp',
     skyId: '227904'
   },
   {
     targetWord: "upon one's guard",
-    translation: 'бдительный',
+    translating: 'бдительный',
     partOfSpeechCode: 'j',
     skyId: '27171'
   },
   {
     targetWord: 'upper balcony',
-    translation: 'верхний балкон',
+    translating: 'верхний балкон',
     partOfSpeechCode: 'n',
     skyId: '21198'
   },
   {
     targetWord: 'upper berth',
-    translation: 'верхняя койка',
+    translating: 'верхняя койка',
     partOfSpeechCode: 'n',
     skyId: '139615'
   },
   {
     targetWord: 'upper cannon',
-    translation: 'верхняя пушка',
+    translating: 'верхняя пушка',
     partOfSpeechCode: 'n',
     skyId: '36371'
   },
   {
     targetWord: 'upper case',
-    translation: 'верхний регистр',
+    translating: 'верхний регистр',
     partOfSpeechCode: 'n',
     skyId: '236746'
   },
   {
     targetWord: 'upper class',
-    translation: 'высший класс',
+    translating: 'высший класс',
     partOfSpeechCode: 'n',
     skyId: '69887'
   },
   {
     targetWord: 'upper crust',
-    translation: 'высший класс',
+    translating: 'высший класс',
     partOfSpeechCode: 'n',
     skyId: '33154'
   },
   {
     targetWord: 'upper deck',
-    translation: 'верхняя палуба',
+    translating: 'верхняя палуба',
     partOfSpeechCode: 'n',
     skyId: '116471'
   },
   {
     targetWord: 'upper echelons',
-    translation: 'высшая власть',
+    translating: 'высшая власть',
     partOfSpeechCode: 'n',
     skyId: '239137'
   },
   {
     targetWord: 'upper hand',
-    translation: 'более выгодная позиция',
+    translating: 'более выгодная позиция',
     partOfSpeechCode: 'n',
     skyId: '78395'
   },
   {
     targetWord: 'upper in the row',
-    translation: 'верхний в ряду',
+    translating: 'верхний в ряду',
     partOfSpeechCode: 'n',
     skyId: '247408'
   },
   {
     targetWord: 'upper level computing system',
-    translation: 'вычислительный комплекс верхнего уровня',
+    translating: 'вычислительный комплекс верхнего уровня',
     partOfSpeechCode: 'n',
     skyId: '248795'
   },
   {
     targetWord: 'upper limit',
-    translation: 'верхний предел',
+    translating: 'верхний предел',
     partOfSpeechCode: 'n',
     skyId: '133826'
   },
   {
     targetWord: 'upper material gate',
-    translation: 'верхний шихтовый затвор',
+    translating: 'верхний шихтовый затвор',
     partOfSpeechCode: 'n',
     skyId: '262350'
   },
   {
     targetWord: 'upper school',
-    translation: 'средняя школа',
+    translating: 'средняя школа',
     partOfSpeechCode: 'n',
     skyId: '261595'
   },
   {
     targetWord: 'upper seal valve',
-    translation: 'верхний газоуплотнительный клапан',
+    translating: 'верхний газоуплотнительный клапан',
     partOfSpeechCode: 'n',
     skyId: '262348'
   },
   {
     targetWord: 'upper side',
-    translation: 'верхняя сторона',
+    translating: 'верхняя сторона',
     partOfSpeechCode: 'n',
     skyId: '222011'
   },
   {
     targetWord: 'upper surface',
-    translation: 'верхняя поверхность',
+    translating: 'верхняя поверхность',
     partOfSpeechCode: 'n',
     skyId: '61792'
   },
   {
     targetWord: 'upper unit inspection platform',
-    translation: 'площадка для осмотра верхнего блока',
+    translating: 'площадка для осмотра верхнего блока',
     partOfSpeechCode: 'n',
     skyId: '247635'
   },
   {
     targetWord: 'upper-case letter',
-    translation: 'заглавная буква',
+    translating: 'заглавная буква',
     partOfSpeechCode: 'n',
     skyId: '40964'
   },
   {
     targetWord: 'upper-class',
-    translation: 'относящийся к высшему обществу',
+    translating: 'относящийся к высшему обществу',
     partOfSpeechCode: 'j',
     skyId: '69655'
   },
   {
     targetWord: 'upper-intermediate',
-    translation: 'выше среднего',
+    translating: 'выше среднего',
     partOfSpeechCode: 'j',
     skyId: '266176'
   },
   {
     targetWord: 'upper-level',
-    translation: 'первоклассный',
+    translating: 'первоклассный',
     partOfSpeechCode: 'j',
     skyId: '3664'
   },
   {
     targetWord: 'upper-middle-class',
-    translation: 'верхушка среднего класса',
+    translating: 'верхушка среднего класса',
     partOfSpeechCode: 'j',
     skyId: '168907'
   },
   {
     targetWord: 'uppercase',
-    translation: 'верхний регистр',
+    translating: 'верхний регистр',
     partOfSpeechCode: 'j',
     skyId: '5383'
   },
   {
     targetWord: 'uppercase',
-    translation: 'прописная буква',
+    translating: 'прописная буква',
     partOfSpeechCode: 'n',
     skyId: '5382'
   },
   {
     targetWord: 'upperclassman',
-    translation: 'старшеклассник',
+    translating: 'старшеклассник',
     partOfSpeechCode: 'n',
     skyId: '238080'
   },
   {
     targetWord: 'upperclasswoman',
-    translation: 'старшекурсница',
+    translating: 'старшекурсница',
     partOfSpeechCode: 'n',
     skyId: '238082'
   },
   {
     targetWord: 'uppercut',
-    translation: 'удар снизу',
+    translating: 'удар снизу',
     partOfSpeechCode: 'n',
     skyId: '168422'
   },
   {
     targetWord: 'uppermost',
-    translation: 'прежде всего',
+    translating: 'прежде всего',
     partOfSpeechCode: 'r',
     skyId: '45223'
   },
   {
     targetWord: 'uppermost',
-    translation: 'выше всего',
+    translating: 'выше всего',
     partOfSpeechCode: 'r',
     skyId: '45224'
   },
   {
     targetWord: 'uppermost',
-    translation: 'высший',
+    translating: 'высший',
     partOfSpeechCode: 'j',
     skyId: '45222'
   },
   {
     targetWord: 'uppity',
-    translation: 'нахальный',
+    translating: 'нахальный',
     partOfSpeechCode: 'j',
     skyId: '214382'
   },
   {
     targetWord: 'upraise',
-    translation: 'возрождать',
+    translating: 'возрождать',
     partOfSpeechCode: 'v',
     skyId: '83117'
   },
   {
     targetWord: 'upraised',
-    translation: 'с поднятыми руками',
+    translating: 'с поднятыми руками',
     partOfSpeechCode: 'j',
     skyId: '83118'
   },
   {
     targetWord: 'upright',
-    translation: 'прямой',
+    translating: 'прямой',
     partOfSpeechCode: 'j',
     skyId: '225830'
   },
   {
     targetWord: 'upright',
-    translation: 'честный',
+    translating: 'честный',
     partOfSpeechCode: 'j',
     skyId: '225829'
   },
   {
     targetWord: 'upright',
-    translation: 'пианино',
+    translating: 'пианино',
     partOfSpeechCode: 'n',
     skyId: '225827'
   },
   {
     targetWord: 'upright',
-    translation: 'вертикальный',
+    translating: 'вертикальный',
     partOfSpeechCode: 'j',
     skyId: '225828'
   },
   {
     targetWord: 'upright',
-    translation: 'колонна',
+    translating: 'колонна',
     partOfSpeechCode: 'n',
     skyId: '225826'
   },
   {
     targetWord: 'uprightly',
-    translation: 'честно',
+    translating: 'честно',
     partOfSpeechCode: 'r',
     skyId: '71127'
   },
   {
     targetWord: 'uprightness',
-    translation: 'правота',
+    translating: 'правота',
     partOfSpeechCode: 'n',
     skyId: '172314'
   },
   {
     targetWord: 'uprise',
-    translation: 'вставать с кровати',
+    translating: 'вставать с кровати',
     partOfSpeechCode: 'v',
     skyId: '46869'
   },
   {
     targetWord: 'uprise',
-    translation: 'воскресать',
+    translating: 'воскресать',
     partOfSpeechCode: 'v',
     skyId: '46868'
   },
   {
     targetWord: 'uprise',
-    translation: 'подниматься',
+    translating: 'подниматься',
     partOfSpeechCode: 'v',
     skyId: '46867'
   },
   {
     targetWord: 'uprise',
-    translation: 'появляться ',
+    translating: 'появляться ',
     partOfSpeechCode: 'v',
     skyId: '46866'
   },
   {
     targetWord: 'uprise',
-    translation: 'вставать на ноги',
+    translating: 'вставать на ноги',
     partOfSpeechCode: 'v',
     skyId: '46865'
   },
   {
     targetWord: 'uprise',
-    translation: 'подниматься дыбом',
+    translating: 'подниматься дыбом',
     partOfSpeechCode: 'v',
     skyId: '46864'
   },
   {
     targetWord: 'uprise',
-    translation: 'появление',
+    translating: 'появление',
     partOfSpeechCode: 'v',
     skyId: '46862'
   },
   {
     targetWord: 'uprising',
-    translation: 'восстание',
+    translating: 'восстание',
     partOfSpeechCode: 'n',
     skyId: '46861'
   },
   {
     targetWord: 'upriver',
-    translation: 'вверх по реке',
+    translating: 'вверх по реке',
     partOfSpeechCode: 'r',
     skyId: '93683'
   },
   {
     targetWord: 'uproar',
-    translation: 'гомон',
+    translating: 'гомон',
     partOfSpeechCode: 'n',
     skyId: '26325'
   },
   {
     targetWord: 'uproar',
-    translation: 'шум',
+    translating: 'шум',
     partOfSpeechCode: 'n',
     skyId: '26326'
   },
   {
     targetWord: 'uproarious',
-    translation: 'смешной',
+    translating: 'смешной',
     partOfSpeechCode: 'j',
     skyId: '217624'
   },
   {
     targetWord: 'uproarious',
-    translation: 'шумный',
+    translating: 'шумный',
     partOfSpeechCode: 'j',
     skyId: '217623'
   },
   {
     targetWord: 'uproariously',
-    translation: 'громко',
+    translating: 'громко',
     partOfSpeechCode: 'r',
     skyId: '40627'
   },
   {
     targetWord: 'uproot',
-    translation: 'выкорчевывать',
+    translating: 'выкорчевывать',
     partOfSpeechCode: 'v',
     skyId: '233358'
   },
   {
     targetWord: 'uproot',
-    translation: 'выкорчёвывать',
+    translating: 'выкорчёвывать',
     partOfSpeechCode: 'v',
     skyId: '169348'
   },
   {
     targetWord: 'uproot',
-    translation: 'искоренять',
+    translating: 'искоренять',
     partOfSpeechCode: 'v',
     skyId: '169347'
   },
   {
     targetWord: 'uproot',
-    translation: 'выселять',
+    translating: 'выселять',
     partOfSpeechCode: 'v',
     skyId: '169346'
   },
   {
     targetWord: 'uprooter',
-    translation: 'разрушитель',
+    translating: 'разрушитель',
     partOfSpeechCode: 'n',
     skyId: '153154'
   },
   {
     targetWord: 'ups and downs',
-    translation: 'взлёты и падения',
+    translating: 'взлёты и падения',
     partOfSpeechCode: 'ph',
     skyId: '230409'
   },
   {
     targetWord: 'upsampling',
-    translation: 'повышающая дискретизация',
+    translating: 'повышающая дискретизация',
     partOfSpeechCode: 'n',
     skyId: '246503'
   },
   {
     targetWord: 'upscale',
-    translation: 'увеличивать масштаб',
+    translating: 'увеличивать масштаб',
     partOfSpeechCode: 'v',
     skyId: '266490'
   },
   {
     targetWord: 'upscale',
-    translation: 'высококлассный',
+    translating: 'высококлассный',
     partOfSpeechCode: 'j',
     skyId: '58064'
   },
   {
     targetWord: 'upsell',
-    translation: 'навязать товар подороже',
+    translating: 'навязать товар подороже',
     partOfSpeechCode: 'v',
     skyId: '233522'
   },
   {
     targetWord: 'upselling',
-    translation: 'допродажа',
+    translating: 'допродажа',
     partOfSpeechCode: 'n',
     skyId: '232170'
   },
   {
     targetWord: 'upset',
-    translation: 'поражать',
+    translating: 'поражать',
     partOfSpeechCode: 'v',
     skyId: '212397'
   },
   {
     targetWord: 'upset',
-    translation: 'обжимать',
+    translating: 'обжимать',
     partOfSpeechCode: 'v',
     skyId: '212396'
   },
   {
     targetWord: 'upset',
-    translation: 'опрокидывать',
+    translating: 'опрокидывать',
     partOfSpeechCode: 'v',
     skyId: '212395'
   },
   {
     targetWord: 'upset',
-    translation: 'огорчать',
+    translating: 'огорчать',
     partOfSpeechCode: 'v',
     skyId: '239776'
   },
   {
     targetWord: 'upset',
-    translation: 'нарушать',
+    translating: 'нарушать',
     partOfSpeechCode: 'v',
     skyId: '212392'
   },
   {
     targetWord: "upset somebody's stomach",
-    translation: 'вызывать тошноту',
+    translating: 'вызывать тошноту',
     partOfSpeechCode: 'ph',
     skyId: '239128'
   },
   {
     targetWord: 'upset someone',
-    translation: 'это кого-то расстроит',
+    translating: 'это кого-то расстроит',
     partOfSpeechCode: 'ph',
     skyId: '231594'
   },
   {
     targetWord: 'upset stomach',
-    translation: 'расстройство желудка',
+    translating: 'расстройство желудка',
     partOfSpeechCode: 'n',
     skyId: '13198'
   },
   {
     targetWord: 'upsetting',
-    translation: 'огорчительный',
+    translating: 'огорчительный',
     partOfSpeechCode: 'j',
     skyId: '12796'
   },
   {
     targetWord: 'upshot',
-    translation: 'результат',
+    translating: 'результат',
     partOfSpeechCode: 'n',
     skyId: '92585'
   },
   {
     targetWord: 'upside',
-    translation: 'находящийся вдоль',
+    translating: 'находящийся вдоль',
     partOfSpeechCode: 'j',
     skyId: '237979'
   },
   {
     targetWord: 'upside',
-    translation: 'преимущество',
+    translating: 'преимущество',
     partOfSpeechCode: 'n',
     skyId: '237978'
   },
   {
     targetWord: 'upside',
-    translation: 'верхушка',
+    translating: 'верхушка',
     partOfSpeechCode: 'n',
     skyId: '21884'
   },
   {
     targetWord: 'upside down',
-    translation: 'вверх дном',
+    translating: 'вверх дном',
     partOfSpeechCode: 'r',
     skyId: '239779'
   },
   {
     targetWord: 'upside down',
-    translation: 'вверх тормашками',
+    translating: 'вверх тормашками',
     partOfSpeechCode: 'r',
     skyId: '137342'
   },
   {
     targetWord: 'upside-down',
-    translation: 'вверх ногами',
+    translating: 'вверх ногами',
     partOfSpeechCode: 'j',
     skyId: '171519'
   },
   {
     targetWord: 'upside-down cake',
-    translation: 'перевёрнутый пирог',
+    translating: 'перевёрнутый пирог',
     partOfSpeechCode: 'n',
     skyId: '99773'
   },
   {
     targetWord: 'upsilon',
-    translation: 'ипсилон',
+    translating: 'ипсилон',
     partOfSpeechCode: 'n',
     skyId: '51803'
   },
   {
     targetWord: 'upstage',
-    translation: 'в глубине сцены',
+    translating: 'в глубине сцены',
     partOfSpeechCode: 'r',
     skyId: '69084'
   },
   {
     targetWord: 'upstage',
-    translation: 'отчуждённый',
+    translating: 'отчуждённый',
     partOfSpeechCode: 'j',
     skyId: '69083'
   },
   {
     targetWord: 'upstage',
-    translation: 'относящийся к или находящийся в глубине сцены',
+    translating: 'относящийся к или находящийся в глубине сцены',
     partOfSpeechCode: 'j',
     skyId: '69082'
   },
   {
     targetWord: 'upstage',
-    translation: 'притягивать внимание',
+    translating: 'притягивать внимание',
     partOfSpeechCode: 'v',
     skyId: '69081'
   },
   {
     targetWord: 'upstage',
-    translation: 'отодвигать на задний план',
+    translating: 'отодвигать на задний план',
     partOfSpeechCode: 'v',
     skyId: '69080'
   },
   {
     targetWord: 'upstage',
-    translation: 'отодвинуть (на задний план)',
+    translating: 'отодвинуть (на задний план)',
     partOfSpeechCode: 'v',
     skyId: '69079'
   },
   {
     targetWord: 'upstage',
-    translation: 'задняя часть сцены',
+    translating: 'задняя часть сцены',
     partOfSpeechCode: 'n',
     skyId: '69078'
   },
   {
     targetWord: 'upstairs',
-    translation: 'находящийся выше',
+    translating: 'находящийся выше',
     partOfSpeechCode: 'j',
     skyId: '241843'
   },
   {
     targetWord: 'upstairs',
-    translation: 'наверх',
+    translating: 'наверх',
     partOfSpeechCode: 'r',
     skyId: '236681'
   },
   {
     targetWord: 'upstairs',
-    translation: 'на верхнем этаже',
+    translating: 'на верхнем этаже',
     partOfSpeechCode: 'r',
     skyId: '174511'
   },
   {
     targetWord: 'upstairs',
-    translation: 'верхний этаж',
+    translating: 'верхний этаж',
     partOfSpeechCode: 'n',
     skyId: '174509'
   },
   {
     targetWord: 'upstairs/downstairs',
-    translation: 'наверх/вниз',
+    translating: 'наверх/вниз',
     partOfSpeechCode: 'ph',
     skyId: '228786'
   },
   {
     targetWord: 'upstand',
-    translation: 'бортик кровли',
+    translating: 'бортик кровли',
     partOfSpeechCode: 'n',
     skyId: '258388'
   },
   {
     targetWord: 'upstanding',
-    translation: 'крепкий ',
+    translating: 'крепкий ',
     partOfSpeechCode: 'j',
     skyId: '237982'
   },
   {
     targetWord: 'upstanding',
-    translation: 'честный',
+    translating: 'честный',
     partOfSpeechCode: 'j',
     skyId: '237981'
   },
   {
     targetWord: 'upstanding',
-    translation: 'добропорядочный',
+    translating: 'добропорядочный',
     partOfSpeechCode: 'j',
     skyId: '153411'
   },
   {
     targetWord: 'upstate',
-    translation: 'северная часть штата',
+    translating: 'северная часть штата',
     partOfSpeechCode: 'n',
     skyId: '237994'
   },
   {
     targetWord: 'upstate',
-    translation: 'на севере штата',
+    translating: 'на севере штата',
     partOfSpeechCode: 'r',
     skyId: '118870'
   },
   {
     targetWord: 'upstream',
-    translation: 'вверх по течению',
+    translating: 'вверх по течению',
     partOfSpeechCode: 'r',
     skyId: '71321'
   },
   {
     targetWord: 'upstream',
-    translation: 'расположенный против течения',
+    translating: 'расположенный против течения',
     partOfSpeechCode: 'j',
     skyId: '71320'
   },
   {
     targetWord: 'upstream sector',
-    translation: 'апстрим (геологоразведка и добыча)',
+    translating: 'апстрим (геологоразведка и добыча)',
     partOfSpeechCode: 'ph',
     skyId: '265157'
   },
   {
     targetWord: 'upstroke',
-    translation: 'ход вверх',
+    translating: 'ход вверх',
     partOfSpeechCode: 'n',
     skyId: '4483'
   },
   {
     targetWord: 'upsurge',
-    translation: 'всплеск',
+    translating: 'всплеск',
     partOfSpeechCode: 'n',
     skyId: '97716'
   },
   {
     targetWord: 'upsweep',
-    translation: 'зачёсывать',
+    translating: 'зачёсывать',
     partOfSpeechCode: 'v',
     skyId: '233553'
   },
   {
     targetWord: 'upswing',
-    translation: 'улучшаться',
+    translating: 'улучшаться',
     partOfSpeechCode: 'v',
     skyId: '237998'
   },
   {
     targetWord: 'upswing',
-    translation: 'улучшение',
+    translating: 'улучшение',
     partOfSpeechCode: 'n',
     skyId: '237997'
   },
   {
     targetWord: 'uptake',
-    translation: 'поглощать',
+    translating: 'поглощать',
     partOfSpeechCode: 'v',
     skyId: '233557'
   },
   {
     targetWord: 'uptake',
-    translation: 'поглощение',
+    translating: 'поглощение',
     partOfSpeechCode: 'n',
     skyId: '73156'
   },
   {
     targetWord: 'upthrow',
-    translation: 'бросок вверх',
+    translating: 'бросок вверх',
     partOfSpeechCode: 'n',
     skyId: '178257'
   },
   {
     targetWord: 'upthrust',
-    translation: 'тектоническое поднятие',
+    translating: 'тектоническое поднятие',
     partOfSpeechCode: 'n',
     skyId: '79084'
   },
   {
     targetWord: 'uptick',
-    translation: 'всплеск',
+    translating: 'всплеск',
     partOfSpeechCode: 'n',
     skyId: '138076'
   },
   {
     targetWord: 'uptight',
-    translation: 'встревоженный',
+    translating: 'встревоженный',
     partOfSpeechCode: 'j',
     skyId: '21171'
   },
   {
     targetWord: 'uptime',
-    translation: 'период работоспособности',
+    translating: 'период работоспособности',
     partOfSpeechCode: 'n',
     skyId: '112529'
   },
   {
     targetWord: 'uptown',
-    translation: 'верхняя часть города',
+    translating: 'верхняя часть города',
     partOfSpeechCode: 'r',
     skyId: '216706'
   },
   {
     targetWord: 'uptown',
-    translation: 'верхняя часть города',
+    translating: 'верхняя часть города',
     partOfSpeechCode: 'j',
     skyId: '216706'
   },
   {
     targetWord: 'uptown',
-    translation: 'жилые кварталы города',
+    translating: 'жилые кварталы города',
     partOfSpeechCode: 'n',
     skyId: '216704'
   },
   {
     targetWord: 'upturn',
-    translation: 'переворачивать',
+    translating: 'переворачивать',
     partOfSpeechCode: 'v',
     skyId: '238000'
   },
   {
     targetWord: 'upturn',
-    translation: 'подъем',
+    translating: 'подъем',
     partOfSpeechCode: 'n',
     skyId: '79492'
   },
   {
     targetWord: 'upupa',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '221330'
   },
   {
     targetWord: 'upupa epops',
-    translation: 'удод',
+    translating: 'удод',
     partOfSpeechCode: 'n',
     skyId: '188174'
   },
   {
     targetWord: 'upward',
-    translation: 'позже',
+    translating: 'позже',
     partOfSpeechCode: 'r',
     skyId: '41608'
   },
   {
     targetWord: 'upward',
-    translation: 'вверх',
+    translating: 'вверх',
     partOfSpeechCode: 'r',
     skyId: '41607'
   },
   {
     targetWord: 'upward',
-    translation: 'восходящий',
+    translating: 'восходящий',
     partOfSpeechCode: 'j',
     skyId: '41606'
   },
   {
     targetWord: 'upward',
-    translation: 'направленный вверх',
+    translating: 'направленный вверх',
     partOfSpeechCode: 'j',
     skyId: '41605'
   },
   {
     targetWord: 'upward mobility',
-    translation: 'продвижение по службе',
+    translating: 'продвижение по службе',
     partOfSpeechCode: 'n',
     skyId: '262633'
   },
   {
     targetWord: 'upwardly',
-    translation: 'вверх',
+    translating: 'вверх',
     partOfSpeechCode: 'r',
     skyId: '184420'
   },
   {
     targetWord: 'upwards',
-    translation: 'начиная с',
+    translating: 'начиная с',
     partOfSpeechCode: 'r',
     skyId: '170365'
   },
   {
     targetWord: 'upwards',
-    translation: 'вверх',
+    translating: 'вверх',
     partOfSpeechCode: 'r',
     skyId: '170364'
   },
   {
     targetWord: 'upwell',
-    translation: 'быстро подниматься',
+    translating: 'быстро подниматься',
     partOfSpeechCode: 'v',
     skyId: '238001'
   },
   {
     targetWord: 'upwelling',
-    translation: 'восходящий',
+    translating: 'восходящий',
     partOfSpeechCode: 'j',
     skyId: '237996'
   },
   {
     targetWord: 'upwelling',
-    translation: 'восходящее течение',
+    translating: 'восходящее течение',
     partOfSpeechCode: 'n',
     skyId: '237995'
   },
   {
     targetWord: 'upwind',
-    translation: 'против ветра',
+    translating: 'против ветра',
     partOfSpeechCode: 'r',
     skyId: '71543'
   },
   {
     targetWord: 'upwind',
-    translation: 'против ветра',
+    translating: 'против ветра',
     partOfSpeechCode: 'j',
     skyId: '71543'
   },
   {
     targetWord: 'up to a maximum of',
-    translation: 'не более',
+    translating: 'не более',
     partOfSpeechCode: 'ph',
     skyId: '254878'
   },
   {
     targetWord: 'uracil',
-    translation: 'урацил',
+    translating: 'урацил',
     partOfSpeechCode: 'n',
     skyId: '181547'
   },
   {
     targetWord: 'uraemia',
-    translation: 'уремия',
+    translating: 'уремия',
     partOfSpeechCode: 'n',
     skyId: '134373'
   },
   {
     targetWord: 'uraemic',
-    translation: 'уремический',
+    translating: 'уремический',
     partOfSpeechCode: 'j',
     skyId: '134374'
   },
   {
     targetWord: 'uralic',
-    translation: 'уральские языки',
+    translating: 'уральские языки',
     partOfSpeechCode: 'n',
     skyId: '120880'
   },
   {
     targetWord: 'uranalysis',
-    translation: 'общий анализ мочи',
+    translating: 'общий анализ мочи',
     partOfSpeechCode: 'n',
     skyId: '128453'
   },
   {
     targetWord: 'uranium',
-    translation: 'уран',
+    translating: 'уран',
     partOfSpeechCode: 'n',
     skyId: '62041'
   },
   {
     targetWord: 'uranium metal',
-    translation: 'металлический уран',
+    translating: 'металлический уран',
     partOfSpeechCode: 'n',
     skyId: '248766'
   },
   {
     targetWord: 'uranologist',
-    translation: 'астроном',
+    translating: 'астроном',
     partOfSpeechCode: 'n',
     skyId: '116605'
   },
   {
     targetWord: 'uranology',
-    translation: 'астрономия',
+    translating: 'астрономия',
     partOfSpeechCode: 'n',
     skyId: '94748'
   },
   {
     targetWord: 'urarthritis',
-    translation: 'подагра',
+    translating: 'подагра',
     partOfSpeechCode: 'n',
     skyId: '160209'
   },
   {
     targetWord: 'urban',
-    translation: 'городской',
+    translating: 'городской',
     partOfSpeechCode: 'j',
     skyId: '239783'
   },
   {
     targetWord: 'urban area',
-    translation: 'населённый пункт',
+    translating: 'населённый пункт',
     partOfSpeechCode: 'n',
     skyId: '84708'
   },
   {
     targetWord: 'urban center',
-    translation: 'городской центр',
+    translating: 'городской центр',
     partOfSpeechCode: 'n',
     skyId: '61182'
   },
   {
     targetWord: 'urban development',
-    translation: 'городское развитие',
+    translating: 'городское развитие',
     partOfSpeechCode: 'n',
     skyId: '238798'
   },
   {
     targetWord: 'urban greening',
-    translation: 'городское озеленение',
+    translating: 'городское озеленение',
     partOfSpeechCode: 'ph',
     skyId: '229744'
   },
   {
     targetWord: 'urban legend',
-    translation: 'городская легенда',
+    translating: 'городская легенда',
     partOfSpeechCode: 'n',
     skyId: '4100'
   },
   {
     targetWord: 'urban myth',
-    translation: 'байка',
+    translating: 'байка',
     partOfSpeechCode: 'n',
     skyId: '261418'
   },
   {
     targetWord: 'urban planning',
-    translation: 'градостроительство',
+    translating: 'градостроительство',
     partOfSpeechCode: 'n',
     skyId: '10329'
   },
   {
     targetWord: 'urban renewal',
-    translation: 'модернизация городского жилого фонда',
+    translating: 'модернизация городского жилого фонда',
     partOfSpeechCode: 'n',
     skyId: '56199'
   },
   {
     targetWord: 'urban sprawl',
-    translation: 'разрастание городов',
+    translating: 'разрастание городов',
     partOfSpeechCode: 'n',
     skyId: '220533'
   },
   {
     targetWord: 'urbana',
-    translation: 'Урбана',
+    translating: 'Урбана',
     partOfSpeechCode: 'n',
     skyId: '174011'
   },
   {
     targetWord: 'urbane',
-    translation: 'учтивый',
+    translating: 'учтивый',
     partOfSpeechCode: 'j',
     skyId: '29018'
   },
   {
     targetWord: 'urbanely',
-    translation: 'учтиво',
+    translating: 'учтиво',
     partOfSpeechCode: 'r',
     skyId: '159825'
   },
   {
     targetWord: 'urbanisation',
-    translation: 'урбанизация',
+    translating: 'урбанизация',
     partOfSpeechCode: 'n',
     skyId: '21022'
   },
   {
     targetWord: 'urbanise',
-    translation: 'урбанизировать',
+    translating: 'урбанизировать',
     partOfSpeechCode: 'v',
     skyId: '213671'
   },
   {
     targetWord: 'urbanist',
-    translation: 'урбанист',
+    translating: 'урбанист',
     partOfSpeechCode: 'n',
     skyId: '260567'
   },
   {
     targetWord: 'urbanity',
-    translation: 'вежливость',
+    translating: 'вежливость',
     partOfSpeechCode: 'n',
     skyId: '264287'
   },
   {
     targetWord: 'urbanity',
-    translation: 'городская жизнь',
+    translating: 'городская жизнь',
     partOfSpeechCode: 'n',
     skyId: '28117'
   },
   {
     targetWord: 'urbanization',
-    translation: 'урбанизация',
+    translating: 'урбанизация',
     partOfSpeechCode: 'n',
     skyId: '32669'
   },
   {
     targetWord: 'urbanize',
-    translation: 'урбанизировать',
+    translating: 'урбанизировать',
     partOfSpeechCode: 'v',
     skyId: '134232'
   },
   {
     targetWord: 'urbanized',
-    translation: 'урбанизированный',
+    translating: 'урбанизированный',
     partOfSpeechCode: 'j',
     skyId: '134233'
   },
   {
     targetWord: 'urceole',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '12079'
   },
   {
     targetWord: 'urchin',
-    translation: 'оборванец',
+    translating: 'оборванец',
     partOfSpeechCode: 'n',
     skyId: '188977'
   },
   {
     targetWord: 'urdu',
-    translation: 'урду',
+    translating: 'урду',
     partOfSpeechCode: 'n',
     skyId: '62287'
   },
   {
     targetWord: 'ureter',
-    translation: 'мочеточник',
+    translating: 'мочеточник',
     partOfSpeechCode: 'n',
     skyId: '185872'
   },
   {
     targetWord: 'ureteritis',
-    translation: 'уретерит',
+    translating: 'уретерит',
     partOfSpeechCode: 'n',
     skyId: '58787'
   },
   {
     targetWord: 'ureterocele',
-    translation: 'уретероцеле',
+    translating: 'уретероцеле',
     partOfSpeechCode: 'n',
     skyId: '84955'
   },
   {
     targetWord: 'urethane',
-    translation: 'уретан',
+    translating: 'уретан',
     partOfSpeechCode: 'n',
     skyId: '51771'
   },
   {
     targetWord: 'urethra',
-    translation: 'уретра',
+    translating: 'уретра',
     partOfSpeechCode: 'n',
     skyId: '19236'
   },
   {
     targetWord: 'urethral',
-    translation: 'уретральный',
+    translating: 'уретральный',
     partOfSpeechCode: 'j',
     skyId: '161808'
   },
   {
     targetWord: 'urge',
-    translation: 'призывать ',
+    translating: 'призывать ',
     partOfSpeechCode: 'v',
     skyId: '248287'
   },
   {
     targetWord: 'urge',
-    translation: 'поддерживать',
+    translating: 'поддерживать',
     partOfSpeechCode: 'v',
     skyId: '127123'
   },
   {
     targetWord: 'urge',
-    translation: 'побуждать',
+    translating: 'побуждать',
     partOfSpeechCode: 'v',
     skyId: '127122'
   },
   {
     targetWord: 'urge',
-    translation: 'подгонять',
+    translating: 'подгонять',
     partOfSpeechCode: 'v',
     skyId: '127121'
   },
   {
     targetWord: 'urge',
-    translation: 'сильное желание',
+    translating: 'сильное желание',
     partOfSpeechCode: 'n',
     skyId: '80740'
   },
   {
     targetWord: 'urge',
-    translation: 'порыв',
+    translating: 'порыв',
     partOfSpeechCode: 'n',
     skyId: '80739'
   },
   {
     targetWord: 'urge on',
-    translation: 'побуждать',
+    translating: 'побуждать',
     partOfSpeechCode: 'v',
     skyId: '225624'
   },
   {
     targetWord: 'urge on',
-    translation: 'ободрять',
+    translating: 'ободрять',
     partOfSpeechCode: 'v',
     skyId: '225623'
   },
   {
     targetWord: 'urgency',
-    translation: 'назойливость',
+    translating: 'назойливость',
     partOfSpeechCode: 'n',
     skyId: '214203'
   },
   {
     targetWord: 'urgency',
-    translation: 'чрезвычайная ситуация',
+    translating: 'чрезвычайная ситуация',
     partOfSpeechCode: 'n',
     skyId: '214202'
   },
   {
     targetWord: 'urgency',
-    translation: 'срочность',
+    translating: 'срочность',
     partOfSpeechCode: 'n',
     skyId: '214201'
   },
   {
     targetWord: 'urgency',
-    translation: 'необходимость',
+    translating: 'необходимость',
     partOfSpeechCode: 'n',
     skyId: '214200'
   },
   {
     targetWord: 'urgent',
-    translation: 'неотложный',
+    translating: 'неотложный',
     partOfSpeechCode: 'j',
     skyId: '96719'
   },
   {
     targetWord: 'urgent care',
-    translation: 'неотложная помощь',
+    translating: 'неотложная помощь',
     partOfSpeechCode: 'n',
     skyId: '258427'
   },
   {
     targetWord: 'urgent message',
-    translation: 'срочное сообщение',
+    translating: 'срочное сообщение',
     partOfSpeechCode: 'ph',
     skyId: '265735'
   },
   {
     targetWord: 'urgent request',
-    translation: 'срочный запрос',
+    translating: 'срочный запрос',
     partOfSpeechCode: 'ph',
     skyId: '252866'
   },
   {
     targetWord: 'urgent task',
-    translation: 'срочная задача',
+    translating: 'срочная задача',
     partOfSpeechCode: 'ph',
     skyId: '257275'
   },
   {
     targetWord: 'urgently',
-    translation: 'срочно',
+    translating: 'срочно',
     partOfSpeechCode: 'r',
     skyId: '181911'
   },
   {
     targetWord: 'urgently need',
-    translation: 'срочно необходимо',
+    translating: 'срочно необходимо',
     partOfSpeechCode: 'ph',
     skyId: '265736'
   },
   {
     targetWord: 'urging',
-    translation: 'назойливость',
+    translating: 'назойливость',
     partOfSpeechCode: 'n',
     skyId: '127120'
   },
   {
     targetWord: 'urging',
-    translation: 'побуждение',
+    translating: 'побуждение',
     partOfSpeechCode: 'n',
     skyId: '127119'
   },
   {
     targetWord: 'uria',
-    translation: 'кайры',
+    translating: 'кайры',
     partOfSpeechCode: 'n',
     skyId: '127862'
   },
   {
     targetWord: 'uria aalge',
-    translation: 'кайры',
+    translating: 'кайры',
     partOfSpeechCode: 'n',
     skyId: '14672'
   },
   {
     targetWord: 'uria lomvia',
-    translation: 'толстоклювая кайра',
+    translating: 'толстоклювая кайра',
     partOfSpeechCode: 'n',
     skyId: '122849'
   },
   {
     targetWord: 'urial',
-    translation: 'уриал',
+    translating: 'уриал',
     partOfSpeechCode: 'n',
     skyId: '113526'
   },
   {
     targetWord: 'uric',
-    translation: 'мочевой',
+    translating: 'мочевой',
     partOfSpeechCode: 'j',
     skyId: '100491'
   },
   {
     targetWord: 'uric acid',
-    translation: 'мочевая кислота',
+    translating: 'мочевая кислота',
     partOfSpeechCode: 'n',
     skyId: '93975'
   },
   {
     targetWord: 'urinal',
-    translation: 'писсуар',
+    translating: 'писсуар',
     partOfSpeechCode: 'n',
     skyId: '25534'
   },
   {
     targetWord: 'urinalysis',
-    translation: 'клинический анализ мочи',
+    translating: 'клинический анализ мочи',
     partOfSpeechCode: 'n',
     skyId: '43654'
   },
   {
     targetWord: 'urinary',
-    translation: 'мочевой',
+    translating: 'мочевой',
     partOfSpeechCode: 'j',
     skyId: '30297'
   },
   {
     targetWord: 'urinary apparatus',
-    translation: 'мочеполовая система',
+    translating: 'мочеполовая система',
     partOfSpeechCode: 'n',
     skyId: '172227'
   },
   {
     targetWord: 'urinary incontinence',
-    translation: 'недержание мочи',
+    translating: 'недержание мочи',
     partOfSpeechCode: 'n',
     skyId: '163244'
   },
   {
     targetWord: 'urinary retention',
-    translation: 'задержка мочи',
+    translating: 'задержка мочи',
     partOfSpeechCode: 'n',
     skyId: '107314'
   },
   {
     targetWord: 'urinary tract',
-    translation: 'мочевыводящие пути',
+    translating: 'мочевыводящие пути',
     partOfSpeechCode: 'n',
     skyId: '127934'
   },
   {
     targetWord: 'urinate',
-    translation: 'мочиться',
+    translating: 'мочиться',
     partOfSpeechCode: 'v',
     skyId: '113831'
   },
   {
     targetWord: 'urination',
-    translation: 'мочеиспускание',
+    translating: 'мочеиспускание',
     partOfSpeechCode: 'n',
     skyId: '21930'
   },
   {
     targetWord: 'urine',
-    translation: 'моча',
+    translating: 'моча',
     partOfSpeechCode: 'n',
     skyId: '181596'
   },
   {
     targetWord: 'uriniferous tubule',
-    translation: 'нефрон',
+    translating: 'нефрон',
     partOfSpeechCode: 'n',
     skyId: '177699'
   },
   {
     targetWord: 'url',
-    translation: 'веб-адрес',
+    translating: 'веб-адрес',
     partOfSpeechCode: 'n',
     skyId: '126306'
   },
   {
     targetWord: 'urmia',
-    translation: 'урмия',
+    translating: 'урмия',
     partOfSpeechCode: 'n',
     skyId: '115475'
   },
   {
     targetWord: 'urn',
-    translation: 'чайник',
+    translating: 'чайник',
     partOfSpeechCode: 'n',
     skyId: '126311'
   },
   {
     targetWord: 'urn',
-    translation: 'урна',
+    translating: 'урна',
     partOfSpeechCode: 'n',
     skyId: '126310'
   },
   {
     targetWord: 'urochord',
-    translation: 'оболочники',
+    translating: 'оболочники',
     partOfSpeechCode: 'n',
     skyId: '25889'
   },
   {
     targetWord: 'urochordate',
-    translation: 'оболочники',
+    translating: 'оболочники',
     partOfSpeechCode: 'n',
     skyId: '5068'
   },
   {
     targetWord: 'urocyon',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '118554'
   },
   {
     targetWord: 'urocyon cinereoargenteus',
-    translation: 'серая лисица',
+    translating: 'серая лисица',
     partOfSpeechCode: 'n',
     skyId: '135253'
   },
   {
     targetWord: 'urodele',
-    translation: 'хвостатых амфибий',
+    translating: 'хвостатых амфибий',
     partOfSpeechCode: 'n',
     skyId: '122548'
   },
   {
     targetWord: 'urodella',
-    translation: 'чтобы',
+    translating: 'чтобы',
     partOfSpeechCode: 'n',
     skyId: '54656'
   },
   {
     targetWord: 'urogenital',
-    translation: 'урогенитальный',
+    translating: 'урогенитальный',
     partOfSpeechCode: 'j',
     skyId: '33909'
   },
   {
     targetWord: 'urogenital medicine',
-    translation: 'урология',
+    translating: 'урология',
     partOfSpeechCode: 'n',
     skyId: '60483'
   },
   {
     targetWord: 'urolith',
-    translation: 'мочевой камень',
+    translating: 'мочевой камень',
     partOfSpeechCode: 'n',
     skyId: '171550'
   },
   {
     targetWord: 'urologist',
-    translation: 'уролог',
+    translating: 'уролог',
     partOfSpeechCode: 'n',
     skyId: '136343'
   },
   {
     targetWord: 'urology',
-    translation: 'урология',
+    translating: 'урология',
     partOfSpeechCode: 'n',
     skyId: '193685'
   },
   {
     targetWord: 'uropsilus',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '112237'
   },
   {
     targetWord: 'uropsilus soricipes',
-    translation: 'азиатское землеройка моль',
+    translating: 'азиатское землеройка моль',
     partOfSpeechCode: 'n',
     skyId: '78946'
   },
   {
     targetWord: 'urosaurus',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '155370'
   },
   {
     targetWord: 'urosaurus ornatus',
-    translation: 'дерево ящерицы',
+    translating: 'дерево ящерицы',
     partOfSpeechCode: 'n',
     skyId: '86653'
   },
   {
     targetWord: 'ursine',
-    translation: 'медвежий',
+    translating: 'медвежий',
     partOfSpeechCode: 'j',
     skyId: '52217'
   },
   {
     targetWord: 'ursinia',
-    translation: '',
+    translating: '',
     partOfSpeechCode: 'n',
     skyId: '161357'
   },
   {
     targetWord: 'ursus',
-    translation: 'Европейский бурый медведь',
+    translating: 'Европейский бурый медведь',
     partOfSpeechCode: 'n',
     skyId: '166600'
   },
   {
     targetWord: 'ursus americanus',
-    translation: 'барибал',
+    translating: 'барибал',
     partOfSpeechCode: 'n',
     skyId: '146246'
   },
   {
     targetWord: 'ursus arctos',
-    translation: 'медведь-шатун',
+    translating: 'медведь-шатун',
     partOfSpeechCode: 'n',
     skyId: '223122'
   },
   {
     targetWord: 'ursus arctos horribilis',
-    translation: 'калифорнийский гризли',
+    translating: 'калифорнийский гризли',
     partOfSpeechCode: 'n',
     skyId: '129590'
   },
   {
     targetWord: 'ursus arctos syriacus',
-    translation: 'сирийский бурый медведь',
+    translating: 'сирийский бурый медведь',
     partOfSpeechCode: 'n',
     skyId: '55134'
   },
   {
     targetWord: 'ursus horribilis',
-    translation: 'гризли',
+    translating: 'гризли',
     partOfSpeechCode: 'n',
     skyId: '120080'
   },
   {
     targetWord: 'ursus maritimus',
-    translation: 'полярный медведь',
+    translating: 'полярный медведь',
     partOfSpeechCode: 'n',
     skyId: '19930'
   },
   {
     targetWord: 'ursus ursinus',
-    translation: 'игзтиз',
+    translating: 'игзтиз',
     partOfSpeechCode: 'n',
     skyId: '189926'
   },
   {
     targetWord: 'urticaria',
-    translation: 'крапивница',
+    translating: 'крапивница',
     partOfSpeechCode: 'n',
     skyId: '179935'
   },
   {
     targetWord: 'urtication',
-    translation: 'крапивница',
+    translating: 'крапивница',
     partOfSpeechCode: 'n',
     skyId: '149344'
   },
   {
     targetWord: 'urus',
-    translation: 'тур',
+    translating: 'тур',
     partOfSpeechCode: 'n',
     skyId: '4653'
   },
   {
     targetWord: 'us',
-    translation: 'нас',
+    translating: 'нас',
     partOfSpeechCode: 'prn',
     skyId: '266526'
   },
   {
     targetWord: 'us',
-    translation: 'нам',
+    translating: 'нам',
     partOfSpeechCode: 'prn',
     skyId: '227977'
   },
   {
     targetWord: 'us army',
-    translation: 'армия США',
+    translating: 'армия США',
     partOfSpeechCode: 'n',
     skyId: '168936'
   },
   {
     targetWord: 'us navy',
-    translation: 'Военно-морские силы США',
+    translating: 'Военно-морские силы США',
     partOfSpeechCode: 'n',
     skyId: '190924'
   },
   {
     targetWord: 'usability',
-    translation: 'удобство',
+    translating: 'удобство',
     partOfSpeechCode: 'n',
     skyId: '140134'
   },
   {
     targetWord: 'usable',
-    translation: 'пригодный',
+    translating: 'пригодный',
     partOfSpeechCode: 'j',
     skyId: '8733'
   },
   {
     targetWord: 'usable',
-    translation: 'годный к употреблению',
+    translating: 'годный к употреблению',
     partOfSpeechCode: 'j',
     skyId: '8731'
   },
   {
     targetWord: 'usage',
-    translation: 'расход',
+    translating: 'расход',
     partOfSpeechCode: 'n',
     skyId: '240827'
   },
   {
     targetWord: 'usage',
-    translation: 'употребление ',
+    translating: 'употребление ',
     partOfSpeechCode: 'n',
     skyId: '240825'
   },
   {
     targetWord: 'usage',
-    translation: 'обращение',
+    translating: 'обращение',
     partOfSpeechCode: 'n',
     skyId: '27993'
   },
   {
     targetWord: 'usage',
-    translation: 'обычай',
+    translating: 'обычай',
     partOfSpeechCode: 'n',
     skyId: '27992'
   },
   {
     targetWord: 'usage',
-    translation: 'использование',
+    translating: 'использование',
     partOfSpeechCode: 'n',
     skyId: '27991'
   },
   {
     targetWord: 'usance',
-    translation: 'обычай',
+    translating: 'обычай',
     partOfSpeechCode: 'n',
     skyId: '142830'
   },
   {
     targetWord: 'usance',
-    translation: 'потребление',
+    translating: 'потребление',
     partOfSpeechCode: 'n',
     skyId: '142829'
   },
   {
     targetWord: 'use',
-    translation: 'способность пользования',
+    translating: 'способность пользования',
     partOfSpeechCode: 'n',
     skyId: '253584'
   },
   {
     targetWord: 'use',
-    translation: 'употребление',
+    translating: 'употребление',
     partOfSpeechCode: 'n',
     skyId: '239778'
   },
   {
     targetWord: 'use',
-    translation: 'употреблять',
+    translating: 'употреблять',
     partOfSpeechCode: 'v',
     skyId: '239777'
   },
   {
     targetWord: 'use',
-    translation: 'право пользования',
+    translating: 'право пользования',
     partOfSpeechCode: 'n',
     skyId: '110658'
   },
   {
     targetWord: 'use',
-    translation: 'привычка',
+    translating: 'привычка',
     partOfSpeechCode: 'n',
     skyId: '110656'
   },
   {
     targetWord: 'use',
-    translation: 'применение',
+    translating: 'применение',
     partOfSpeechCode: 'n',
     skyId: '237355'
   },
   {
     targetWord: 'use',
-    translation: 'польза',
+    translating: 'польза',
     partOfSpeechCode: 'n',
     skyId: '110653'
   },
   {
     targetWord: 'use',
-    translation: 'использование',
+    translating: 'использование',
     partOfSpeechCode: 'n',
     skyId: '110657'
   },
   {
     targetWord: 'use',
-    translation: 'пользоваться',
+    translating: 'пользоваться',
     partOfSpeechCode: 'v',
     skyId: '110662'
   },
   {
     targetWord: 'use',
-    translation: 'расходовать',
+    translating: 'расходовать',
     partOfSpeechCode: 'v',
     skyId: '241844'
   },
   {
     targetWord: 'use',
-    translation: 'использовать',
+    translating: 'использовать',
     partOfSpeechCode: 'v',
     skyId: '242373'
   },
   {
     targetWord: 'use (a computer)',
-    translation: 'использовать',
+    translating: 'использовать',
     partOfSpeechCode: 'ph',
     skyId: '229590'
   },
   {
     targetWord: 'use a computer',
-    translation: 'использовать компьютер',
+    translating: 'использовать компьютер',
     partOfSpeechCode: 'ph',
     skyId: '230872'
   },
   {
     targetWord: 'use a database',
-    translation: 'использовать базу данных',
+    translating: 'использовать базу данных',
     partOfSpeechCode: 'v',
     skyId: '248816'
   },
   {
     targetWord: 'use a mobile phone',
-    translation: 'использовать мобильный телефон',
+    translating: 'использовать мобильный телефон',
     partOfSpeechCode: 'ph',
     skyId: '231063'
   },
   {
     targetWord: 'use body language',
-    translation: 'использовать язык тела',
+    translating: 'использовать язык тела',
     partOfSpeechCode: 'ph',
     skyId: '258292'
   },
   {
     targetWord: 'use case',
-    translation: 'сценарий использования системы',
+    translating: 'сценарий использования системы',
     partOfSpeechCode: 'n',
     skyId: '257937'
   },
   {
     targetWord: 'use case description',
-    translation: 'описание сценария использования',
+    translating: 'описание сценария использования',
     partOfSpeechCode: 'n',
     skyId: '257939'
   },
   {
     targetWord: 'use case diagram',
-    translation: 'диаграмма прецедентов',
+    translating: 'диаграмма прецедентов',
     partOfSpeechCode: 'n',
     skyId: '257938'
   },
   {
     targetWord: 'use case package',
-    translation: 'пакет прецедентов',
+    translating: 'пакет прецедентов',
     partOfSpeechCode: 'n',
     skyId: '257940'
   },
   {
     targetWord: 'use drafting',
-    translation: 'использовать драфтинг',
+    translating: 'использовать драфтинг',
     partOfSpeechCode: 'ph',
     skyId: '260101'
   },
   {
     targetWord: 'use for',
-    translation: 'использовать для',
+    translating: 'использовать для',
     partOfSpeechCode: 'v',
     skyId: '233934'
   },
   {
     targetWord: 'use images for emphasis',
-    translation: 'использовать изображения для усиления',
+    translating: 'использовать изображения для усиления',
     partOfSpeechCode: 'ph',
     skyId: '258320'
   },
@@ -17979,853 +17979,853 @@ export const uArr = [
   },
   {
     targetWord: 'use of goods and services',
-    translation: 'потребление',
+    translating: 'потребление',
     partOfSpeechCode: 'n',
     skyId: '156941'
   },
   {
     targetWord: "use somebody's phone",
-    translation: 'использовать чей-то телефон',
+    translating: 'использовать чей-то телефон',
     partOfSpeechCode: 'ph',
     skyId: '238794'
   },
   {
     targetWord: 'use the Internet',
-    translation: 'пользоваться интернетом',
+    translating: 'пользоваться интернетом',
     partOfSpeechCode: 'ph',
     skyId: '228764'
   },
   {
     targetWord: 'use the charm',
-    translation: 'использовать обаяние',
+    translating: 'использовать обаяние',
     partOfSpeechCode: 'ph',
     skyId: '228166'
   },
   {
     targetWord: 'use to your advantage',
-    translation: 'использовать в своих интересах',
+    translating: 'использовать в своих интересах',
     partOfSpeechCode: 'ph',
     skyId: '259554'
   },
   {
     targetWord: 'use up',
-    translation: 'израсходовать',
+    translating: 'израсходовать',
     partOfSpeechCode: 'v',
     skyId: '58223'
   },
   {
     targetWord: 'use visuals',
-    translation: 'использовать визуальные инструменты',
+    translating: 'использовать визуальные инструменты',
     partOfSpeechCode: 'ph',
     skyId: '258318'
   },
   {
     targetWord: 'use your hands',
-    translation: 'использовать руки',
+    translating: 'использовать руки',
     partOfSpeechCode: 'ph',
     skyId: '228758'
   },
   {
     targetWord: 'use your head',
-    translation: 'думать головой',
+    translating: 'думать головой',
     partOfSpeechCode: 'ph',
     skyId: '255203'
   },
   {
     targetWord: 'useable',
-    translation: 'пригодный',
+    translating: 'пригодный',
     partOfSpeechCode: 'j',
     skyId: '153557'
   },
   {
     targetWord: 'useableness',
-    translation: 'пригодность',
+    translating: 'пригодность',
     partOfSpeechCode: 'n',
     skyId: '105349'
   },
   {
     targetWord: 'used',
-    translation: 'подержанный',
+    translating: 'подержанный',
     partOfSpeechCode: 'j',
     skyId: '15061'
   },
   {
     targetWord: 'used car',
-    translation: 'подержанная машина',
+    translating: 'подержанная машина',
     partOfSpeechCode: 'n',
     skyId: '238792'
   },
   {
     targetWord: 'used to',
-    translation: 'иметь обыкновение',
+    translating: 'иметь обыкновение',
     partOfSpeechCode: 'ph',
     skyId: '234815'
   },
   {
     targetWord: 'used to do something',
-    translation: 'делал что-нибудь раньше',
+    translating: 'делал что-нибудь раньше',
     partOfSpeechCode: 'ph',
     skyId: '261488'
   },
   {
     targetWord: 'used to know someone',
-    translation: 'знать кого-то раньше',
+    translating: 'знать кого-то раньше',
     partOfSpeechCode: 'v',
     skyId: '266294'
   },
   {
     targetWord: 'used-car',
-    translation: 'подержанный автомобиль',
+    translating: 'подержанный автомобиль',
     partOfSpeechCode: 'n',
     skyId: '48809'
   },
   {
     targetWord: 'useful',
-    translation: 'полезный',
+    translating: 'полезный',
     partOfSpeechCode: 'j',
     skyId: '180614'
   },
   {
     targetWord: 'useful information',
-    translation: 'полезная информация',
+    translating: 'полезная информация',
     partOfSpeechCode: 'ph',
     skyId: '249193'
   },
   {
     targetWord: 'useful load',
-    translation: 'полезная нагрузка космического аппарата',
+    translating: 'полезная нагрузка космического аппарата',
     partOfSpeechCode: 'n',
     skyId: '260602'
   },
   {
     targetWord: 'usefully',
-    translation: 'с пользой',
+    translating: 'с пользой',
     partOfSpeechCode: 'r',
     skyId: '152096'
   },
   {
     targetWord: 'usefulness',
-    translation: 'польза',
+    translating: 'польза',
     partOfSpeechCode: 'n',
     skyId: '42128'
   },
   {
     targetWord: 'useless',
-    translation: 'негодный ',
+    translating: 'негодный ',
     partOfSpeechCode: 'j',
     skyId: '242307'
   },
   {
     targetWord: 'useless',
-    translation: 'бесполезный',
+    translating: 'бесполезный',
     partOfSpeechCode: 'j',
     skyId: '96036'
   },
   {
     targetWord: 'uselessly',
-    translation: 'бесполезно',
+    translating: 'бесполезно',
     partOfSpeechCode: 'r',
     skyId: '182439'
   },
   {
     targetWord: 'uselessness',
-    translation: 'бесполезность',
+    translating: 'бесполезность',
     partOfSpeechCode: 'n',
     skyId: '411'
   },
   {
     targetWord: 'user',
-    translation: 'наркоман',
+    translating: 'наркоман',
     partOfSpeechCode: 'n',
     skyId: '40601'
   },
   {
     targetWord: 'user',
-    translation: 'эксплуататор',
+    translating: 'эксплуататор',
     partOfSpeechCode: 'n',
     skyId: '40600'
   },
   {
     targetWord: 'user',
-    translation: 'пользователь',
+    translating: 'пользователь',
     partOfSpeechCode: 'n',
     skyId: '254951'
   },
   {
     targetWord: 'user acceptance testing',
-    translation: 'тестирование на приемлемость для пользователя',
+    translating: 'тестирование на приемлемость для пользователя',
     partOfSpeechCode: 'n',
     skyId: '258002'
   },
   {
     targetWord: 'user authentication',
-    translation: 'аутентификация пользователя',
+    translating: 'аутентификация пользователя',
     partOfSpeechCode: 'ph',
     skyId: '266851'
   },
   {
     targetWord: 'user base',
-    translation: 'пользовательская база',
+    translating: 'пользовательская база',
     partOfSpeechCode: 'n',
     skyId: '263920'
   },
   {
     targetWord: 'user behavior',
-    translation: 'поведение пользователя',
+    translating: 'поведение пользователя',
     partOfSpeechCode: 'ph',
     skyId: '266098'
   },
   {
     targetWord: 'user experience',
-    translation: 'опыт взаимодействия',
+    translating: 'опыт взаимодействия',
     partOfSpeechCode: 'n',
     skyId: '235579'
   },
   {
     targetWord: 'user experience (UX)',
-    translation: 'пользовательский опыт',
+    translating: 'пользовательский опыт',
     partOfSpeechCode: 'n',
     skyId: '264868'
   },
   {
     targetWord: 'user experience interview',
-    translation: 'интервью с пользователем',
+    translating: 'интервью с пользователем',
     partOfSpeechCode: 'ph',
     skyId: '265899'
   },
   {
     targetWord: 'user fee',
-    translation: 'плата за пользование',
+    translating: 'плата за пользование',
     partOfSpeechCode: 'n',
     skyId: '235365'
   },
   {
     targetWord: 'user interface',
-    translation: 'интерфейс пользователя',
+    translating: 'интерфейс пользователя',
     partOfSpeechCode: 'n',
     skyId: '22255'
   },
   {
     targetWord: 'user interface (UI)',
-    translation: 'пользовательский интерфейс',
+    translating: 'пользовательский интерфейс',
     partOfSpeechCode: 'n',
     skyId: '264867'
   },
   {
     targetWord: 'user interface design',
-    translation: 'разработка пользовательского интерфейса',
+    translating: 'разработка пользовательского интерфейса',
     partOfSpeechCode: 'ph',
     skyId: '258993'
   },
   {
     targetWord: 'user onboarding',
-    translation: 'онбординг пользователей',
+    translating: 'онбординг пользователей',
     partOfSpeechCode: 'ph',
     skyId: '266097'
   },
   {
     targetWord: 'user-friendly',
-    translation: 'простой в использовании',
+    translating: 'простой в использовании',
     partOfSpeechCode: 'j',
     skyId: '42446'
   },
   {
     targetWord: 'user-friendly service',
-    translation: 'простой и удобный сервис',
+    translating: 'простой и удобный сервис',
     partOfSpeechCode: 'ph',
     skyId: '248674'
   },
   {
     targetWord: 'user-generated content',
-    translation: 'пользовательский контент',
+    translating: 'пользовательский контент',
     partOfSpeechCode: 'ph',
     skyId: '253714'
   },
   {
     targetWord: 'username',
-    translation: 'имя пользователя',
+    translating: 'имя пользователя',
     partOfSpeechCode: 'n',
     skyId: '232118'
   },
   {
     targetWord: 'usher',
-    translation: 'капельдинер',
+    translating: 'капельдинер',
     partOfSpeechCode: 'n',
     skyId: '252002'
   },
   {
     targetWord: 'usher',
-    translation: 'показывать места',
+    translating: 'показывать места',
     partOfSpeechCode: 'v',
     skyId: '136103'
   },
   {
     targetWord: 'usher',
-    translation: 'провожатый',
+    translating: 'провожатый',
     partOfSpeechCode: 'n',
     skyId: '136102'
   },
   {
     targetWord: 'usher',
-    translation: 'швейцар',
+    translating: 'швейцар',
     partOfSpeechCode: 'n',
     skyId: '136101'
   },
   {
     targetWord: 'usher in',
-    translation: 'возвещать',
+    translating: 'возвещать',
     partOfSpeechCode: 'v',
     skyId: '30028'
   },
   {
     targetWord: 'usher out',
-    translation: 'провожать',
+    translating: 'провожать',
     partOfSpeechCode: 'v',
     skyId: '186506'
   },
   {
     targetWord: 'usherette',
-    translation: 'женщина- капельдинер',
+    translating: 'женщина- капельдинер',
     partOfSpeechCode: 'n',
     skyId: '134241'
   },
   {
     targetWord: 'ushering in',
-    translation: 'вступление в',
+    translating: 'вступление в',
     partOfSpeechCode: 'n',
     skyId: '73399'
   },
   {
     targetWord: 'using',
-    translation: 'эксплуатация',
+    translating: 'эксплуатация',
     partOfSpeechCode: 'n',
     skyId: '98700'
   },
   {
     targetWord: 'using up',
-    translation: 'исчерпание',
+    translating: 'исчерпание',
     partOfSpeechCode: 'n',
     skyId: '970'
   },
   {
     targetWord: 'uskub',
-    translation: 'скопье',
+    translating: 'скопье',
     partOfSpeechCode: 'n',
     skyId: '42397'
   },
   {
     targetWord: 'usneaceae',
-    translation: 'семья',
+    translating: 'семья',
     partOfSpeechCode: 'n',
     skyId: '178096'
   },
   {
     targetWord: 'uss cole',
-    translation: 'uss',
+    translating: 'uss',
     partOfSpeechCode: 'n',
     skyId: '85789'
   },
   {
     targetWord: 'ustilago',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '121026'
   },
   {
     targetWord: 'usual',
-    translation: 'общепринятый',
+    translating: 'общепринятый',
     partOfSpeechCode: 'j',
     skyId: '55813'
   },
   {
     targetWord: 'usual',
-    translation: 'обычный',
+    translating: 'обычный',
     partOfSpeechCode: 'j',
     skyId: '230301'
   },
   {
     targetWord: 'usually',
-    translation: 'обычно',
+    translating: 'обычно',
     partOfSpeechCode: 'r',
     skyId: '179597'
   },
   {
     targetWord: 'usuli',
-    translation: 'усулиты',
+    translating: 'усулиты',
     partOfSpeechCode: 'n',
     skyId: '191519'
   },
   {
     targetWord: 'usurer',
-    translation: 'ростовщик',
+    translating: 'ростовщик',
     partOfSpeechCode: 'n',
     skyId: '127874'
   },
   {
     targetWord: 'usurious',
-    translation: 'ростовщический',
+    translating: 'ростовщический',
     partOfSpeechCode: 'j',
     skyId: '180495'
   },
   {
     targetWord: 'usurp',
-    translation: 'узурпировать',
+    translating: 'узурпировать',
     partOfSpeechCode: 'v',
     skyId: '45411'
   },
   {
     targetWord: 'usurpation',
-    translation: 'узурпация',
+    translating: 'узурпация',
     partOfSpeechCode: 'n',
     skyId: '188303'
   },
   {
     targetWord: 'usurper',
-    translation: 'захватчик',
+    translating: 'захватчик',
     partOfSpeechCode: 'n',
     skyId: '160091'
   },
   {
     targetWord: 'usury',
-    translation: 'ростовщичество',
+    translating: 'ростовщичество',
     partOfSpeechCode: 'n',
     skyId: '196938'
   },
   {
     targetWord: 'ut',
-    translation: 'Ута',
+    translating: 'Ута',
     partOfSpeechCode: 'n',
     skyId: '62036'
   },
   {
     targetWord: 'uta',
-    translation: 'род uta',
+    translating: 'род uta',
     partOfSpeechCode: 'n',
     skyId: '211271'
   },
   {
     targetWord: 'uta stansburiana',
-    translation: 'побочные пятнами ящерица',
+    translating: 'побочные пятнами ящерица',
     partOfSpeechCode: 'n',
     skyId: '189046'
   },
   {
     targetWord: 'utahraptor',
-    translation: 'ютараптор',
+    translating: 'ютараптор',
     partOfSpeechCode: 'n',
     skyId: '111164'
   },
   {
     targetWord: 'utensil',
-    translation: 'предмет утвари',
+    translating: 'предмет утвари',
     partOfSpeechCode: 'n',
     skyId: '232290'
   },
   {
     targetWord: 'uterine',
-    translation: 'маточный',
+    translating: 'маточный',
     partOfSpeechCode: 'j',
     skyId: '60210'
   },
   {
     targetWord: 'uterine cervix',
-    translation: 'шейка матки',
+    translating: 'шейка матки',
     partOfSpeechCode: 'n',
     skyId: '11129'
   },
   {
     targetWord: 'uterine contraction',
-    translation: 'маточное сокращение',
+    translating: 'маточное сокращение',
     partOfSpeechCode: 'n',
     skyId: '169387'
   },
   {
     targetWord: 'uterine tube',
-    translation: 'яйцевод',
+    translating: 'яйцевод',
     partOfSpeechCode: 'n',
     skyId: '153397'
   },
   {
     targetWord: 'uterus',
-    translation: 'матка женщины',
+    translating: 'матка женщины',
     partOfSpeechCode: 'n',
     skyId: '19708'
   },
   {
     targetWord: 'utilisation',
-    translation: 'использование',
+    translating: 'использование',
     partOfSpeechCode: 'n',
     skyId: '61208'
   },
   {
     targetWord: 'utilise',
-    translation: 'использовать',
+    translating: 'использовать',
     partOfSpeechCode: 'v',
     skyId: '125490'
   },
   {
     targetWord: 'utilitarian',
-    translation: 'утилитарный',
+    translating: 'утилитарный',
     partOfSpeechCode: 'j',
     skyId: '51231'
   },
   {
     targetWord: 'utilitarian',
-    translation: 'практический',
+    translating: 'практический',
     partOfSpeechCode: 'j',
     skyId: '51230'
   },
   {
     targetWord: 'utilitarian',
-    translation: 'утилитарист',
+    translating: 'утилитарист',
     partOfSpeechCode: 'n',
     skyId: '51229'
   },
   {
     targetWord: 'utility',
-    translation: 'замещающий',
+    translating: 'замещающий',
     partOfSpeechCode: 'j',
     skyId: '98534'
   },
   {
     targetWord: 'utility',
-    translation: 'испорченный',
+    translating: 'испорченный',
     partOfSpeechCode: 'j',
     skyId: '98533'
   },
   {
     targetWord: 'utility',
-    translation: 'коммунальная услуга ',
+    translating: 'коммунальная услуга ',
     partOfSpeechCode: 'n',
     skyId: '98532'
   },
   {
     targetWord: 'utility',
-    translation: 'утилита',
+    translating: 'утилита',
     partOfSpeechCode: 'n',
     skyId: '98531'
   },
   {
     targetWord: 'utility',
-    translation: 'коммунальные услуги ',
+    translating: 'коммунальные услуги ',
     partOfSpeechCode: 'n',
     skyId: '98529'
   },
   {
     targetWord: 'utility',
-    translation: 'полезность',
+    translating: 'полезность',
     partOfSpeechCode: 'n',
     skyId: '98530'
   },
   {
     targetWord: 'utility',
-    translation: 'коммунальные услуги',
+    translating: 'коммунальные услуги',
     partOfSpeechCode: 'n',
     skyId: '98527'
   },
   {
     targetWord: 'utility bill',
-    translation: 'счёт за коммунальные услуги',
+    translating: 'счёт за коммунальные услуги',
     partOfSpeechCode: 'n',
     skyId: '264351'
   },
   {
     targetWord: 'utility power plant',
-    translation: 'электростанция общего пользования',
+    translating: 'электростанция общего пользования',
     partOfSpeechCode: 'n',
     skyId: '247255'
   },
   {
     targetWord: 'utility program',
-    translation: 'программа-утилита',
+    translating: 'программа-утилита',
     partOfSpeechCode: 'n',
     skyId: '141349'
   },
   {
     targetWord: 'utilization',
-    translation: 'утилизация',
+    translating: 'утилизация',
     partOfSpeechCode: 'n',
     skyId: '54215'
   },
   {
     targetWord: 'utilization',
-    translation: 'использование',
+    translating: 'использование',
     partOfSpeechCode: 'n',
     skyId: '54214'
   },
   {
     targetWord: 'utilize',
-    translation: 'расходовать',
+    translating: 'расходовать',
     partOfSpeechCode: 'v',
     skyId: '160342'
   },
   {
     targetWord: 'utilize',
-    translation: 'использовать',
+    translating: 'использовать',
     partOfSpeechCode: 'v',
     skyId: '160341'
   },
   {
     targetWord: 'utilized',
-    translation: 'используемый',
+    translating: 'используемый',
     partOfSpeechCode: 'j',
     skyId: '160343'
   },
   {
     targetWord: 'utilizer',
-    translation: 'утилизатор',
+    translating: 'утилизатор',
     partOfSpeechCode: 'n',
     skyId: '160331'
   },
   {
     targetWord: 'utmost',
-    translation: 'крайний',
+    translating: 'крайний',
     partOfSpeechCode: 'j',
     skyId: '40509'
   },
   {
     targetWord: 'utmost',
-    translation: 'величайший',
+    translating: 'величайший',
     partOfSpeechCode: 'j',
     skyId: '40508'
   },
   {
     targetWord: 'utmost',
-    translation: 'предельный',
+    translating: 'предельный',
     partOfSpeechCode: 'j',
     skyId: '240828'
   },
   {
     targetWord: 'utmost',
-    translation: 'предел',
+    translating: 'предел',
     partOfSpeechCode: 'n',
     skyId: '40506'
   },
   {
     targetWord: 'utopian',
-    translation: 'утопический',
+    translating: 'утопический',
     partOfSpeechCode: 'j',
     skyId: '220416'
   },
   {
     targetWord: 'utopian',
-    translation: 'утопист',
+    translating: 'утопист',
     partOfSpeechCode: 'n',
     skyId: '220415'
   },
   {
     targetWord: 'utopianism',
-    translation: 'утопизм',
+    translating: 'утопизм',
     partOfSpeechCode: 'n',
     skyId: '73359'
   },
   {
     targetWord: 'utricle',
-    translation: 'перепончатый мешочек внутреннего лабиринта',
+    translating: 'перепончатый мешочек внутреннего лабиринта',
     partOfSpeechCode: 'n',
     skyId: '115017'
   },
   {
     targetWord: 'utter',
-    translation: 'полный',
+    translating: 'полный',
     partOfSpeechCode: 'j',
     skyId: '27503'
   },
   {
     targetWord: 'utter',
-    translation: 'выражать словами',
+    translating: 'выражать словами',
     partOfSpeechCode: 'v',
     skyId: '86727'
   },
   {
     targetWord: 'utter',
-    translation: 'абсолютный',
+    translating: 'абсолютный',
     partOfSpeechCode: 'j',
     skyId: '27502'
   },
   {
     targetWord: 'utter',
-    translation: 'издавать звук',
+    translating: 'издавать звук',
     partOfSpeechCode: 'v',
     skyId: '86726'
   },
   {
     targetWord: 'utter',
-    translation: 'пускать в обращение',
+    translating: 'пускать в обращение',
     partOfSpeechCode: 'v',
     skyId: '86728'
   },
   {
     targetWord: 'utter',
-    translation: 'произносить',
+    translating: 'произносить',
     partOfSpeechCode: 'v',
     skyId: '86725'
   },
   {
     targetWord: 'utter disdain for something',
-    translation: 'полное презрение к чему-то',
+    translating: 'полное презрение к чему-то',
     partOfSpeechCode: 'ph',
     skyId: '252375'
   },
   {
     targetWord: 'utterance',
-    translation: 'высказывание',
+    translating: 'высказывание',
     partOfSpeechCode: 'n',
     skyId: '108775'
   },
   {
     targetWord: 'uttered',
-    translation: 'произнесённый',
+    translating: 'произнесённый',
     partOfSpeechCode: 'j',
     skyId: '86729'
   },
   {
     targetWord: 'utterer',
-    translation: 'настоящий',
+    translating: 'настоящий',
     partOfSpeechCode: 'j',
     skyId: '86709'
   },
   {
     targetWord: 'utterer',
-    translation: 'болтун',
+    translating: 'болтун',
     partOfSpeechCode: 'n',
     skyId: '86708'
   },
   {
     targetWord: 'utterer',
-    translation: 'utterer',
+    translating: 'utterer',
     partOfSpeechCode: 'n',
     skyId: '86707'
   },
   {
     targetWord: 'utterly',
-    translation: 'крайне',
+    translating: 'крайне',
     partOfSpeechCode: 'r',
     skyId: '19671'
   },
   {
     targetWord: 'utterly insane',
-    translation: 'совсем сумасшедший',
+    translating: 'совсем сумасшедший',
     partOfSpeechCode: 'ph',
     skyId: '255053'
   },
   {
     targetWord: 'utterly ridiculous',
-    translation: 'совершенно нелепый',
+    translating: 'совершенно нелепый',
     partOfSpeechCode: 'ph',
     skyId: '238790'
   },
   {
     targetWord: 'uttermost',
-    translation: 'предельный',
+    translating: 'предельный',
     partOfSpeechCode: 'j',
     skyId: '222284'
   },
   {
     targetWord: 'uttermost',
-    translation: 'самый отдалённый',
+    translating: 'самый отдалённый',
     partOfSpeechCode: 'j',
     skyId: '222285'
   },
   {
     targetWord: 'uttermost',
-    translation: 'предел возможного',
+    translating: 'предел возможного',
     partOfSpeechCode: 'n',
     skyId: '222283'
   },
   {
     targetWord: 'utterness',
-    translation: 'полнота',
+    translating: 'полнота',
     partOfSpeechCode: 'n',
     skyId: '88812'
   },
   {
     targetWord: 'utu',
-    translation: 'уту',
+    translating: 'уту',
     partOfSpeechCode: 'n',
     skyId: '130241'
   },
   {
     targetWord: 'utug',
-    translation: 'уту',
+    translating: 'уту',
     partOfSpeechCode: 'n',
     skyId: '52458'
   },
   {
     targetWord: 'uup',
-    translation: 'унунпентий',
+    translating: 'унунпентий',
     partOfSpeechCode: 'n',
     skyId: '25962'
   },
   {
     targetWord: 'uv',
-    translation: 'ультрафиолетовое излучение',
+    translating: 'ультрафиолетовое излучение',
     partOfSpeechCode: 'n',
     skyId: '62037'
   },
   {
     targetWord: 'uvea',
-    translation: 'сосудистая оболочка глаза',
+    translating: 'сосудистая оболочка глаза',
     partOfSpeechCode: 'n',
     skyId: '104569'
   },
   {
     targetWord: 'uvula',
-    translation: 'язычок',
+    translating: 'язычок',
     partOfSpeechCode: 'n',
     skyId: '91610'
   },
   {
     targetWord: 'uvular',
-    translation: 'язычковый',
+    translating: 'язычковый',
     partOfSpeechCode: 'j',
     skyId: '209370'
   },
   {
     targetWord: 'uvularia',
-    translation: 'род',
+    translating: 'род',
     partOfSpeechCode: 'n',
     skyId: '105901'
   },
   {
     targetWord: 'uxoricide',
-    translation: 'женоубийство',
+    translating: 'женоубийство',
     partOfSpeechCode: 'n',
     skyId: '224121'
   },
   {
     targetWord: 'uxoricide',
-    translation: 'женоубийца',
+    translating: 'женоубийца',
     partOfSpeechCode: 'n',
     skyId: '224120'
   },
   {
     targetWord: 'uxoriously',
-    translation: 'с любовью',
+    translating: 'с любовью',
     partOfSpeechCode: 'r',
     skyId: '222480'
   },
   {
     targetWord: 'uygur',
-    translation: 'уйгуры',
+    translating: 'уйгуры',
     partOfSpeechCode: 'n',
     skyId: '123446'
   },
   {
     targetWord: 'uzbek',
-    translation: 'узбекский',
+    translating: 'узбекский',
     partOfSpeechCode: 'n',
     skyId: '101764'
   },
   {
     targetWord: 'uzbekistani',
-    translation: 'узбекский',
+    translating: 'узбекский',
     partOfSpeechCode: 'j',
     skyId: '111897'
   },
   {
     targetWord: 'uzi',
-    translation: 'пистолет-пулемет узи',
+    translating: 'пистолет-пулемет узи',
     partOfSpeechCode: 'n',
     skyId: '9419'
   }
