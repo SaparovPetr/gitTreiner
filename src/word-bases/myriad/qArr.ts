@@ -506,7 +506,7 @@ export const qArr = [
   },
   {
     targetWord: 'quadruplet',
-    translation:
+    translating:
       'что-либо, состоящее из четырёх взаимодействующих или взаимосвязанных предметов',
     partOfSpeechCode: 'n',
     skyId: '118537'
@@ -933,7 +933,7 @@ export const qArr = [
   },
   {
     targetWord: 'quality assurance program for NPP power unit commissioning',
-    translation:
+    translating:
       'программа обеспечения качества при вводе в эксплуатацию энергоблока АЭС',
     partOfSpeechCode: 'n',
     skyId: '247321'
@@ -1024,7 +1024,7 @@ export const qArr = [
   },
   {
     targetWord: 'quality improvement',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262811'
   },
@@ -1072,7 +1072,7 @@ export const qArr = [
   },
   {
     targetWord: 'quality objective',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262829'
   },
@@ -3802,7 +3802,7 @@ export const qArr = [
   },
   {
     targetWord: 'quote (sources or references)',
-    translation:
+    translating:
       'цитировать источники, ссылаться на источники, цитировать, упоминать',
     partOfSpeechCode: 'v',
     skyId: '263110'

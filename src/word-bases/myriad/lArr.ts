@@ -1291,7 +1291,7 @@ export const lArr = [
   },
   {
     targetWord: 'lollipop lady',
-    translation:
+    translating:
       'женщина, которая помогает детям переходить дорогу, регулируя движение',
     partOfSpeechCode: 'n',
     skyId: '201714'
@@ -3741,7 +3741,7 @@ export const lArr = [
   },
   {
     targetWord: 'laminar flow clean room',
-    translation:
+    translating:
       'чистое производственное помещение с ламинарным воздухопотоком',
     partOfSpeechCode: 'n',
     skyId: '121221'
@@ -7156,7 +7156,7 @@ export const lArr = [
   },
   {
     targetWord: 'laugh and the world laughs with you, weep and, you weep alone',
-    translation:
+    translating:
       'Засмейся, и весь мир засмеётся с тобой, заплачь, и ты будешь плакать в одиночестве',
     partOfSpeechCode: 'ph',
     skyId: '243092'
@@ -8039,7 +8039,7 @@ export const lArr = [
   },
   {
     targetWord: 'lay',
-    translation: "форма прошедшего времени некоторых значений глагола 'lie'",
+    translating: "форма прошедшего времени некоторых значений глагола 'lie'",
     partOfSpeechCode: 'v',
     skyId: '255470'
   },
@@ -11093,7 +11093,7 @@ export const lArr = [
   },
   {
     targetWord: 'left',
-    translation:
+    translating:
       'прошедшее время и причастие прошедшего времени глагола “leave”',
     partOfSpeechCode: 'v',
     skyId: '254012'
@@ -11202,7 +11202,7 @@ export const lArr = [
   },
   {
     targetWord: 'left-handed',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253244'
   },
@@ -12360,7 +12360,7 @@ export const lArr = [
   },
   {
     targetWord: 'lemon law',
-    translation:
+    translating:
       'американский закон, который защищает покупателей неисправных машин',
     partOfSpeechCode: 'n',
     skyId: '251169'
@@ -14701,7 +14701,7 @@ export const lArr = [
   },
   {
     targetWord: 'leveraged buyout',
-    translation:
+    translating:
       'приобретение компании в кредит с залогом активов закупаемой компании',
     partOfSpeechCode: 'n',
     skyId: '191704'
@@ -16274,7 +16274,7 @@ export const lArr = [
   },
   {
     targetWord: 'life support system for the emergency control room',
-    translation:
+    translating:
       'установка системы жизнеобеспечения резервного пункта управления',
     partOfSpeechCode: 'n',
     skyId: '249743'
@@ -19209,7 +19209,7 @@ export const lArr = [
   },
   {
     targetWord: 'linear address optoelectronic smoke detector',
-    translation:
+    translating:
       'извещатель пожарный адресный дымовой линейный оптико-электронный',
     partOfSpeechCode: 'n',
     skyId: '250377'
@@ -23165,7 +23165,7 @@ export const lArr = [
   },
   {
     targetWord: 'loan to value',
-    translation:
+    translating:
       'соотношение в процентах между основной суммой кредита и оценочной стоимостью актива, предоставленного в его обеспечение',
     partOfSpeechCode: 'n',
     skyId: '257638'
@@ -25668,7 +25668,7 @@ export const lArr = [
   },
   {
     targetWord: 'long-haul flight',
-    translation:
+    translating:
       'многочасовой рейс, долгий полет, дальний перелет, дальнемагистральный рейс',
     partOfSpeechCode: 'n',
     skyId: '263351'
@@ -25729,7 +25729,7 @@ export const lArr = [
   },
   {
     targetWord: 'long-playing',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253335'
   },
@@ -26911,7 +26911,7 @@ export const lArr = [
   },
   {
     targetWord: 'loom',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '265170'
   },

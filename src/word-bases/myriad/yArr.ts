@@ -1982,7 +1982,7 @@ export const yArr = [
   },
   {
     targetWord: 'ylem',
-    translation:
+    translating:
       'гипотетическое исходное вещество, которое стало субатомными частицами и элементами',
     partOfSpeechCode: 'n',
     skyId: '113232'

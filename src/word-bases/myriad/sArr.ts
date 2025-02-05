@@ -6182,7 +6182,7 @@ export const sArr = [
   },
   {
     targetWord: 'safety features equipment premises plenum ventilation system',
-    translation:
+    translating:
       'приточная система вентиляции для помещений, оборудованная техническими средствами безопасности',
     partOfSpeechCode: 'n',
     skyId: '249203'
@@ -6717,7 +6717,7 @@ export const sArr = [
   },
   {
     targetWord: "sailor's-choice",
-    translation: "sailor's вариантами",
+    translating: "sailor's вариантами",
     partOfSpeechCode: 'n',
     skyId: '99281'
   },
@@ -12687,7 +12687,7 @@ export const sArr = [
   },
   {
     targetWord: 'scanner',
-    translation:
+    translating:
       'человек, считающий количество слогов и просодическую организацию стихотворения',
     partOfSpeechCode: 'n',
     skyId: '95157'
@@ -13822,7 +13822,7 @@ export const sArr = [
   },
   {
     targetWord: 'scheme of nuclear fuel handling operations',
-    translation:
+    translating:
       'схема транспортно-технологических операций с ядерным топливом',
     partOfSpeechCode: 'n',
     skyId: '246777'
@@ -16535,7 +16535,7 @@ export const sArr = [
   },
   {
     targetWord: 'scrappy product',
-    translation:
+    translating:
       'изначально импровизированный, но качественный в конечном итоге продукт',
     partOfSpeechCode: 'ph',
     skyId: '264617'
@@ -19393,7 +19393,7 @@ export const sArr = [
   {
     targetWord:
       'seamless cold- and hot-deformed pipe made of corrosion-resistant steel, type 08kh18n10t as per gost 5632-74',
-    translation:
+    translating:
       'труба бесшовная холодно- и теплодеформированная из коррозионностойкой стали, марка стали 08х18н10т гост 5632-74',
     partOfSpeechCode: 'n',
     skyId: '250119'
@@ -22684,7 +22684,7 @@ export const sArr = [
   {
     targetWord:
       'seismic-resistant switchgear cruza p, rated voltage 400 v, rated busbar current 2500 a, protection degree ip41',
-    translation:
+    translating:
       'распределительное устройство в сейсмостойком исполнении круза п, номинальное напряжение 400 в, номинальный ток сборных шин 2500 a, степень защиты ip41',
     partOfSpeechCode: 'n',
     skyId: '250120'
@@ -26267,7 +26267,7 @@ export const sArr = [
   },
   {
     targetWord: 'sensor displacement velocity-based measurement method',
-    translation:
+    translating:
       'метод измерения по скорости перемещения чувствительного элемента',
     partOfSpeechCode: 'n',
     skyId: '249102'
@@ -28141,7 +28141,7 @@ export const sArr = [
   {
     targetWord:
       'service instruction to the chief, specialist, employee of the NLMK Group',
-    translation:
+    translating:
       'должностная инструкция руководителю, специалисту, служащему предприятия Группы НЛМК',
     partOfSpeechCode: 'n',
     skyId: '262565'
@@ -28269,7 +28269,7 @@ export const sArr = [
   {
     targetWord:
       'service zone boundary of the 32 t twin hook of the electrically driven bridge polar crane',
-    translation:
+    translating:
       'Граница обслуживания двурогого крюка грузоподъемностью 32 т электроприводного мостового крана кругового действия',
     partOfSpeechCode: 'n',
     skyId: '248917'
@@ -28277,7 +28277,7 @@ export const sArr = [
   {
     targetWord:
       'service zone boundary of the 350/190 t fork of the electrically driven bridge polar crane',
-    translation:
+    translating:
       'граница обслуживания вилки грузоподъемностью 350/190 т крана мостового электрического кругового действия',
     partOfSpeechCode: 'n',
     skyId: '248918'
@@ -28302,7 +28302,7 @@ export const sArr = [
   },
   {
     targetWord: 'serviceability limit state',
-    translation:
+    translating:
       'предельное состояние по пригодности к нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '248063'
@@ -29647,7 +29647,7 @@ export const sArr = [
   },
   {
     targetWord: 'settlor',
-    translation:
+    translating:
       'лицо, совершающее акт распоряжения имуществом в пользу кого-либо',
     partOfSpeechCode: 'n',
     skyId: '168555'
@@ -29924,7 +29924,7 @@ export const sArr = [
   },
   {
     targetWord: 'severability clause',
-    translation:
+    translating:
       'положение о действительности договора в случае аннулирования одной из его статей',
     partOfSpeechCode: 'n',
     skyId: '258601'
@@ -31671,7 +31671,7 @@ export const sArr = [
   },
   {
     targetWord: 'shall',
-    translation:
+    translating:
       'вспомогательный глагол для образования формы будущего времени для 1-го лица единственного и множественного числа',
     partOfSpeechCode: 'v',
     skyId: '235757'
@@ -32404,7 +32404,7 @@ export const sArr = [
   },
   {
     targetWord: 'share the spotlight with something/someone',
-    translation:
+    translating:
       'быть в центре внимания с кем-то/чем-то, делить славу с кем-то/чем-то, разделять всеобщее внимание с кем-то/чем-то',
     partOfSpeechCode: 'ph',
     skyId: '263282'
@@ -36665,7 +36665,7 @@ export const sArr = [
   },
   {
     targetWord: 'short circuit handling device in the rack of inlet feeders',
-    translation:
+    translating:
       'устройство устранения короткого замыкания в стойке входных фидеров',
     partOfSpeechCode: 'n',
     skyId: '248320'
@@ -37302,7 +37302,7 @@ export const sArr = [
   },
   {
     targetWord: 'should',
-    translation:
+    translating:
       'вспомогательный глагол для выражения совета, требования или рекомендации',
     partOfSpeechCode: 'md',
     skyId: '253557'
@@ -37315,7 +37315,7 @@ export const sArr = [
   },
   {
     targetWord: 'should',
-    translation:
+    translating:
       'вспомогательный глагол для образования сослагательного наклонения',
     partOfSpeechCode: 'md',
     skyId: '253555'
@@ -37868,7 +37868,7 @@ export const sArr = [
   },
   {
     targetWord: 'show-stopper',
-    translation:
+    translating:
       'представление, спектакль, вызывающие восторг публики и прерываемые аплодисментами',
     partOfSpeechCode: 'n',
     skyId: '51458'
@@ -43107,7 +43107,7 @@ export const sArr = [
   },
   {
     targetWord: 'single-pole two-throw switch without zero position',
-    translation:
+    translating:
       'переключатель однополюсный на два направления без нулевого положения',
     partOfSpeechCode: 'n',
     skyId: '249449'
@@ -46912,7 +46912,7 @@ export const sArr = [
   },
   {
     targetWord: 'slack suit',
-    translation:
+    translating:
       'мужской повседневный костюм, состоящий из широких брюк и свободного жакета',
     partOfSpeechCode: 'n',
     skyId: '189697'
@@ -53915,7 +53915,7 @@ export const sArr = [
   },
   {
     targetWord: 'snarly',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253315'
   },
@@ -55811,7 +55811,7 @@ export const sArr = [
   },
   {
     targetWord: 'soaking wet',
-    translation:
+    translating:
       'насквозь мокрый, промокший насквозь, весь мокрый, весь промок',
     partOfSpeechCode: 'j',
     skyId: '263357'
@@ -56952,7 +56952,7 @@ export const sArr = [
   },
   {
     targetWord: 'socket 220 V AC, 10 A, splash-proof, with grounding terminals',
-    translation:
+    translating:
       'розетка ~220 В, 10 А, брызгозащищенная, с заземляющими контактами',
     partOfSpeechCode: 'n',
     skyId: '248302'
@@ -57595,7 +57595,7 @@ export const sArr = [
   },
   {
     targetWord: 'software and hardware administration subsystem',
-    translation:
+    translating:
       'подсистема администрирования технических и программных средств',
     partOfSpeechCode: 'n',
     skyId: '249128'
@@ -58088,7 +58088,7 @@ export const sArr = [
   },
   {
     targetWord: 'sold',
-    translation:
+    translating:
       "формы прошедшего времени и причастия прошедшего времени глагола 'sell'",
     partOfSpeechCode: 'v',
     skyId: '25954'
@@ -60843,7 +60843,7 @@ export const sArr = [
   },
   {
     targetWord: "sou'-east",
-    translation: "sou'",
+    translating: "sou'",
     partOfSpeechCode: 'r',
     skyId: '223255'
   },
@@ -60855,13 +60855,13 @@ export const sArr = [
   },
   {
     targetWord: "sou'-west",
-    translation: "sou'-запад",
+    translating: "sou'-запад",
     partOfSpeechCode: 'n',
     skyId: '70470'
   },
   {
     targetWord: "sou'west",
-    translation: "sou'west",
+    translating: "sou'west",
     partOfSpeechCode: 'r',
     skyId: '15266'
   },
@@ -62295,7 +62295,7 @@ export const sArr = [
   },
   {
     targetWord: 'southwestern',
-    translation:
+    translating:
       'регион Соединенных Штатов, обычно включает Нью-Мексико; Аризону; Техас; Калифорнию; а иногда и Неваду; Юту; Колорадо',
     partOfSpeechCode: 'j',
     skyId: '52646'
@@ -62320,7 +62320,7 @@ export const sArr = [
   },
   {
     targetWord: 'southwestward',
-    translation: "sou'-запад",
+    translating: "sou'-запад",
     partOfSpeechCode: 'n',
     skyId: '76624'
   },
@@ -62944,7 +62944,7 @@ export const sArr = [
   },
   {
     targetWord: 'spaghetti code',
-    translation:
+    translating:
       'программа с избыточным количеством операторов безусловного перехода',
     partOfSpeechCode: 'n',
     skyId: '257095'
@@ -64471,7 +64471,7 @@ export const sArr = [
   {
     targetWord:
       'special electrically driven bridge crane in spent fuel storage',
-    translation:
+    translating:
       'кран специальный мостовой электрический хранилища отработанного ядерного топлива',
     partOfSpeechCode: 'n',
     skyId: '246101'
@@ -64545,7 +64545,7 @@ export const sArr = [
   {
     targetWord:
       'special-purpose computing equipment set including: a) group controller; b) software',
-    translation:
+    translating:
       'комплект специального оборудования вычислительного комплекса в составе: а) групповой контроллер б)программное обеспечение',
     partOfSpeechCode: 'n',
     skyId: '249087'
@@ -69220,7 +69220,7 @@ export const sArr = [
   },
   {
     targetWord: 'spoiler',
-    translation:
+    translating:
       'третий кандидат на выборах, портящий шансы наиболее вероятного победителя',
     partOfSpeechCode: 'n',
     skyId: '214069'
@@ -73806,7 +73806,7 @@ export const sArr = [
   },
   {
     targetWord: "stag's-horn coral",
-    translation: "'s-рог коралловый",
+    translating: "'s-рог коралловый",
     partOfSpeechCode: 'n',
     skyId: '66474'
   },
@@ -74059,7 +74059,7 @@ export const sArr = [
   },
   {
     targetWord: 'staghorn coral',
-    translation: "'s-рог коралловый",
+    translating: "'s-рог коралловый",
     partOfSpeechCode: 'n',
     skyId: '150982'
   },
@@ -78908,7 +78908,7 @@ export const sArr = [
   {
     targetWord:
       'steel support for external lighting with cable power supply, consisting of a stand and a single jet bracket',
-    translation:
+    translating:
       'опора наружного освещения из стали с кабельной подводкой питания, состоящая из стойки и однорожковым кронштейном',
     partOfSpeechCode: 'n',
     skyId: '250054'
@@ -79029,7 +79029,7 @@ export const sArr = [
   },
   {
     targetWord: 'steeper',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253334'
   },
@@ -86649,7 +86649,7 @@ export const sArr = [
   },
   {
     targetWord: 'stricken',
-    translation:
+    translating:
       'причастие прошедшего времени некоторых значений глагола "strike"',
     partOfSpeechCode: 'v',
     skyId: '168481'
@@ -88258,7 +88258,7 @@ export const sArr = [
   },
   {
     targetWord: 'struck',
-    translation:
+    translating:
       'прошедшее время и причастие прошедшего времени глагола "strike" — ударять',
     partOfSpeechCode: 'v',
     skyId: '21521'
@@ -88404,7 +88404,7 @@ export const sArr = [
   {
     targetWord:
       'structure for demineralized water tanks and contaminated condensate tank',
-    translation:
+    translating:
       'сооружение для баков запаса обессоленной воды и бака загрязненного конденсата',
     partOfSpeechCode: 'n',
     skyId: '248911'
@@ -90997,7 +90997,7 @@ export const sArr = [
   },
   {
     targetWord: 'submersion',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253292'
   },
@@ -93877,7 +93877,7 @@ export const sArr = [
   },
   {
     targetWord: 'suit someone (it suits / doesn’t suit me)',
-    translation:
+    translating:
       'подходить кому-то (это сидит на/подходит мне хорошо / это не подходит мне)',
     partOfSpeechCode: 'v',
     skyId: '263435'
@@ -96861,7 +96861,7 @@ export const sArr = [
   {
     targetWord:
       'support of communication in frequency band 1880 to 1900 MHz as per DECT technology, shockproof, IP54',
-    translation:
+    translating:
       'обеспечение установления связи в частотном диапазоне от 1880 до 1900 МГц по технологии DECT, ударопрочное исполнение, IP54',
     partOfSpeechCode: 'n',
     skyId: '249078'
@@ -98512,7 +98512,7 @@ export const sArr = [
   },
   {
     targetWord: 'surveillance sample withdrawal and transportation device',
-    translation:
+    translating:
       'устройство для извлечения и транспортирования образцов-свидетелей',
     partOfSpeechCode: 'n',
     skyId: '245726'
@@ -99203,7 +99203,7 @@ export const sArr = [
   },
   {
     targetWord: 'sustainable',
-    translation:
+    translating:
       'экологически устойчивый, не наносящий ущерба окружающей среде',
     partOfSpeechCode: 'j',
     skyId: '231699'
@@ -99222,7 +99222,7 @@ export const sArr = [
   },
   {
     targetWord: 'sustainable farming',
-    translation:
+    translating:
       'устойчивое ведения сельского хозяйства, устойчивое земледелие',
     partOfSpeechCode: 'n',
     skyId: '263583'
@@ -100789,7 +100789,7 @@ export const sArr = [
   },
   {
     targetWord: 'sweetbread',
-    translation:
+    translating:
       'зобная и поджелудочная железы животного, употребляемые в пищу',
     partOfSpeechCode: 'n',
     skyId: '89630'
@@ -102501,7 +102501,7 @@ export const sArr = [
   {
     targetWord:
       'symmetric cables for connecting PLC in DCN, laid in groups, with low smoke and gas release',
-    translation:
+    translating:
       'кабели симметричные для подключения ПЛК (PLC) в РСУ (DCN) групповой прокладки с пониженным дымо- и газовыделением',
     partOfSpeechCode: 'n',
     skyId: '249077'
@@ -102534,7 +102534,7 @@ export const sArr = [
   {
     targetWord:
       'symmetrical pair-twisted telephone cable, not propagating fire, with low smoke- and gas release',
-    translation:
+    translating:
       'кабель телефонный, симметричный парной скрутки, не распространяющий горение, с низким дымо- и газовыделением',
     partOfSpeechCode: 'n',
     skyId: '249075'
@@ -103748,7 +103748,7 @@ export const sArr = [
   {
     targetWord:
       'system for measuring leak from the sealed enclosure during in-service tightness tests',
-    translation:
+    translating:
       'система измерения утечки из герметичного ограждения при эксплуатационных испытаниях на герметичность',
     partOfSpeechCode: 'n',
     skyId: '246757'
@@ -103756,7 +103756,7 @@ export const sArr = [
   {
     targetWord:
       'system for purifying blow-offs from equipment containing liquid radioactive media',
-    translation:
+    translating:
       'система очистки сдувок из оборудования жидких радиоактивных сред',
     partOfSpeechCode: 'n',
     skyId: '245724'
@@ -103824,7 +103824,7 @@ export const sArr = [
   {
     targetWord:
       'system unit for logging and recording from 24 digital communication lines and 4 streams E1',
-    translation:
+    translating:
       'системный блок для регистрации и записи с 24 цифровых линий связи и 4 потоков Е1',
     partOfSpeechCode: 'n',
     skyId: '250047'

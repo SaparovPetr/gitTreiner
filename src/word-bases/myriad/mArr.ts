@@ -2197,7 +2197,7 @@ export const mArr = [
   },
   {
     targetWord: 'm-1',
-    translation:
+    translating:
       'американская самозарядная винтовка времен второй мировой войны',
     partOfSpeechCode: 'n',
     skyId: '99158'
@@ -4989,7 +4989,7 @@ export const mArr = [
   },
   {
     targetWord: 'mainstream medicine',
-    translation:
+    translating:
       'современная медицина, основная медицина, основная система медицинской помощи',
     partOfSpeechCode: 'n',
     skyId: '263263'
@@ -6088,7 +6088,7 @@ export const mArr = [
   },
   {
     targetWord: 'make advances in something',
-    translation:
+    translating:
       'делать успехи в чем-то, продвигаться вперед в чем-то, добиваться успехов в чем-то, добиваться прогресса в чем-то',
     partOfSpeechCode: 'ph',
     skyId: '263277'
@@ -10530,7 +10530,7 @@ export const mArr = [
   {
     targetWord:
       'manually operated address analog detector, including:  mounting box; protective cover for seal',
-    translation:
+    translating:
       'извещатель ручной адресно-аналоговый, включающий: а) монтажная коробка; б) защитная крышка под пломбу',
     partOfSpeechCode: 'n',
     skyId: '250724'
@@ -10556,7 +10556,7 @@ export const mArr = [
   {
     targetWord:
       'manually operated movable gear hoist, load lifting capacity is … t, hoisting height is … m.',
-    translation:
+    translating:
       'таль ручная передвижная, шестеренная, грузоподъемность …т, высота подъема ….м, масса …кг',
     partOfSpeechCode: 'n',
     skyId: '247445'
@@ -10564,7 +10564,7 @@ export const mArr = [
   {
     targetWord:
       'manually operated movable worm hoist, load lifting capacity is … t, hoisting height is … m.',
-    translation:
+    translating:
       'таль ручная передвижная, червячная, грузоподъемность … т, высота подъема …. м',
     partOfSpeechCode: 'n',
     skyId: '247446'
@@ -13901,7 +13901,7 @@ export const mArr = [
   },
   {
     targetWord: 'mason',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253278'
   },
@@ -17429,7 +17429,7 @@ export const mArr = [
   },
   {
     targetWord: 'measure performance',
-    translation:
+    translating:
       'оценивать результат работы, оценивать результат деятельности, оценивать эффективность работы',
     partOfSpeechCode: 'ph',
     skyId: '263346'
@@ -23148,7 +23148,7 @@ export const mArr = [
   },
   {
     targetWord: 'metatarsus',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253305'
   },
@@ -23461,7 +23461,7 @@ export const mArr = [
   },
   {
     targetWord: 'methodological support of records management (DSoM)',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262619'
   },
@@ -24187,7 +24187,7 @@ export const mArr = [
   },
   {
     targetWord: 'micro air vehicle link',
-    translation:
+    translating:
       'протокол информационного взаимодействия с дронами или малыми беспилотными аппаратами',
     partOfSpeechCode: 'n',
     skyId: '260670'
@@ -26624,7 +26624,7 @@ export const mArr = [
   },
   {
     targetWord: "miller's-thumb",
-    translation: "'s-палец",
+    translating: "'s-палец",
     partOfSpeechCode: 'n',
     skyId: '49690'
   },
@@ -30260,7 +30260,7 @@ export const mArr = [
   },
   {
     targetWord: 'mistrial',
-    translation:
+    translating:
       'судебное разбирательство, в ходе которого допущены нарушения процессуальных норм',
     partOfSpeechCode: 'n',
     skyId: '223332'
@@ -32152,7 +32152,7 @@ export const mArr = [
   {
     targetWord:
       'module for inputting signals from thermoelectric transducers and resistance temperature detectors',
-    translation:
+    translating:
       'модуль ввода сигналов термоэлектрических преобразователей и термометров сопротивления',
     partOfSpeechCode: 'n',
     skyId: '250481'
@@ -33395,7 +33395,7 @@ export const mArr = [
   },
   {
     targetWord: 'money spent on the brain is never spent in vain',
-    translation:
+    translating:
       'Деньги, истраченные на образование, никогда даром не пропадают',
     partOfSpeechCode: 'ph',
     skyId: '243202'
@@ -33739,7 +33739,7 @@ export const mArr = [
   {
     targetWord:
       'monitoring and local protection equipment for ex-core parameters',
-    translation:
+    translating:
       'аппаратура контроля и локальной защиты по внереакторным измерениям',
     partOfSpeechCode: 'n',
     skyId: '245631'
@@ -39363,7 +39363,7 @@ export const mArr = [
   },
   {
     targetWord: 'much will have more',
-    translation:
+    translating:
       'Где много воды, там больше будет; где много денег — еще прибудет',
     partOfSpeechCode: 'ph',
     skyId: '243205'
@@ -40378,7 +40378,7 @@ export const mArr = [
   },
   {
     targetWord: 'multicultural society',
-    translation:
+    translating:
       'многокультурное общество, поликультурное общество, многонациональное общество, мультикультурное общество, поликультурный социум',
     partOfSpeechCode: 'n',
     skyId: '263064'
@@ -40458,7 +40458,7 @@ export const mArr = [
   {
     targetWord:
       'multifunctional digital system device for 32 keys for subscriber direct call, desk-mounted',
-    translation:
+    translating:
       'многофункциональный, цифровой системный аппарат, на 32 клавиши прямого вызова абонента, настольного исполнения',
     partOfSpeechCode: 'n',
     skyId: '250725'
@@ -40466,7 +40466,7 @@ export const mArr = [
   {
     targetWord:
       'multifunctional pneumo-hydraulic pump, version from -95 kpa to 70 mpa',
-    translation:
+    translating:
       'помпа многофункциональная, пневмогидравлическая версия от -95 кпа до 70 мпа',
     partOfSpeechCode: 'n',
     skyId: '250105'
@@ -40474,7 +40474,7 @@ export const mArr = [
   {
     targetWord:
       'multifunctional, analog, with pushbutton dialer, desk-/wall-mounted',
-    translation:
+    translating:
       'многофункциональный, аналоговый, с кнопочным номеронабирателем, настольно/настенное исполнение',
     partOfSpeechCode: 'n',
     skyId: '250726'

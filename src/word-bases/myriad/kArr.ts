@@ -1718,7 +1718,7 @@ export const kArr = [
   },
   {
     targetWord: "keep one's fingers crossed",
-    translation:
+    translating:
       'скрещивать пальцы на удачу; держать кулачки; надеяться на лучшее',
     partOfSpeechCode: 'phi',
     skyId: '265525'
@@ -2175,7 +2175,7 @@ export const kArr = [
   },
   {
     targetWord: 'keep: bicycles left, pedestrians right',
-    translation:
+    translating:
       'Указание велосипедистам придерживаться левее, пешеходам — правее',
     partOfSpeechCode: 'ph',
     skyId: '234229'
@@ -4546,7 +4546,7 @@ export const kArr = [
   },
   {
     targetWord: 'kingmaker',
-    translation:
+    translating:
       'влиятельное лицо, определяющее выбор кандидатов на политические должности',
     partOfSpeechCode: 'n',
     skyId: '158588'

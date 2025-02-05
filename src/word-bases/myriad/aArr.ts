@@ -2851,7 +2851,7 @@ export const aArr = [
   },
   {
     targetWord: 'attorney-client privilege',
-    translation:
+    translating:
       'право адвоката не разглашать информацию, полученную от клиента',
     partOfSpeechCode: 'n',
     skyId: '201287'
@@ -9936,7 +9936,7 @@ export const aArr = [
   },
   {
     targetWord: 'act of technical readiness',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262486'
   },
@@ -11587,7 +11587,7 @@ export const aArr = [
   {
     targetWord:
       'address analog smoke detectors with built-in short-circuit isolator, including: a) base',
-    translation:
+    translating:
       'извещатели дымовые адресно-аналоговые с встроенным изолятором короткого замыкания, включающий: а) база',
     partOfSpeechCode: 'n',
     skyId: '247376'
@@ -12980,7 +12980,7 @@ export const aArr = [
   },
   {
     targetWord: 'adopt a system or approach',
-    translation:
+    translating:
       'применять систему или подход, придерживаться системы или подхода',
     partOfSpeechCode: 'ph',
     skyId: '263533'
@@ -15681,7 +15681,7 @@ export const aArr = [
   },
   {
     targetWord: 'after dinner sit (sleep) a while, after supper walk a mile',
-    translation:
+    translating:
       'После обеда посиди (поспи) немного, после ужина с милю пройдись',
     partOfSpeechCode: 'ph',
     skyId: '242411'
@@ -16222,7 +16222,7 @@ export const aArr = [
   },
   {
     targetWord: 'agency shop',
-    translation:
+    translating:
       'редприятие, где все рабочие обязаны делать отчисления в профсоюз',
     partOfSpeechCode: 'n',
     skyId: '256768'
@@ -18137,7 +18137,7 @@ export const aArr = [
   },
   {
     targetWord: 'air receivers structure for cutoff valves',
-    translation:
+    translating:
       'сооружение для ресиверов сжатого воздуха для отсечной арматуры',
     partOfSpeechCode: 'n',
     skyId: '245638'
@@ -21114,7 +21114,7 @@ export const aArr = [
   },
   {
     targetWord: 'all way stop',
-    translation:
+    translating:
       'движение без остановки запрещено при въезде на перекресток с любой стороны',
     partOfSpeechCode: 'ph',
     skyId: '234193'
@@ -21295,7 +21295,7 @@ export const aArr = [
   },
   {
     targetWord: 'all-weather analog loudspeaking device',
-    translation:
+    translating:
       'устройство переговорное аналоговое громкоговорящее всепогодное',
     partOfSpeechCode: 'n',
     skyId: '249361'
@@ -21303,7 +21303,7 @@ export const aArr = [
   {
     targetWord:
       'all-weather, industrial, analog, with dialer and higher level of call signal, wall-mounted',
-    translation:
+    translating:
       'всепогодный, промышленный, аналоговый, с номеронабирателем и повышенным уровнем вызывного сигнала, настенное исполнение',
     partOfSpeechCode: 'n',
     skyId: '250062'
@@ -22078,7 +22078,7 @@ export const aArr = [
   },
   {
     targetWord: 'allowed outage time',
-    translation:
+    translating:
       'допустимое время работы реактора с отказавшим каналом системы безопасности (допустимое время вывода из работы) ',
     partOfSpeechCode: 'n',
     skyId: '247050'
@@ -27755,7 +27755,7 @@ export const aArr = [
   },
   {
     targetWord: 'angel investors',
-    translation:
+    translating:
       'инвестор, готовый вкладывать средства в компанию на начальном этапе ее функционирования',
     partOfSpeechCode: 'n',
     skyId: '257396'
@@ -38503,7 +38503,7 @@ export const aArr = [
   {
     targetWord:
       'arrangement of DECT radio channel, for connection of two external antennas, IP21',
-    translation:
+    translating:
       'организация радиоканала технологии DECT, для подключения двух внешних антенн, IP21',
     partOfSpeechCode: 'n',
     skyId: '250065'
@@ -49161,7 +49161,7 @@ export const aArr = [
   {
     targetWord:
       'automatic water fire fighting facilities for normal operation premises',
-    translation:
+    translating:
       'установки водяного автоматического пожаротушения для помещений нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '247405'
@@ -49169,7 +49169,7 @@ export const aArr = [
   {
     targetWord:
       'automatic water fire fighting facilities for safety system premises',
-    translation:
+    translating:
       'установки водяного автоматического пожаротушения для помещений систем безопасности',
     partOfSpeechCode: 'n',
     skyId: '247414'
@@ -50484,7 +50484,7 @@ export const aArr = [
   },
   {
     targetWord: 'away',
-    translation:
+    translating:
       'указывает на постепенное исчезновение или ослабление чего-либо',
     partOfSpeechCode: 'r',
     skyId: '241949'
@@ -50906,7 +50906,7 @@ export const aArr = [
   {
     targetWord:
       'axial fan with flexible connector at one side and without vibro-insulator',
-    translation:
+    translating:
       'осевой вентилятор с гибкой вставкой с одной стороны и без виброизолятора',
     partOfSpeechCode: 'n',
     skyId: '250072'

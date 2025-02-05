@@ -3170,7 +3170,7 @@ export const nArr = [
   },
   {
     targetWord: 'natural action',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '192935'
   },
@@ -5144,7 +5144,7 @@ export const nArr = [
   },
   {
     targetWord: 'negation',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253261'
   },
@@ -6908,7 +6908,7 @@ export const nArr = [
   },
   {
     targetWord: 'networker',
-    translation:
+    translating:
       'коммуникабельный человек (умеющий завязывать и поддерживать контакты)',
     partOfSpeechCode: 'n',
     skyId: '264739'
@@ -7745,7 +7745,7 @@ export const nArr = [
   },
   {
     targetWord: 'new brooms sweep clean',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '243808'
   },
@@ -10482,7 +10482,7 @@ export const nArr = [
   {
     targetWord:
       'no less than 32 programmable keys, extendable to 90 keys, microphone on flexible holder, loudspeaker, graphic display',
-    translation:
+    translating:
       'не менее 32 программируемых клавиш, возможность расширения до 90 клавиш, микрофон на гибком держателе, динамик, графический дисплей',
     partOfSpeechCode: 'n',
     skyId: '250728'
@@ -11720,7 +11720,7 @@ export const nArr = [
   {
     targetWord:
       'non-combustible fire-retardant halogen-free shielded copper control cable, pvc-insulated',
-    translation:
+    translating:
       'кабель контрольный, экранированный, с медными жилами пвх изоляцией, не распростаняющий горения, не содержащий галогенов, огнестойкий',
     partOfSpeechCode: 'n',
     skyId: '250106'
@@ -11931,7 +11931,7 @@ export const nArr = [
   },
   {
     targetWord: 'non-native',
-    translation:
+    translating:
       'неместный, неместного происхождения, иностранного происхождения',
     partOfSpeechCode: 'j',
     skyId: '263014'
@@ -13486,7 +13486,7 @@ export const nArr = [
   },
   {
     targetWord: 'normal operation auxiliary power supply system',
-    translation:
+    translating:
       'система электроснабжения собственных нужд нормальной эксплуатации',
     partOfSpeechCode: 'n',
     skyId: '248507'

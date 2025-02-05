@@ -3320,7 +3320,7 @@ export const oArr = [
   },
   {
     targetWord: 'occupy a building',
-    translation:
+    translating:
       'занять здание, оккупировать здание, захватить здание, разместиться в здании',
     partOfSpeechCode: 'ph',
     skyId: '263362'
@@ -4347,7 +4347,7 @@ export const oArr = [
   },
   {
     targetWord: 'of',
-    translation:
+    translating:
       'указывает на отношение конкретного понятия к более обширной категории',
     partOfSpeechCode: 'prp',
     skyId: '235159'
@@ -4972,7 +4972,7 @@ export const oArr = [
   },
   {
     targetWord: 'offer an incentive',
-    translation:
+    translating:
       'предлагать стимулы, предлагать льготы, стимулировать, мотивировать',
     partOfSpeechCode: 'ph',
     skyId: '263292'
@@ -7499,7 +7499,7 @@ export const oArr = [
   },
   {
     targetWord: 'on',
-    translation:
+    translating:
       'указывает на наличие одежды на ком-либо или покрытия на чём-либо',
     partOfSpeechCode: 'r',
     skyId: '236093'
@@ -7740,7 +7740,7 @@ export const oArr = [
   },
   {
     targetWord: 'on display',
-    translation:
+    translating:
       'экспонируемый, выставленный на показ, выставленный на всеобщее обозрение',
     partOfSpeechCode: 'ph',
     skyId: '231105'
@@ -8059,7 +8059,7 @@ export const oArr = [
   },
   {
     targetWord: 'on the coast',
-    translation:
+    translating:
       'на морском побережье, на морском берегу, на берегу моря, на побережье',
     partOfSpeechCode: 'ph',
     skyId: '263065'
@@ -8888,7 +8888,7 @@ export const oArr = [
   },
   {
     targetWord: 'one',
-    translation:
+    translating:
       'заменяет ранее упомянутое существительное во избежание повторов',
     partOfSpeechCode: 'prn',
     skyId: '236106'
@@ -9201,7 +9201,7 @@ export const oArr = [
   },
   {
     targetWord: 'one upper',
-    translation:
+    translating:
       'раздражающий человек, у которого на каждую вашу историю или достижение есть что-то покруче',
     partOfSpeechCode: 'n',
     skyId: '262155'
@@ -10720,7 +10720,7 @@ export const oArr = [
   },
   {
     targetWord: 'open the door to something',
-    translation:
+    translating:
       'создать условия для чего-то, создать возможности для чего-то, создать предпосылки для чего-то',
     partOfSpeechCode: 'ph',
     skyId: '263246'
@@ -10763,7 +10763,7 @@ export const oArr = [
   },
   {
     targetWord: 'open valley',
-    translation:
+    translating:
       'ендова с покрытием из кровельной стали на кровле из штучных материалов',
     partOfSpeechCode: 'n',
     skyId: '258924'
@@ -12427,7 +12427,7 @@ export const oArr = [
   {
     targetWord:
       'optical transceiver S1.1, double-fiber LC SFP, 1310 nm, linear speed 155 Mbit/s, 15 km; overlapped attenuation 19 dB',
-    translation:
+    translating:
       'оптический приемопередатчик S1.1, двухволоконный LC SFP, 1310 нм, линейная скорость 155 Мбит/с, 15 км; перекрываемое затухание 19 дБ',
     partOfSpeechCode: 'ph',
     skyId: '248526'
@@ -14582,7 +14582,7 @@ export const oArr = [
   },
   {
     targetWord: 'organizational design',
-    translation:
+    translating:
       'организационное проектирование (или организационное моделирование)',
     partOfSpeechCode: 'n',
     skyId: '262645'
@@ -14601,7 +14601,7 @@ export const oArr = [
   },
   {
     targetWord: 'organizational structure (management structure)',
-    translation:
+    translating:
       'организационная структура (оргструктура или структура управления)',
     partOfSpeechCode: 'n',
     skyId: '262644'
@@ -16637,7 +16637,7 @@ export const oArr = [
   {
     targetWord:
       'our cooperation is important to us and we hope to continue working with you',
-    translation:
+    translating:
       'наше сотрудничество очень важно для нас, и мы надеемся, что и дальше будем с вами работать',
     partOfSpeechCode: 'ph',
     skyId: '253917'
@@ -17503,7 +17503,7 @@ export const oArr = [
   {
     targetWord:
       'outdoor installation of the main transformers with roll tracks',
-    translation:
+    translating:
       'открытая установка блочных трансформаторов с путями перекатки',
     partOfSpeechCode: 'n',
     skyId: '248514'
@@ -18249,7 +18249,7 @@ export const oArr = [
   {
     targetWord:
       'output power 3 W, the set contains: desk-mounted microphone, desk-mounted support for radio station with loudspeaker, power module, power cord, UPS',
-    translation:
+    translating:
       'выходная мощность 3 Вт, в комплекте: микрофон настольный, подставка под радиостанцию настольная с динамиком, блок питания, шнур питания, источник бесперебойного питания',
     partOfSpeechCode: 'n',
     skyId: '250717'
@@ -18269,7 +18269,7 @@ export const oArr = [
   {
     targetWord:
       'output single-phase voltage 220 V, 50 Hz, design power 1 kVA, in a set with storage battery for 3 h of independent operation',
-    translation:
+    translating:
       'выходное однофазное напряжение 220 В, 50 Гц, расчетная мощность 1 кВА, в комплекте с аккумуляторной батареей на 3 часа автономной работы',
     partOfSpeechCode: 'n',
     skyId: '247962'
@@ -18277,7 +18277,7 @@ export const oArr = [
   {
     targetWord:
       'outputs (output data) in a process of the quality management system',
-    translation:
+    translating:
       'выходы (выходные данные) процесса системы менеджмента качества',
     partOfSpeechCode: 'n',
     skyId: '262517'

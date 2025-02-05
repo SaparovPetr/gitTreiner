@@ -1712,7 +1712,7 @@ export const hArr = [
   },
   {
     targetWord: 'habitability system for the emergency control room',
-    translation:
+    translating:
       'установка системы жизнеобеспечения резервного пункта управления',
     partOfSpeechCode: 'n',
     skyId: '250424'
@@ -2433,7 +2433,7 @@ export const hArr = [
   },
   {
     targetWord: 'hagwon',
-    translation:
+    translating:
       'корейское слово, обозначающее коммерческий частный институт, академию или детскую школу',
     partOfSpeechCode: 'n',
     skyId: '262853'
@@ -5032,7 +5032,7 @@ export const hArr = [
   },
   {
     targetWord: 'handedness',
-    translation:
+    translating:
       'склонность к использованию одной и той же руки в большинстве случаев',
     partOfSpeechCode: 'n',
     skyId: '141981'
@@ -7547,7 +7547,7 @@ export const hArr = [
   },
   {
     targetWord: 'harem pants',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '264114'
   },
@@ -9179,7 +9179,7 @@ export const hArr = [
   },
   {
     targetWord: 'have a (shy) personality',
-    translation:
+    translating:
       'быть (застенчивым, скромным) , быть личностью, иметь (застенчивый) характер',
     partOfSpeechCode: 'ph',
     skyId: '263420'
@@ -11550,7 +11550,7 @@ export const hArr = [
   },
   {
     targetWord: 'he must needs swim that is held up by the chin',
-    translation:
+    translating:
       'Волей-неволей поплывешь, если тебя поддерживают за подбородок.',
     partOfSpeechCode: 'ph',
     skyId: '242997'
@@ -14023,7 +14023,7 @@ export const hArr = [
   },
   {
     targetWord: 'heating system makeup steam reducer',
-    translation:
+    translating:
       'редукционная установка подачи пара к установке подпитки теплосети',
     partOfSpeechCode: 'n',
     skyId: '246006'
@@ -16688,7 +16688,7 @@ export const hArr = [
   },
   {
     targetWord: 'herbal',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253342'
   },
@@ -18158,7 +18158,7 @@ export const hArr = [
   },
   {
     targetWord: 'hidden',
-    translation: "причастие прошедшего времени глагола 'hide'",
+    translating: "причастие прошедшего времени глагола 'hide'",
     partOfSpeechCode: 'v',
     skyId: '255104'
   },
@@ -20408,7 +20408,7 @@ export const hArr = [
   },
   {
     targetWord: 'hinge on something',
-    translation:
+    translating:
       'держаться на чем-то, основываться на чем-то, зависеть от чего-то',
     partOfSpeechCode: 'v',
     skyId: '263244'
@@ -26727,7 +26727,7 @@ export const hArr = [
   },
   {
     targetWord: 'horizontal angular three-channel modular cable duct',
-    translation:
+    translating:
       'короб кабельный блочный трехканальный угловой горизонтальный плоский',
     partOfSpeechCode: 'n',
     skyId: '249998'
@@ -28264,7 +28264,7 @@ export const hArr = [
   },
   {
     targetWord: 'hot bar',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '233862'
   },
@@ -28630,7 +28630,7 @@ export const hArr = [
   },
   {
     targetWord: 'hotel services',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '261913'
   },
@@ -30592,7 +30592,7 @@ export const hArr = [
   },
   {
     targetWord: 'human radiation counter workstation',
-    translation:
+    translating:
       'автоматизированное рабочее место счетчика излучения человека ',
     partOfSpeechCode: 'n',
     skyId: '250464'
@@ -32891,7 +32891,7 @@ export const hArr = [
   },
   {
     targetWord: 'hydrogen burning system from radioactive process blow-offs',
-    translation:
+    translating:
       'система сжигания водорода из радиоактивных технологических сдувок',
     partOfSpeechCode: 'n',
     skyId: '245791'

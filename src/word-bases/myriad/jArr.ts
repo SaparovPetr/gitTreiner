@@ -103,7 +103,7 @@ export const jArr = [
   },
   {
     targetWord: 'jenny',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '198888'
   },
@@ -590,7 +590,7 @@ export const jArr = [
   },
   {
     targetWord: "jack-o'-lantern",
-    translation:
+    translating:
       'фонарь из тыквы с прорезанными отверстиями в виде глаз, носа и рта',
     partOfSpeechCode: 'n',
     skyId: '45523'
@@ -2325,7 +2325,7 @@ export const jArr = [
   },
   {
     targetWord: 'jeopardise health',
-    translation:
+    translating:
       'рисковать здоровьем, ставить здоровье под угрозу, угрожать здоровью',
     partOfSpeechCode: 'ph',
     skyId: '263262'
@@ -4037,7 +4037,7 @@ export const jArr = [
   },
   {
     targetWord: 'john',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '120943'
   },
@@ -4091,7 +4091,7 @@ export const jArr = [
   },
   {
     targetWord: 'johnson',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253306'
   },

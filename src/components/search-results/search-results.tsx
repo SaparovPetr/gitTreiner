@@ -44,12 +44,12 @@ const SearchResults = ({ dataFromInput }: any) => {
   const dispatch = useAppDispatch();
 
   const makeList = (oneArr: any) => {
-    let arrWithRes = mapSearchResults(dataFromInput, oneArr).slice(0, 9);
+    let arrWithRes = mapSearchResults(dataFromInput, oneArr).slice(0, 15);
     return arrWithRes;
   };
 
   useEffect(() => {
-    if (dataFromInput) {
+    if (dataFromInput.length !== 0) {
       if (dataFromInput.startsWith('a')) {
         setState(makeList(aArr));
       } else if (dataFromInput.startsWith('b')) {

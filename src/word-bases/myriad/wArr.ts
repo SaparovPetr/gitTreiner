@@ -2835,7 +2835,7 @@ export const wArr = [
   {
     targetWord:
       'wall-mounted, 6/3/1.5/1.5/0,5 W, rated voltage 100/30 V, in a set with jumpers for required power installation',
-    translation:
+    translating:
       'для настенной установки, мощностью 6/3/1,5/1,5/0,5 Вт, номинальное напряжение 100/30 В, в комплекте с перемычками для установки требуемой мощности',
     partOfSpeechCode: 'n',
     skyId: '247399'
@@ -2843,7 +2843,7 @@ export const wArr = [
   {
     targetWord:
       'wall-mounted, for 4 ports, in a box, port type FC, APC polishing, fiber type SM',
-    translation:
+    translating:
       'настенный на 4 порта, укомплектованный в коробку, тип портов FC, полировка APC, тип волокна SM',
     partOfSpeechCode: 'n',
     skyId: '247400'
@@ -7748,7 +7748,7 @@ export const wArr = [
   },
   {
     targetWord: "we'll just wait a few seconds for others to connect",
-    translation:
+    translating:
       'мы просто подождём несколько секунд, чтобы другие подключились',
     partOfSpeechCode: 'ph',
     skyId: '256998'
@@ -8025,7 +8025,7 @@ export const wArr = [
   },
   {
     targetWord: 'wealthy neighbourhood',
-    translation:
+    translating:
       'районы для богатых людей, районы для состоятельных людей, богатый район, богатый квартал, элитный квартал, элитный район',
     partOfSpeechCode: 'n',
     skyId: '263071'
@@ -9779,7 +9779,7 @@ export const wArr = [
   {
     targetWord:
       'weighing coefficients for different kinds of radiation in calculating the equivalent dose',
-    translation:
+    translating:
       'взвешивающие коэффициенты для отдельных видов излучения при расчете эквивалентной дозы',
     partOfSpeechCode: 'n',
     skyId: '246369'
@@ -9787,7 +9787,7 @@ export const wArr = [
   {
     targetWord:
       'weighing coefficients for tissues and organs in calculating the effective dose',
-    translation:
+    translating:
       'взвешивающие коэффициенты для тканей и органов при расчете эффективной дозы',
     partOfSpeechCode: 'n',
     skyId: '246368'
@@ -20073,7 +20073,7 @@ export const wArr = [
   {
     targetWord:
       'with amplifier, no less than 6 keys for direct call programming, in a set with a horn speaker 25 W and flashing beacon, IP65',
-    translation:
+    translating:
       'с усилителем, не менее 6 клавиш для программирования прямого вызова, в комплекте с рупорным громкоговорителем 25 Вт и проблесковым маячком, IP65',
     partOfSpeechCode: 'n',
     skyId: '247398'
@@ -20308,7 +20308,7 @@ export const wArr = [
   },
   {
     targetWord: 'withdraw cash',
-    translation:
+    translating:
       'снять деньги, снять наличные , снимать деньги, снимать наличные',
     partOfSpeechCode: 'ph',
     skyId: '263413'
@@ -20951,13 +20951,13 @@ export const wArr = [
   },
   {
     targetWord: 'woke',
-    translation: "форма прошедшего времени глагола 'wake'",
+    translating: "форма прошедшего времени глагола 'wake'",
     partOfSpeechCode: 'v',
     skyId: '255437'
   },
   {
     targetWord: 'woken',
-    translation: "формa причастия прошедшего времени глагола 'wake'",
+    translating: "формa причастия прошедшего времени глагола 'wake'",
     partOfSpeechCode: 'v',
     skyId: '255438'
   },
@@ -21335,7 +21335,7 @@ export const wArr = [
   },
   {
     targetWord: 'wonder woman',
-    translation:
+    translating:
       'женщина, способная совмещать обязанности по дому с успешной профессиональной карьерой',
     partOfSpeechCode: 'n',
     skyId: '127882'
@@ -22512,7 +22512,7 @@ export const wArr = [
   },
   {
     targetWord: 'wordnet',
-    translation:
+    translating:
       'электронная тезаурус/семантическая сеть для английского языка',
     partOfSpeechCode: 'n',
     skyId: '217282'
@@ -23269,7 +23269,7 @@ export const wArr = [
   },
   {
     targetWord: 'work to a deadline',
-    translation:
+    translating:
       'уложиться в срок, укладываться в срок, соблюдать сроки работы',
     partOfSpeechCode: 'ph',
     skyId: '263118'
@@ -23973,14 +23973,14 @@ export const wArr = [
   },
   {
     targetWord: 'workstation for individual dosimetric monitoring',
-    translation:
+    translating:
       'автоматизированное рабочее место индивидуального дозиметрического контроля ',
     partOfSpeechCode: 'n',
     skyId: '246367'
   },
   {
     targetWord: 'workstation for issuing dosimetric permissions',
-    translation:
+    translating:
       'автоматизированное рабочее место выдачи дозиметрических нарядов ',
     partOfSpeechCode: 'n',
     skyId: '246366'
@@ -23999,7 +23999,7 @@ export const wArr = [
   },
   {
     targetWord: 'workstation of common-station systems and controllers',
-    translation:
+    translating:
       'автоматизированное рабочее место общестанционных систем и контроллеров',
     partOfSpeechCode: 'n',
     skyId: '248787'
@@ -24804,7 +24804,7 @@ export const wArr = [
   },
   {
     targetWord: 'would',
-    translation:
+    translating:
       'вспомогательный глагол для образования сослагательного наклонения',
     partOfSpeechCode: 'md',
     skyId: '237657'
@@ -24829,7 +24829,7 @@ export const wArr = [
   },
   {
     targetWord: 'would',
-    translation:
+    translating:
       'вспомогательный глагол в конструкции для выражения предположения или мнения',
     partOfSpeechCode: 'md',
     skyId: '233749'
@@ -25982,7 +25982,7 @@ export const wArr = [
   },
   {
     targetWord: 'write-in',
-    translation:
+    translating:
       'подача голоса за кандидата, фамилии которого нет в избирательном бюллетене',
     partOfSpeechCode: 'n',
     skyId: '164833'

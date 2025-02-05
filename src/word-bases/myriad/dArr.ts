@@ -2323,7 +2323,7 @@ export const dArr = [
   },
   {
     targetWord: 'dutch uncle',
-    translation:
+    translating:
       'человек, который даёт резкие советы, считая себя чьим-либо родственником',
     partOfSpeechCode: 'n',
     skyId: '196631'
@@ -3027,7 +3027,7 @@ export const dArr = [
   },
   {
     targetWord: 'daisy chain',
-    translation:
+    translating:
       'гирляндное соединение; последовательная цепочка; подключение устройств цепочкой',
     partOfSpeechCode: 'n',
     skyId: '21831'
@@ -7072,7 +7072,7 @@ export const dArr = [
   },
   {
     targetWord: 'deal flow',
-    translation:
+    translating:
       'частота, с которой инвестиционные предложения поступают в финансирующие организации',
     partOfSpeechCode: 'n',
     skyId: '257604'
@@ -9966,7 +9966,7 @@ export const dArr = [
   {
     targetWord:
       'dedicated electrically driven 50/5 t bridge crane in the new fuel storage with crane track',
-    translation:
+    translating:
       'кран специальный мостовой электрический грузоподъемностью 50/5 т хранилища свежего топлива с крановым путем',
     partOfSpeechCode: 'n',
     skyId: '248767'
@@ -12421,7 +12421,7 @@ export const dArr = [
   },
   {
     targetWord: 'delayer',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253263'
   },
@@ -13159,7 +13159,7 @@ export const dArr = [
   },
   {
     targetWord: 'deliver goods',
-    translation:
+    translating:
       'поставить товары, доставить товары, поставлять товары, доставлять товары',
     partOfSpeechCode: 'v',
     skyId: '263077'
@@ -15170,7 +15170,7 @@ export const dArr = [
   },
   {
     targetWord: 'department of health education and welfare',
-    translation:
+    translating:
       'Департамент здравоохранения, образования и социального обеспечения',
     partOfSpeechCode: 'n',
     skyId: '41306'
@@ -17319,7 +17319,7 @@ export const dArr = [
   },
   {
     targetWord: 'design for manufacturability',
-    translation:
+    translating:
       'проектирование с учётом пригодности для массового производства',
     partOfSpeechCode: 'ph',
     skyId: '259010'
@@ -19685,7 +19685,7 @@ export const dArr = [
   {
     targetWord:
       'device for dismantling reactor control and protection system drives',
-    translation:
+    translating:
       'устройство для демонтажа приводов системы управления и защиты реактора',
     partOfSpeechCode: 'n',
     skyId: '248780'
@@ -19770,7 +19770,7 @@ export const dArr = [
   },
   {
     targetWord: "devil's advocate",
-    translation:
+    translating:
       'человек, который защищает позицию, которой сам не обязательно придерживается',
     partOfSpeechCode: 'n',
     skyId: '140195'
@@ -24632,7 +24632,7 @@ export const dArr = [
   {
     targetWord:
       'direct-driven radial fan, casing location is ..., with terminal box, grounding bolt, and vibration monitoring',
-    translation:
+    translating:
       'вентилятор радиальный на одной оси с электродвигателем положение кожуха ... , с клемной коробкой, болтом для заземления, вибродиагностикой',
     partOfSpeechCode: 'n',
     skyId: '250078'
@@ -31097,7 +31097,7 @@ export const dArr = [
   {
     targetWord:
       'distribution cabinet of the section for radiation monitoring of releases',
-    translation:
+    translating:
       'распределительный шкаф участка радиационного контроля выбросов',
     partOfSpeechCode: 'n',
     skyId: '249875'
@@ -31105,7 +31105,7 @@ export const dArr = [
   {
     targetWord:
       'distribution cabinet, wall-mounted, 380 v ac, 36 ka, protection degree ip41',
-    translation:
+    translating:
       'щиток распределительный, навесной переменного тока 36 ка, напряжением 380 в, степень защиты ip41',
     partOfSpeechCode: 'n',
     skyId: '250079'
@@ -33776,7 +33776,7 @@ export const dArr = [
   },
   {
     targetWord: 'do unto others as you would have them do unto you',
-    translation:
+    translating:
       'Поступай с другими так, как ты бы хотел, чтобы они поступали с тобой',
     partOfSpeechCode: 'ph',
     skyId: '242712'
@@ -35980,7 +35980,7 @@ export const dArr = [
   },
   {
     targetWord: 'dominate the landscape',
-    translation:
+    translating:
       'являться доминантой ландшафта, пейзажа, преобладать в зоне, выделяться на фоне ландшафта',
     partOfSpeechCode: 'ph',
     skyId: '263361'
@@ -36335,7 +36335,7 @@ export const dArr = [
   },
   {
     targetWord: 'donationware',
-    translation:
+    translating:
       'функциональное программное обеспечение с возможностью пожертвования',
     partOfSpeechCode: 'n',
     skyId: '256988'
@@ -36996,7 +36996,7 @@ export const dArr = [
   },
   {
     targetWord: 'dope sheet',
-    translation:
+    translating:
       'буклет с информацией о лошадях, принимающих участие в скачках',
     partOfSpeechCode: 'n',
     skyId: '158617'
@@ -37087,7 +37087,7 @@ export const dArr = [
   },
   {
     targetWord: 'dorm storm',
-    translation:
+    translating:
       'поиск в общежитиях для первокурсников молодых девушек для секса',
     partOfSpeechCode: 'ph',
     skyId: '262157'
@@ -37736,7 +37736,7 @@ export const dArr = [
   },
   {
     targetWord: 'double jeopardy',
-    translation:
+    translating:
       'риск дважды понести уголовную ответственность за одно и то же преступление',
     partOfSpeechCode: 'n',
     skyId: '126871'
@@ -39369,7 +39369,7 @@ export const dArr = [
   },
   {
     targetWord: 'dowse',
-    translation:
+    translating:
       'определять наличие подпочвенных вод или минералов при помощи ивового прута',
     partOfSpeechCode: 'v',
     skyId: '196950'
@@ -45172,7 +45172,7 @@ export const dArr = [
   },
   {
     targetWord: 'dry-wall',
-    translation:
+    translating:
       'строить с использованием элементов полной заводской готовности',
     partOfSpeechCode: 'v',
     skyId: '16876'
@@ -48449,7 +48449,7 @@ export const dArr = [
   },
   {
     targetWord: 'd’oh',
-    translation: "д'оу",
+    translating: "д'оу",
     partOfSpeechCode: 'exc',
     skyId: '233790'
   }

@@ -2851,7 +2851,7 @@ export const uArr = [
   },
   {
     targetWord: 'unbalanced',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253296'
   },
@@ -5827,7 +5827,7 @@ export const uArr = [
   },
   {
     targetWord: 'undernourished',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253217'
   },
@@ -7921,7 +7921,7 @@ export const uArr = [
   },
   {
     targetWord: 'unfitness',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253307'
   },
@@ -8041,7 +8041,7 @@ export const uArr = [
   },
   {
     targetWord: 'unforced',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253298'
   },
@@ -11587,7 +11587,7 @@ export const uArr = [
   },
   {
     targetWord: 'unpolished',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253313'
   },
@@ -14191,7 +14191,7 @@ export const uArr = [
   },
   {
     targetWord: 'untalented',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253304'
   },
@@ -15523,7 +15523,7 @@ export const uArr = [
   },
   {
     targetWord: 'up',
-    translation:
+    translating:
       'указывает на переход из горизонтального положения в вертикальное',
     partOfSpeechCode: 'r',
     skyId: '237999'
@@ -17972,7 +17972,7 @@ export const uArr = [
   },
   {
     targetWord: 'use jargon',
-    translation:
+    translating:
       'использовать терминологию, использовать жаргон, использовать жаргонизмы',
     partOfSpeechCode: 'ph',
     skyId: '263240'

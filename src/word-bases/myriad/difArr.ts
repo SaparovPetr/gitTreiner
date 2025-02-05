@@ -277,7 +277,7 @@ export const difArr = [
   },
   {
     targetWord: 'ATF',
-    translation:
+    translating:
       'Управление по контролю за производством и оборотом алкогольных напитков, табачных изделий и огнестрельного оружия США',
     partOfSpeechCode: 'n',
     skyId: '199584'
@@ -746,7 +746,7 @@ export const difArr = [
   },
   {
     targetWord: 'FDA',
-    translation:
+    translating:
       'Управление по санитарному надзору за качеством пищевых продуктов и медикаментов',
     partOfSpeechCode: 'n',
     skyId: '211266'
@@ -2791,7 +2791,7 @@ export const difArr = [
   },
   {
     targetWord: 'APCS',
-    translation:
+    translating:
       'автоматизированная система управления технологическими процессами ',
     partOfSpeechCode: 'abb',
     skyId: '248944'
@@ -2912,7 +2912,7 @@ export const difArr = [
   },
   {
     targetWord: 'ASDV',
-    translation:
+    translating:
       'быстродействующая редукционная установка сброса пара в атмосферу ',
     partOfSpeechCode: 'abb',
     skyId: '245944'
@@ -3021,14 +3021,14 @@ export const difArr = [
   },
   {
     targetWord: 'ATWS',
-    translation:
+    translating:
       'ожидаемый/прогнозируемый переходный процесс без срабатывания аварийной защиты реактора',
     partOfSpeechCode: 'abb',
     skyId: '247691'
   },
   {
     targetWord: 'ATWT',
-    translation:
+    translating:
       'ожидаемый/прогнозируемый переходный процесс без аварийного отключения ядерного реактора',
     partOfSpeechCode: 'abb',
     skyId: '247692'
@@ -3041,7 +3041,7 @@ export const difArr = [
   },
   {
     targetWord: 'AVMDS',
-    translation:
+    translating:
       'виброизмерительная и диагностическая автоматизированная система ',
     partOfSpeechCode: 'abb',
     skyId: '248949'
@@ -3181,7 +3181,7 @@ export const difArr = [
   {
     targetWord:
       'Add the goods you want to purchase to your electronic shopping cart.',
-    translation:
+    translating:
       'Добавьте товары, которые вы хотите приобрести, в вашу электронную корзину.',
     partOfSpeechCode: 'ph',
     skyId: '250886'
@@ -3363,7 +3363,7 @@ export const difArr = [
   {
     targetWord:
       'All right, you undead jerks, you ready to die twice?! The only wrinkly monster who harasses my family is ME!',
-    translation:
+    translating:
       'Хорошо, зомби, вы готовы умереть дважды?! Единственный морщинистый монстр, преследующий мою семью, это Я!',
     partOfSpeechCode: 'ph',
     skyId: '261984'
@@ -3664,7 +3664,7 @@ export const difArr = [
   },
   {
     targetWord: 'Antivirus for smartphones is equally important as for PCs.',
-    translation:
+    translating:
       'Антивирусы для смартфонов так же важны, как и для компьютеров.',
     partOfSpeechCode: 'ph',
     skyId: '251232'
@@ -3977,7 +3977,7 @@ export const difArr = [
   },
   {
     targetWord: 'Arizona',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253275'
   },
@@ -4457,21 +4457,21 @@ export const difArr = [
   },
   {
     targetWord: 'BKP-3',
-    translation:
+    translating:
       'бюро комплексного проектирования по электротехнике и автоматизированной системе управления технологическими процессами ',
     partOfSpeechCode: 'abb',
     skyId: '245496'
   },
   {
     targetWord: 'BKP-5',
-    translation:
+    translating:
       'бюро комплексного проектирования по вероятностному анализу безопасности и надежности ',
     partOfSpeechCode: 'abb',
     skyId: '245649'
   },
   {
     targetWord: 'BKP-6',
-    translation:
+    translating:
       'конструкторско-технологическое бюро комплексного проектирования ',
     partOfSpeechCode: 'abb',
     skyId: '245650'
@@ -4568,21 +4568,21 @@ export const difArr = [
   },
   {
     targetWord: 'BRU-AH',
-    translation:
+    translating:
       'быстродействующая редукционная установка подачи пара к коллектору собственных нужд ',
     partOfSpeechCode: 'abb',
     skyId: '245989'
   },
   {
     targetWord: 'BRU-C',
-    translation:
+    translating:
       'быстродействующая редукционная установка сброса пара в конденсатор ',
     partOfSpeechCode: 'abb',
     skyId: '245962'
   },
   {
     targetWord: 'BRU-D',
-    translation:
+    translating:
       'быстродействующая редукционная установка со сбросом в деаэратор',
     partOfSpeechCode: 'abb',
     skyId: '245990'
@@ -4650,7 +4650,7 @@ export const difArr = [
   {
     targetWord:
       'Bad weather sometimes can slow down the speed of satellite connection.',
-    translation:
+    translating:
       'Плохая погода иногда может замедлять скорость спутникового соединения.',
     partOfSpeechCode: 'ph',
     skyId: '251247'
@@ -4885,7 +4885,7 @@ export const difArr = [
   },
   {
     targetWord: 'Before I carry on let me tell you something about myself.',
-    translation:
+    translating:
       'Перед тем, как я продолжу, разрешите сказать пару слов о себе.',
     partOfSpeechCode: 'ph',
     skyId: '251373'
@@ -5084,7 +5084,7 @@ export const difArr = [
   },
   {
     targetWord: 'Bloodborne Pathogens standard',
-    translation:
+    translating:
       'стандарт профессионального контакта с патогенами, переносимыми с кровью',
     partOfSpeechCode: 'n',
     skyId: '256809'
@@ -5619,7 +5619,7 @@ export const difArr = [
   },
   {
     targetWord: 'CAE',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'abb',
     skyId: '253347'
   },
@@ -5961,7 +5961,7 @@ export const difArr = [
   },
   {
     targetWord: 'CNEIC',
-    translation:
+    translating:
       'Китайская корпорация ядерно-энергетической промышленности и индустрии',
     partOfSpeechCode: 'abb',
     skyId: '245811'
@@ -6046,7 +6046,7 @@ export const difArr = [
   },
   {
     targetWord: 'CPS',
-    translation:
+    translating:
       'система управления и защиты (реактора, реакторной установки) - СУЗ',
     partOfSpeechCode: 'abb',
     skyId: '245521'
@@ -6071,7 +6071,7 @@ export const difArr = [
   },
   {
     targetWord: 'CPS-ESFIP',
-    translation:
+    translating:
       'аппаратура системы управления и защиты управляющей системы безопасности инициирующей',
     partOfSpeechCode: 'abb',
     skyId: '250067'
@@ -6114,7 +6114,7 @@ export const difArr = [
   },
   {
     targetWord: 'CRDCS',
-    translation:
+    translating:
       'система охлаждения привода стержней системы управления и защиты',
     partOfSpeechCode: 'abb',
     skyId: '245522'
@@ -6259,7 +6259,7 @@ export const difArr = [
   },
   {
     targetWord: 'CU',
-    translation:
+    translating:
       'блок преобразования аппаратуры защиты по технологическим параметрам',
     partOfSpeechCode: 'abb',
     skyId: '248696'
@@ -6404,7 +6404,7 @@ export const difArr = [
   },
   {
     targetWord: 'Call technical support to get connected for the first time.',
-    translation:
+    translating:
       'Обратитесь в техническую поддержку, чтобы подсоединиться в первый раз.',
     partOfSpeechCode: 'ph',
     skyId: '251246'
@@ -6472,7 +6472,7 @@ export const difArr = [
   {
     targetWord:
       "Can I ask you to be patient a little longer while I'm looking for a solution?",
-    translation:
+    translating:
       'Могу ли я попросить вас проявить больше терпения, пока я ищу решение?',
     partOfSpeechCode: 'ph',
     skyId: '259772'
@@ -6869,7 +6869,7 @@ export const difArr = [
   },
   {
     targetWord: 'Can you tell me about cultural differences and common things?',
-    translation:
+    translating:
       'Можете ли вы рассказать мне о культурных различиях и общих вещах?',
     partOfSpeechCode: 'ph',
     skyId: '259470'
@@ -6882,7 +6882,7 @@ export const difArr = [
   },
   {
     targetWord: 'Can you tell me when we get to my stop?',
-    translation:
+    translating:
       'Не могли бы вы сказать мне, когда мы доберемся до моей остановки?',
     partOfSpeechCode: 'ph',
     skyId: '251210'
@@ -7213,7 +7213,7 @@ export const difArr = [
   },
   {
     targetWord: 'Char-rnn (character recurrent neural network)',
-    translation:
+    translating:
       'Ссhar-rnn (рекуррентная нейронная сеть для распознавания символов)',
     partOfSpeechCode: 'n',
     skyId: '262925'
@@ -7388,7 +7388,7 @@ export const difArr = [
   },
   {
     targetWord: 'Chipmunk gift',
-    translation:
+    translating:
       'подарок, который больше нравится человеку, который его подарил, а не тому кому его подарили',
     partOfSpeechCode: 'n',
     skyId: '260980'
@@ -7468,7 +7468,7 @@ export const difArr = [
   {
     targetWord:
       'Christmas comes but once a year, (but when it comes it brings good cheer).',
-    translation:
+    translating:
       'Рождество раз в год бывает, но когда оно приходит — с собой веселье приносит.',
     partOfSpeechCode: 'ph',
     skyId: '242651'
@@ -8351,14 +8351,14 @@ export const difArr = [
   },
   {
     targetWord: 'Council Regulation 1408/71, EU',
-    translation:
+    translating:
       'постановление совета ЕС о социальном обеспечении трудящихся в пределах Евросоюза от 14 июня 1971 года',
     partOfSpeechCode: 'ph',
     skyId: '257381'
   },
   {
     targetWord: 'Council Regulation 1612/68, EU',
-    translation:
+    translating:
       'постановление совета ЕС об обеспечении мобильности работников в странах Евросоюза от 15 октября 1968 года',
     partOfSpeechCode: 'ph',
     skyId: '257382'
@@ -8881,7 +8881,7 @@ export const difArr = [
   },
   {
     targetWord: 'DOA',
-    translation:
+    translating:
       'идеи или явления, которые просуществовали недолго и не имели успеха, в общем, оказались провальными',
     partOfSpeechCode: 'abb',
     skyId: '261158'
@@ -9141,7 +9141,7 @@ export const difArr = [
   {
     targetWord:
       'Decree of the RF Government No. 20 dated 19/01/2006, amended 09/06/2014',
-    translation:
+    translating:
       'Положение об инженерных изысканиях для подготовки проектной документации, строительства, реконструкции объектов капитального строительства (Указ Правительства РФ № 20 от 19.01.2006 г. ',
     partOfSpeechCode: 'n',
     skyId: '246243'
@@ -9317,7 +9317,7 @@ export const difArr = [
   {
     targetWord:
       'Directive on Equal Treatment Disregarding Race or Ethnic Origin, EU',
-    translation:
+    translating:
       'директива ЕС о равном обращении с людьми, независимо от их расового или этнического происхождения',
     partOfSpeechCode: 'ph',
     skyId: '257445'
@@ -9697,7 +9697,7 @@ export const difArr = [
   {
     targetWord:
       'Do you see what I meant by saying that it was a good illustration?',
-    translation:
+    translating:
       'Вы понимаете, что я имел ввиду, когда говорил, что это хороший пример?',
     partOfSpeechCode: 'ph',
     skyId: '258325'
@@ -9770,7 +9770,7 @@ export const difArr = [
   },
   {
     targetWord: 'Do you use any software to organise your contacts?',
-    translation:
+    translating:
       'Вы используете какое-либо программное обеспечение для упорядочивания ваших контактов?',
     partOfSpeechCode: 'ph',
     skyId: '259540'
@@ -10030,7 +10030,7 @@ export const difArr = [
   {
     targetWord:
       'Downloads during daily free hours do not count toward monthly traffic.',
-    translation:
+    translating:
       'Загрузки во время ежедневных бесплатных часов не засчитываются в месячный трафик.',
     partOfSpeechCode: 'ph',
     skyId: '251245'
@@ -10121,7 +10121,7 @@ export const difArr = [
   },
   {
     targetWord: 'E. I. Dupont & Company',
-    translation:
+    translating:
       'постановление НСТО 1993 года, касающееся незаконных действий компании Дюпон',
     partOfSpeechCode: 'ph',
     skyId: '257572'
@@ -10272,7 +10272,7 @@ export const difArr = [
   },
   {
     targetWord: 'EEMA AIMS',
-    translation:
+    translating:
       'автоматизированная информационно-измерительная система контроля и учета электроэнергии ',
     partOfSpeechCode: 'abb',
     skyId: '248942'
@@ -10315,7 +10315,7 @@ export const difArr = [
   },
   {
     targetWord: 'EGTRRA',
-    translation:
+    translating:
       'закон об урегулировании экономического роста и налоговых льгот',
     partOfSpeechCode: 'abb',
     skyId: '257577'
@@ -10460,7 +10460,7 @@ export const difArr = [
   },
   {
     targetWord: 'EPCDS',
-    translation:
+    translating:
       'система аварийного и планового расхолаживания первого контура и охлаждения бассейна выдержки',
     partOfSpeechCode: 'abb',
     skyId: '245574'
@@ -10473,7 +10473,7 @@ export const difArr = [
   },
   {
     targetWord: 'EPLI',
-    translation:
+    translating:
       'страхование ответственности, связанной с процессом обеспечения занятостью',
     partOfSpeechCode: 'abb',
     skyId: '258020'
@@ -10486,7 +10486,7 @@ export const difArr = [
   },
   {
     targetWord: 'EPO',
-    translation:
+    translating:
       'организация поставщика услуг в сфере здравоохранения с особыми полномочиями',
     partOfSpeechCode: 'abb',
     skyId: '258040'
@@ -10577,7 +10577,7 @@ export const difArr = [
   },
   {
     targetWord: 'ESFAS',
-    translation:
+    translating:
       'управляющая система безопасности по технологическим параметрам (технологическая) ',
     partOfSpeechCode: 'abb',
     skyId: '247015'
@@ -10650,7 +10650,7 @@ export const difArr = [
   },
   {
     targetWord: 'EURO VENT',
-    translation:
+    translating:
       'Европейский комитет изготовителей оборудования для обработки и кондиционирования воздуха',
     partOfSpeechCode: 'n',
     skyId: '245824'
@@ -10663,7 +10663,7 @@ export const difArr = [
   },
   {
     targetWord: 'Each customer receives one year of anti-virus software.',
-    translation:
+    translating:
       'Каждый клиент получает год антивирусного программного обеспечения.',
     partOfSpeechCode: 'ph',
     skyId: '251243'
@@ -10808,7 +10808,7 @@ export const difArr = [
   },
   {
     targetWord: 'Ellerth v. Burlington Northern Industries',
-    translation:
+    translating:
       'постановление Верхновного Суда США об ответственности работодателей за безопасность их работников',
     partOfSpeechCode: 'ph',
     skyId: '257599'
@@ -11062,7 +11062,7 @@ export const difArr = [
   },
   {
     targetWord: 'Excuse me, I think that you give me too much work.',
-    translation:
+    translating:
       'Простите, мне кажется, что Вы даете мне слишком много работы.',
     partOfSpeechCode: 'ph',
     skyId: '250945'
@@ -11351,7 +11351,7 @@ export const difArr = [
   },
   {
     targetWord: 'FMLA',
-    translation:
+    translating:
       'закон о медицинском отпуске и отпуске по семейным обстоятельствам',
     partOfSpeechCode: 'abb',
     skyId: '258068'
@@ -11394,7 +11394,7 @@ export const difArr = [
   },
   {
     targetWord: 'FP',
-    translation:
+    translating:
       'бассейн выдержки отработанного топлива (бассейн выдержки) БВ ОЯТ',
     partOfSpeechCode: 'abb',
     skyId: '245508'
@@ -11635,7 +11635,7 @@ export const difArr = [
   },
   {
     targetWord: 'Federal Violence Against Women Act of 1994',
-    translation:
+    translating:
       'федеральный закон против насилия в отношении женщин 1994 года',
     partOfSpeechCode: 'ph',
     skyId: '258078'
@@ -11648,7 +11648,7 @@ export const difArr = [
   },
   {
     targetWord: 'Feel free to interrupt at any time if you have questions.',
-    translation:
+    translating:
       'Вы можете прервать меня в любой момент, если у вас появятся вопросы.',
     partOfSpeechCode: 'ph',
     skyId: '251281'
@@ -11835,7 +11835,7 @@ export const difArr = [
   },
   {
     targetWord: 'Forestry Commission',
-    translation:
+    translating:
       'Комиссия по лесному хозяйству, Комиссия по лесоводству, лесная комиссия',
     partOfSpeechCode: 'n',
     skyId: '263576'
@@ -12052,7 +12052,7 @@ export const difArr = [
   },
   {
     targetWord: 'GFS architecture (Google File System architecture)',
-    translation:
+    translating:
       'архитектура GFS (архитектура распределенной файловой системы)',
     partOfSpeechCode: 'n',
     skyId: '262889'
@@ -12083,7 +12083,7 @@ export const difArr = [
   },
   {
     targetWord: 'GICS',
-    translation:
+    translating:
       'система группового и индивидуального управления регулирующих стержней ',
     partOfSpeechCode: 'abb',
     skyId: '245523'
@@ -12174,7 +12174,7 @@ export const difArr = [
   },
   {
     targetWord: 'GOAS PIES',
-    translation:
+    translating:
       'cистема обмена технологической информацией с автоматизированной системой системного оператора ',
     partOfSpeechCode: 'abb',
     skyId: '248588'
@@ -12193,56 +12193,56 @@ export const difArr = [
   },
   {
     targetWord: 'GOST 2.102-2013',
-    translation:
+    translating:
       'Единая система конструкторской документации. Виды и комплектность конструкторской документации ',
     partOfSpeechCode: 'abb',
     skyId: '246259'
   },
   {
     targetWord: 'GOST 2.103-68',
-    translation:
+    translating:
       'Единая система конструкторской документации. Стадии разработки. ',
     partOfSpeechCode: 'abb',
     skyId: '246258'
   },
   {
     targetWord: 'GOST 2.314-68',
-    translation:
+    translating:
       'Единая система конструкторской документации. Указания на чертежах о маркировании и клеймении изделий ',
     partOfSpeechCode: 'abb',
     skyId: '246233'
   },
   {
     targetWord: 'GOST 2.601-2013',
-    translation:
+    translating:
       'Единая система конструкторской документации. Эксплуатационные документы ',
     partOfSpeechCode: 'abb',
     skyId: '246234'
   },
   {
     targetWord: 'GOST 2.602-2013',
-    translation:
+    translating:
       'Единая система конструкторской документации. Ремонтные документы ',
     partOfSpeechCode: 'abb',
     skyId: '246235'
   },
   {
     targetWord: 'GOST 27.003-90',
-    translation:
+    translating:
       'Надежность в технике. Состав и общие правила задания требований по надежности ',
     partOfSpeechCode: 'abb',
     skyId: '246231'
   },
   {
     targetWord: 'GOST 3.1102-2011',
-    translation:
+    translating:
       'Единая система проектной документации. Стадии разработки и виды документов. Общие положения ',
     partOfSpeechCode: 'abb',
     skyId: '246236'
   },
   {
     targetWord: 'GOST 9.014-78',
-    translation:
+    translating:
       'Единая система защиты от коррозии и старения. Временная противокоррозионная защита изделий. Общие требования ',
     partOfSpeechCode: 'abb',
     skyId: '246232'
@@ -12592,7 +12592,7 @@ export const difArr = [
   {
     targetWord:
       "Get your family's blessing, and everything should go back to normal.",
-    translation:
+    translating:
       'Получи благословение своей семьи и все, по идее, должно вернуться на свои места.',
     partOfSpeechCode: 'ph',
     skyId: '256194'
@@ -13175,7 +13175,7 @@ export const difArr = [
   },
   {
     targetWord: 'HEPA',
-    translation:
+    translating:
       'Передвижная фильтровальная установка в составе: вентилятор, фильтр аэрозольный, аэрозольный фильтр тонкой очистки',
     partOfSpeechCode: 'abb',
     skyId: '247604'
@@ -13200,7 +13200,7 @@ export const difArr = [
   },
   {
     targetWord: 'HIPAA',
-    translation:
+    translating:
       'закон "О перемещаемости и подотчетности страхования здоровья"',
     partOfSpeechCode: 'abb',
     skyId: '259163'
@@ -13249,7 +13249,7 @@ export const difArr = [
   },
   {
     targetWord: 'HOV 2+ only 2 or more persons per vehicle',
-    translation:
+    translating:
       'Движение разрешено только для транспортных средств, в которых едут два и более человека, включая водителя',
     partOfSpeechCode: 'ph',
     skyId: '234205'
@@ -13610,7 +13610,7 @@ export const difArr = [
   },
   {
     targetWord: 'Have you any dutiable goods?',
-    translation:
+    translating:
       'Есть ли у Вас что-то, подлежащее обложению таможенной пошлиной?',
     partOfSpeechCode: 'ph',
     skyId: '244655'
@@ -14092,7 +14092,7 @@ export const difArr = [
   {
     targetWord:
       'High Speed Internet provides the reliability of a dedicated line.',
-    translation:
+    translating:
       'Высокоскоростной Интернет обеспечивает надежность выделенной линии.',
     partOfSpeechCode: 'ph',
     skyId: '251242'
@@ -14657,7 +14657,7 @@ export const difArr = [
   },
   {
     targetWord: 'How long will it take to get to the city centre?',
-    translation:
+    translating:
       'Сколько времени потребуется, чтобы добраться до центра города?',
     partOfSpeechCode: 'ph',
     skyId: '257900'
@@ -15030,7 +15030,7 @@ export const difArr = [
   },
   {
     targetWord: 'I always use headset to phone people while I am driving.',
-    translation:
+    translating:
       'Я всегда использую гарнитуру, чтобы звонить людям тогда, когда я за рулем.',
     partOfSpeechCode: 'ph',
     skyId: '251230'
@@ -15459,7 +15459,7 @@ export const difArr = [
   {
     targetWord:
       "I can't force someone to love me... but I just wait and see what happens.",
-    translation:
+    translating:
       'Я не могу кого-то заставить любить меня… Но я просто подожду и посмотрю, что произойдёт.',
     partOfSpeechCode: 'ph',
     skyId: '261978'
@@ -15593,7 +15593,7 @@ export const difArr = [
   {
     targetWord:
       'I confidently express my interest in your posting on ...for a  ....',
-    translation:
+    translating:
       'Меня заинтересовало объявление о приеме на работу специалиста, размещенное на сайте.',
     partOfSpeechCode: 'ph',
     skyId: '253039'
@@ -15925,7 +15925,7 @@ export const difArr = [
   {
     targetWord:
       "I don't think we can do a deal at this level, I can probably do it for ...",
-    translation:
+    translating:
       'Я не думаю, что мы сможем заключить сделку на этом уровне, я, вероятно, смогу сделать это за',
     partOfSpeechCode: 'ph',
     skyId: '264559'
@@ -16485,7 +16485,7 @@ export const difArr = [
   {
     targetWord:
       'I have many relatives: two brothers and a sister,  several cousins.',
-    translation:
+    translating:
       'У меня много родственников: два брата и сестра, несколько двоюродных братьев и сестер.',
     partOfSpeechCode: 'ph',
     skyId: '244939'
@@ -16834,7 +16834,7 @@ export const difArr = [
   },
   {
     targetWord: 'I know you don’t want to hear this as you’re probably working',
-    translation:
+    translating:
       'я знаю, вы не хотите это слышать, поскольку вы-то, вероятно, работаете',
     partOfSpeechCode: 'ph',
     skyId: '253761'
@@ -17118,7 +17118,7 @@ export const difArr = [
   {
     targetWord:
       'I probably say it to myself about 5 times a day. I have a problem.',
-    translation:
+    translating:
       'Кажется, я говорю себе это по 5 раз в день. У меня есть проблема.',
     partOfSpeechCode: 'ph',
     skyId: '261983'
@@ -17234,14 +17234,14 @@ export const difArr = [
   {
     targetWord:
       'I see there is one standby seat on another plane leaving tonight',
-    translation:
+    translating:
       'Я вижу одно запасное место на другом рейсе, вылетающем сегодня вечером',
     partOfSpeechCode: 'ph',
     skyId: '255969'
   },
   {
     targetWord: 'I see what you mean, but I think that’s not the whole story.',
-    translation:
+    translating:
       'Я понимаю, что вы имеете в виду, но я думаю, что это еще не все.',
     partOfSpeechCode: 'ph',
     skyId: '243866'
@@ -17728,7 +17728,7 @@ export const difArr = [
   },
   {
     targetWord: 'I was told when I do something something else would happen',
-    translation:
+    translating:
       'мне говорили, что когда я что-то сделаю, что-то другое случится',
     partOfSpeechCode: 'ph',
     skyId: '252895'
@@ -17741,7 +17741,7 @@ export const difArr = [
   },
   {
     targetWord: 'I was wondering if you can get it to me on Friday?',
-    translation:
+    translating:
       'Хотелось бы поинтересоваться, не могли бы вы забрать это для меня в пятницу?',
     partOfSpeechCode: 'ph',
     skyId: '259670'
@@ -17936,7 +17936,7 @@ export const difArr = [
   {
     targetWord:
       'I would like to express my strong interest in the ... position at company, as listed on ... .',
-    translation:
+    translating:
       'Мне показалось интересной позиция специалиста в компании, опубликованная на сайте.',
     partOfSpeechCode: 'ph',
     skyId: '253040'
@@ -18093,14 +18093,14 @@ export const difArr = [
   },
   {
     targetWord: 'I&C',
-    translation:
+    translating:
       'автоматизированная система управления объектом (технологическим процессом) - АСУТП',
     partOfSpeechCode: 'abb',
     skyId: '248532'
   },
   {
     targetWord: 'I&C CWT',
-    translation:
+    translating:
       'системы контроля и управления оборудованием нормальной эксплуатации систем химводоочистки ',
     partOfSpeechCode: 'abb',
     skyId: '248975'
@@ -18113,21 +18113,21 @@ export const difArr = [
   },
   {
     targetWord: 'I&C ESFAS',
-    translation:
+    translating:
       'система контроля и управления оборудованием управляющей системы безопасности ',
     partOfSpeechCode: 'abb',
     skyId: '247016'
   },
   {
     targetWord: 'I&C RC',
-    translation:
+    translating:
       'система контроля и управления оборудованием нормальной эксплуатации реакторного отделения ',
     partOfSpeechCode: 'abb',
     skyId: '248718'
   },
   {
     targetWord: 'I&C RWT',
-    translation:
+    translating:
       'система контроля и управления оборудованием нормальной эксплуатации систем спецводоочистки',
     partOfSpeechCode: 'abb',
     skyId: '248714'
@@ -18146,14 +18146,14 @@ export const difArr = [
   },
   {
     targetWord: 'I&C TGEP',
-    translation:
+    translating:
       'система контроля и управления электронной частью системы регулирования',
     partOfSpeechCode: 'abb',
     skyId: '245959'
   },
   {
     targetWord: 'I&C V',
-    translation:
+    translating:
       'система контроля и управления оборудованием нормальной эксплуатации систем вентиляции',
     partOfSpeechCode: 'abb',
     skyId: '248560'
@@ -18190,7 +18190,7 @@ export const difArr = [
   },
   {
     targetWord: "I'd be grateful if you could deliver it sooner.",
-    translation:
+    translating:
       'Я был бы признателен, если бы вы смогли доставить это раньше.',
     partOfSpeechCode: 'ph',
     skyId: '259685'
@@ -19218,7 +19218,7 @@ export const difArr = [
   },
   {
     targetWord: "I'm sorry, but we must respectfully decline your offer.",
-    translation:
+    translating:
       'Мне очень жаль, но при всем уважении, мы вынуждены отклонить ваше предложение.',
     partOfSpeechCode: 'ph',
     skyId: '251072'
@@ -19531,14 +19531,14 @@ export const difArr = [
   },
   {
     targetWord: 'IAEA GSR Part 3',
-    translation:
+    translating:
       'Радиационная защита и безопасность радиоактивных источников. Основные международные нормы безопасности ',
     partOfSpeechCode: 'abb',
     skyId: '246223'
   },
   {
     targetWord: 'IAEA NS-G-1.13',
-    translation:
+    translating:
       'Защита против внутренних опасностей при проектировании атомных электростанций ',
     partOfSpeechCode: 'abb',
     skyId: '246224'
@@ -19557,7 +19557,7 @@ export const difArr = [
   },
   {
     targetWord: 'IAEA NS-G-3.4',
-    translation:
+    translating:
       'учет внешних антропогенных явлений при оценке площадок для атомных электростанций ',
     partOfSpeechCode: 'abb',
     skyId: '246239'
@@ -19582,7 +19582,7 @@ export const difArr = [
   },
   {
     targetWord: 'IAHR',
-    translation:
+    translating:
       'Международная Ассоциация по гидротехнике и гидравлическим исследованиям ',
     partOfSpeechCode: 'abb',
     skyId: '245845'
@@ -19595,7 +19595,7 @@ export const difArr = [
   },
   {
     targetWord: 'IASCC',
-    translation:
+    translating:
       'коррозионное растрескивание под напряжением в условиях облучения',
     partOfSpeechCode: 'abb',
     skyId: '246330'
@@ -19608,7 +19608,7 @@ export const difArr = [
   },
   {
     targetWord: 'IBRAE',
-    translation:
+    translating:
       'Институт проблем безопасного развития атомной энергетики РАН ',
     partOfSpeechCode: 'abb',
     skyId: '246304'
@@ -20095,7 +20095,7 @@ export const difArr = [
   },
   {
     targetWord: 'IRWST',
-    translation:
+    translating:
       'бак хранения воды для перегрузки топлива в помещении гермооболочки',
     partOfSpeechCode: 'abb',
     skyId: '245613'
@@ -20108,7 +20108,7 @@ export const difArr = [
   },
   {
     targetWord: 'ISC',
-    translation:
+    translating:
       'межгосударственный совет по стандартизации, метрологии и сертификации',
     partOfSpeechCode: 'abb',
     skyId: '246203'
@@ -20175,7 +20175,7 @@ export const difArr = [
   },
   {
     targetWord: 'ISSMGE',
-    translation:
+    translating:
       'Международное Общество по Механике Грунтов и Геотехническому Строительству ',
     partOfSpeechCode: 'abb',
     skyId: '246199'
@@ -20326,7 +20326,7 @@ export const difArr = [
   },
   {
     targetWord: 'If no one has questions or comments, we can finish the call.',
-    translation:
+    translating:
       'Если у вас нет вопросов или комментариев, мы можем завершить звонок.',
     partOfSpeechCode: 'ph',
     skyId: '259767'
@@ -20340,7 +20340,7 @@ export const difArr = [
   {
     targetWord:
       'If you are late for work again, we will take more serious action on you.',
-    translation:
+    translating:
       'Если Вы опоздаете на работу снова, мы примем более серьезные меры.',
     partOfSpeechCode: 'ph',
     skyId: '251151'
@@ -20371,7 +20371,7 @@ export const difArr = [
   },
   {
     targetWord: 'If you have any questions in the meantime please contact us.',
-    translation:
+    translating:
       'Если тем временем у вас возникнут вопросы, пожалуйста, свяжитесь с нами.',
     partOfSpeechCode: 'ph',
     skyId: '250854'
@@ -20481,7 +20481,7 @@ export const difArr = [
   {
     targetWord:
       'In order to confirm what we discussed earlier, I would like to note to you that...',
-    translation:
+    translating:
       'Подтверждая то, что мы обсудили ранее, я бы хотел обратить ваше внимание на то, что...',
     partOfSpeechCode: 'ph',
     skyId: '253566'
@@ -20495,7 +20495,7 @@ export const difArr = [
   {
     targetWord:
       'In regard to our conversation this morning, I would like to confirm that...',
-    translation:
+    translating:
       'Относительно нашего разговора сегодня утром я хотел бы подтвердить, что...',
     partOfSpeechCode: 'ph',
     skyId: '253567'
@@ -20725,7 +20725,7 @@ export const difArr = [
   {
     targetWord:
       'Internet satellite must be placed in an orbit above the equator.',
-    translation:
+    translating:
       'Интернет спутник должен быть помещен на орбите над экватором.',
     partOfSpeechCode: 'ph',
     skyId: '251241'
@@ -20942,7 +20942,7 @@ export const difArr = [
   },
   {
     targetWord: 'Is that an accurate summary of where you stand?',
-    translation:
+    translating:
       'Мы сделали правильное заключение касательно вашей точки зрения?',
     partOfSpeechCode: 'ph',
     skyId: '251082'
@@ -21351,7 +21351,7 @@ export const difArr = [
   },
   {
     targetWord: 'It would be great if you shared my contacts with him.',
-    translation:
+    translating:
       'Было бы здорово, если бы вы поделились с ним моими контактами.',
     partOfSpeechCode: 'ph',
     skyId: '259514'
@@ -21552,7 +21552,7 @@ export const difArr = [
   {
     targetWord:
       "It's funny that you should mention this, we talked about it this morning!",
-    translation:
+    translating:
       'Забавно, что вы упомянули об этом, мы говорили об этом сегодня утром!',
     partOfSpeechCode: 'ph',
     skyId: '258167'
@@ -21626,7 +21626,7 @@ export const difArr = [
   {
     targetWord:
       "It's my first time here, could you recommend any nice places to visit?",
-    translation:
+    translating:
       'Я здесь впервые, не могли бы вы порекомендовать какие-либо интересные места для посещения?',
     partOfSpeechCode: 'ph',
     skyId: '258161'
@@ -21813,7 +21813,7 @@ export const difArr = [
   },
   {
     targetWord: "It's the right kind of wrong.",
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '257242'
   },
@@ -21826,7 +21826,7 @@ export const difArr = [
   {
     targetWord:
       "It's true. Love is something that can't be forced. All you can do is to try to be someone worthy of loving whether in friendship or romance.",
-    translation:
+    translating:
       'Это правда. Любовь – это то, что нельзя навязать. Всё, что вы можете сделать, это попытаться быть достойным любви в дружбе или романтических отношениях.',
     partOfSpeechCode: 'ph',
     skyId: '261979'
@@ -22020,7 +22020,7 @@ export const difArr = [
   {
     targetWord:
       "It’s true, because if you love someone that isn't worthy of being loved, they'll hurt you at the end.",
-    translation:
+    translating:
       'Всё верно, потому что если вы любите того, кто не заслуживает вашей любви, то этот человек, в конце концов, сделает вам больно.',
     partOfSpeechCode: 'ph',
     skyId: '261980'
@@ -22039,7 +22039,7 @@ export const difArr = [
   },
   {
     targetWord: 'I’d like a lawyer present before I answer that',
-    translation:
+    translating:
       'мне бы хотелось, чтобы тут был мой юрист, перед тем, как я дам ответ',
     partOfSpeechCode: 'ph',
     skyId: '253655'
@@ -22502,7 +22502,7 @@ export const difArr = [
   },
   {
     targetWord: 'I’m very interested in your job post for a ... .',
-    translation:
+    translating:
       'Меня очень заинтересовала размещенная вами вакансия специалиста.',
     partOfSpeechCode: 'ph',
     skyId: '253042'
@@ -22510,7 +22510,7 @@ export const difArr = [
   {
     targetWord:
       'I’m writing to express my interest in the ... position listed on ... .',
-    translation:
+    translating:
       'Я пишу в связи с заинтересовавшей меня позицией, размещенной на сайте.',
     partOfSpeechCode: 'ph',
     skyId: '253043'
@@ -22607,14 +22607,14 @@ export const difArr = [
   },
   {
     targetWord: 'JSC B.E. Vedeneev VNIIG',
-    translation:
+    translating:
       'АО «Всероссийский научно-исследовательский институт гидротехники имени Б.Е. Веденеева»',
     partOfSpeechCode: 'abb',
     skyId: '245805'
   },
   {
     targetWord: 'JSC Concern Rosenergoatom',
-    translation:
+    translating:
       'АО «Российский концерн по производству электрической и тепловой энергии на атомных станциях»',
     partOfSpeechCode: 'n',
     skyId: '250358'
@@ -23167,7 +23167,7 @@ export const difArr = [
   },
   {
     targetWord: 'Kyoto',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253245'
   },
@@ -23401,7 +23401,7 @@ export const difArr = [
   },
   {
     targetWord: 'LPD(M)S',
-    translation:
+    translating:
       'система обнаружения (контроля) незакрепленных (свободных) предметов ',
     partOfSpeechCode: 'abb',
     skyId: '249228'
@@ -23684,7 +23684,7 @@ export const difArr = [
   },
   {
     targetWord: 'Leave a request and our client manager will phone you back.',
-    translation:
+    translating:
       'Оставьте заявку, и наш менеджер по работе с клиентами вам перезвонит.',
     partOfSpeechCode: 'ph',
     skyId: '250889'
@@ -23877,7 +23877,7 @@ export const difArr = [
   },
   {
     targetWord: 'Let’s make an appointment to discuss our cooperation.',
-    translation:
+    translating:
       'Давайте назначим встречу, чтобы обсудить наше сотрудничество.',
     partOfSpeechCode: 'ph',
     skyId: '253026'
@@ -23969,7 +23969,7 @@ export const difArr = [
   {
     targetWord:
       "Listen, I'm really sorry but I have to terminate our call now.",
-    translation:
+    translating:
       'Послушайте, мне очень жаль, но я должен завершить наш звонок.',
     partOfSpeechCode: 'ph',
     skyId: '259770'
@@ -24036,7 +24036,7 @@ export const difArr = [
   },
   {
     targetWord: "Look, real life stinks sometimes, okay, I'm not gonna lie.",
-    translation:
+    translating:
       'Послушай, реальная жизнь порой отвратительна, да, я не буду врать.',
     partOfSpeechCode: 'ph',
     skyId: '261981'
@@ -24181,7 +24181,7 @@ export const difArr = [
   },
   {
     targetWord: 'MAGSW',
-    translation:
+    translating:
       'дуговая сварка металлическим электродом в среде защитного газа',
     partOfSpeechCode: 'abb',
     skyId: '257720'
@@ -24242,7 +24242,7 @@ export const difArr = [
   },
   {
     targetWord: 'MCS',
-    translation:
+    translating:
       'cистема кодирования трубопроводов, материалов, оборудования, устанавливаемого по месту, строительного оборудования, а также изделий и материалов, кодирование которых не предусмотрено системой KKS',
     partOfSpeechCode: 'abb',
     skyId: '246144'
@@ -24627,7 +24627,7 @@ export const difArr = [
   },
   {
     targetWord: 'Madagascar',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253215'
   },
@@ -25107,7 +25107,7 @@ export const difArr = [
   },
   {
     targetWord: 'May-December romance',
-    translation:
+    translating:
       'отношения с человеком значительно старше (значительно моложе)',
     partOfSpeechCode: 'ph',
     skyId: '264239'
@@ -25798,7 +25798,7 @@ export const difArr = [
   },
   {
     targetWord: 'NDA',
-    translation:
+    translating:
       'управление по выводу из эксплуатации ядерных объектов Великобритании',
     partOfSpeechCode: 'abb',
     skyId: '246300'
@@ -25889,7 +25889,7 @@ export const difArr = [
   },
   {
     targetWord: 'NILDAN BKP-2',
-    translation:
+    translating:
       'научно-исследовательская лаборатория динамического анализа зданий и сооружений БКП-2 ',
     partOfSpeechCode: 'abb',
     skyId: '245493'
@@ -25950,7 +25950,7 @@ export const difArr = [
   },
   {
     targetWord: 'NO I&C TC',
-    translation:
+    translating:
       'система контроля и управления оборудованием нормальной эксплуатации турбинного отделения ',
     partOfSpeechCode: 'abb',
     skyId: '248571'
@@ -25987,7 +25987,7 @@ export const difArr = [
   },
   {
     targetWord: 'NP-006-98 (PNAE G-01-036-95)',
-    translation:
+    translating:
       'Требования к содержанию отчета по обоснованию безопасности АС с реакторами типа ВВЭР (c дополнением № 1 согласно Регламенту № 1 Госатомнадзора РФ от 15.01.1996, с дополнением согласно резолюции № 13 Ростехнадзора от 20.12.2005) НП-006-98',
     partOfSpeechCode: 'abb',
     skyId: '246246'
@@ -26000,14 +26000,14 @@ export const difArr = [
   },
   {
     targetWord: 'NP-071-06',
-    translation:
+    translating:
       'правила оценки соответствия оборудования, комплектующих, материалов и полуфабрикатов, поставляемых на объекты использования атомной энергии ',
     partOfSpeechCode: 'abb',
     skyId: '246266'
   },
   {
     targetWord: 'NP-090-11',
-    translation:
+    translating:
       'требования к программам обеспечения качества для объектов использования атомной энергии ',
     partOfSpeechCode: 'abb',
     skyId: '246267'
@@ -26032,7 +26032,7 @@ export const difArr = [
   },
   {
     targetWord: 'NPDES',
-    translation:
+    translating:
       'национальная система предотвращения сброса загрязняющих веществ',
     partOfSpeechCode: 'abb',
     skyId: '259305'
@@ -26117,7 +26117,7 @@ export const difArr = [
   },
   {
     targetWord: 'NRC KI',
-    translation:
+    translating:
       'Национальный исследовательский центр "Курчатовский институт" ',
     partOfSpeechCode: 'abb',
     skyId: '246299'
@@ -26197,7 +26197,7 @@ export const difArr = [
   {
     targetWord:
       'Nano crystal color provides brighter colors and better contrast.',
-    translation:
+    translating:
       'Нанокристальный цвет обеспечивает более яркие цвета и лучший контраст.',
     partOfSpeechCode: 'ph',
     skyId: '251228'
@@ -26234,7 +26234,7 @@ export const difArr = [
   },
   {
     targetWord: 'National Operator for Radioactive Waste Management',
-    translation:
+    translating:
       'Национальный оператор по обращению с радиоактивными отходами ',
     partOfSpeechCode: 'n',
     skyId: '246598'
@@ -26301,7 +26301,7 @@ export const difArr = [
   },
   {
     targetWord: "Nelson's Column",
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '266770'
   },
@@ -26697,21 +26697,21 @@ export const difArr = [
   },
   {
     targetWord: 'No. 170-FZ dated 21/11/1995, amended 02/07/2013',
-    translation:
+    translating:
       'Федеральный закон РФ "Об использовании атомной энергии" (№ 170-ФЗ от 21.11.1995 г. ',
     partOfSpeechCode: 'n',
     skyId: '246240'
   },
   {
     targetWord: 'No. 3-FZ dated 09/01/1996, amended 19/07/2001',
-    translation:
+    translating:
       'Федеральный закон РФ «О радиационной безопасности населения» (№ 3- ФЗ от 09.01.1996 г.)',
     partOfSpeechCode: 'n',
     skyId: '246241'
   },
   {
     targetWord: 'No. 384-FZ dated 30/12/2009, amended 02/07/2013',
-    translation:
+    translating:
       'Федеральный закон РФ «Технический регламент о безопасности зданий и сооружений» (№ 384- ФЗ от 30.12.2009 г. ',
     partOfSpeechCode: 'n',
     skyId: '246242'
@@ -26868,7 +26868,7 @@ export const difArr = [
   },
   {
     targetWord: 'Now I would like to invite any questions you may have.',
-    translation:
+    translating:
       'Теперь я отвечу на все вопросы, которые у вас могли появиться.',
     partOfSpeechCode: 'ph',
     skyId: '251277'
@@ -26893,7 +26893,7 @@ export const difArr = [
   },
   {
     targetWord: 'Nuclear Supply Quality Assurance Committee',
-    translation:
+    translating:
       'комитет по обеспечению качества поставляемых на АЭС ядерных материалов',
     partOfSpeechCode: 'n',
     skyId: '247316'
@@ -26924,7 +26924,7 @@ export const difArr = [
   },
   {
     targetWord: 'OAFZiGO BKP-2',
-    translation:
+    translating:
       'отдел архитектуры, физической защиты и гражданской обороны БКП-2 ',
     partOfSpeechCode: 'abb',
     skyId: '245487'
@@ -26967,7 +26967,7 @@ export const difArr = [
   },
   {
     targetWord: 'ODAF',
-    translation:
+    translating:
       'трансформаторы с направленной циркуляцией масла и принудительным воздушным охлаждением',
     partOfSpeechCode: 'abb',
     skyId: '247819'
@@ -26980,7 +26980,7 @@ export const difArr = [
   },
   {
     targetWord: 'ODWF',
-    translation:
+    translating:
       'трансформаторы с направленной циркуляцией масла и принудительным водяным охлаждением',
     partOfSpeechCode: 'abb',
     skyId: '247820'
@@ -27005,7 +27005,7 @@ export const difArr = [
   },
   {
     targetWord: 'OFAF',
-    translation:
+    translating:
       'трансформаторы с принудительным масляным и принудительным воздушным охлаждением',
     partOfSpeechCode: 'abb',
     skyId: '247818'
@@ -27018,7 +27018,7 @@ export const difArr = [
   },
   {
     targetWord: 'OGSViK BKP-2',
-    translation:
+    translating:
       'отдел гидротехнических сооружений, водоснабжения и канализации БКП-2 ',
     partOfSpeechCode: 'abb',
     skyId: '245486'
@@ -27031,7 +27031,7 @@ export const difArr = [
   },
   {
     targetWord: 'OH&S management system',
-    translation:
+    translating:
       'система менеджмента профессионального здоровья и безопасности (OH&S)',
     partOfSpeechCode: 'n',
     skyId: '262772'
@@ -27044,7 +27044,7 @@ export const difArr = [
   },
   {
     targetWord: 'OH&S policy',
-    translation:
+    translating:
       'политика в области профессионального здоровья и безопасности (OH&S)',
     partOfSpeechCode: 'n',
     skyId: '262686'
@@ -27135,7 +27135,7 @@ export const difArr = [
   },
   {
     targetWord: 'OKRTT BKP-7',
-    translation:
+    translating:
       'отдел конструирования и расчетов технологических трубопроводов БКП-7 ',
     partOfSpeechCode: 'abb',
     skyId: '245660'
@@ -27166,7 +27166,7 @@ export const difArr = [
   },
   {
     targetWord: 'ONAN',
-    translation:
+    translating:
       'трансформаторы с естественным масляным и естественным воздушным охлаждением',
     partOfSpeechCode: 'abb',
     skyId: '247816'
@@ -27197,14 +27197,14 @@ export const difArr = [
   },
   {
     targetWord: 'OPASiS BKP-3',
-    translation:
+    translating:
       'отдел противопожарной автоматики, связи и сигнализации БКП-3 ',
     partOfSpeechCode: 'abb',
     skyId: '245645'
   },
   {
     targetWord: 'OPB-88/97 NP-001-97 (PNAE G-01-011-97)',
-    translation:
+    translating:
       'Общие положения обеспечения безопасности атомных станций ("ОПБ-88/97 НП-001-097 ',
     partOfSpeechCode: 'abb',
     skyId: '246245'
@@ -27307,7 +27307,7 @@ export const difArr = [
   },
   {
     targetWord: 'OTKAR BKP-7',
-    translation:
+    translating:
       'отдел технологического контроля и автоматического регулирования БКП-7 ',
     partOfSpeechCode: 'abb',
     skyId: '245663'
@@ -27399,7 +27399,7 @@ export const difArr = [
   {
     targetWord:
       'Oh, Hector! You were right! I should have come back home to my family!',
-    translation:
+    translating:
       'О, Гектор! Ты был прав! Мне следовало вернуться домой к своей семье!',
     partOfSpeechCode: 'ph',
     skyId: '256188'
@@ -27479,7 +27479,7 @@ export const difArr = [
   {
     targetWord:
       "Old people movies! Get ready for references we won't understand and words we can't repeat.",
-    translation:
+    translating:
       'Старые человеческие фильмы! Будьте готовы к отсылкам, которые мы не поймём и словам, которые не можем повторить.',
     partOfSpeechCode: 'ph',
     skyId: '261970'
@@ -27552,7 +27552,7 @@ export const difArr = [
   },
   {
     targetWord: 'One of the things I think is essential is ... because ...',
-    translation:
+    translating:
       'Одна из важнейших вещей, по моему мнению, - это... потому что',
     partOfSpeechCode: 'ph',
     skyId: '252779'
@@ -27967,7 +27967,7 @@ export const difArr = [
   },
   {
     targetWord: 'PHD',
-    translation:
+    translating:
       'степень доктора философии, доктор философии, докторская степень',
     partOfSpeechCode: 'abb',
     skyId: '263188'
@@ -28088,42 +28088,42 @@ export const difArr = [
   },
   {
     targetWord: 'PNAE G',
-    translation:
+    translating:
       'Правила и Нормы в Атомной Энергетике Госатомнадзора Российской Федерации ',
     partOfSpeechCode: 'abb',
     skyId: '246227'
   },
   {
     targetWord: 'PNAE G-10-007-89',
-    translation:
+    translating:
       'Нормы проектирования железобетонных сооружений локализующих систем безопасности атомных станций ',
     partOfSpeechCode: 'abb',
     skyId: '246272'
   },
   {
     targetWord: 'PNAE G-7-002-86',
-    translation:
+    translating:
       'нормы расчета на прочность оборудования и трубопроводов атомных энергетических установок ',
     partOfSpeechCode: 'abb',
     skyId: '246268'
   },
   {
     targetWord: 'PNAE G-7-008-89',
-    translation:
+    translating:
       'Правила устройства и безопасной эксплуатации оборудования и трубопроводов атомных энергетических установок (с изм. № 1, внесенным постановлением ГАН РФ от 27.12.1999 и изм. № 2, внесенным постановлением Ростехнадзора от 14.08.2006) ПНАЭ Г-7-008-89',
     partOfSpeechCode: 'abb',
     skyId: '246269'
   },
   {
     targetWord: 'PNAE G-7-009-89',
-    translation:
+    translating:
       'Оборудование и трубопроводы атомных энергетических установок. Сварка и наплавка. Основные положения (с изм. № 1, внесенным постановлением ГАН РФ от 27.12.1999 № 8) ПНАЭ Г-7-009-89',
     partOfSpeechCode: 'abb',
     skyId: '246270'
   },
   {
     targetWord: 'PNAE G-7-010-89',
-    translation:
+    translating:
       'Оборудование и трубопроводы атомных энергетических установок. Сварные соединения и наплавка. Правила контроля (с изм. № 1, внесенным постановлением ГАН РФ от 27.12.1999 № 7) ПНАЭ Г-7-010-89',
     partOfSpeechCode: 'abb',
     skyId: '246271'
@@ -28226,7 +28226,7 @@ export const difArr = [
   },
   {
     targetWord: 'PRZ PSD',
-    translation:
+    translating:
       'импульсное предохранительное устройство компенсатора давления ',
     partOfSpeechCode: 'abb',
     skyId: '245529'
@@ -28347,7 +28347,7 @@ export const difArr = [
   },
   {
     targetWord: 'PTOGTS',
-    translation:
+    translating:
       'производственно-технический отдел гидротехнических сооружений ',
     partOfSpeechCode: 'abb',
     skyId: '245653'
@@ -28630,7 +28630,7 @@ export const difArr = [
   },
   {
     targetWord: 'Performance Standard',
-    translation:
+    translating:
       '"Стандарт эффективности У нас — полугодовая встреча с руководителем по оценке работы сотрудника"',
     partOfSpeechCode: 'n',
     skyId: '265501'
@@ -28800,7 +28800,7 @@ export const difArr = [
   {
     targetWord:
       'Please accept my enthusiastic application for the position of ...for ... .',
-    translation:
+    translating:
       'Прошу рассмотреть мою кандидатуру на должность специалиста в компании',
     partOfSpeechCode: 'ph',
     skyId: '253041'
@@ -28814,14 +28814,14 @@ export const difArr = [
   {
     targetWord:
       'Please do contact me again if I can be of any further assistance.',
-    translation:
+    translating:
       'Пожалуйста, свяжитесь со мной, если потребуется дальнейшая помощь.',
     partOfSpeechCode: 'ph',
     skyId: '250782'
   },
   {
     targetWord: "Please don't take this too badly but ...",
-    translation:
+    translating:
       'Пожалуйста, не принимайте это слишком близко к сердцу, но ...',
     partOfSpeechCode: 'ph',
     skyId: '264498'
@@ -29201,7 +29201,7 @@ export const difArr = [
   {
     targetWord:
       'Pre-ordered items will be available for pickup after their release date.',
-    translation:
+    translating:
       'Предварительно заказанные товары можно будет забрать после даты их выхода.',
     partOfSpeechCode: 'ph',
     skyId: '250895'
@@ -29244,7 +29244,7 @@ export const difArr = [
   },
   {
     targetWord: 'Products may be larger than expected due to their packaging.',
-    translation:
+    translating:
       'Продукты могут быть больше по размеру, чем ожидалось, из-за их упаковки.',
     partOfSpeechCode: 'ph',
     skyId: '250896'
@@ -29324,7 +29324,7 @@ export const difArr = [
   {
     targetWord:
       'Put seats back and tray tables in their full upright position.',
-    translation:
+    translating:
       'Поместите спинки сидений и откидные столики в вертикальное положение.',
     partOfSpeechCode: 'ph',
     skyId: '257865'
@@ -29367,7 +29367,7 @@ export const difArr = [
   },
   {
     targetWord: 'QAP (C)',
-    translation:
+    translating:
       'Программа обеспечения качества при вводе АЭС в эксплуатацию (ПОКАС ',
     partOfSpeechCode: 'abb',
     skyId: '247148'
@@ -29530,35 +29530,35 @@ export const difArr = [
   },
   {
     targetWord: 'RB G-05-039-96',
-    translation:
+    translating:
       'руководство по анализу опасности аварийных взрывов и определению параметров их механического воздействия ',
     partOfSpeechCode: 'abb',
     skyId: '246274'
   },
   {
     targetWord: 'RB-002-97',
-    translation:
+    translating:
       'водно-химический режим атомных станций - основные требования безопасности ',
     partOfSpeechCode: 'abb',
     skyId: '246273'
   },
   {
     targetWord: 'RB-006-98',
-    translation:
+    translating:
       'определение исходных сейсмических колебаний грунта для проектных основ ',
     partOfSpeechCode: 'abb',
     skyId: '246248'
   },
   {
     targetWord: 'RB-032-04',
-    translation:
+    translating:
       'основные рекомендации по выполнению вероятностного анализа безопасности атомных станций ',
     partOfSpeechCode: 'abb',
     skyId: '246250'
   },
   {
     targetWord: 'RB-099-99',
-    translation:
+    translating:
       'методология оценки уязвимости физической защиты ядерных материалов и ядерных установок ',
     partOfSpeechCode: 'abb',
     skyId: '246249'
@@ -29589,7 +29589,7 @@ export const difArr = [
   },
   {
     targetWord: 'RCC',
-    translation:
+    translating:
       'главный циркуляционный контур; Контур теплоносителя реактора; первый контур ',
     partOfSpeechCode: 'abb',
     skyId: '245572'
@@ -29614,7 +29614,7 @@ export const difArr = [
   },
   {
     targetWord: 'RCM',
-    translation:
+    translating:
       'техническое обслуживание, ориентированное на обеспечение надежности',
     partOfSpeechCode: 'abb',
     skyId: '246631'
@@ -29669,35 +29669,35 @@ export const difArr = [
   },
   {
     targetWord: 'RD 153-34.0-49.105-01',
-    translation:
+    translating:
       'нормы проектирования автоматических установок водяного пожаротушения кабельных сооружений ',
     partOfSpeechCode: 'abb',
     skyId: '246277'
   },
   {
     targetWord: 'RD 210.006-90 (SP)',
-    translation:
+    translating:
       'правила технологического проектирования атомных станций (с реакторами ВВЭР) РД 210.006-90 ',
     partOfSpeechCode: 'abb',
     skyId: '246276'
   },
   {
     targetWord: 'RD 95-10528-96',
-    translation:
+    translating:
       'руководящие документы по определению параметров ударных волн во время внешних взрывов и нагрузок на строительные конструкции АЭС ',
     partOfSpeechCode: 'abb',
     skyId: '246278'
   },
   {
     targetWord: 'RD EO-0550-2005',
-    translation:
+    translating:
       'теплоизоляция оборудования и трубопроводов реакторных блоков АЭС, оснащенных реакторами ВВЭР. Общие технические условия ',
     partOfSpeechCode: 'abb',
     skyId: '246275'
   },
   {
     targetWord: 'RD-03-41-2002',
-    translation:
+    translating:
       'требования к составу и содержанию пакета документов, обосновывающих деятельность при проектировании и изготовлении оборудования для объектов использования атомной энергии ',
     partOfSpeechCode: 'abb',
     skyId: '246279'
@@ -30119,7 +30119,7 @@ export const difArr = [
   {
     targetWord:
       'Remember to remove your personal data from the products you are returning.',
-    translation:
+    translating:
       'Не забудьте удалить ваши личные данные с товаров, которые вы возвращаете.',
     partOfSpeechCode: 'ph',
     skyId: '250898'
@@ -30127,7 +30127,7 @@ export const difArr = [
   {
     targetWord:
       'Remember: reality is an illusion. The universe is a hologram. Buy gold. Bye!',
-    translation:
+    translating:
       'Запомни: реальность – это иллюзия. Вселенная – это голограмма. Покупай золото. Пока!',
     partOfSpeechCode: 'ph',
     skyId: '261968'
@@ -30249,7 +30249,7 @@ export const difArr = [
   {
     targetWord:
       'Resolution No. 87 of the RF Government dated 16/02/2008, amended 10/12/2014',
-    translation:
+    translating:
       '«О составе разделов проектной документации и требованиях к ее содержанию» (Постановление Правительства РФ № 87 от 16.02.2008г. ',
     partOfSpeechCode: 'n',
     skyId: '246244'
@@ -30442,7 +30442,7 @@ export const difArr = [
   },
   {
     targetWord: 'Rostekh-nadzor',
-    translation:
+    translating:
       'Федеральная служба по экологическому, технологическому и атомному надзору ',
     partOfSpeechCode: 'n',
     skyId: '245834'
@@ -30929,14 +30929,14 @@ export const difArr = [
   },
   {
     targetWord: 'SNiP 3.05.04-85',
-    translation:
+    translating:
       'наружные сети и сооружения водоснабжения и канализации (СНиП 3.05.04-85 ',
     partOfSpeechCode: 'abb',
     skyId: '246264'
   },
   {
     targetWord: 'SNiP 3.05.05-84',
-    translation:
+    translating:
       'Правила выполнения и приемки работ. Электротехнические устройства ',
     partOfSpeechCode: 'abb',
     skyId: '246260'
@@ -30997,7 +30997,7 @@ export const difArr = [
   },
   {
     targetWord: 'SP 10.13130.2009',
-    translation:
+    translating:
       'Система противопожарной защиты. Внутренний противопожарный трубопровод. Требования пожарной безопасности (С изм. № 1 Министерства по чрезвычайным ситуациям (МЧС) России Приказ № 641 от 09.12.2010)СП 10.13130.2009',
     partOfSpeechCode: 'abb',
     skyId: '246255'
@@ -31010,14 +31010,14 @@ export const difArr = [
   },
   {
     targetWord: 'SP 12.13130.2009',
-    translation:
+    translating:
       'Определение категорий помещений, зданий и наружных установок по взрывопожарной и пожарной опасности (С изм. № 1 Министерства по чрезвычайным ситуациям (МЧС) России Приказ № 643 от 09.12.2010) -СП 12.13130.2009',
     partOfSpeechCode: 'abb',
     skyId: '246256'
   },
   {
     targetWord: 'SP AS-03',
-    translation:
+    translating:
       'санитарные правила проектирования и эксплуатации атомных станций ',
     partOfSpeechCode: 'abb',
     skyId: '246261'
@@ -31174,7 +31174,7 @@ export const difArr = [
   },
   {
     targetWord: 'STARD',
-    translation:
+    translating:
       'Стандарты отчётности об инициативе исследований точности диагностики',
     partOfSpeechCode: 'abb',
     skyId: '260449'
@@ -31343,21 +31343,21 @@ export const difArr = [
   },
   {
     targetWord: 'SanPiN 2.1.4.1074-01',
-    translation:
+    translating:
       'Санитарные правила и нормы. Питьевая вода Гигиенические требования к качеству воды централизованных систем питьевого водоснабжения. Контроль качества Гигиенические требования к обеспечению безопасности систем горячего водоснабжения ',
     partOfSpeechCode: 'abb',
     skyId: '246253'
   },
   {
     targetWord: 'SanPiN 2.6.1.24-03',
-    translation:
+    translating:
       'санитарные правила проектирования и эксплуатации атомных станций (СП АС-03) - СанПиН 2.6.1.24-03',
     partOfSpeechCode: 'abb',
     skyId: '246251'
   },
   {
     targetWord: 'SanPiN 2.6.1.2523-09',
-    translation:
+    translating:
       'Ионизирующее излучение, радиационная безопасность. Нормы радиационной безопасности ',
     partOfSpeechCode: 'abb',
     skyId: '246252'
@@ -31418,7 +31418,7 @@ export const difArr = [
   },
   {
     targetWord: 'Satellite provides faster upload speed and greater capacity.',
-    translation:
+    translating:
       'Спутник обеспечивает более высокую скорость загрузки и большую ёмкость.',
     partOfSpeechCode: 'ph',
     skyId: '251239'
@@ -31678,7 +31678,7 @@ export const difArr = [
   {
     targetWord:
       'Set password for your home network to prevent it from overloading.',
-    translation:
+    translating:
       'Установите пароль на вашей домашней сети, чтобы предотвратить ее перегрузку.',
     partOfSpeechCode: 'ph',
     skyId: '251238'
@@ -31853,7 +31853,7 @@ export const difArr = [
   },
   {
     targetWord: 'Should you fail to do so, I will be requesting a full refund',
-    translation:
+    translating:
       'Если у вас не получится это сделать, я буду требовать полный возврат стоимости',
     partOfSpeechCode: 'ph',
     skyId: '253443'
@@ -32215,7 +32215,7 @@ export const difArr = [
   {
     targetWord:
       'Sometimes touchscreen keyboard seems not really comfortable for typing.',
-    translation:
+    translating:
       'Иногда сенсорная клавиатура кажется не очень удобной для набора текста.',
     partOfSpeechCode: 'ph',
     skyId: '251226'
@@ -32781,7 +32781,7 @@ export const difArr = [
   {
     targetWord:
       'Synchronization with cloud server lets you save your data on the Internet.',
-    translation:
+    translating:
       'Синхронизация с облачным сервером позволяет вам сохранять данные в Интернете.',
     partOfSpeechCode: 'ph',
     skyId: '251224'
@@ -32836,7 +32836,7 @@ export const difArr = [
   },
   {
     targetWord: 'TAGSW',
-    translation:
+    translating:
       'дуга при сварке вольфрамовым электродом в среде защитного газа',
     partOfSpeechCode: 'abb',
     skyId: '257737'
@@ -32885,7 +32885,7 @@ export const difArr = [
   },
   {
     targetWord: 'TDD',
-    translation:
+    translating:
       'методология разработки ПО, в котором сначала пишутся тесты, а затем по этим тестам - код',
     partOfSpeechCode: 'n',
     skyId: '252500'
@@ -33018,7 +33018,7 @@ export const difArr = [
   },
   {
     targetWord: 'TRINITI',
-    translation:
+    translating:
       'Троицкий институт инновационных и термоядерных исследований, Государственный научный центр Российской Федерации ',
     partOfSpeechCode: 'abb',
     skyId: '246515'
@@ -33296,7 +33296,7 @@ export const difArr = [
   {
     targetWord:
       'Take that ironing and have it back in an hour. One hour! You hear?',
-    translation:
+    translating:
       'Погладь эти вещи и чтоб через час было готово. Через час! Слышишь меня?',
     partOfSpeechCode: 'ph',
     skyId: '256180'
@@ -33478,7 +33478,7 @@ export const difArr = [
   {
     targetWord:
       'Thank you all for listening, it was a pleasure being here today.',
-    translation:
+    translating:
       'Спасибо всем за внимание. Я очень рад, что побывал здесь сегодня.',
     partOfSpeechCode: 'ph',
     skyId: '251275'
@@ -33551,7 +33551,7 @@ export const difArr = [
   },
   {
     targetWord: 'Thank you very much for executing our order professionally.',
-    translation:
+    translating:
       'Большое спасибо за то, что профессионально выполнили наш заказ.',
     partOfSpeechCode: 'ph',
     skyId: '250856'
@@ -34039,7 +34039,7 @@ export const difArr = [
   {
     targetWord:
       "The nap room is something I'll definitely suggest to my colleagues back home.",
-    translation:
+    translating:
       'Комната отдыха - это то, что я обязательно предложу своим коллегам, вернувшись домой.',
     partOfSpeechCode: 'ph',
     skyId: '258178'
@@ -34100,7 +34100,7 @@ export const difArr = [
   },
   {
     targetWord: 'The report must include what you did for the week.',
-    translation:
+    translating:
       'Отчет должен включать информацию о работе, которую вы выполнили за неделю.',
     partOfSpeechCode: 'ph',
     skyId: '251147'
@@ -34191,7 +34191,7 @@ export const difArr = [
   },
   {
     targetWord: "The video you're about to watch is a good illustration of it.",
-    translation:
+    translating:
       'Видео, которое вы собираетесь смотреть, хорошо это иллюстрирует.',
     partOfSpeechCode: 'ph',
     skyId: '258327'
@@ -34252,7 +34252,7 @@ export const difArr = [
   },
   {
     targetWord: 'There is a lot of noise here. Can I change my work place?',
-    translation:
+    translating:
       'Здесь слишком много шума. Могу я поменять свое рабочее место?',
     partOfSpeechCode: 'ph',
     skyId: '250929'
@@ -34463,7 +34463,7 @@ export const difArr = [
   },
   {
     targetWord: 'This Internet package is ideal for multiple computers.',
-    translation:
+    translating:
       'Этот интернет-пакет идеально подходит для нескольких компьютеров.',
     partOfSpeechCode: 'ph',
     skyId: '251237'
@@ -34471,7 +34471,7 @@ export const difArr = [
   {
     targetWord:
       'This app allows me to book the flight tickets via my smartphone.',
-    translation:
+    translating:
       'Это приложение позволяет мне бронировать билеты на самолет через мой смартфон.',
     partOfSpeechCode: 'ph',
     skyId: '251223'
@@ -34594,14 +34594,14 @@ export const difArr = [
   {
     targetWord:
       'This provider allows to bundle TV, Internet and phone together.',
-    translation:
+    translating:
       'Этот провайдер позволяет связывать TV, Интернет и телефон вместе.',
     partOfSpeechCode: 'ph',
     skyId: '251236'
   },
   {
     targetWord: 'This provider gives a free bandwidth for weekends.',
-    translation:
+    translating:
       'Этот провайдер дает бесплатное поглощение трафика по выходным.',
     partOfSpeechCode: 'ph',
     skyId: '251235'
@@ -34740,7 +34740,7 @@ export const difArr = [
   },
   {
     targetWord: "To enlarge on the question, I'd like to say ...",
-    translation:
+    translating:
       'Чтобы подробнее остановиться на этом вопросе, я хотел бы сказать ...',
     partOfSpeechCode: 'ph',
     skyId: '264508'
@@ -34766,7 +34766,7 @@ export const difArr = [
   {
     targetWord:
       'To get information about special offers, subscribe to our mailout.',
-    translation:
+    translating:
       'Чтобы ознакомиться cо специальными предложениями, подпишитесь на нашу почтовую рассылку.',
     partOfSpeechCode: 'ph',
     skyId: '250900'
@@ -34947,14 +34947,14 @@ export const difArr = [
   },
   {
     targetWord: 'Touch ID unlocks your phone screen using your fingerprint.',
-    translation:
+    translating:
       'Touch ID разблокирует экран вашего телефона, используя ваш отпечаток пальца.',
     partOfSpeechCode: 'ph',
     skyId: '251221'
   },
   {
     targetWord: 'Touch base',
-    translation:
+    translating:
       '"Встреча, чтобы свериться (по какому-то вопросу) У нас — регулярная встреча с руководителем, во время которой фокус делается на индивидуальной эффективности и развитии"',
     partOfSpeechCode: 'n',
     skyId: '265498'
@@ -35213,7 +35213,7 @@ export const difArr = [
   },
   {
     targetWord: 'UHRS',
-    translation:
+    translating:
       'спектр реакции с равной вероятностью превышения спектральных амплитуд',
     partOfSpeechCode: 'abb',
     skyId: '248425'
@@ -35250,7 +35250,7 @@ export const difArr = [
   },
   {
     targetWord: 'UNIPEDE',
-    translation:
+    translating:
       'международный союз производителей и поставщиков электроэнергии',
     partOfSpeechCode: 'abb',
     skyId: '246201'
@@ -35275,7 +35275,7 @@ export const difArr = [
   },
   {
     targetWord: 'UPS with storage battery for 3 h of independent operation',
-    translation:
+    translating:
       'источник бесперебойного питания с аккумуляторной батареей на 3 часа автономной работы',
     partOfSpeechCode: 'n',
     skyId: '250053'
@@ -35475,7 +35475,7 @@ export const difArr = [
   {
     targetWord:
       'Unfortunately, we must decline your offer for the following reasons.',
-    translation:
+    translating:
       'К сожалению, мы вынуждены отклонить ваше предложение в связи со следующими причинами.',
     partOfSpeechCode: 'ph',
     skyId: '251168'
@@ -35597,7 +35597,7 @@ export const difArr = [
   {
     targetWord:
       'User manual contains everything you need to know about this device.',
-    translation:
+    translating:
       'Руководство пользователя содержит все, что вам нужно знать об этом устройстве.',
     partOfSpeechCode: 'ph',
     skyId: '251220'
@@ -35605,7 +35605,7 @@ export const difArr = [
   {
     targetWord:
       'Using licensed software prevents a device from any non-physical damage.',
-    translation:
+    translating:
       'Использование лицензионного программного обеспечения предотвращает любые не-физические повреждения устройства.',
     partOfSpeechCode: 'ph',
     skyId: '251218'
@@ -35744,7 +35744,7 @@ export const difArr = [
   },
   {
     targetWord: 'VGB-KWT GmbH',
-    translation:
+    translating:
       'Общество с ограниченной ответственностью VGB-Kraftwerkstechnik',
     partOfSpeechCode: 'abb',
     skyId: '246322'
@@ -35769,7 +35769,7 @@ export const difArr = [
   },
   {
     targetWord: 'VNIIPO',
-    translation:
+    translating:
       'Всероссийский научно-исследовательский институт пожарной охраны ',
     partOfSpeechCode: 'abb',
     skyId: '245666'
@@ -36124,7 +36124,7 @@ export const difArr = [
   },
   {
     targetWord: 'WENRA',
-    translation:
+    translating:
       'Ассоциация западноевропейских организаций, регулирующих атомную промышленность',
     partOfSpeechCode: 'abb',
     skyId: '246323'
@@ -36161,7 +36161,7 @@ export const difArr = [
   },
   {
     targetWord: 'WS AFPS',
-    translation:
+    translating:
       'рабочая станция системы автоматической противопожарной защиты ',
     partOfSpeechCode: 'abb',
     skyId: '248953'
@@ -36450,7 +36450,7 @@ export const difArr = [
   },
   {
     targetWord: 'We offer Asian and European cuisine at reasonable prices.',
-    translation:
+    translating:
       'Мы предлагаем Азиатскую и Европейскую кухню по доступным ценам.',
     partOfSpeechCode: 'ph',
     skyId: '258184'
@@ -36464,7 +36464,7 @@ export const difArr = [
   {
     targetWord:
       'We provide additional features such as internet security and parental controls.',
-    translation:
+    translating:
       'Мы предоставляем дополнительные функции, такие как интернет-безопасность и родительский контроль.',
     partOfSpeechCode: 'ph',
     skyId: '251234'
@@ -36472,7 +36472,7 @@ export const difArr = [
   {
     targetWord:
       'We provide free live technical support to help you to connect.',
-    translation:
+    translating:
       'Мы обеспечиваем бесплатную живую техподдержку, чтобы помочь вам подключиться.',
     partOfSpeechCode: 'ph',
     skyId: '251233'
@@ -36522,7 +36522,7 @@ export const difArr = [
   {
     targetWord:
       "We'll pre-activate your device and provide simple instruction to complete activation.",
-    translation:
+    translating:
       'Мы предварительно активируем устройство и обеспечим простую инструкцию, чтобы завершить активацию.',
     partOfSpeechCode: 'ph',
     skyId: '250909'
@@ -36625,7 +36625,7 @@ export const difArr = [
   },
   {
     targetWord: 'Well, could you dial him for me and ask him to call me back?',
-    translation:
+    translating:
       'Что ж, вы бы не могли набрать его и попросить перезвонить мне?',
     partOfSpeechCode: 'ph',
     skyId: '259752'
@@ -37346,7 +37346,7 @@ export const difArr = [
   },
   {
     targetWord: 'What main places of interest do you advise us to see?',
-    translation:
+    translating:
       'Какие основные достопримечательности вы советуете нам осмотреть?',
     partOfSpeechCode: 'ph',
     skyId: '244486'
@@ -37847,7 +37847,7 @@ export const difArr = [
   {
     targetWord:
       'When gravity falls, and earth becomes sky, fear the beast with just one eye...',
-    translation:
+    translating:
       'Когда гравитация ослабевает, и земля становится небом, бойтесь зверя с одним глазом…',
     partOfSpeechCode: 'ph',
     skyId: '261964'
@@ -38622,7 +38622,7 @@ export const difArr = [
   },
   {
     targetWord: 'Wireless compatibility on my laptop is really impressing.',
-    translation:
+    translating:
       'Беспроводная совместимость на моем ноутбуке действительно впечатляющая.',
     partOfSpeechCode: 'ph',
     skyId: '251215'
@@ -38648,7 +38648,7 @@ export const difArr = [
   {
     targetWord:
       'With portable battery charger I never care about my battery getting low.',
-    translation:
+    translating:
       'С переносным зарядным устройством я никогда не беспокоюсь о том, что моя батарея садится.',
     partOfSpeechCode: 'ph',
     skyId: '251214'
@@ -38656,7 +38656,7 @@ export const difArr = [
   {
     targetWord:
       'With reference to our phone conversation this morning, I hereby confirm...',
-    translation:
+    translating:
       'Что касается нашего телефонного разговора сегодня утром, я подтверждаю ...',
     partOfSpeechCode: 'ph',
     skyId: '253565'
@@ -39109,7 +39109,7 @@ export const difArr = [
   },
   {
     targetWord: 'You are welcome to contact and follow me via social media.',
-    translation:
+    translating:
       'Буду рад, если вы свяжетесь со мной и подпишитесь в социальных сетях.',
     partOfSpeechCode: 'ph',
     skyId: '253029'
@@ -39147,7 +39147,7 @@ export const difArr = [
   {
     targetWord:
       'You can fully control this TV using your smartphone via Wi-Fi.',
-    translation:
+    translating:
       'Вы можете полностью контролировать этот телевизор с помощью вашего смартфона через Wi-Fi.',
     partOfSpeechCode: 'ph',
     skyId: '251212'
@@ -39160,14 +39160,14 @@ export const difArr = [
   },
   {
     targetWord: "You can run, but I'll still be in your nightmares!",
-    translation:
+    translating:
       'Ты можешь убегать, но я всё равно буду в твоих ночных кошмарах!',
     partOfSpeechCode: 'ph',
     skyId: '261973'
   },
   {
     targetWord: 'You can see special custom models in our online shop.',
-    translation:
+    translating:
       'Вы можете видеть специальные, изготовленные на заказ модели в нашем онлайн-магазине.',
     partOfSpeechCode: 'ph',
     skyId: '250910'
@@ -39204,7 +39204,7 @@ export const difArr = [
   },
   {
     targetWord: 'You have a right to refund the products you paid for.',
-    translation:
+    translating:
       'Вы имеете право на возврат продукции, за которую вы заплатили.',
     partOfSpeechCode: 'ph',
     skyId: '250913'
@@ -39518,7 +39518,7 @@ export const difArr = [
   },
   {
     targetWord: 'Your work was good, but I think you can do better.',
-    translation:
+    translating:
       'Ваша работа была хорошей, но я думаю, что вы можете работать лучше.',
     partOfSpeechCode: 'ph',
     skyId: '251139'
@@ -39687,13 +39687,13 @@ export const difArr = [
   },
   {
     targetWord: 'Велосипед с фиксированной передачей',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '254879'
   },
   {
     targetWord: 'Подвинься чуточку.',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '266154'
   },
@@ -39741,7 +39741,7 @@ export const difArr = [
   },
   {
     targetWord: 'участвовать в мероприятиях',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '266038'
   },
@@ -39760,7 +39760,7 @@ export const difArr = [
   {
     targetWord:
       '“something old, something new, something borrowed, something blue”',
-    translation:
+    translating:
       '“что-то старое, что-то новое, что-то заимствованное, что-то голубое”',
     partOfSpeechCode: 'ph',
     skyId: '264514'

@@ -2253,7 +2253,7 @@ export const gArr = [
   {
     targetWord:
       'gain factor 13 db, 50 ohm, 85º dn, with cross-polarization, ip65',
-    translation:
+    translating:
       'коэффициент усиления 13 дб, 50 ом, 85 градусов дн, с кроссполяризацией, ip65',
     partOfSpeechCode: 'n',
     skyId: '250096'
@@ -6814,14 +6814,14 @@ export const gArr = [
   },
   {
     targetWord: 'genderfluid',
-    translation:
+    translating:
       'человек, чья гендерная идентичность непостоянна и переменчива',
     partOfSpeechCode: 'n',
     skyId: '265320'
   },
   {
     targetWord: 'genderqueer',
-    translation:
+    translating:
       'человек, который не относит себя ни к женскому, ни к мужскому полу',
     partOfSpeechCode: 'n',
     skyId: '265319'
@@ -7902,7 +7902,7 @@ export const gArr = [
   },
   {
     targetWord: 'gentility without ability is worse than plain beggary',
-    translation:
+    translating:
       'Человек с аристократическими замашками, но без денег, хуже, чем попрошайка',
     partOfSpeechCode: 'ph',
     skyId: '242820'
@@ -14239,7 +14239,7 @@ export const gArr = [
   },
   {
     targetWord: 'gerrymander',
-    translation:
+    translating:
       'предвыборные махинации, связанные с неправильной разбивкой на округа',
     partOfSpeechCode: 'n',
     skyId: '2838'
@@ -14576,7 +14576,7 @@ export const gArr = [
   },
   {
     targetWord: 'get a good degree',
-    translation:
+    translating:
       'получить степень, окончить университет с хорошим итоговым баллом, успешно окончить университет',
     partOfSpeechCode: 'ph',
     skyId: '263106'
@@ -14703,7 +14703,7 @@ export const gArr = [
   },
   {
     targetWord: 'get a name to rise early, and you may lie all day',
-    translation:
+    translating:
       'Создай себе репутацию рано встающего человека, потом хоть целыми днями валяйся в постели',
     partOfSpeechCode: 'ph',
     skyId: '242821'
@@ -19378,7 +19378,7 @@ export const gArr = [
   },
   {
     targetWord: 'give priority',
-    translation:
+    translating:
       'отдавать предпочтение, отдавать приоритет, рассматривать в первоочередном порядке',
     partOfSpeechCode: 'ph',
     skyId: '263343'
@@ -19547,7 +19547,7 @@ export const gArr = [
   },
   {
     targetWord: 'give someone a taste of something',
-    translation:
+    translating:
       'дать кому-либо попробовать, почувствовать что-либо; продемонстрировать что-либо',
     partOfSpeechCode: 'ph',
     skyId: '263215'
@@ -24210,7 +24210,7 @@ export const gArr = [
   },
   {
     targetWord: 'go-slow',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253281'
   },
@@ -30732,7 +30732,7 @@ export const gArr = [
   },
   {
     targetWord: 'great',
-    translation:
+    translating:
       'используется в качестве усилителя перед прилагательными размера или качества',
     partOfSpeechCode: 'j',
     skyId: '255335'
@@ -34771,7 +34771,7 @@ export const gArr = [
   },
   {
     targetWord: 'groveling',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253300'
   },

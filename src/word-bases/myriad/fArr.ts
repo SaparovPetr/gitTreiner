@@ -3806,7 +3806,7 @@ export const fArr = [
   },
   {
     targetWord: 'fair-weather friend',
-    translation:
+    translating:
       'друг, который остаётся с тобой только в радости и исчезает, когда у тебя проблемы',
     partOfSpeechCode: 'ph',
     skyId: '241992'
@@ -8769,14 +8769,14 @@ export const fArr = [
   },
   {
     targetWord: 'father figure',
-    translation:
+    translating:
       'мужчина, которого почитают как отца или который заменяет кому-л. отца',
     partOfSpeechCode: 'n',
     skyId: '81328'
   },
   {
     targetWord: 'father-figure',
-    translation:
+    translating:
       'мужчина, которого почитают как отца или который заменяет кому-либо отца',
     partOfSpeechCode: 'n',
     skyId: '166648'
@@ -8981,7 +8981,7 @@ export const fArr = [
   },
   {
     targetWord: 'fatty food',
-    translation:
+    translating:
       'жирная пища, жирная еда, продукты с повышенным содержанием жиров',
     partOfSpeechCode: 'n',
     skyId: '263079'
@@ -9150,7 +9150,7 @@ export const fArr = [
   },
   {
     targetWord: 'fault mode effect and criticality analysis',
-    translation:
+    translating:
       'метод анализа видов, последствий и критичности потенциальных дефектов',
     partOfSpeechCode: 'n',
     skyId: '252600'
@@ -17726,7 +17726,7 @@ export const fArr = [
   },
   {
     targetWord: 'finger',
-    translation:
+    translating:
       'получать сведения о пользователях хоста с помощью утилиты Finger',
     partOfSpeechCode: 'v',
     skyId: '65942'
@@ -18681,7 +18681,7 @@ export const fArr = [
   },
   {
     targetWord: 'fire-fighting and service cooling water pump station',
-    translation:
+    translating:
       'насосная станция противопожарного и технического водоснабжения',
     partOfSpeechCode: 'n',
     skyId: '249500'
@@ -18730,7 +18730,7 @@ export const fArr = [
   },
   {
     targetWord: 'fire-retardant',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253311'
   },
@@ -19642,7 +19642,7 @@ export const fArr = [
   },
   {
     targetWord: 'first-mover advantage',
-    translation:
+    translating:
       'преимущество для того, кто первый выводит свой товар на рынок',
     partOfSpeechCode: 'n',
     skyId: '256440'
@@ -19883,7 +19883,7 @@ export const fArr = [
   },
   {
     targetWord: 'fish knife',
-    translation:
+    translating:
       'нож с широким лезвием и без острого края, используемый для поедания рыбы',
     partOfSpeechCode: 'n',
     skyId: '136994'
@@ -20052,7 +20052,7 @@ export const fArr = [
   },
   {
     targetWord: 'fishing expedition',
-    translation:
+    translating:
       'подбор компрометирующих материалов (для политической дискредитации',
     partOfSpeechCode: 'n',
     skyId: '30000'
@@ -20533,7 +20533,7 @@ export const fArr = [
   },
   {
     targetWord: 'fitness',
-    translation:
+    translating:
       'физическая активность, направленная на поддержание физической формы',
     partOfSpeechCode: 'n',
     skyId: '17768'
@@ -20648,7 +20648,7 @@ export const fArr = [
   },
   {
     targetWord: 'fitzgerald',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253294'
   },
@@ -22605,7 +22605,7 @@ export const fArr = [
   {
     targetWord:
       'flat angular three-channel modular cable duct with upward turn',
-    translation:
+    translating:
       'короб кабельный блочный трехканальный угловой плоский с поворотом вверх',
     partOfSpeechCode: 'n',
     skyId: '249997'
@@ -23662,7 +23662,7 @@ export const fArr = [
   },
   {
     targetWord: 'flesh-coloured',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253308'
   },
@@ -23813,7 +23813,7 @@ export const fArr = [
   {
     targetWord:
       'flexible power cables with stranded cores, with rubber insulation, in a rubber sheath not propagating fire',
-    translation:
+    translating:
       'кабели силовые гибкие с медными многопроволочными жилами, с резиновой изоляцией, в резиновой оболочке, не распространяющей горение',
     partOfSpeechCode: 'n',
     skyId: '250089'
@@ -25297,7 +25297,7 @@ export const fArr = [
   {
     targetWord:
       'floor-mounted, 42u, in a set with cable rack for 200 pairs pulse overvoltage protectors, for 100 pairs',
-    translation:
+    translating:
       'напольный, 42u, в комплекте с кроссом ка-бельным на 200 пар и устройствами защиты от импульсных перенапряжений на 100 пар',
     partOfSpeechCode: 'n',
     skyId: '250092'
@@ -29414,14 +29414,14 @@ export const fArr = [
   },
   {
     targetWord: 'fools rush in',
-    translation:
+    translating:
       'малоопытный часто ввязывается в то, чего опытные люди избегают',
     partOfSpeechCode: 'ph',
     skyId: '242815'
   },
   {
     targetWord: 'fools rush in where angels fear to tread',
-    translation:
+    translating:
       'Дуракам закон не писан, если писан - то не читан, если читан - то не понят, если понят - то не так',
     partOfSpeechCode: 'ph',
     skyId: '242825'
@@ -29956,7 +29956,7 @@ export const fArr = [
   },
   {
     targetWord: 'for',
-    translation:
+    translating:
       'указывает на исполнителя или адресата действия, выраженного глаголом в инфинитиве',
     partOfSpeechCode: 'prp',
     skyId: '235943'
@@ -29987,7 +29987,7 @@ export const fArr = [
   },
   {
     targetWord: 'for',
-    translation:
+    translating:
       'указывает на продолжительность какого-либо действия или ситуации',
     partOfSpeechCode: 'prp',
     skyId: '233515'
@@ -30846,7 +30846,7 @@ export const fArr = [
   },
   {
     targetWord: 'ford',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'v',
     skyId: '253353'
   },
@@ -33852,7 +33852,7 @@ export const fArr = [
   },
   {
     targetWord: 'foster-father',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253355'
   },
@@ -38388,7 +38388,7 @@ export const fArr = [
   },
   {
     targetWord: 'from diverse backgrounds',
-    translation:
+    translating:
       'из различных слоев общества, из разных слоев общества, представляющие различные слои общества',
     partOfSpeechCode: 'ph',
     skyId: '263055'
@@ -40021,7 +40021,7 @@ export const fArr = [
   },
   {
     targetWord: 'fuel pool pipework',
-    translation:
+    translating:
       'система трубопроводов бассейна выдержки и шахт транспортно-технологического оборудования',
     partOfSpeechCode: 'n',
     skyId: '245796'
@@ -41372,7 +41372,7 @@ export const fArr = [
   },
   {
     targetWord: 'fundamental differences',
-    translation:
+    translating:
       'фундаментальные различия, принципиальные различия, существенные различия',
     partOfSpeechCode: 'n',
     skyId: '263577'
@@ -42213,7 +42213,7 @@ export const fArr = [
   },
   {
     targetWord: 'further education',
-    translation:
+    translating:
       'дополнительное образование, продолжение образования, повышение квалификации, дальнейшее обучение',
     partOfSpeechCode: 'n',
     skyId: '263340'

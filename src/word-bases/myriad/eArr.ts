@@ -1989,7 +1989,7 @@ export const eArr = [
   {
     targetWord:
       'early to bed and early to rise makes a man healthy, wealthy and wise',
-    translation:
+    translating:
       'Кто рано ложится и рано встает, здоровье, богатство и ум наживет',
     partOfSpeechCode: 'ph',
     skyId: '242743'
@@ -2212,7 +2212,7 @@ export const eArr = [
   },
   {
     targetWord: 'earnings before interest taxes depreciation and amortization',
-    translation:
+    translating:
       'чистая прибыль до уплаты процентов, налогов, износа и амортизации',
     partOfSpeechCode: 'n',
     skyId: '33126'
@@ -3233,7 +3233,7 @@ export const eArr = [
   },
   {
     targetWord: 'easy money',
-    translation:
+    translating:
       'ситуация, когда органы власти стремятся стимулировать экономический рост с помощью низких процентных ставок',
     partOfSpeechCode: 'n',
     skyId: '115008'
@@ -3936,7 +3936,7 @@ export const eArr = [
   },
   {
     targetWord: 'ecclesiasticus',
-    translation:
+    translating:
       'книга, входящая в состав Ветхого Завета в православии и католицизме',
     partOfSpeechCode: 'n',
     skyId: '5496'
@@ -5275,7 +5275,7 @@ export const eArr = [
   },
   {
     targetWord: 'education system',
-    translation:
+    translating:
       'сфера образования, образовательная система, система просвещения',
     partOfSpeechCode: 'n',
     skyId: '263115'
@@ -5630,7 +5630,7 @@ export const eArr = [
   },
   {
     targetWord: 'effectiveness in occupational health and safety (OH&S)',
-    translation:
+    translating:
       'результативность в области профессионального здоровья и безопасности (OH&S)',
     partOfSpeechCode: 'n',
     skyId: '262741'
@@ -8386,7 +8386,7 @@ export const eArr = [
   {
     targetWord:
       'electrically driven bridge single-beam suspended single-span crane',
-    translation:
+    translating:
       'кран мостовой электрический, однобалочный, подвесной, однопролетный',
     partOfSpeechCode: 'n',
     skyId: '248844'
@@ -8394,7 +8394,7 @@ export const eArr = [
   {
     targetWord:
       'electrically driven chimney valve 220/380 v (24 v), 50 hz with two limit switches, 90-min fire resistance rating, seismic resistant',
-    translation:
+    translating:
       'клапан дымовой с электроприводом напряжение 220/380 в (24 в), 50 гц с двумя концевыми выключателями, предел огнестойкости 90 мин, сейсмостойкий',
     partOfSpeechCode: 'n',
     skyId: '250080'
@@ -8414,7 +8414,7 @@ export const eArr = [
   {
     targetWord:
       'electrically driven fire damper 220/380 v (24 v), 50 hz with a thermal sensor and two limit switches, 90-min fire resistance rating, seismic resistant',
-    translation:
+    translating:
       'клапан противопожарный с электроприводом напряжение 220/380 в (24 в), 50 гц с термоэлементом и двумя концевыми выключателями, предел огнестойкости 90 мин, сейсмостойкий',
     partOfSpeechCode: 'ph',
     skyId: '250082'
@@ -8439,7 +8439,7 @@ export const eArr = [
   },
   {
     targetWord: 'electrically driven sealed fast-acting isolating valve',
-    translation:
+    translating:
       'клапан герметический локализующий быстродействующий с электроприводом',
     partOfSpeechCode: 'n',
     skyId: '249863'
@@ -9287,7 +9287,7 @@ export const eArr = [
   {
     targetWord:
       'elements of cable structures with no less than 80 µm thick metal coating applied by hot galvanization method',
-    translation:
+    translating:
       'элементы кабельных конструкций с металлическим покрытием толщиной не менее 80 мкм, выполненнным методом горячего цинкования',
     partOfSpeechCode: 'n',
     skyId: '250083'
@@ -9295,7 +9295,7 @@ export const eArr = [
   {
     targetWord:
       'elements of fire-alarm and fire-extinguishing control system in premises',
-    translation:
+    translating:
       'элементы системы пожарной сигнализации и управления пожаротушения помещений',
     partOfSpeechCode: 'n',
     skyId: '250538'
@@ -9303,7 +9303,7 @@ export const eArr = [
   {
     targetWord:
       'elements of fire-alarm and fire-fighting control system in premises',
-    translation:
+    translating:
       'элементы системы пожарной сигнализации и управления пожаротушения помещений',
     partOfSpeechCode: 'n',
     skyId: '250084'
@@ -10192,7 +10192,7 @@ export const eArr = [
   },
   {
     targetWord: 'email of application',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '260740'
   },
@@ -11261,7 +11261,7 @@ export const eArr = [
   {
     targetWord:
       'emergency lighting system, with possibility of switchover to DC power supply',
-    translation:
+    translating:
       'система аварийного освещения, переключаемая на постоянный ток',
     partOfSpeechCode: 'n',
     skyId: '247904'
@@ -11394,7 +11394,7 @@ export const eArr = [
   },
   {
     targetWord: 'emerging economy',
-    translation:
+    translating:
       'страна с развивающейся экономикой, развивающаяся экономика, страна с формирующейся экономикой, страна с формирующейся рыночной экономикой',
     partOfSpeechCode: 'n',
     skyId: '263392'
@@ -11521,7 +11521,7 @@ export const eArr = [
   },
   {
     targetWord: 'eminent domain',
-    translation:
+    translating:
       'право государства на принудительное отчуждение частной собственности',
     partOfSpeechCode: 'n',
     skyId: '102091'
@@ -11762,7 +11762,7 @@ export const eArr = [
   },
   {
     targetWord: 'emotive',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253234'
   },
@@ -12626,7 +12626,7 @@ export const eArr = [
   },
   {
     targetWord: 'enamoured with someone/something',
-    translation:
+    translating:
       'влюбленный во что-то/в кого-то, очарованный чем-то/кем-то, без ума от чего-то/кого-то',
     partOfSpeechCode: 'j',
     skyId: '263517'
@@ -18909,7 +18909,7 @@ export const eArr = [
   },
   {
     targetWord: 'equipment credited for response to severe accidents',
-    translation:
+    translating:
       'оборудование предусматриваемое для реагирования на тяжелые аварии',
     partOfSpeechCode: 'n',
     skyId: '248878'
@@ -18941,7 +18941,7 @@ export const eArr = [
   {
     targetWord:
       'equipment for handling spent control and protection system absorbing rods',
-    translation:
+    translating:
       'оборудование для обращения с отработавшими поглощающими стержнями системы управления и защиты',
     partOfSpeechCode: 'n',
     skyId: '246176'
@@ -18949,7 +18949,7 @@ export const eArr = [
   {
     targetWord:
       'equipment for handling spent pressurizer tubular electric heaters',
-    translation:
+    translating:
       'оборудование для обращения с отработавшими трубчатыми электронагревателями компенсатора давления',
     partOfSpeechCode: 'n',
     skyId: '246177'
@@ -18957,7 +18957,7 @@ export const eArr = [
   {
     targetWord:
       'equipment for handling spent tubular electric heaters of the pressurizer',
-    translation:
+    translating:
       'оборудование для обращения с отработавшими трубчатыми электронагревателями компенсатора давления',
     partOfSpeechCode: 'n',
     skyId: '246178'
@@ -18965,7 +18965,7 @@ export const eArr = [
   {
     targetWord:
       'equipment for inputting, coding and logging of personnel actions and talks',
-    translation:
+    translating:
       'аппаратура ввода, кодирования и регистрации информации о переговорах и действиях персонала',
     partOfSpeechCode: 'n',
     skyId: '250069'
@@ -19003,7 +19003,7 @@ export const eArr = [
   {
     targetWord:
       'equipment protection against external affects, with heating element, power: no less than',
-    translation:
+    translating:
       'защита оборудования от внешних воздействий с нагревательным элементом мощностью не менее',
     partOfSpeechCode: 'n',
     skyId: '250085'
@@ -19358,7 +19358,7 @@ export const eArr = [
   },
   {
     targetWord: 'erasable programmable read-only memory',
-    translation:
+    translating:
       'перепрограммируемое постоянное запоминающее устройство со стиранием',
     partOfSpeechCode: 'n',
     skyId: '217469'
@@ -19984,7 +19984,7 @@ export const eArr = [
   {
     targetWord:
       'error of the certified value of the standard sample of the material (substance): error of the certified value of the standard sample',
-    translation:
+    translating:
       'погрешность аттестованного значения стандартного образца материала (вещества): погрешность аттестованного значения стандартного образца',
     partOfSpeechCode: 'n',
     skyId: '262675'
@@ -21863,7 +21863,7 @@ export const eArr = [
   },
   {
     targetWord: 'ethnic origins',
-    translation:
+    translating:
       'этническое происхождение, этническая принадлежность, этнические корни',
     partOfSpeechCode: 'n',
     skyId: '263479'
@@ -24948,7 +24948,7 @@ export const eArr = [
   },
   {
     targetWord: 'examine / look at the contents',
-    translation:
+    translating:
       'изучить / взглянуть на содержание, изучить / взглянуть на содержимое',
     partOfSpeechCode: 'v',
     skyId: '263078'
@@ -26683,7 +26683,7 @@ export const eArr = [
   },
   {
     targetWord: 'exert an influence on someone/something',
-    translation:
+    translating:
       'оказывать воздействие на кого-то/что-то, влиять на кого-то/что-то',
     partOfSpeechCode: 'ph',
     skyId: '263233'
@@ -26822,7 +26822,7 @@ export const eArr = [
   },
   {
     targetWord: 'exhaust systems for creating underpressure in the annulus',
-    translation:
+    translating:
       'вытяжные системы создания разрежения в межоболочечном пространстве',
     partOfSpeechCode: 'n',
     skyId: '245756'
@@ -26847,7 +26847,7 @@ export const eArr = [
   },
   {
     targetWord: 'exhaust ventilation system for safety equipment compartments',
-    translation:
+    translating:
       'вытяжная система вентиляции помещений технических средств безопасности',
     partOfSpeechCode: 'n',
     skyId: '249485'
@@ -28048,7 +28048,7 @@ export const eArr = [
   },
   {
     targetWord: 'experience something new',
-    translation:
+    translating:
       'испытать что-то новое, попробовать что-то новое, испытать новые ощущения',
     partOfSpeechCode: 'v',
     skyId: '263068'
@@ -28487,7 +28487,7 @@ export const eArr = [
   },
   {
     targetWord: 'exploded view',
-    translation:
+    translating:
       'перспективное изображение с пространственным разделением деталей',
     partOfSpeechCode: 'n',
     skyId: '258843'
@@ -30067,7 +30067,7 @@ export const eArr = [
   {
     targetWord:
       'external reinforced concrete containment with passive heat removal system structures',
-    translation:
+    translating:
       'наружная ж/б защитная оболочка с конструкциями системы пассивного отвода тепла',
     partOfSpeechCode: 'n',
     skyId: '249996'
@@ -30848,7 +30848,7 @@ export const eArr = [
   },
   {
     targetWord: 'extreme weather',
-    translation:
+    translating:
       'суровая погода, крайне неблагоприятная погода, экстремальные климатические условия',
     partOfSpeechCode: 'n',
     skyId: '263354'

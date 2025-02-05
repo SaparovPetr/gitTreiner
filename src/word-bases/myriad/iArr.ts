@@ -2881,7 +2881,7 @@ export const iArr = [
   },
   {
     targetWord: 'idolise',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'v',
     skyId: '253277'
   },
@@ -3105,7 +3105,7 @@ export const iArr = [
   },
   {
     targetWord: "if we can't as we would, we must do as we can",
-    translation:
+    translating:
       'Если мы не умеем сделать, как нам хочется, надо делать как можется',
     partOfSpeechCode: 'ph',
     skyId: '243050'
@@ -3143,7 +3143,7 @@ export const iArr = [
   },
   {
     targetWord: "if you can't have the best, make the best of what you have",
-    translation:
+    translating:
       'Если не можешь заиметь лучшего, используй наилучшим образом то, что имеешь',
     partOfSpeechCode: 'ph',
     skyId: '243054'
@@ -5016,7 +5016,7 @@ export const iArr = [
   },
   {
     targetWord: 'immediate surroundings',
-    translation:
+    translating:
       'непосредственная близость, непосредственное окружение, ближайшая окрестность',
     partOfSpeechCode: 'ph',
     skyId: '263469'
@@ -5185,7 +5185,7 @@ export const iArr = [
   },
   {
     targetWord: 'immigration rules',
-    translation:
+    translating:
       'иммиграционные постановления, иммиграционные правила, правила эмиграции',
     partOfSpeechCode: 'n',
     skyId: '263056'
@@ -8288,7 +8288,7 @@ export const iArr = [
   },
   {
     targetWord: 'in',
-    translation:
+    translating:
       'указывает на причину действия, выраженного в главном предложении',
     partOfSpeechCode: 'prp',
     skyId: '242213'
@@ -8524,7 +8524,7 @@ export const iArr = [
   {
     targetWord:
       'in a set with terminal block for 16 conductors, cross-section: 0.8-5. mm, with glands (4 pcs.) for cable dia 8-12 mm',
-    translation:
+    translating:
       'в комплекте с клеммником на 16 жил сечением 0,8-2,5 мм, с сальниками - 4 шт. на кабель диаметром 8-12 мм',
     partOfSpeechCode: 'n',
     skyId: '250100'
@@ -8532,7 +8532,7 @@ export const iArr = [
   {
     targetWord:
       'in a set with ups and storage battery (for 3 h of independent operation), to be installed in 19" cabinet',
-    translation:
+    translating:
       'в комплекте с источником бесперебойного питания и аккумуляторной батареей (автономной работы на 3 часа), установка в 19" шкаф',
     partOfSpeechCode: 'n',
     skyId: '250102'
@@ -9661,7 +9661,7 @@ export const iArr = [
   },
   {
     targetWord: 'in stark contrast to',
-    translation:
+    translating:
       'в полном противоречии с, в резком контрасте с, разительно отличающийся от',
     partOfSpeechCode: 'ph',
     skyId: '263275'
@@ -10233,7 +10233,7 @@ export const iArr = [
   {
     targetWord:
       'in the set: 1 xb4ba31 control button, 1 xb4ba51 control button',
-    translation:
+    translating:
       'в комплекте 1 кнопка управления xb4ba31, 1 кнопка управления xb4ba51',
     partOfSpeechCode: 'n',
     skyId: '250103'
@@ -10804,7 +10804,7 @@ export const iArr = [
   },
   {
     targetWord: 'inadmissibility',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253346'
   },
@@ -11536,7 +11536,7 @@ export const iArr = [
   },
   {
     targetWord: 'incestuous',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253200'
   },
@@ -13739,7 +13739,7 @@ export const iArr = [
   {
     targetWord:
       'independent universal timing and time correction with synchronization signals, arriving from master clock, digital time displaying, wall-mounted',
-    translation:
+    translating:
       'автономное формирование текущего времени и его корректировка сигналами синхронизации, поступающими от первичных часов, отображение времени в цифровом виде, настенное исполнение',
     partOfSpeechCode: 'n',
     skyId: '250662'
@@ -14239,7 +14239,7 @@ export const iArr = [
   {
     targetWord:
       'indicator of the results of energy activity (indicators of energy efficiency)',
-    translation:
+    translating:
       'показатель результатов энергодеятельности (показатели энергетической результативности)',
     partOfSpeechCode: 'n',
     skyId: '262682'
@@ -15410,7 +15410,7 @@ export const iArr = [
   },
   {
     targetWord: 'indulgent food',
-    translation:
+    translating:
       'еда, доставляющая особое удовольствие, но которую не часто употребляют',
     partOfSpeechCode: 'ph',
     skyId: '263805'
@@ -15616,7 +15616,7 @@ export const iArr = [
   {
     targetWord:
       'industrial, analog, with dialer, with increased call signal level, IP54, wall-mounted',
-    translation:
+    translating:
       'промышленный, аналоговый, с номеронабирателем, с повышенным уровнем вызывного сигнала, IP54, настенное исполнение',
     partOfSpeechCode: 'n',
     skyId: '250677'
@@ -17658,7 +17658,7 @@ export const iArr = [
   {
     targetWord:
       'information and control subsystem of the MCR area of rear control panels',
-    translation:
+    translating:
       'информационно-управляющая подсистема неоперативного контура управления',
     partOfSpeechCode: 'n',
     skyId: '250465'
@@ -19508,7 +19508,7 @@ export const iArr = [
   {
     targetWord:
       'inner, sectoral, 90 degrees, input resistance 50 Ohm, gain factor as minimum 7 dB, IP30',
-    translation:
+    translating:
       'внутренняя, секторная, 90 градусов, входное сопротивление 50 Ом, коэффициент усиления не менее 7 дБ, IP30',
     partOfSpeechCode: 'n',
     skyId: '249956'
@@ -20008,7 +20008,7 @@ export const iArr = [
   {
     targetWord:
       'input resistance 50 Ohm, gain factor as minimum 5 dB, covering angle 360º, in a set with connectors and lightning arrester',
-    translation:
+    translating:
       'входное сопротивление 50 Ом, коэффициент усиления не менее 5 дБ, угол покрытия 360 градусов, в комплекте с разъемами и грозоразрядником',
     partOfSpeechCode: 'n',
     skyId: '249958'
@@ -20016,7 +20016,7 @@ export const iArr = [
   {
     targetWord:
       'input single-phase voltage 220 V, 50 Hz, design power 1 kVA, in a set with storage battery for 3 h of independent operation',
-    translation:
+    translating:
       'входное однофазное напряжение 220 В, 50 Гц, расчетная мощность 1 кВА, в комплекте с аккумуляторной батареей на 3 часа автономной работы',
     partOfSpeechCode: 'n',
     skyId: '247961'
@@ -21920,7 +21920,7 @@ export const iArr = [
   },
   {
     targetWord: 'instruction on interaction at energy resources allocation',
-    translation:
+    translating:
       'инструкция по взаимодействию при распределении энергоресурсов',
     partOfSpeechCode: 'n',
     skyId: '262566'
@@ -23295,7 +23295,7 @@ export const iArr = [
   },
   {
     targetWord: 'intensive agriculture',
-    translation:
+    translating:
       'ведение интенсивного сельского хозяйства, интенсивное земледелие',
     partOfSpeechCode: 'n',
     skyId: '263578'
@@ -25906,7 +25906,7 @@ export const iArr = [
   },
   {
     targetWord: 'interview a politician',
-    translation:
+    translating:
       'брать интервью у государственного деятеля, брать интервью у политика, брать интеврью у политического деятеля',
     partOfSpeechCode: 'ph',
     skyId: '263123'
@@ -26609,7 +26609,7 @@ export const iArr = [
   },
   {
     targetWord: 'intricately carved',
-    translation:
+    translating:
       'искусно вырезанный, затейливо вырезанный, украшенный искусной резьбой',
     partOfSpeechCode: 'j',
     skyId: '263480'
@@ -27859,7 +27859,7 @@ export const iArr = [
   {
     targetWord:
       'investment program of fixed assets support (Support Program or ISP)',
-    translation:
+    translating:
       'инвестиционная программа поддержания основных производственных фондов (Программа поддержания или ИПП)',
     partOfSpeechCode: 'n',
     skyId: '262712'
@@ -29300,7 +29300,7 @@ export const iArr = [
   },
   {
     targetWord: 'irradiation',
-    translation:
+    translating:
       'распространение процессов возбуждения и торможения в нервной системе',
     partOfSpeechCode: 'n',
     skyId: '56178'
@@ -29697,7 +29697,7 @@ export const iArr = [
   },
   {
     targetWord: 'irreversible damage',
-    translation:
+    translating:
       'непоправимый ущерб, невосполнимый ущерб, необратимое повреждение',
     partOfSpeechCode: 'n',
     skyId: '263482'
@@ -31114,7 +31114,7 @@ export const iArr = [
   },
   {
     targetWord: "it'll be all right on the night",
-    translation:
+    translating:
       'Какое-то мероприятие будет успешным,даже если подготовка к нему шла неудачно',
     partOfSpeechCode: 'ph',
     skyId: '243771'

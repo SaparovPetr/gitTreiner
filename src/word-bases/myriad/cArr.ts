@@ -1537,7 +1537,7 @@ export const cArr = [
   },
   {
     targetWord: "chuck-will's-widow",
-    translation: "патрон-'s-вдовы",
+    translating: "патрон-'s-вдовы",
     partOfSpeechCode: 'n',
     skyId: '200732'
   },
@@ -7250,7 +7250,7 @@ export const cArr = [
   },
   {
     targetWord: 'callback',
-    translation:
+    translating:
       'принятие изготовителем недоброкачественной продукции с целью устранения дефекта',
     partOfSpeechCode: 'n',
     skyId: '224546'
@@ -9681,7 +9681,7 @@ export const cArr = [
   },
   {
     targetWord: 'cannibalise',
-    translation:
+    translating:
       'снимать годные детали с одного объекта для использования на другом',
     partOfSpeechCode: 'v',
     skyId: '65596'
@@ -9712,7 +9712,7 @@ export const cArr = [
   },
   {
     targetWord: 'cannibalize',
-    translation:
+    translating:
       'снимать годные детали с одного объекта для использования на другом',
     partOfSpeechCode: 'v',
     skyId: '86339'
@@ -10391,7 +10391,7 @@ export const cArr = [
   },
   {
     targetWord: 'canvasser',
-    translation:
+    translating:
       'кандидат или его сторонник, обходящий дома для собирания голосов',
     partOfSpeechCode: 'n',
     skyId: '82855'
@@ -11244,7 +11244,7 @@ export const cArr = [
   },
   {
     targetWord: 'capitalisation',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253274'
   },
@@ -11274,7 +11274,7 @@ export const cArr = [
   },
   {
     targetWord: 'capitalise',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'v',
     skyId: '253331'
   },
@@ -11574,7 +11574,7 @@ export const cArr = [
   },
   {
     targetWord: 'caprimulgus carolinensis',
-    translation: "чак-'s-вдова",
+    translating: "чак-'s-вдова",
     partOfSpeechCode: 'n',
     skyId: '1557'
   },
@@ -12558,7 +12558,7 @@ export const cArr = [
   },
   {
     targetWord: 'carbon dating',
-    translation:
+    translating:
       'датирование по радиоуглероду, углеродный анализ, датирование по углероду',
     partOfSpeechCode: 'ph',
     skyId: '263478'
@@ -12608,7 +12608,7 @@ export const cArr = [
   {
     targetWord:
       'carbon steel casing, in a set with terminal block for 12 terminals, with 2 cable inlets 6-12 mm in dia',
-    translation:
+    translating:
       'корпус из углеродистой стали, в комплекте с клеммником на 12 клемм, с двумя кабельными вводами для кабеля диаметром 6-12 мм',
     partOfSpeechCode: 'n',
     skyId: '250050'
@@ -14583,7 +14583,7 @@ export const cArr = [
   },
   {
     targetWord: 'carpool',
-    translation:
+    translating:
       'договорённость между автовладельцами о том, чтобы поочерёдно использовать свои автомобили для общих нужд',
     partOfSpeechCode: 'n',
     skyId: '237223'
@@ -17236,7 +17236,7 @@ export const cArr = [
   },
   {
     targetWord: 'casualty care research center',
-    translation:
+    translating:
       'научно-исследовательский центр, изучающий возможность избежать несчастных случаев',
     partOfSpeechCode: 'n',
     skyId: '79757'
@@ -17855,7 +17855,7 @@ export const cArr = [
   },
   {
     targetWord: 'catcaller',
-    translation:
+    translating:
       'мужчина, который отпускает нежелательные комментарии и жесты на​ улице вслед незнакомым женщинам',
     partOfSpeechCode: 'n',
     skyId: '262008'
@@ -18642,7 +18642,7 @@ export const cArr = [
   },
   {
     targetWord: 'catfish',
-    translation:
+    translating:
       'человек, который присваивает себе чужую личность и общается на сайтах знакомств',
     partOfSpeechCode: 'n',
     skyId: '256303'
@@ -19303,7 +19303,7 @@ export const cArr = [
   },
   {
     targetWord: 'cause damage',
-    translation:
+    translating:
       'наносить ущерб, причинять ущерб, наносить вред, причинять вред',
     partOfSpeechCode: 'ph',
     skyId: '263353'
@@ -20366,7 +20366,7 @@ export const cArr = [
   },
   {
     targetWord: 'celebrity culture',
-    translation:
+    translating:
       'культ знаменитостей, культура знаменитостей, звездная культура, мир знаменитостей',
     partOfSpeechCode: 'n',
     skyId: '263427'
@@ -25342,7 +25342,7 @@ export const cArr = [
   {
     targetWord:
       'characteristic of an error of the standard sample’s certified value of the material (substance); characteristic of the error of the certified value of the standard sample',
-    translation:
+    translating:
       'характеристика погрешности аттестованного значения стандартного образца материала (вещества); характеристика погрешности аттестованного значения стандартного образца',
     partOfSpeechCode: 'n',
     skyId: '262825'
@@ -25853,7 +25853,7 @@ export const cArr = [
   },
   {
     targetWord: 'charles',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253279'
   },
@@ -31169,7 +31169,7 @@ export const cArr = [
   },
   {
     targetWord: 'chocker',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '264111'
   },
@@ -34799,7 +34799,7 @@ export const cArr = [
   },
   {
     targetWord: 'cisgender',
-    translation:
+    translating:
       'человек, который полностью ассоциирует себя со своим биологическим полом',
     partOfSpeechCode: 'n',
     skyId: '265318'
@@ -36865,7 +36865,7 @@ export const cArr = [
   {
     targetWord:
       'classification of buildings, constructions, structures, and their elements in the civil engineering part',
-    translation:
+    translating:
       'классификация зданий, сооружений, конструкций и их элементов в строительной части',
     partOfSpeechCode: 'n',
     skyId: '247232'
@@ -36879,7 +36879,7 @@ export const cArr = [
   {
     targetWord:
       'classification of elements and equipment in fire-fighting systems',
-    translation:
+    translating:
       'классификация элементов, оборудования в системах пожаротушения',
     partOfSpeechCode: 'n',
     skyId: '247233'
@@ -36887,7 +36887,7 @@ export const cArr = [
   {
     targetWord:
       'classification of mechanical systems, equipment, pipelines and components',
-    translation:
+    translating:
       'классификация систем, оборудования, трубопроводов и элементов теплотехнической части',
     partOfSpeechCode: 'n',
     skyId: '247238'
@@ -36901,7 +36901,7 @@ export const cArr = [
   {
     targetWord:
       'classification of space heating and ventilation systems, equipment and elements',
-    translation:
+    translating:
       'классификация систем, оборудования и элементов в части отопления и вентиляции',
     partOfSpeechCode: 'n',
     skyId: '247236'
@@ -42200,7 +42200,7 @@ export const cArr = [
   },
   {
     targetWord: 'co',
-    translation:
+    translating:
       'лицо, отказывающееся от военной службы по политическим или религиозным убеждениям',
     partOfSpeechCode: 'n',
     skyId: '35021'
@@ -42963,7 +42963,7 @@ export const cArr = [
   },
   {
     targetWord: 'coastal erosion',
-    translation:
+    translating:
       'береговая эрозия, эрозия береговой линии, эрозия прибрежной зоны',
     partOfSpeechCode: 'ph',
     skyId: '263464'
@@ -43798,7 +43798,7 @@ export const cArr = [
   },
   {
     targetWord: 'cockney',
-    translation:
+    translating:
       'кокни (житель Лондона, уроженец Ист-Энда, представитель рабочих слоёв населения)',
     partOfSpeechCode: 'j',
     skyId: '155042'
@@ -44303,7 +44303,7 @@ export const cArr = [
   },
   {
     targetWord: 'codetermination',
-    translation:
+    translating:
       'представление интересов работников в правлении директоров компании',
     partOfSpeechCode: 'n',
     skyId: '257058'
@@ -44742,7 +44742,7 @@ export const cArr = [
   },
   {
     targetWord: 'coffee-table book',
-    translation:
+    translating:
       'большая, красивая, богато иллюстрированная книга для украшения интерьера',
     partOfSpeechCode: 'n',
     skyId: '82179'
@@ -50492,7 +50492,7 @@ export const cArr = [
   },
   {
     targetWord: 'command priority selection from desk tiles',
-    translation:
+    translating:
       'переключение приоритетов команд с панелей управления «Мозаика»',
     partOfSpeechCode: 'n',
     skyId: '249331'
@@ -52888,7 +52888,7 @@ export const cArr = [
   {
     targetWord:
       'compact fire-resistant cables, not propagating fire, with low smoke and gas release',
-    translation:
+    translating:
       'кабели малогабаритные, огнестойкие, не распространяющие горение, с низким дымо- и газовыделением',
     partOfSpeechCode: 'n',
     skyId: '250075'
@@ -53593,7 +53593,7 @@ export const cArr = [
   },
   {
     targetWord: 'compensating unit for connecting thermoelectric transducer',
-    translation:
+    translating:
       'устройство компенсационное подключения термоэлектрического преобразователя',
     partOfSpeechCode: 'n',
     skyId: '249321'
@@ -56637,7 +56637,7 @@ export const cArr = [
   {
     targetWord:
       'conclusion on the results of a psychophysiological survey (PPS)',
-    translation:
+    translating:
       'заключение по результатам психофизиологического обследования (ПФО)',
     partOfSpeechCode: 'n',
     skyId: '262551'
@@ -60526,7 +60526,7 @@ export const cArr = [
   },
   {
     targetWord: 'conservation issues',
-    translation:
+    translating:
       'вопросы сохранения, вопросы охраны природы, природоохранные вопросы',
     partOfSpeechCode: 'n',
     skyId: '263574'
@@ -62334,7 +62334,7 @@ export const cArr = [
   {
     targetWord:
       'container for spent control and protection system absorbing rods',
-    translation:
+    translating:
       'контейнер для отработавших поглощающих стержней системы управления и защиты',
     partOfSpeechCode: 'n',
     skyId: '246148'
@@ -63211,7 +63211,7 @@ export const cArr = [
   },
   {
     targetWord: 'continuous assessment',
-    translation:
+    translating:
       'оценка, выставляемая учащимся по итогам года, а не на экзамене',
     partOfSpeechCode: 'n',
     skyId: '236362'
@@ -64131,7 +64131,7 @@ export const cArr = [
   {
     targetWord:
       'control and protection system drive units decontamination bath',
-    translation:
+    translating:
       'ванна дезактивации узлов приводов системы управления и защиты',
     partOfSpeechCode: 'n',
     skyId: '245704'
@@ -64145,7 +64145,7 @@ export const cArr = [
   {
     targetWord:
       'control and protection system working member position indicator',
-    translation:
+    translating:
       'указатель положения рабочего органа системы управления и защиты',
     partOfSpeechCode: 'n',
     skyId: '249312'
@@ -64357,7 +64357,7 @@ export const cArr = [
   {
     targetWord:
       'control type for electric valves: drive type, power, actuation time, rated current',
-    translation:
+    translating:
       'вид управления для электроприводной арматуры: тип привода, мощность, время срабатывания, номинальный ток',
     partOfSpeechCode: 'n',
     skyId: '250068'
@@ -64431,7 +64431,7 @@ export const cArr = [
   {
     targetWord:
       'controlled-access area domestic waste water treatment structures',
-    translation:
+    translating:
       'очистные сооружения бытовых сточных вод зоны контролируемого доступа',
     partOfSpeechCode: 'n',
     skyId: '248644'
@@ -66604,7 +66604,7 @@ export const cArr = [
   },
   {
     targetWord: 'cop a plea',
-    translation:
+    translating:
       'признаться в преступлении, в надежде на смягчение наказазания',
     partOfSpeechCode: 'ph',
     skyId: '241461'
@@ -67919,7 +67919,7 @@ export const cArr = [
   },
   {
     targetWord: 'corkage',
-    translation:
+    translating:
       'дополнительная оплата за откупоривание и подачу принесенного с собой вина',
     partOfSpeechCode: 'n',
     skyId: '173738'
@@ -69030,7 +69030,7 @@ export const cArr = [
   },
   {
     targetWord: 'corrective action',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262603'
   },
@@ -69744,7 +69744,7 @@ export const cArr = [
   },
   {
     targetWord: 'cos',
-    translation:
+    translating:
       'лицо, отказывающееся от несения военной службы по религиозным или другим соображениям',
     partOfSpeechCode: 'n',
     skyId: '150065'
@@ -69793,7 +69793,7 @@ export const cArr = [
   },
   {
     targetWord: 'cosignatory',
-    translation:
+    translating:
       'лицо или государство, подписывающее соглашение вместе с другими лицами или государствами',
     partOfSpeechCode: 'n',
     skyId: '226012'
@@ -70280,7 +70280,7 @@ export const cArr = [
   },
   {
     targetWord: 'costermonger',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '6759'
   },
@@ -70868,7 +70868,7 @@ export const cArr = [
   },
   {
     targetWord: 'could',
-    translation:
+    translating:
       "прошедшее время от модального глагола 'can' в разных значениях",
     partOfSpeechCode: 'md',
     skyId: '235225'
@@ -74758,7 +74758,7 @@ export const cArr = [
   {
     targetWord:
       'crane in the pyrolysis installation section for receiving solid radioactive wastes',
-    translation:
+    translating:
       'кран на участке приема твердых радиоактивных отходов установки пиролиза',
     partOfSpeechCode: 'n',
     skyId: '246149'
@@ -79751,7 +79751,7 @@ export const cArr = [
   },
   {
     targetWord: 'crowdsource',
-    translation:
+    translating:
       'привлекать данные/советы, полученные от внешней группы бескорыстных исполнителей, обычно через интернет',
     partOfSpeechCode: 'v',
     skyId: '257602'
@@ -79932,7 +79932,7 @@ export const cArr = [
   },
   {
     targetWord: 'crownless',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253297'
   },
@@ -80094,7 +80094,7 @@ export const cArr = [
   },
   {
     targetWord: 'crude approximate posterior',
-    translation:
+    translating:
       'приблизительная функция, которая выдаёт вероятность постфактум',
     partOfSpeechCode: 'n',
     skyId: '262935'
@@ -83396,7 +83396,7 @@ export const cArr = [
   },
   {
     targetWord: 'current affairs documentary',
-    translation:
+    translating:
       'документальная программа по текущим делам, документальный фильм по текущим делам, документальная программа,',
     partOfSpeechCode: 'n',
     skyId: '263121'
@@ -84171,7 +84171,7 @@ export const cArr = [
   },
   {
     targetWord: 'custom is the plague of wise men and the idol of fools',
-    translation:
+    translating:
       'Обычай (т. е. соблюдение условностей) — наказание для умных и предмет поклонения для дураков',
     partOfSpeechCode: 'ph',
     skyId: '242681'
@@ -85486,7 +85486,7 @@ export const cArr = [
   },
   {
     targetWord: 'cutting-edge research',
-    translation:
+    translating:
       'новейшее исследование, передовое исследование, революционное исследование',
     partOfSpeechCode: 'ph',
     skyId: '263181'

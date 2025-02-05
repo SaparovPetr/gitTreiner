@@ -4287,7 +4287,7 @@ export const pArr = [
   {
     targetWord:
       'packaging set for control and protection system absorbing rods',
-    translation:
+    translating:
       'комплект упаковочный для стержней поглощающих системы управления и защиты',
     partOfSpeechCode: 'n',
     skyId: '245629'
@@ -7102,7 +7102,7 @@ export const pArr = [
   },
   {
     targetWord: 'panhandle',
-    translation:
+    translating:
       'длинный узкий выступ территории между двумя другими территориями',
     partOfSpeechCode: 'n',
     skyId: '40869'
@@ -8759,7 +8759,7 @@ export const pArr = [
   },
   {
     targetWord: 'parasitic',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253206'
   },
@@ -11885,7 +11885,7 @@ export const pArr = [
   },
   {
     targetWord: 'passionate about something',
-    translation:
+    translating:
       'страстно увлекаться чем-то, питать к чему-то страсть, быть страшно увлеченным чем-то',
     partOfSpeechCode: 'ph',
     skyId: '263280'
@@ -13080,7 +13080,7 @@ export const pArr = [
   },
   {
     targetWord: 'pathogens',
-    translation:
+    translating:
       'патогены, патогенные организмы, болезнетворные микроорганизмы, возбудители заболевания',
     partOfSpeechCode: 'n',
     skyId: '263569'
@@ -14761,7 +14761,7 @@ export const pArr = [
   },
   {
     targetWord: 'payroll check',
-    translation:
+    translating:
       'чек на получение денежного содержания по раздаточной ведомости',
     partOfSpeechCode: 'n',
     skyId: '8526'
@@ -16886,7 +16886,7 @@ export const pArr = [
   },
   {
     targetWord: 'pelagius',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '44906'
   },
@@ -19958,7 +19958,7 @@ export const pArr = [
   },
   {
     targetWord: 'periodic and casual monitoring workstation',
-    translation:
+    translating:
       'автоматизированное рабочее место периодического и эпизодического контроля ',
     partOfSpeechCode: 'n',
     skyId: '248991'
@@ -28851,7 +28851,7 @@ export const pArr = [
   },
   {
     targetWord: 'pink-collar',
-    translation:
+    translating:
       'относящийся к сфере, в которой заняты преимущественно женщины',
     partOfSpeechCode: 'j',
     skyId: '37285'
@@ -34198,7 +34198,7 @@ export const pArr = [
   },
   {
     targetWord: 'please, give me two economy class tickets to ...',
-    translation:
+    translating:
       'дайте мне, пожалуйста, два билета до ... в экономическом классе',
     partOfSpeechCode: 'ph',
     skyId: '244815'
@@ -34572,7 +34572,7 @@ export const pArr = [
   {
     targetWord:
       'plenum facility on support frame with maintenance on the  left-hand side including',
-    translation:
+    translating:
       'приточная установка на опорной раме (сторона обслуживания слева) в составе:',
     partOfSpeechCode: 'n',
     skyId: '250441'
@@ -34580,7 +34580,7 @@ export const pArr = [
   {
     targetWord:
       'plenum facility on support frame with maintenance on the right-hand side including',
-    translation:
+    translating:
       'приточная установка на опорной раме (сторона обслуживания справа) в составе:',
     partOfSpeechCode: 'n',
     skyId: '250440'
@@ -34588,7 +34588,7 @@ export const pArr = [
   {
     targetWord:
       'plenum facility with recirculation on support frame with maintenance on the left-hand side including',
-    translation:
+    translating:
       'приточная установка с рециркуляцией на опорной раме (сторона обслуживания слева) в составе:',
     partOfSpeechCode: 'n',
     skyId: '250443'
@@ -34596,7 +34596,7 @@ export const pArr = [
   {
     targetWord:
       'plenum facility with recirculation on support frame with maintenance on the right-hand side including',
-    translation:
+    translating:
       'приточная установка с рециркуляцией на опорной раме (сторона обслуживания справа) в составе:',
     partOfSpeechCode: 'n',
     skyId: '250442'
@@ -36241,7 +36241,7 @@ export const pArr = [
   },
   {
     targetWord: 'pneumatically driven sealed fast-acting isolating valve',
-    translation:
+    translating:
       'клапан герметический локализующий быстродействующий с пневмоприводом',
     partOfSpeechCode: 'n',
     skyId: '249584'
@@ -41174,7 +41174,7 @@ export const pArr = [
   },
   {
     targetWord: 'population increase',
-    translation:
+    translating:
       'прирост населения, рост населения, рост численности населения, увеличение численности населения',
     partOfSpeechCode: 'n',
     skyId: '263395'
@@ -41656,7 +41656,7 @@ export const pArr = [
   {
     targetWord:
       'portable subscriber radio station of UHF range, TETRA standard, IP54',
-    translation:
+    translating:
       'портативная абонентская радиостанция UHF диапазона стандарта TETRA, IP54',
     partOfSpeechCode: 'n',
     skyId: '248996'
@@ -42491,7 +42491,7 @@ export const pArr = [
   },
   {
     targetWord: 'posse comitatus',
-    translation:
+    translating:
       'приказ шерифа графства о созыве мужчин, способных носить оружие',
     partOfSpeechCode: 'n',
     skyId: '61974'
@@ -43194,7 +43194,7 @@ export const pArr = [
   },
   {
     targetWord: 'postgraduate course of study',
-    translation:
+    translating:
       'послеуниверситетское образование, аспирантура, программа подготовки аспирантов,',
     partOfSpeechCode: 'ph',
     skyId: '263189'
@@ -44581,7 +44581,7 @@ export const pArr = [
   },
   {
     targetWord: 'pouring with rain',
-    translation:
+    translating:
       'дождь как из ведра; льет как из ведра, зарядил дождь, идет сильный дождь',
     partOfSpeechCode: 'n',
     skyId: '263355'
@@ -45021,7 +45021,7 @@ export const pArr = [
   {
     targetWord:
       'power module, with two jacks for optical converters and software',
-    translation:
+    translating:
       'блок питания, c двумя местами для оптических преобразователей и программным обеспечением',
     partOfSpeechCode: 'n',
     skyId: '249005'
@@ -45365,7 +45365,7 @@ export const pArr = [
   },
   {
     targetWord: 'power: 500 w, 48/60 v d.c., 220 v a.c.',
-    translation:
+    translating:
       'мощностью 500 вт, 48/60 в постоянного тока, 220 в переменного тока',
     partOfSpeechCode: 'n',
     skyId: '250060'
@@ -45768,7 +45768,7 @@ export const pArr = [
   },
   {
     targetWord: 'practise medicine',
-    translation:
+    translating:
       'заниматься медицинской практикой, заниматься медициной, осуществлять медицинскую практику',
     partOfSpeechCode: 'ph',
     skyId: '263264'
@@ -48211,7 +48211,7 @@ export const pArr = [
   },
   {
     targetWord: 'premedical',
-    translation:
+    translating:
       'относящийся к обучению на подготовительных медицинских курсах',
     partOfSpeechCode: 'j',
     skyId: '54057'
@@ -54032,7 +54032,7 @@ export const pArr = [
   },
   {
     targetWord: 'product quality review',
-    translation:
+    translating:
       'аналитический обзор качества продукции со стороны руководства',
     partOfSpeechCode: 'n',
     skyId: '252603'
@@ -55031,7 +55031,7 @@ export const pArr = [
   {
     targetWord:
       'program for maintaining the "Information Technologies" functional area',
-    translation:
+    translating:
       'программа поддержания функционального направления «Информационные технологии»',
     partOfSpeechCode: 'n',
     skyId: '262709'
@@ -55051,7 +55051,7 @@ export const pArr = [
   {
     targetWord:
       'program of development of the "Information Technologies" functional area',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '262711'
   },
@@ -55969,7 +55969,7 @@ export const pArr = [
   },
   {
     targetWord: 'promenade',
-    translation:
+    translating:
       'фигура в кадрили, в которой пары движутся против часовой стрелки',
     partOfSpeechCode: 'n',
     skyId: '96058'
@@ -56228,7 +56228,7 @@ export const pArr = [
   },
   {
     targetWord: 'promotional event',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '261896'
   },
@@ -63104,7 +63104,7 @@ export const pArr = [
   },
   {
     targetWord: 'pung',
-    translation:
+    translating:
       'деревянные сани для катания и соревнований на скорость спуска с гор; вид санного спорта',
     partOfSpeechCode: 'n',
     skyId: '71146'
@@ -64383,7 +64383,7 @@ export const pArr = [
   },
   {
     targetWord: 'pursue one’s dream',
-    translation:
+    translating:
       'следовать за своей мечтой, осуществлять свою мечту, воплощать свою мечту',
     partOfSpeechCode: 'ph',
     skyId: '263191'
@@ -65626,7 +65626,7 @@ export const pArr = [
   },
   {
     targetWord: 'put two and two together and make five',
-    translation:
+    translating:
       'делать правдоподобный, но неверный вывод из того, что известно или очевидно',
     partOfSpeechCode: 'phi',
     skyId: '264093'

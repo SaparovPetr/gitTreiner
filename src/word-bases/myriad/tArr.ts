@@ -2798,7 +2798,7 @@ export const tArr = [
   },
   {
     targetWord: 'tabular dimensioning',
-    translation:
+    translating:
       'задание размеров в прямоугольной системе координат с использованием таблиц',
     partOfSpeechCode: 'ph',
     skyId: '258874'
@@ -4539,7 +4539,7 @@ export const tArr = [
   },
   {
     targetWord: 'take advantage of something',
-    translation:
+    translating:
       'воспользоваться чем-либо ради своей выгоды, воспользоваться ситуацией',
     partOfSpeechCode: 'ph',
     skyId: '263509'
@@ -4907,7 +4907,7 @@ export const tArr = [
   },
   {
     targetWord: 'take hold',
-    translation:
+    translating:
       'становиться популярным, захватывать, получать распространение, укореняться',
     partOfSpeechCode: 'v',
     skyId: '263283'
@@ -5610,7 +5610,7 @@ export const tArr = [
   },
   {
     targetWord: 'take steps to do something',
-    translation:
+    translating:
       'предпринимать шаги, чтобы сделать что-то; предпринимать меры, чтобы что-то свершилось',
     partOfSpeechCode: 'ph',
     skyId: '263284'
@@ -5971,7 +5971,7 @@ export const tArr = [
   },
   {
     targetWord: 'take us as you find us',
-    translation:
+    translating:
       'Полюби нас черненькими, а беленькими (красненькими) всякий полюбит',
     partOfSpeechCode: 'ph',
     skyId: '243527'
@@ -7593,7 +7593,7 @@ export const tArr = [
   {
     targetWord:
       'tank structure for emergency diesel fuel discharge from the UKS building',
-    translation:
+    translating:
       'сооружение бака аварийного слива дизельного топлива из здания UKS',
     partOfSpeechCode: 'n',
     skyId: '248910'
@@ -9436,7 +9436,7 @@ export const tArr = [
   },
   {
     targetWord: 'taught',
-    translation:
+    translating:
       'форма прошедшего времени и причастия прошедшего времени глагола "teach"',
     partOfSpeechCode: 'v',
     skyId: '255397'
@@ -11987,7 +11987,7 @@ export const tArr = [
   },
   {
     targetWord: 'telecommunication',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253368'
   },
@@ -12192,7 +12192,7 @@ export const tArr = [
   {
     targetWord:
       'telephone and radio communication cable, with copper conductors, with PVC elastron isulation, not propagating fire PVC elastron sheathing',
-    translation:
+    translating:
       'кабель телефонный связи и радиофикации, с медными жилами, с изоляцией из ПВХ пластиката, в оболочке из ПВХ пластиката не распостраняющего горение',
     partOfSpeechCode: 'n',
     skyId: '249062'
@@ -14738,7 +14738,7 @@ export const tArr = [
   {
     targetWord:
       'terminal clamps for cables (up to 380 kv) switching and tapping',
-    translation:
+    translating:
       'блок контактных зажимов для коммутации и ответвления кабелей до 380 в',
     partOfSpeechCode: 'n',
     skyId: '250123'
@@ -16486,7 +16486,7 @@ export const tArr = [
   {
     targetWord:
       'thank you so much for letting us know how our cooperation is important for you',
-    translation:
+    translating:
       'спасибо, что поделились тем, как важно для вас сотрудничество с нами',
     partOfSpeechCode: 'ph',
     skyId: '253918'
@@ -20957,7 +20957,7 @@ export const tArr = [
   },
   {
     targetWord: 'thirty-eighth',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253322'
   },
@@ -21389,7 +21389,7 @@ export const tArr = [
   },
   {
     targetWord: 'thorough investigation',
-    translation:
+    translating:
       'тщательное исследование, тщательное изучение, обстоятельное исследование, углубленное исследование',
     partOfSpeechCode: 'n',
     skyId: '263195'
@@ -22135,7 +22135,7 @@ export const tArr = [
   {
     targetWord:
       'three-conductor (copper) cable, with insulation of stitched polyethylene, PVC compound sheathing, low fire hazard, for 10 kV voltage',
-    translation:
+    translating:
       'кабель с тремя медными жилами, с изоляцией из сшитого полиэтилена в оболочке из поливинилхлоридного пластиката пониженной пожароопасности, на напряжение 10 кВ',
     partOfSpeechCode: 'n',
     skyId: '248275'
@@ -28034,7 +28034,7 @@ export const tArr = [
   },
   {
     targetWord: 'to',
-    translation:
+    translating:
       'используется, если необходимо опустить инфинитивный оборот во избежание повтора',
     partOfSpeechCode: 'x',
     skyId: '236534'
@@ -28119,7 +28119,7 @@ export const tArr = [
   },
   {
     targetWord: 'to be oprah',
-    translation:
+    translating:
       'зарабатывать миллионы и выделываться перед толпой белых женщин среднего возраста',
     partOfSpeechCode: 'ph',
     skyId: '262156'
@@ -30670,7 +30670,7 @@ export const tArr = [
   },
   {
     targetWord: 'too swift arrives as tardy as too slow',
-    translation:
+    translating:
       'чрезмерно спешащий так же опаздывает, как и чрезмерно медлящий',
     partOfSpeechCode: 'ph',
     skyId: '243030'
@@ -33977,7 +33977,7 @@ export const tArr = [
   },
   {
     targetWord: 'towny',
-    translation:
+    translating:
       'житель университетского города, не имеющий отношения к университету',
     partOfSpeechCode: 'n',
     skyId: '33449'
@@ -37285,7 +37285,7 @@ export const tArr = [
   {
     targetWord:
       'transmitter output power 1 W, the set contains: antenna, accumulator battery 1850 mA/h, clip, charger, headband (hands free)',
-    translation:
+    translating:
       'выходная мощность передатчика 1 Вт, в комплекте: антенна, аккумуляторная батарея 1850 мА/ч, клипса, зарядное устройство, оголовье ',
     partOfSpeechCode: 'n',
     skyId: '248574'
@@ -37646,7 +37646,7 @@ export const tArr = [
   },
   {
     targetWord: 'transport packaging set pulling device',
-    translation:
+    translating:
       'чалочное приспособление для транспортного упаковочного комплекта',
     partOfSpeechCode: 'n',
     skyId: '245716'
@@ -38229,7 +38229,7 @@ export const tArr = [
   },
   {
     targetWord: 'trash-talk',
-    translation:
+    translating:
       'использовать трэш-ток, оскорблять (особенно спортивного соперника)',
     partOfSpeechCode: 'v',
     skyId: '263965'
@@ -42551,7 +42551,7 @@ export const tArr = [
   {
     targetWord:
       'trolley for moving cargoes through a door opening with a threshold',
-    translation:
+    translating:
       'тележка для транспортировки грузов через дверной проем с порогом',
     partOfSpeechCode: 'n',
     skyId: '248874'
@@ -43957,7 +43957,7 @@ export const tArr = [
   {
     targetWord:
       'trunk distribution cabinet for fire protection systems and uninterruptible power supply',
-    translation:
+    translating:
       'магистральный распределительный шкаф противопожарных систем и бесперебойного электроснабжения',
     partOfSpeechCode: 'n',
     skyId: '247859'
@@ -44186,7 +44186,7 @@ export const tArr = [
   },
   {
     targetWord: 'trustee',
-    translation:
+    translating:
       'лицо, распоряжающееся имуществом на началах доверительной собственности',
     partOfSpeechCode: 'n',
     skyId: '143000'
@@ -47157,7 +47157,7 @@ export const tArr = [
   },
   {
     targetWord: 'turning vehicles yield to pedestrian',
-    translation:
+    translating:
       'При повороте транспортные средства обязаны уступить дорогу пешеходам',
     partOfSpeechCode: 'ph',
     skyId: '234232'
@@ -49174,7 +49174,7 @@ export const tArr = [
   },
   {
     targetWord: 'twofer',
-    translation:
+    translating:
       'купон, дающий право купить два билета на представление или купить два товара по цене одного',
     partOfSpeechCode: 'n',
     skyId: '104608'

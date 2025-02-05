@@ -4030,7 +4030,7 @@ export const bArr = [
   {
     targetWord:
       'back-up impedance protection for external short circuit faults',
-    translation:
+    translating:
       'резервная (дистанционная) защита полного сопротивления при внешних коротких замыканиях',
     partOfSpeechCode: 'n',
     skyId: '247837'
@@ -6557,7 +6557,7 @@ export const bArr = [
   },
   {
     targetWord: 'balance of plant',
-    translation:
+    translating:
       'неосновное/неядерное/вспомогательное оборудование электростанции',
     partOfSpeechCode: 'n',
     skyId: '248316'
@@ -10194,7 +10194,7 @@ export const bArr = [
   },
   {
     targetWord: 'barnstorm',
-    translation:
+    translating:
       'демонстрировать фигуры высшего пилотажа перед зрителями провинции',
     partOfSpeechCode: 'v',
     skyId: '62906'
@@ -11353,7 +11353,7 @@ export const bArr = [
   },
   {
     targetWord: 'basic process systems within the reactor compartment',
-    translation:
+    translating:
       'основные технологические системы в пределах реакторного отделения',
     partOfSpeechCode: 'n',
     skyId: '245639'
@@ -13514,7 +13514,7 @@ export const bArr = [
   },
   {
     targetWord: 'be a question of something',
-    translation:
+    translating:
       'являться вопросом о чем-то, речь идет о чем-то, вопрос о чем-то',
     partOfSpeechCode: 'ph',
     skyId: '263462'
@@ -13581,7 +13581,7 @@ export const bArr = [
   },
   {
     targetWord: 'be able to do',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '266933'
   },
@@ -14469,7 +14469,7 @@ export const bArr = [
   },
   {
     targetWord: 'be expressive',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'ph',
     skyId: '258293'
   },
@@ -15159,7 +15159,7 @@ export const bArr = [
   },
   {
     targetWord: 'be in the news',
-    translation:
+    translating:
       'оказаться в новостях, появиться в новостях, попасть в новости',
     partOfSpeechCode: 'ph',
     skyId: '263119'
@@ -22054,7 +22054,7 @@ export const bArr = [
   },
   {
     targetWord: 'belong to a period',
-    translation:
+    translating:
       'принадлежать к какому-либо периоду, относиться к какому-либо периоду',
     partOfSpeechCode: 'ph',
     skyId: '263476'
@@ -23051,7 +23051,7 @@ export const bArr = [
   },
   {
     targetWord: 'benny',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253303'
   },
@@ -24383,7 +24383,7 @@ export const bArr = [
   },
   {
     targetWord: 'better an open enemy than a false friend',
-    translation:
+    translating:
       'Не та собака кусает, что лает, а та, что молчит да хвостом виляет',
     partOfSpeechCode: 'ph',
     skyId: '242551'
@@ -24498,7 +24498,7 @@ export const bArr = [
   },
   {
     targetWord: 'better to have loved and lost than never to have loved at all',
-    translation:
+    translating:
       'Жить без любви быть может проще, но как на свете без любви прожить?',
     partOfSpeechCode: 'ph',
     skyId: '242583'
@@ -39481,7 +39481,7 @@ export const bArr = [
   },
   {
     targetWord: 'boomer hole',
-    translation:
+    translating:
       'дыры в полу в квартире бумеров, оставшиеся после проведения кабельного тв и кабеля для стационарного телефона',
     partOfSpeechCode: 'ph',
     skyId: '262159'
@@ -42867,7 +42867,7 @@ export const bArr = [
   {
     targetWord:
       'box with a plug-in circuit breaker and fuse with a plug connector',
-    translation:
+    translating:
       'ящик с врубным выключателем и предохранителем со штепсельным разъёмом',
     partOfSpeechCode: 'n',
     skyId: '250074'
@@ -42886,7 +42886,7 @@ export const bArr = [
   },
   {
     targetWord: 'box with bladed circuit breaker and plugged connector',
-    translation:
+    translating:
       'ящик с врубным выключателем и предохранителем со штепсельным разъёмом',
     partOfSpeechCode: 'n',
     skyId: '249845'
@@ -43002,7 +43002,7 @@ export const bArr = [
   {
     targetWord:
       'boxes for storing capsules with control and protection system absorbing rods',
-    translation:
+    translating:
       'боксы хранения капсул с поглощающими стержнями системы управления и защиты ',
     partOfSpeechCode: 'n',
     skyId: '245893'
@@ -44347,7 +44347,7 @@ export const bArr = [
   },
   {
     targetWord: 'brand stretching',
-    translation:
+    translating:
       'использование торговой марки (брэнда) для выпуска других продуктов',
     partOfSpeechCode: 'ph',
     skyId: '229071'
@@ -44558,7 +44558,7 @@ export const bArr = [
   },
   {
     targetWord: 'brassard',
-    translation:
+    translating:
       'часть доспехов, прикрывающая всю руку или руку от плеча до локтя',
     partOfSpeechCode: 'n',
     skyId: '407'
@@ -48663,7 +48663,7 @@ export const bArr = [
   },
   {
     targetWord: 'brisbane',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'n',
     skyId: '253235'
   },
@@ -54189,7 +54189,7 @@ export const bArr = [
   },
   {
     targetWord: 'bumping',
-    translation:
+    translating:
       'преимущественное обеспечение работой лиц с большей выслугой лет',
     partOfSpeechCode: 'n',
     skyId: '257014'
@@ -57052,7 +57052,7 @@ export const bArr = [
   },
   {
     targetWord: 'busman’s holiday',
-    translation:
+    translating:
       'свободное время, которое человек проводит занимаясь тем, что не отличается от его работы',
     partOfSpeechCode: 'ph',
     skyId: '241093'

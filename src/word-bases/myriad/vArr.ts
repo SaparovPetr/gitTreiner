@@ -8431,7 +8431,7 @@ export const vArr = [
   },
   {
     targetWord: 'virtually extinct',
-    translation:
+    translating:
       'практически полностью вымерший, практически истребленный, практически вымерший',
     partOfSpeechCode: 'n',
     skyId: '263584'

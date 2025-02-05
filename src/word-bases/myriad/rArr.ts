@@ -391,7 +391,7 @@ export const rArr = [
   },
   {
     targetWord: 'receivership',
-    translation:
+    translating:
       'статус лица, управляющего имуществом несостоятельного должника',
     partOfSpeechCode: 'n',
     skyId: '193942'
@@ -1934,7 +1934,7 @@ export const rArr = [
   },
   {
     targetWord: 'run batted in',
-    translation:
+    translating:
       'количество очков, которые заработала команда после действия бэттера',
     partOfSpeechCode: 'n',
     skyId: '203423'
@@ -2765,7 +2765,7 @@ export const rArr = [
   {
     targetWord:
       'rack-mounted, with drawout panel for 8 FC ports, in a set with pigtails and adapters',
-    translation:
+    translating:
       'cтоечный с выдвижной панелью на 8 портов FC, в комплекте с пигтейлами и адаптерами',
     partOfSpeechCode: 'n',
     skyId: '248710'
@@ -2965,7 +2965,7 @@ export const rArr = [
   {
     targetWord:
       'radial corrosion-proof acid-resistant stainless steel fan with flexible connectors and vibro-insulators',
-    translation:
+    translating:
       'вентилятор радиальный коррозионностойкий с виброизоляторами, гибкими вставками в кислотостойком исполнении',
     partOfSpeechCode: 'n',
     skyId: '250109'
@@ -2973,7 +2973,7 @@ export const rArr = [
   {
     targetWord:
       'radial explosion-proof fan with flexible connectors and vibro-insulators',
-    translation:
+    translating:
       'вентилятор радиальный, взрывозащищённый, с виброизоляторами, гибкими вставками',
     partOfSpeechCode: 'n',
     skyId: '250110'
@@ -2981,7 +2981,7 @@ export const rArr = [
   {
     targetWord:
       'radial explosion-proof, corrosion-proof acid-resistant stainless steel fan with flexible connectors and vibro-insulators',
-    translation:
+    translating:
       'вентилятор радиальный, взрывозащищённый, коррозионностойкий из нержавеющей стали с виброизоляторами гибкими вставками в кислотостойком исполнении',
     partOfSpeechCode: 'n',
     skyId: '250111'
@@ -2989,7 +2989,7 @@ export const rArr = [
   {
     targetWord:
       'radial explosion-proof, corrosion-proof stainless steel fan with flexible connectors and vibro-insulators in acid-resistant version',
-    translation:
+    translating:
       'вентилятор радиальный, взрывозащищённый, коррозионностойкий из нержавеющей стали с виброизоляторами гибкими вставками в кислотостойком исполнении',
     partOfSpeechCode: 'n',
     skyId: '250112'
@@ -3003,7 +3003,7 @@ export const rArr = [
   {
     targetWord:
       'radial fan without flexible connectors and vibro-insulators, with a guide vane',
-    translation:
+    translating:
       'вентилятор радиальный без гибких вставок и виброизоляторов, с направляющим аппаратом',
     partOfSpeechCode: 'n',
     skyId: '250114'
@@ -3023,7 +3023,7 @@ export const rArr = [
   {
     targetWord:
       'radial smoke exhaust fan 600°c without flexible connectors and vibro-insulators',
-    translation:
+    translating:
       'радиальный вентилятор дымоудаления, 600 °c, без гибких вставок и виброизоляторов',
     partOfSpeechCode: 'n',
     skyId: '250115'
@@ -4614,7 +4614,7 @@ export const rArr = [
   },
   {
     targetWord: 'railway car',
-    translation:
+    translating:
       'колёсное транспортное средство, адаптированное для железной дороги',
     partOfSpeechCode: 'n',
     skyId: '83466'
@@ -7616,7 +7616,7 @@ export const rArr = [
   {
     targetWord:
       'rated power 8 kva, maintaining time 60 min., in a set with storage batteries',
-    translation:
+    translating:
       'номинальная мощность 8 ква, время поддержки 60 минут, в комплекте с аккумуляторными батареями',
     partOfSpeechCode: 'n',
     skyId: '250061'
@@ -9466,7 +9466,7 @@ export const rArr = [
   },
   {
     targetWord: 'reactor coolant pump set main joint nut driving machine',
-    translation:
+    translating:
       'гайковерт главного разъема главного циркуляционного насосного агрегата',
     partOfSpeechCode: 'n',
     skyId: '249225'
@@ -11951,7 +11951,7 @@ export const rArr = [
   },
   {
     targetWord: 'receive a government grant',
-    translation:
+    translating:
       'получить государственный грант, получить государственную субсидию, получить правительственное пособие',
     partOfSpeechCode: 'ph',
     skyId: '263293'
@@ -12048,7 +12048,7 @@ export const rArr = [
   },
   {
     targetWord: 'receiving module with 2 electrically-driven control valves',
-    translation:
+    translating:
       'приемный блок с 2-мя регулирующими клапанами с электроприводом',
     partOfSpeechCode: 'n',
     skyId: '249565'
@@ -12056,7 +12056,7 @@ export const rArr = [
   {
     targetWord:
       'receiving module with electrically-driven valve, air inlet from above',
-    translation:
+    translating:
       'приёмный блок с клапаном с электроприводом, вход воздуха сверху',
     partOfSpeechCode: 'n',
     skyId: '250118'
@@ -12537,7 +12537,7 @@ export const rArr = [
   },
   {
     targetWord: 'recirculation air cooling system in the annulus',
-    translation:
+    translating:
       'рециркуляционная система охлаждения воздуха кольцевого зазора',
     partOfSpeechCode: 'n',
     skyId: '245761'
@@ -12545,7 +12545,7 @@ export const rArr = [
   {
     targetWord:
       'recirculation air cooling systems for the containment process and electrical premises',
-    translation:
+    translating:
       'рециркуляционные системы охлаждения воздуха технологических и электротехнических помещений оболочки',
     partOfSpeechCode: 'n',
     skyId: '245762'
@@ -12553,7 +12553,7 @@ export const rArr = [
   {
     targetWord:
       'recirculation air cooling systems in the containment enclosed volume',
-    translation:
+    translating:
       'рециркуляционные системы охлаждения воздуха выгороженного объема оболочки',
     partOfSpeechCode: 'n',
     skyId: '245763'
@@ -12561,7 +12561,7 @@ export const rArr = [
   {
     targetWord:
       'recirculation air cooling systems in the containment unattended volume',
-    translation:
+    translating:
       'рециркуляционные системы охлаждения воздуха необслуживаемого объема оболочки',
     partOfSpeechCode: 'n',
     skyId: '249274'
@@ -12569,7 +12569,7 @@ export const rArr = [
   {
     targetWord:
       'recirculation cooling systems of the engineered safety features equipment premises',
-    translation:
+    translating:
       'рециркуляционные системы охлаждения помещений технических средств безопасности',
     partOfSpeechCode: 'n',
     skyId: '249221'
@@ -13711,7 +13711,7 @@ export const rArr = [
   {
     targetWord:
       'recording server for logging and recording from 24 digital communication lines and 4 streams E1',
-    translation:
+    translating:
       'сервер записи для регистрации и записи с 24 цифровых линий связи и 4 потоков Е1',
     partOfSpeechCode: 'n',
     skyId: '250048'
@@ -14078,7 +14078,7 @@ export const rArr = [
   },
   {
     targetWord: 'recruitment program(me)',
-    translation:
+    translating:
       'программа по набору новых сотрудников, программа по найму персонала, программа набора кадров, программа найма, программа набора работников',
     partOfSpeechCode: 'n',
     skyId: '263164'
@@ -15681,7 +15681,7 @@ export const rArr = [
   },
   {
     targetWord: 'redirect examination',
-    translation:
+    translating:
       'опрос свидетеля выставившей стороной после перекрёстного допроса',
     partOfSpeechCode: 'n',
     skyId: '106286'
@@ -18971,7 +18971,7 @@ export const rArr = [
   {
     targetWord:
       'regulatory and procedural documents in DSoM (documentation support of management)',
-    translation:
+    translating:
       'нормативно-методические документы в области ДОУ (документационное обеспечение управления)',
     partOfSpeechCode: 'n',
     skyId: '262534'
@@ -20610,7 +20610,7 @@ export const rArr = [
   },
   {
     targetWord: 'reliable normal operation auxiliary power supply system',
-    translation:
+    translating:
       'система надежного электроснабжения собственных нужд нормального режима',
     partOfSpeechCode: 'n',
     skyId: '247871'
@@ -23306,7 +23306,7 @@ export const rArr = [
   {
     targetWord:
       'replace unsustainable materials with environmentally friendly materials',
-    translation:
+    translating:
       'заменить нерациональные материалы экологически чистыми материалами',
     partOfSpeechCode: 'ph',
     skyId: '266030'
@@ -23571,7 +23571,7 @@ export const rArr = [
   },
   {
     targetWord: 'report an accident',
-    translation:
+    translating:
       'сообщить об аварии, сообщить об инциденте, сообщить о происшествии, сообщить о несчастном случае',
     partOfSpeechCode: 'ph',
     skyId: '263129'
@@ -25264,7 +25264,7 @@ export const rArr = [
   },
   {
     targetWord: 'research paper',
-    translation:
+    translating:
       'научно-исследовательская работа, исследовательская работа, научная статья, научный доклад',
     partOfSpeechCode: 'n',
     skyId: '263193'
@@ -26952,7 +26952,7 @@ export const rArr = [
   },
   {
     targetWord: 'responsible for something',
-    translation:
+    translating:
       'отвечать за что-то, быть ответственным за что-то, нести ответственность за что-то, быть в ответе за что-то',
     partOfSpeechCode: 'v',
     skyId: '263166'
@@ -30235,7 +30235,7 @@ export const rArr = [
   },
   {
     targetWord: 'revivalist',
-    translation:
+    translating:
       'сторонник или последователь движения за религиозное возрождение',
     partOfSpeechCode: 'n',
     skyId: '227172'
@@ -32732,7 +32732,7 @@ export const rArr = [
   },
   {
     targetWord: 'right of offset',
-    translation:
+    translating:
       'право банка на арест вкладов заёмщика для погашения просроченного кредита',
     partOfSpeechCode: 'n',
     skyId: '125966'
@@ -32811,7 +32811,7 @@ export const rArr = [
   },
   {
     targetWord: 'right to speedy and public trial by jury',
-    translation:
+    translating:
       'право на безотлагательное рассмотрение уголовных дел судом присяжных в открытом заседании',
     partOfSpeechCode: 'n',
     skyId: '131486'
@@ -37036,7 +37036,7 @@ export const rArr = [
   },
   {
     targetWord: 'rolled',
-    translation: null,
+    translating: null,
     partOfSpeechCode: 'j',
     skyId: '253248'
   },
@@ -37864,7 +37864,7 @@ export const rArr = [
   },
   {
     targetWord: 'room for automatic fire fighting plants control device',
-    translation:
+    translating:
       'помещение узлов управления автоматическими установками пожаротушения',
     partOfSpeechCode: 'n',
     skyId: '247498'
