@@ -4,8 +4,8 @@ import { ReactElement, ReactNode } from 'react';
 export type TOneWord = {
   targetWord: string;
   translating: string;
-  skyid: string;
-  id: string;
+  skyid?: string | null;
+  id?: string;
   partOfSpeechCode?: string;
 };
 

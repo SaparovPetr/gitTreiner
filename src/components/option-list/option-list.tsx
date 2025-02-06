@@ -40,7 +40,10 @@ const OptionList =
 
     // (заметка № 12)
     const choseOption = (e: any) => {
-      if (e.target.textContent === targetObject.translating) {
+      if (
+        targetObject.id &&
+        e.target.textContent === targetObject.translating
+      ) {
         skipWordCallback(targetObject.id);
       } else {
         e.target.style.color = 'gray';

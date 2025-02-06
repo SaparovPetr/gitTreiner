@@ -1,4 +1,5 @@
-export const zArr = [
+import { TOneWord } from '@utils-types';
+export const zArr: TOneWord[] = [
   {
     targetWord: 'zairean',
     translating: 'заира',

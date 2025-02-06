@@ -16,7 +16,7 @@ const Search = () => {
 
   return (
     <>
-      <SearchResults dataFromInput={value} />
+      <SearchResults stringFromInput={value} />
 
       <label className={styles.label}>
         Search:
