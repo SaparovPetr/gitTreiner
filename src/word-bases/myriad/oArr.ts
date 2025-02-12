@@ -1185,7 +1185,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'o ring',
-    translating: 'уплотнительное кольцо ',
+    translating: 'уплотнительное кольцо',
     partOfSpeechCode: 'n',
     skyid: '183008'
   },
@@ -1341,7 +1341,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'oat',
-    translating: 'овес ',
+    translating: 'овес',
     partOfSpeechCode: 'n',
     skyid: '191565'
   },
@@ -1635,7 +1635,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'object to',
-    translating: 'возражать ',
+    translating: 'возражать',
     partOfSpeechCode: 'v',
     skyid: '237012'
   },
@@ -1845,7 +1845,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'obligatory',
-    translating: 'обязательный ',
+    translating: 'обязательный',
     partOfSpeechCode: 'j',
     skyid: '247743'
   },
@@ -1929,7 +1929,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'oblique',
-    translating: 'наружная косая мышца ',
+    translating: 'наружная косая мышца',
     partOfSpeechCode: 'n',
     skyid: '102908'
   },
@@ -1995,7 +1995,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'obliterate',
-    translating: 'вычёркивать ',
+    translating: 'вычёркивать',
     partOfSpeechCode: 'v',
     skyid: '194489'
   },
@@ -2097,7 +2097,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'obscene',
-    translating: 'неприличный ',
+    translating: 'неприличный',
     partOfSpeechCode: 'j',
     skyid: '241803'
   },
@@ -2301,7 +2301,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'observation',
-    translating: 'замечание ',
+    translating: 'замечание',
     partOfSpeechCode: 'n',
     skyid: '240216'
   },
@@ -2799,7 +2799,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'obtain commitment',
-    translating: 'добиться заинтересованности в деле ',
+    translating: 'добиться заинтересованности в деле',
     partOfSpeechCode: 'ph',
     skyid: '251506'
   },
@@ -3117,7 +3117,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'occultation',
-    translating: 'затмение ',
+    translating: 'затмение',
     partOfSpeechCode: 'n',
     skyid: '20659'
   },
@@ -3544,7 +3544,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'ocher',
-    translating: 'жёлто-оранжевый ',
+    translating: 'жёлто-оранжевый',
     partOfSpeechCode: 'j',
     skyid: '74656'
   },
@@ -3856,7 +3856,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'odd man out',
-    translating: 'выделяющийся человек ',
+    translating: 'выделяющийся человек',
     partOfSpeechCode: 'ph',
     skyid: '20653'
   },
@@ -4192,7 +4192,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'odyssey',
-    translating: 'одиссея ',
+    translating: 'одиссея',
     partOfSpeechCode: 'n',
     skyid: '159056'
   },
@@ -4475,7 +4475,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'off',
-    translating: 'скидка ',
+    translating: 'скидка',
     partOfSpeechCode: 'r',
     skyid: '237060'
   },
@@ -4583,7 +4583,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: "off the top of one's head",
-    translating: 'по памяти ',
+    translating: 'по памяти',
     partOfSpeechCode: 'phi',
     skyid: '235765'
   },
@@ -4769,7 +4769,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'off-the-job',
-    translating: 'происходящий ',
+    translating: 'происходящий',
     partOfSpeechCode: 'j',
     skyid: '232206'
   },
@@ -4841,7 +4841,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'offend',
-    translating: 'нарушать ',
+    translating: 'нарушать',
     partOfSpeechCode: 'v',
     skyid: '151190'
   },
@@ -5262,7 +5262,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'official',
-    translating: 'официальный ',
+    translating: 'официальный',
     partOfSpeechCode: 'j',
     skyid: '241975'
   },
@@ -5844,7 +5844,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: "oil and water don't mix",
-    translating: 'масло и вода не смешиваются ',
+    translating: 'масло и вода не смешиваются',
     partOfSpeechCode: 'ph',
     skyid: '244096'
   },
@@ -6528,7 +6528,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'old maid',
-    translating: 'старая дева ',
+    translating: 'старая дева',
     partOfSpeechCode: 'n',
     skyid: '100085'
   },
@@ -7182,7 +7182,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'olm',
-    translating: 'протей европейский ',
+    translating: 'протей европейский',
     partOfSpeechCode: 'n',
     skyid: '155937'
   },
@@ -7224,7 +7224,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'olympic',
-    translating: 'олимпийский ',
+    translating: 'олимпийский',
     partOfSpeechCode: 'j',
     skyid: '44716'
   },
@@ -7555,7 +7555,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: "on Shank's mare",
-    translating: 'на своих двоих ',
+    translating: 'на своих двоих',
     partOfSpeechCode: 'ph',
     skyid: '244092'
   },
@@ -7994,7 +7994,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'on the anvil',
-    translating: 'в процессе ',
+    translating: 'в процессе',
     partOfSpeechCode: 'ph',
     skyid: '241524'
   },
@@ -9040,7 +9040,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'one fire drives out another',
-    translating: 'один огонь другим тушится ',
+    translating: 'один огонь другим тушится',
     partOfSpeechCode: 'ph',
     skyid: '244080'
   },
@@ -9118,7 +9118,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'one million million million',
-    translating: 'число ',
+    translating: 'число',
     partOfSpeechCode: 'n',
     skyid: '182348'
   },
@@ -9227,7 +9227,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: "one's lucky stars",
-    translating: 'счастливая звезда ',
+    translating: 'счастливая звезда',
     partOfSpeechCode: 'ph',
     skyid: '241522'
   },
@@ -9509,7 +9509,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'one-step',
-    translating: 'один шаг ',
+    translating: 'один шаг',
     partOfSpeechCode: 'n',
     skyid: '166801'
   },
@@ -9563,7 +9563,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'one-track mind',
-    translating: 'однобокое мышление ',
+    translating: 'однобокое мышление',
     partOfSpeechCode: 'ph',
     skyid: '241520'
   },
@@ -9683,7 +9683,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'onion',
-    translating: 'лук ',
+    translating: 'лук',
     partOfSpeechCode: 'n',
     skyid: '35388'
   },
@@ -9743,7 +9743,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'online',
-    translating: 'онлайн ',
+    translating: 'онлайн',
     partOfSpeechCode: 'r',
     skyid: '236107'
   },
@@ -10115,7 +10115,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'onto',
-    translating: 'к ',
+    translating: 'к',
     partOfSpeechCode: 'prp',
     skyid: '238814'
   },
@@ -10703,7 +10703,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'open source',
-    translating: 'открытый источник ',
+    translating: 'открытый источник',
     partOfSpeechCode: 'ph',
     skyid: '252518'
   },
@@ -10933,7 +10933,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'open-source',
-    translating: 'с открытым кодом ',
+    translating: 'с открытым кодом',
     partOfSpeechCode: 'j',
     skyid: '21544'
   },
@@ -11275,7 +11275,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'operate',
-    translating: 'управлять ',
+    translating: 'управлять',
     partOfSpeechCode: 'v',
     skyid: '159857'
   },
@@ -11479,7 +11479,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'operation',
-    translating: 'действие ',
+    translating: 'действие',
     partOfSpeechCode: 'n',
     skyid: '151252'
   },
@@ -11497,13 +11497,13 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'operation program',
-    translating: 'программа функционирования ',
+    translating: 'программа функционирования',
     partOfSpeechCode: 'n',
     skyid: '248985'
   },
   {
     targetWord: 'operation support program',
-    translating: 'программа поддержки эксплуатации ',
+    translating: 'программа поддержки эксплуатации',
     partOfSpeechCode: 'n',
     skyid: '248986'
   },
@@ -11641,7 +11641,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'operative loudspeaking and telephone communication',
-    translating: 'оперативная громкоговорящая и телефонная связь ',
+    translating: 'оперативная громкоговорящая и телефонная связь',
     partOfSpeechCode: 'n',
     skyid: '248989'
   },
@@ -11683,7 +11683,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'operator',
-    translating: 'оператор ',
+    translating: 'оператор',
     partOfSpeechCode: 'n',
     skyid: '152269'
   },
@@ -12103,7 +12103,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'opposite',
-    translating: 'противоположный ',
+    translating: 'противоположный',
     partOfSpeechCode: 'j',
     skyid: '2858'
   },
@@ -12115,7 +12115,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'opposite',
-    translating: 'супротивный ',
+    translating: 'супротивный',
     partOfSpeechCode: 'j',
     skyid: '2854'
   },
@@ -12331,7 +12331,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'optic-acoustic signaling unit',
-    translating: 'оптико-акустический сигнализатор ',
+    translating: 'оптико-акустический сигнализатор',
     partOfSpeechCode: 'n',
     skyid: '249046'
   },
@@ -13497,7 +13497,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'order around',
-    translating: 'командовать ',
+    translating: 'командовать',
     partOfSpeechCode: 'v',
     skyid: '246991'
   },
@@ -14241,7 +14241,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'oreide',
-    translating: 'золотистый сплав ',
+    translating: 'золотистый сплав',
     partOfSpeechCode: 'n',
     skyid: '36471'
   },
@@ -14331,7 +14331,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'organic',
-    translating: 'натуральный ',
+    translating: 'натуральный',
     partOfSpeechCode: 'j',
     skyid: '238709'
   },
@@ -14517,7 +14517,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'organization',
-    translating: 'организация ',
+    translating: 'организация',
     partOfSpeechCode: 'n',
     skyid: '241500'
   },
@@ -14645,7 +14645,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'organized',
-    translating: 'организованный ',
+    translating: 'организованный',
     partOfSpeechCode: 'j',
     skyid: '238712'
   },
@@ -14939,7 +14939,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'origin',
-    translating: 'происхождение ',
+    translating: 'происхождение',
     partOfSpeechCode: 'n',
     skyid: '240254'
   },
@@ -14951,7 +14951,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'origin',
-    translating: 'начало координат ',
+    translating: 'начало координат',
     partOfSpeechCode: 'n',
     skyid: '165761'
   },
@@ -15059,7 +15059,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'originate',
-    translating: 'брать начало ',
+    translating: 'брать начало',
     partOfSpeechCode: 'v',
     skyid: '100032'
   },
@@ -16625,7 +16625,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'ounce',
-    translating: 'унция ',
+    translating: 'унция',
     partOfSpeechCode: 'n',
     skyid: '2354'
   },
@@ -16819,7 +16819,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'out of',
-    translating: 'вне ',
+    translating: 'вне',
     partOfSpeechCode: 'prp',
     skyid: '239517'
   },
@@ -16837,7 +16837,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'out of',
-    translating: 'из ',
+    translating: 'из',
     partOfSpeechCode: 'prp',
     skyid: '237087'
   },
@@ -17197,7 +17197,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'out-of-step mode removal controls',
-    translating: 'автоматика ликвидации асинхронного режима ',
+    translating: 'автоматика ликвидации асинхронного режима',
     partOfSpeechCode: 'n',
     skyid: '248499'
   },
@@ -17251,7 +17251,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outage',
-    translating: 'отключение ',
+    translating: 'отключение',
     partOfSpeechCode: 'n',
     skyid: '248162'
   },
@@ -17263,7 +17263,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outback',
-    translating: 'необжитый ',
+    translating: 'необжитый',
     partOfSpeechCode: 'j',
     skyid: '186335'
   },
@@ -17511,7 +17511,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outdoor lighting board',
-    translating: 'щит наружного освещения ',
+    translating: 'щит наружного освещения',
     partOfSpeechCode: 'n',
     skyid: '248496'
   },
@@ -17523,7 +17523,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outdoor sport',
-    translating: 'спорт ',
+    translating: 'спорт',
     partOfSpeechCode: 'n',
     skyid: '224030'
   },
@@ -17649,7 +17649,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outfielder',
-    translating: 'аутфилдер ',
+    translating: 'аутфилдер',
     partOfSpeechCode: 'n',
     skyid: '219752'
   },
@@ -17787,7 +17787,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outgoings',
-    translating: 'расходы ',
+    translating: 'расходы',
     partOfSpeechCode: 'n',
     skyid: '242076'
   },
@@ -17907,7 +17907,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outleap',
-    translating: 'прыгать лучше ',
+    translating: 'прыгать лучше',
     partOfSpeechCode: 'v',
     skyid: '233465'
   },
@@ -18009,7 +18009,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outline the concept',
-    translating: 'намечать план ',
+    translating: 'намечать план',
     partOfSpeechCode: 'ph',
     skyid: '229150'
   },
@@ -18045,7 +18045,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'outlook',
-    translating: 'взгляд ',
+    translating: 'взгляд',
     partOfSpeechCode: 'n',
     skyid: '247749'
   },
@@ -19161,7 +19161,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'over the moon',
-    translating: 'на седьмом небе ',
+    translating: 'на седьмом небе',
     partOfSpeechCode: 'ph',
     skyid: '230369'
   },
@@ -19545,7 +19545,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overbreed',
-    translating: 'размножаться ',
+    translating: 'размножаться',
     partOfSpeechCode: 'v',
     skyid: '233406'
   },
@@ -19581,7 +19581,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overbuy',
-    translating: 'покупать ',
+    translating: 'покупать',
     partOfSpeechCode: 'v',
     skyid: '233409'
   },
@@ -19827,7 +19827,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overcurrent protection',
-    translating: 'защита от сверхтоков ',
+    translating: 'защита от сверхтоков',
     partOfSpeechCode: 'n',
     skyid: '248516'
   },
@@ -19899,7 +19899,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overdrawn',
-    translating: 'превышающий кредит ',
+    translating: 'превышающий кредит',
     partOfSpeechCode: 'j',
     skyid: '240270'
   },
@@ -20073,7 +20073,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overexposure',
-    translating: 'слишком частое упоминание ',
+    translating: 'слишком частое упоминание',
     partOfSpeechCode: 'n',
     skyid: '164882'
   },
@@ -20145,7 +20145,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overflow',
-    translating: 'быть переполненным ',
+    translating: 'быть переполненным',
     partOfSpeechCode: 'v',
     skyid: '242148'
   },
@@ -20559,7 +20559,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overload',
-    translating: 'нагружать ',
+    translating: 'нагружать',
     partOfSpeechCode: 'v',
     skyid: '247752'
   },
@@ -20619,7 +20619,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overlook',
-    translating: 'смотреть сверху ',
+    translating: 'смотреть сверху',
     partOfSpeechCode: 'v',
     skyid: '238685'
   },
@@ -21825,7 +21825,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overworked',
-    translating: 'перегруженный ',
+    translating: 'перегруженный',
     partOfSpeechCode: 'j',
     skyid: '240262'
   },
@@ -22005,7 +22005,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'owe',
-    translating: 'быть в долгу ',
+    translating: 'быть в долгу',
     partOfSpeechCode: 'v',
     skyid: '172743'
   },
@@ -22107,7 +22107,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'own up',
-    translating: 'признавать ',
+    translating: 'признавать',
     partOfSpeechCode: 'v',
     skyid: '221158'
   },

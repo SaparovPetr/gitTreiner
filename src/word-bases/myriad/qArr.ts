@@ -159,7 +159,7 @@ export const qArr: TOneWord[] = [
   { targetWord: 'q', translating: 'Q', partOfSpeechCode: 'n', skyid: '154993' },
   {
     targetWord: 'q-ty',
-    translating: 'количество ',
+    translating: 'количество',
     partOfSpeechCode: 'abb',
     skyid: '247345'
   },
@@ -814,7 +814,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'qualifying',
-    translating: 'получение квалификации ',
+    translating: 'получение квалификации',
     partOfSpeechCode: 'n',
     skyid: '10715'
   },
@@ -832,7 +832,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'qualitative analysis',
-    translating: 'качественный анализ ',
+    translating: 'качественный анализ',
     partOfSpeechCode: 'n',
     skyid: '247093'
   },
@@ -892,7 +892,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quality assurance in construction',
-    translating: 'обеспечение качества при сооружении ',
+    translating: 'обеспечение качества при сооружении',
     partOfSpeechCode: 'n',
     skyid: '247334'
   },
@@ -1397,7 +1397,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quarry',
-    translating: 'извлекать ',
+    translating: 'извлекать',
     partOfSpeechCode: 'v',
     skyid: '50736'
   },
@@ -1439,7 +1439,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quart',
-    translating: 'кварта ',
+    translating: 'кварта',
     partOfSpeechCode: 'n',
     skyid: '38235'
   },
@@ -1457,7 +1457,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quarter',
-    translating: 'делить ',
+    translating: 'делить',
     partOfSpeechCode: 'v',
     skyid: '153790'
   },
@@ -1583,7 +1583,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quarterback',
-    translating: 'возглавлять ',
+    translating: 'возглавлять',
     partOfSpeechCode: 'v',
     skyid: '15275'
   },
@@ -1913,7 +1913,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'queen',
-    translating: 'превратить пешку ',
+    translating: 'превратить пешку',
     partOfSpeechCode: 'v',
     skyid: '221522'
   },
@@ -2051,7 +2051,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'queer as a three-dollar bill',
-    translating: 'очень странный ',
+    translating: 'очень странный',
     partOfSpeechCode: 'ph',
     skyid: '241508'
   },
@@ -2566,7 +2566,7 @@ export const qArr: TOneWord[] = [
     skyid: '161564'
   },
   {
-    targetWord: 'quick-fire ',
+    targetWord: 'quick-fire',
     translating: 'стремительный',
     partOfSpeechCode: 'ph',
     skyid: '229802'
@@ -2711,7 +2711,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quickly',
-    translating: 'быстро ',
+    translating: 'быстро',
     partOfSpeechCode: 'r',
     skyid: '21224'
   },
@@ -2777,7 +2777,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quickstep',
-    translating: 'квикстеп ',
+    translating: 'квикстеп',
     partOfSpeechCode: 'n',
     skyid: '174260'
   },
@@ -3017,7 +3017,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quiff',
-    translating: 'челка ',
+    translating: 'челка',
     partOfSpeechCode: 'n',
     skyid: '124392'
   },
@@ -3227,7 +3227,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quintet',
-    translating: 'группа из пяти ',
+    translating: 'группа из пяти',
     partOfSpeechCode: 'n',
     skyid: '54647'
   },
@@ -3695,7 +3695,7 @@ export const qArr: TOneWord[] = [
   },
   {
     targetWord: 'quoits',
-    translating: 'метание колец ',
+    translating: 'метание колец',
     partOfSpeechCode: 'n',
     skyid: '191985'
   },

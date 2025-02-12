@@ -296,7 +296,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'junior',
-    translating: 'младший ',
+    translating: 'младший',
     partOfSpeechCode: 'j',
     skyid: '196903'
   },
@@ -489,7 +489,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jack',
-    translating: 'принадлежности для игры ',
+    translating: 'принадлежности для игры',
     partOfSpeechCode: 'n',
     skyid: '155637'
   },
@@ -531,7 +531,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jack',
-    translating: 'электрический разъём ',
+    translating: 'электрический разъём',
     partOfSpeechCode: 'n',
     skyid: '155636'
   },
@@ -573,7 +573,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jack up',
-    translating: 'поднять ',
+    translating: 'поднять',
     partOfSpeechCode: 'v',
     skyid: '104551'
   },
@@ -880,7 +880,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jaconet',
-    translating: 'легкая бумажная ткань ',
+    translating: 'легкая бумажная ткань',
     partOfSpeechCode: 'n',
     skyid: '1908'
   },
@@ -1090,7 +1090,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jailbait',
-    translating: 'девушка-подросток ',
+    translating: 'девушка-подросток',
     partOfSpeechCode: 'n',
     skyid: '237546'
   },
@@ -1204,13 +1204,13 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jam',
-    translating: 'заклинивание ',
+    translating: 'заклинивание',
     partOfSpeechCode: 'n',
     skyid: '240047'
   },
   {
     targetWord: 'jam',
-    translating: 'пробка ',
+    translating: 'пробка',
     partOfSpeechCode: 'n',
     skyid: '238352'
   },
@@ -1444,7 +1444,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'japan',
-    translating: 'покрывать чёрным лаком ',
+    translating: 'покрывать чёрным лаком',
     partOfSpeechCode: 'v',
     skyid: '158860'
   },
@@ -1978,7 +1978,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jazz',
-    translating: 'джаз ',
+    translating: 'джаз',
     partOfSpeechCode: 'n',
     skyid: '143987'
   },
@@ -2700,7 +2700,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jet',
-    translating: 'летать ',
+    translating: 'летать',
     partOfSpeechCode: 'v',
     skyid: '138740'
   },
@@ -2736,13 +2736,13 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jet impingement',
-    translating: 'удар струи ',
+    translating: 'удар струи',
     partOfSpeechCode: 'n',
     skyid: '245898'
   },
   {
     targetWord: 'jet lag',
-    translating: 'нарушение биоритма ',
+    translating: 'нарушение биоритма',
     partOfSpeechCode: 'n',
     skyid: '230523'
   },
@@ -3468,7 +3468,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jitterbug',
-    translating: 'джиттербаг ',
+    translating: 'джиттербаг',
     partOfSpeechCode: 'n',
     skyid: '79439'
   },
@@ -3732,7 +3732,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'job ticket',
-    translating: 'рабочая карточка ',
+    translating: 'рабочая карточка',
     partOfSpeechCode: 'n',
     skyid: '245690'
   },
@@ -4212,7 +4212,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'join the team',
-    translating: 'войти в состав ',
+    translating: 'войти в состав',
     partOfSpeechCode: 'ph',
     skyid: '231645'
   },
@@ -4224,7 +4224,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'join up',
-    translating: 'присоединяться ',
+    translating: 'присоединяться',
     partOfSpeechCode: 'v',
     skyid: '237453'
   },
@@ -4326,7 +4326,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'joint account',
-    translating: 'совместный счёт ',
+    translating: 'совместный счёт',
     partOfSpeechCode: 'n',
     skyid: '238933'
   },
@@ -4500,7 +4500,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'joker',
-    translating: 'двусмысленная статья ',
+    translating: 'двусмысленная статья',
     partOfSpeechCode: 'n',
     skyid: '24073'
   },
@@ -4932,7 +4932,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jovial',
-    translating: 'бодрый ',
+    translating: 'бодрый',
     partOfSpeechCode: 'j',
     skyid: '31380'
   },
@@ -5178,7 +5178,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'judge',
-    translating: 'судья ',
+    translating: 'судья',
     partOfSpeechCode: 'n',
     skyid: '235392'
   },
@@ -5214,7 +5214,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'judge',
-    translating: 'судить ',
+    translating: 'судить',
     partOfSpeechCode: 'v',
     skyid: '193090'
   },
@@ -5748,7 +5748,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'julep',
-    translating: 'джулеп ',
+    translating: 'джулеп',
     partOfSpeechCode: 'n',
     skyid: '38551'
   },
@@ -6066,7 +6066,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jump the gun',
-    translating: 'опережать события ',
+    translating: 'опережать события',
     partOfSpeechCode: 'ph',
     skyid: '234424'
   },
@@ -6342,7 +6342,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jungle',
-    translating: 'джунгли ',
+    translating: 'джунгли',
     partOfSpeechCode: 'n',
     skyid: '78539'
   },
@@ -6600,7 +6600,7 @@ export const jArr: TOneWord[] = [
   },
   {
     targetWord: 'jurisdiction',
-    translating: 'сфера полномочий ',
+    translating: 'сфера полномочий',
     partOfSpeechCode: 'n',
     skyid: '185580'
   },

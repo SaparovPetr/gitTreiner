@@ -1053,7 +1053,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'keen',
-    translating: 'жаждущий ',
+    translating: 'жаждущий',
     partOfSpeechCode: 'j',
     skyid: '236879'
   },
@@ -1071,7 +1071,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'keen',
-    translating: 'отличный ',
+    translating: 'отличный',
     partOfSpeechCode: 'j',
     skyid: '154836'
   },
@@ -1569,7 +1569,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'keep in mind',
-    translating: 'помнить ',
+    translating: 'помнить',
     partOfSpeechCode: 'v',
     skyid: '239723'
   },
@@ -3413,7 +3413,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kick off',
-    translating: 'сбрасывать ',
+    translating: 'сбрасывать',
     partOfSpeechCode: 'v',
     skyid: '238070'
   },
@@ -3629,7 +3629,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kidnapper',
-    translating: 'похититель ',
+    translating: 'похититель',
     partOfSpeechCode: 'n',
     skyid: '125662'
   },
@@ -3905,7 +3905,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kilobyte',
-    translating: 'килобайт ',
+    translating: 'килобайт',
     partOfSpeechCode: 'n',
     skyid: '27293'
   },
@@ -3965,7 +3965,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kilowatt',
-    translating: 'киловатт ',
+    translating: 'киловатт',
     partOfSpeechCode: 'n',
     skyid: '192023'
   },
@@ -5574,19 +5574,19 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'knife',
-    translating: 'зарезать ',
+    translating: 'зарезать',
     partOfSpeechCode: 'v',
     skyid: '130704'
   },
   {
     targetWord: 'knife',
-    translating: 'лезвие ',
+    translating: 'лезвие',
     partOfSpeechCode: 'n',
     skyid: '130703'
   },
   {
     targetWord: 'knife',
-    translating: 'нож ',
+    translating: 'нож',
     partOfSpeechCode: 'n',
     skyid: '130702'
   },
@@ -5922,7 +5922,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'knock back',
-    translating: 'пить ',
+    translating: 'пить',
     partOfSpeechCode: 'v',
     skyid: '235521'
   },
@@ -6018,7 +6018,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'knock out',
-    translating: 'выбывать ',
+    translating: 'выбывать',
     partOfSpeechCode: 'v',
     skyid: '238112'
   },
@@ -6036,7 +6036,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'knock out',
-    translating: 'вырубать ',
+    translating: 'вырубать',
     partOfSpeechCode: 'v',
     skyid: '36594'
   },
@@ -6540,7 +6540,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'knowingly',
-    translating: 'понимающе ',
+    translating: 'понимающе',
     partOfSpeechCode: 'r',
     skyid: '241047'
   },
@@ -7195,7 +7195,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kudos',
-    translating: 'похвала ',
+    translating: 'похвала',
     partOfSpeechCode: 'n',
     skyid: '92085'
   },

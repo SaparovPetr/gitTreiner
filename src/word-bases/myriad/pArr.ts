@@ -188,7 +188,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pantechnicon',
-    translating: 'фургон ',
+    translating: 'фургон',
     partOfSpeechCode: 'n',
     skyid: '194329'
   },
@@ -428,7 +428,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pass on',
-    translating: 'передавать ',
+    translating: 'передавать',
     partOfSpeechCode: 'v',
     skyid: '198653'
   },
@@ -440,7 +440,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pass on',
-    translating: 'переложить ответственность ',
+    translating: 'переложить ответственность',
     partOfSpeechCode: 'v',
     skyid: '198651'
   },
@@ -506,7 +506,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'patio',
-    translating: 'патио ',
+    translating: 'патио',
     partOfSpeechCode: 'n',
     skyid: '202949'
   },
@@ -662,7 +662,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pentagon',
-    translating: 'пентагон ',
+    translating: 'пентагон',
     partOfSpeechCode: 'n',
     skyid: '211206'
   },
@@ -1370,7 +1370,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pitch',
-    translating: 'торговая точка ',
+    translating: 'торговая точка',
     partOfSpeechCode: 'n',
     skyid: '212543'
   },
@@ -1574,7 +1574,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pleader',
-    translating: 'адвокат ',
+    translating: 'адвокат',
     partOfSpeechCode: 'n',
     skyid: '202914'
   },
@@ -2360,7 +2360,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'preempt',
-    translating: 'опередить ставкой ',
+    translating: 'опередить ставкой',
     partOfSpeechCode: 'v',
     skyid: '204252'
   },
@@ -2810,7 +2810,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'probe',
-    translating: 'зонд ',
+    translating: 'зонд',
     partOfSpeechCode: 'n',
     skyid: '197917'
   },
@@ -3422,7 +3422,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'push',
-    translating: 'подталкивать ',
+    translating: 'подталкивать',
     partOfSpeechCode: 'v',
     skyid: '200721'
   },
@@ -4179,7 +4179,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'package',
-    translating: 'пакет ',
+    translating: 'пакет',
     partOfSpeechCode: 'n',
     skyid: '243870'
   },
@@ -4493,7 +4493,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pad',
-    translating: 'подушечка ',
+    translating: 'подушечка',
     partOfSpeechCode: 'n',
     skyid: '216360'
   },
@@ -5375,7 +5375,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'paint eyebrows and lashes black',
-    translating: 'накрасить брови ',
+    translating: 'накрасить брови',
     partOfSpeechCode: 'ph',
     skyid: '228407'
   },
@@ -8418,7 +8418,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'parallel to',
-    translating: 'параллельный ',
+    translating: 'параллельный',
     partOfSpeechCode: 'j',
     skyid: '237138'
   },
@@ -9517,7 +9517,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'parking with time restrictions',
-    translating: 'парковка с ограничением ',
+    translating: 'парковка с ограничением',
     partOfSpeechCode: 'ph',
     skyid: '234215'
   },
@@ -9745,7 +9745,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'parole',
-    translating: 'разрешение временного пребывания ',
+    translating: 'разрешение временного пребывания',
     partOfSpeechCode: 'n',
     skyid: '234278'
   },
@@ -11809,7 +11809,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'passing',
-    translating: 'пас ',
+    translating: 'пас',
     partOfSpeechCode: 'n',
     skyid: '49285'
   },
@@ -11936,7 +11936,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'passive',
-    translating: 'пассивный ',
+    translating: 'пассивный',
     partOfSpeechCode: 'j',
     skyid: '150362'
   },
@@ -12074,7 +12074,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'passport stamp',
-    translating: 'отметка ',
+    translating: 'отметка',
     partOfSpeechCode: 'n',
     skyid: '234282'
   },
@@ -13034,7 +13034,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pathetic',
-    translating: 'жалкий ',
+    translating: 'жалкий',
     partOfSpeechCode: 'j',
     skyid: '247762'
   },
@@ -13257,7 +13257,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'patriarch',
-    translating: 'патриарх ',
+    translating: 'патриарх',
     partOfSpeechCode: 'n',
     skyid: '4118'
   },
@@ -14043,7 +14043,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pawn',
-    translating: 'пешка ',
+    translating: 'пешка',
     partOfSpeechCode: 'n',
     skyid: '176092'
   },
@@ -14607,7 +14607,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'payload',
-    translating: 'полезная нагрузка ',
+    translating: 'полезная нагрузка',
     partOfSpeechCode: 'n',
     skyid: '233880'
   },
@@ -14806,7 +14806,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pcs.',
-    translating: 'штук ',
+    translating: 'штук',
     partOfSpeechCode: 'abb',
     skyid: '247344'
   },
@@ -15118,7 +15118,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peach',
-    translating: 'красотка ',
+    translating: 'красотка',
     partOfSpeechCode: 'n',
     skyid: '139804'
   },
@@ -15286,7 +15286,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peak current',
-    translating: 'ударный ток ',
+    translating: 'ударный ток',
     partOfSpeechCode: 'n',
     skyid: '248165'
   },
@@ -15436,7 +15436,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pear',
-    translating: 'груша ',
+    translating: 'груша',
     partOfSpeechCode: 'n',
     skyid: '177345'
   },
@@ -15556,7 +15556,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pearly nautilus',
-    translating: 'наутилус помпилиус ',
+    translating: 'наутилус помпилиус',
     partOfSpeechCode: 'n',
     skyid: '138841'
   },
@@ -15922,7 +15922,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peculiar',
-    translating: 'особенный ',
+    translating: 'особенный',
     partOfSpeechCode: 'j',
     skyid: '99551'
   },
@@ -16378,7 +16378,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peel',
-    translating: 'отделять ',
+    translating: 'отделять',
     partOfSpeechCode: 'v',
     skyid: '242001'
   },
@@ -16576,7 +16576,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peer',
-    translating: 'сверстник ',
+    translating: 'сверстник',
     partOfSpeechCode: 'n',
     skyid: '240246'
   },
@@ -17428,7 +17428,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pendant',
-    translating: 'подвеска ',
+    translating: 'подвеска',
     partOfSpeechCode: 'n',
     skyid: '83914'
   },
@@ -17500,7 +17500,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'penetrate',
-    translating: 'внедряться ',
+    translating: 'внедряться',
     partOfSpeechCode: 'v',
     skyid: '163173'
   },
@@ -18376,7 +18376,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pepper',
-    translating: 'перец ',
+    translating: 'перец',
     partOfSpeechCode: 'n',
     skyid: '191392'
   },
@@ -18406,7 +18406,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pepper pot',
-    translating: 'тушеная требуха ',
+    translating: 'тушеная требуха',
     partOfSpeechCode: 'n',
     skyid: '121904'
   },
@@ -18766,7 +18766,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'percentage',
-    translating: 'процент ',
+    translating: 'процент',
     partOfSpeechCode: 'n',
     skyid: '243871'
   },
@@ -19949,7 +19949,7 @@ export const pArr: TOneWord[] = [
   {
     targetWord: 'periodic and casual monitoring workstation',
     translating:
-      'автоматизированное рабочее место периодического и эпизодического контроля ',
+      'автоматизированное рабочее место периодического и эпизодического контроля',
     partOfSpeechCode: 'n',
     skyid: '248991'
   },
@@ -20345,7 +20345,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'perm',
-    translating: 'делать химическую завивку ',
+    translating: 'делать химическую завивку',
     partOfSpeechCode: 'v',
     skyid: '231718'
   },
@@ -20573,7 +20573,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'permission',
-    translating: 'разрешение ',
+    translating: 'разрешение',
     partOfSpeechCode: 'n',
     skyid: '47426'
   },
@@ -21245,7 +21245,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'personal',
-    translating: 'личный ',
+    translating: 'личный',
     partOfSpeechCode: 'j',
     skyid: '14950'
   },
@@ -21605,7 +21605,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'personally',
-    translating: 'лично ',
+    translating: 'лично',
     partOfSpeechCode: 'r',
     skyid: '241537'
   },
@@ -21821,7 +21821,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'persuade',
-    translating: 'убеждать ',
+    translating: 'убеждать',
     partOfSpeechCode: 'v',
     skyid: '238460'
   },
@@ -22367,7 +22367,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pestle',
-    translating: 'пестик ',
+    translating: 'пестик',
     partOfSpeechCode: 'n',
     skyid: '169945'
   },
@@ -23495,7 +23495,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'phase-out',
-    translating: 'ликвидация ',
+    translating: 'ликвидация',
     partOfSpeechCode: 'n',
     skyid: '188361'
   },
@@ -23897,7 +23897,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'philosophical',
-    translating: 'философский ',
+    translating: 'философский',
     partOfSpeechCode: 'j',
     skyid: '154890'
   },
@@ -24449,7 +24449,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'phony as a three-dollar bill',
-    translating: 'фальшивый ',
+    translating: 'фальшивый',
     partOfSpeechCode: 'ph',
     skyid: '241517'
   },
@@ -25271,7 +25271,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'physical calculation program',
-    translating: 'программа физических расчетов ',
+    translating: 'программа физических расчетов',
     partOfSpeechCode: 'n',
     skyid: '249000'
   },
@@ -25439,7 +25439,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'physically',
-    translating: 'физически ',
+    translating: 'физически',
     partOfSpeechCode: 'r',
     skyid: '238528'
   },
@@ -26567,13 +26567,13 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'picturesque',
-    translating: 'яркий ',
+    translating: 'яркий',
     partOfSpeechCode: 'j',
     skyid: '125825'
   },
   {
     targetWord: 'picturesque',
-    translating: 'живописный ',
+    translating: 'живописный',
     partOfSpeechCode: 'j',
     skyid: '125824'
   },
@@ -26693,7 +26693,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'piece',
-    translating: 'один ',
+    translating: 'один',
     partOfSpeechCode: 'n',
     skyid: '241539'
   },
@@ -27311,7 +27311,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pigsticking',
-    translating: 'охота на кабанов ',
+    translating: 'охота на кабанов',
     partOfSpeechCode: 'n',
     skyid: '101599'
   },
@@ -27755,13 +27755,13 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pillar of strength',
-    translating: 'опора ',
+    translating: 'опора',
     partOfSpeechCode: 'ph',
     skyid: '152986'
   },
   {
     targetWord: 'pillar of support',
-    translating: 'опора ',
+    translating: 'опора',
     partOfSpeechCode: 'ph',
     skyid: '241516'
   },
@@ -27809,7 +27809,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pillory',
-    translating: 'поставить к столбу ',
+    translating: 'поставить к столбу',
     partOfSpeechCode: 'v',
     skyid: '12226'
   },
@@ -28127,7 +28127,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pin',
-    translating: 'прикалывать ',
+    translating: 'прикалывать',
     partOfSpeechCode: 'v',
     skyid: '139251'
   },
@@ -28349,7 +28349,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pinch',
-    translating: 'щепотка ',
+    translating: 'щепотка',
     partOfSpeechCode: 'n',
     skyid: '177687'
   },
@@ -28361,13 +28361,13 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pinch',
-    translating: 'срезать ',
+    translating: 'срезать',
     partOfSpeechCode: 'v',
     skyid: '177693'
   },
   {
     targetWord: 'pinch',
-    translating: 'красть ',
+    translating: 'красть',
     partOfSpeechCode: 'v',
     skyid: '177692'
   },
@@ -28739,7 +28739,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pinion',
-    translating: 'связывать ',
+    translating: 'связывать',
     partOfSpeechCode: 'v',
     skyid: '97121'
   },
@@ -28974,7 +28974,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pinole',
-    translating: 'пиноле ',
+    translating: 'пиноле',
     partOfSpeechCode: 'n',
     skyid: '72787'
   },
@@ -29124,7 +29124,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pint',
-    translating: 'пинта ',
+    translating: 'пинта',
     partOfSpeechCode: 'n',
     skyid: '44972'
   },
@@ -29880,7 +29880,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pirate',
-    translating: 'нарушать закон ',
+    translating: 'нарушать закон',
     partOfSpeechCode: 'v',
     skyid: '29525'
   },
@@ -30306,7 +30306,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pitch',
-    translating: 'ударять по мячу ',
+    translating: 'ударять по мячу',
     partOfSpeechCode: 'v',
     skyid: '145640'
   },
@@ -30408,7 +30408,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pitch to someone',
-    translating: 'побуждающая речь ',
+    translating: 'побуждающая речь',
     partOfSpeechCode: 'ph',
     skyid: '229304'
   },
@@ -30498,7 +30498,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pitching',
-    translating: 'крен ',
+    translating: 'крен',
     partOfSpeechCode: 'n',
     skyid: '233959'
   },
@@ -32106,7 +32106,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plant',
-    translating: 'технологический объект управления ',
+    translating: 'технологический объект управления',
     partOfSpeechCode: 'n',
     skyid: '249008'
   },
@@ -32922,7 +32922,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plateau',
-    translating: 'плато ',
+    translating: 'плато',
     partOfSpeechCode: 'n',
     skyid: '168348'
   },
@@ -33012,7 +33012,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'platinum resistance temperature detector',
-    translating: 'термопреобразователь сопротивления платиновый ',
+    translating: 'термопреобразователь сопротивления платиновый',
     partOfSpeechCode: 'n',
     skyid: '248992'
   },
@@ -33852,7 +33852,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'playing',
-    translating: 'воспроизведение ',
+    translating: 'воспроизведение',
     partOfSpeechCode: 'n',
     skyid: '235208'
   },
@@ -34002,7 +34002,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plea',
-    translating: 'заявление защиты ',
+    translating: 'заявление защиты',
     partOfSpeechCode: 'n',
     skyid: '71099'
   },
@@ -34381,7 +34381,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pledge',
-    translating: 'человек давший обязательство ',
+    translating: 'человек давший обязательство',
     partOfSpeechCode: 'n',
     skyid: '145222'
   },
@@ -34593,7 +34593,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plenum ventilation board',
-    translating: 'щит приточной вентиляции ',
+    translating: 'щит приточной вентиляции',
     partOfSpeechCode: 'n',
     skyid: '249463'
   },
@@ -34911,7 +34911,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plog',
-    translating: 'персонализированный блог ',
+    translating: 'персонализированный блог',
     partOfSpeechCode: 'n',
     skyid: '233041'
   },
@@ -35301,7 +35301,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plug',
-    translating: 'затычка ',
+    translating: 'затычка',
     partOfSpeechCode: 'n',
     skyid: '79619'
   },
@@ -35373,13 +35373,13 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plug-in',
-    translating: 'подключаемый модуль ',
+    translating: 'подключаемый модуль',
     partOfSpeechCode: 'n',
     skyid: '103537'
   },
   {
     targetWord: 'plug-in equipment',
-    translating: 'съемноe оборудованиe ',
+    translating: 'съемноe оборудованиe',
     partOfSpeechCode: 'n',
     skyid: '249585'
   },
@@ -36640,7 +36640,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pocketbook',
-    translating: 'портмоне ',
+    translating: 'портмоне',
     partOfSpeechCode: 'n',
     skyid: '75810'
   },
@@ -37126,7 +37126,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'point',
-    translating: 'очко ',
+    translating: 'очко',
     partOfSpeechCode: 'n',
     skyid: '19089'
   },
@@ -37450,7 +37450,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pointless',
-    translating: 'тупой ',
+    translating: 'тупой',
     partOfSpeechCode: 'j',
     skyid: '14218'
   },
@@ -37546,7 +37546,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'poison',
-    translating: 'отравлять ',
+    translating: 'отравлять',
     partOfSpeechCode: 'v',
     skyid: '238470'
   },
@@ -37642,7 +37642,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'poisonous',
-    translating: 'ядовитый ',
+    translating: 'ядовитый',
     partOfSpeechCode: 'j',
     skyid: '238484'
   },
@@ -37996,7 +37996,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'polarization',
-    translating: 'разделение на два ',
+    translating: 'разделение на два',
     partOfSpeechCode: 'n',
     skyid: '232574'
   },
@@ -39040,7 +39040,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pollute',
-    translating: 'загрязнять ',
+    translating: 'загрязнять',
     partOfSpeechCode: 'v',
     skyid: '238463'
   },
@@ -39814,7 +39814,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pommy',
-    translating: 'англикашка ',
+    translating: 'англикашка',
     partOfSpeechCode: 'n',
     skyid: '54188'
   },
@@ -40444,7 +40444,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'poor as a church mouse',
-    translating: 'очень бедный ',
+    translating: 'очень бедный',
     partOfSpeechCode: 'ph',
     skyid: '241513'
   },
@@ -40726,7 +40726,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pop into somewhere',
-    translating: 'заскочить ',
+    translating: 'заскочить',
     partOfSpeechCode: 'ph',
     skyid: '235746'
   },
@@ -40762,7 +40762,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pop out',
-    translating: 'выскочить ',
+    translating: 'выскочить',
     partOfSpeechCode: 'v',
     skyid: '133095'
   },
@@ -41044,7 +41044,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'popular',
-    translating: 'популярный ',
+    translating: 'популярный',
     partOfSpeechCode: 'j',
     skyid: '125200'
   },
@@ -41219,7 +41219,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'porch',
-    translating: 'крыльцо ',
+    translating: 'крыльцо',
     partOfSpeechCode: 'n',
     skyid: '218578'
   },
@@ -41971,7 +41971,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'portrayal',
-    translating: 'описание ',
+    translating: 'описание',
     partOfSpeechCode: 'n',
     skyid: '243720'
   },
@@ -42488,7 +42488,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'possess',
-    translating: 'захватывать ',
+    translating: 'захватывать',
     partOfSpeechCode: 'v',
     skyid: '135723'
   },
@@ -42518,7 +42518,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'possession',
-    translating: 'имущество ',
+    translating: 'имущество',
     partOfSpeechCode: 'n',
     skyid: '238540'
   },
@@ -42530,7 +42530,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'possessive',
-    translating: 'притяжательный ',
+    translating: 'притяжательный',
     partOfSpeechCode: 'j',
     skyid: '237259'
   },
@@ -42542,7 +42542,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'possessive',
-    translating: 'собственнический ',
+    translating: 'собственнический',
     partOfSpeechCode: 'j',
     skyid: '243728'
   },
@@ -42764,7 +42764,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'post doc',
-    translating: 'грант ',
+    translating: 'грант',
     partOfSpeechCode: 'n',
     skyid: '99357'
   },
@@ -43016,7 +43016,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'postdoctoral',
-    translating: 'грант ',
+    translating: 'грант',
     partOfSpeechCode: 'n',
     skyid: '162413'
   },
@@ -43797,7 +43797,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'potbelly',
-    translating: 'брюхо ',
+    translating: 'брюхо',
     partOfSpeechCode: 'n',
     skyid: '134020'
   },
@@ -43941,7 +43941,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'potential transformer',
-    translating: 'трансформатор напряжения ',
+    translating: 'трансформатор напряжения',
     partOfSpeechCode: 'n',
     skyid: '247854'
   },
@@ -44037,7 +44037,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pothook',
-    translating: 'крючок ',
+    translating: 'крючок',
     partOfSpeechCode: 'n',
     skyid: '170466'
   },
@@ -44493,7 +44493,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pour',
-    translating: 'хлынуть ',
+    translating: 'хлынуть',
     partOfSpeechCode: 'v',
     skyid: '162658'
   },
@@ -44565,7 +44565,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pouring',
-    translating: 'проливной ',
+    translating: 'проливной',
     partOfSpeechCode: 'j',
     skyid: '233955'
   },
@@ -44596,7 +44596,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'poutine',
-    translating: 'пути́н ',
+    translating: 'пути́н',
     partOfSpeechCode: 'n',
     skyid: '252078'
   },
@@ -44860,7 +44860,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'power board',
-    translating: 'щит силовой ',
+    translating: 'щит силовой',
     partOfSpeechCode: 'n',
     skyid: '248333'
   },
@@ -45777,7 +45777,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'practitioner',
-    translating: 'практикующий ',
+    translating: 'практикующий',
     partOfSpeechCode: 'n',
     skyid: '243736'
   },
@@ -45951,7 +45951,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'praise',
-    translating: 'восхваление ',
+    translating: 'восхваление',
     partOfSpeechCode: 'n',
     skyid: '161817'
   },
@@ -46287,7 +46287,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pre-cooked',
-    translating: 'приготовленный заранее ',
+    translating: 'приготовленный заранее',
     partOfSpeechCode: 'j',
     skyid: '234899'
   },
@@ -46401,7 +46401,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pre-processing',
-    translating: 'предварительная обработка ',
+    translating: 'предварительная обработка',
     partOfSpeechCode: 'n',
     skyid: '246347'
   },
@@ -47193,7 +47193,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'predator',
-    translating: 'хищник ',
+    translating: 'хищник',
     partOfSpeechCode: 'n',
     skyid: '252415'
   },
@@ -47415,7 +47415,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'predictive text',
-    translating: 'предиктивный ввод ',
+    translating: 'предиктивный ввод',
     partOfSpeechCode: 'n',
     skyid: '235839'
   },
@@ -47811,7 +47811,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prefix',
-    translating: 'ставить приставку ',
+    translating: 'ставить приставку',
     partOfSpeechCode: 'v',
     skyid: '28443'
   },
@@ -47895,7 +47895,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'preheat',
-    translating: 'разогревать ',
+    translating: 'разогревать',
     partOfSpeechCode: 'v',
     skyid: '55182'
   },
@@ -48183,7 +48183,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prematurely',
-    translating: 'преждевременно ',
+    translating: 'преждевременно',
     partOfSpeechCode: 'r',
     skyid: '222268'
   },
@@ -48664,7 +48664,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'preposition',
-    translating: 'предлог ',
+    translating: 'предлог',
     partOfSpeechCode: 'n',
     skyid: '227461'
   },
@@ -48880,7 +48880,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prescribe',
-    translating: 'прописывать ',
+    translating: 'прописывать',
     partOfSpeechCode: 'v',
     skyid: '243810'
   },
@@ -49102,7 +49102,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'presenter',
-    translating: 'ведущий ',
+    translating: 'ведущий',
     partOfSpeechCode: 'n',
     skyid: '179502'
   },
@@ -49222,7 +49222,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'preserve',
-    translating: 'зона действия ',
+    translating: 'зона действия',
     partOfSpeechCode: 'n',
     skyid: '29528'
   },
@@ -50524,7 +50524,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'preventive actions',
-    translating: 'предупреждающие действия ',
+    translating: 'предупреждающие действия',
     partOfSpeechCode: 'n',
     skyid: '246800'
   },
@@ -51364,7 +51364,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'primary color for pigments',
-    translating: 'основной цвет ',
+    translating: 'основной цвет',
     partOfSpeechCode: 'n',
     skyid: '214911'
   },
@@ -51442,7 +51442,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'primary subtractive color for light',
-    translating: 'основной цвет ',
+    translating: 'основной цвет',
     partOfSpeechCode: 'n',
     skyid: '42370'
   },
@@ -52042,7 +52042,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'printer',
-    translating: 'принтер ',
+    translating: 'принтер',
     partOfSpeechCode: 'n',
     skyid: '115711'
   },
@@ -52858,7 +52858,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pro-lifer',
-    translating: 'приговоренный ',
+    translating: 'приговоренный',
     partOfSpeechCode: 'n',
     skyid: '116737'
   },
@@ -52978,7 +52978,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'probation',
-    translating: 'испытательный срок ',
+    translating: 'испытательный срок',
     partOfSpeechCode: 'n',
     skyid: '226636'
   },
@@ -53236,7 +53236,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'procedure',
-    translating: 'процедура ',
+    translating: 'процедура',
     partOfSpeechCode: 'n',
     skyid: '79298'
   },
@@ -53308,7 +53308,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'process',
-    translating: 'обрабатывать ',
+    translating: 'обрабатывать',
     partOfSpeechCode: 'v',
     skyid: '234304'
   },
@@ -53374,7 +53374,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'process control plant',
-    translating: 'технологический объект управления ',
+    translating: 'технологический объект управления',
     partOfSpeechCode: 'n',
     skyid: '249007'
   },
@@ -54648,7 +54648,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'profit and loss',
-    translating: 'прибыль и убыток ',
+    translating: 'прибыль и убыток',
     partOfSpeechCode: 'n',
     skyid: '97225'
   },
@@ -54792,7 +54792,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'profound',
-    translating: 'серьезный ',
+    translating: 'серьезный',
     partOfSpeechCode: 'j',
     skyid: '243826'
   },
@@ -54822,7 +54822,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'profoundly',
-    translating: 'глубоко ',
+    translating: 'глубоко',
     partOfSpeechCode: 'r',
     skyid: '243820'
   },
@@ -55340,7 +55340,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prohibition',
-    translating: 'сухой закон ',
+    translating: 'сухой закон',
     partOfSpeechCode: 'n',
     skyid: '37908'
   },
@@ -56025,7 +56025,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'promise',
-    translating: 'обещать ',
+    translating: 'обещать',
     partOfSpeechCode: 'v',
     skyid: '237382'
   },
@@ -56175,7 +56175,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'promotion',
-    translating: 'повышение ',
+    translating: 'повышение',
     partOfSpeechCode: 'n',
     skyid: '151405'
   },
@@ -56776,7 +56776,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'proper',
-    translating: 'основательный ',
+    translating: 'основательный',
     partOfSpeechCode: 'j',
     skyid: '191351'
   },
@@ -57136,7 +57136,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'proposal',
-    translating: 'предложение ',
+    translating: 'предложение',
     partOfSpeechCode: 'n',
     skyid: '77584'
   },
@@ -57460,7 +57460,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prosecution',
-    translating: 'ведение ',
+    translating: 'ведение',
     partOfSpeechCode: 'n',
     skyid: '62144'
   },
@@ -57544,7 +57544,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'prosody',
-    translating: 'просодия ',
+    translating: 'просодия',
     partOfSpeechCode: 'n',
     skyid: '161'
   },
@@ -57904,7 +57904,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'protected emergency command post',
-    translating: 'защищенный пункт управления ',
+    translating: 'защищенный пункт управления',
     partOfSpeechCode: 'n',
     skyid: '246782'
   },
@@ -58228,7 +58228,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'protist',
-    translating: 'протист ',
+    translating: 'протист',
     partOfSpeechCode: 'n',
     skyid: '146036'
   },
@@ -58876,7 +58876,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'province',
-    translating: 'область ',
+    translating: 'область',
     partOfSpeechCode: 'n',
     skyid: '243804'
   },
@@ -60178,7 +60178,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'psychology',
-    translating: 'психология ',
+    translating: 'психология',
     partOfSpeechCode: 'n',
     skyid: '145979'
   },
@@ -61246,7 +61246,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pudding',
-    translating: 'пудинг ',
+    translating: 'пудинг',
     partOfSpeechCode: 'n',
     skyid: '90878'
   },
@@ -61324,7 +61324,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'puddle',
-    translating: 'обмазка из глины ',
+    translating: 'обмазка из глины',
     partOfSpeechCode: 'n',
     skyid: '162499'
   },
@@ -61900,7 +61900,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pull apart',
-    translating: 'разнимать ',
+    translating: 'разнимать',
     partOfSpeechCode: 'v',
     skyid: '235529'
   },
@@ -61948,7 +61948,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pull down',
-    translating: 'опрокинуть ',
+    translating: 'опрокинуть',
     partOfSpeechCode: 'v',
     skyid: '151175'
   },
@@ -62014,7 +62014,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pull on',
-    translating: 'натягивать ',
+    translating: 'натягивать',
     partOfSpeechCode: 'v',
     skyid: '235528'
   },
@@ -62746,7 +62746,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pumpkin',
-    translating: 'тыква ',
+    translating: 'тыква',
     partOfSpeechCode: 'n',
     skyid: '71036'
   },
@@ -63040,7 +63040,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'puncture',
-    translating: 'выпустить воздух ',
+    translating: 'выпустить воздух',
     partOfSpeechCode: 'v',
     skyid: '34685'
   },
@@ -63058,7 +63058,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'puncture',
-    translating: 'прокол ',
+    translating: 'прокол',
     partOfSpeechCode: 'n',
     skyid: '26628'
   },
@@ -63611,7 +63611,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pure',
-    translating: 'чистый ',
+    translating: 'чистый',
     partOfSpeechCode: 'j',
     skyid: '237390'
   },
@@ -63983,7 +63983,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'purple',
-    translating: 'окрашивать ',
+    translating: 'окрашивать',
     partOfSpeechCode: 'v',
     skyid: '150467'
   },
@@ -64115,7 +64115,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'purpose',
-    translating: 'цель ',
+    translating: 'цель',
     partOfSpeechCode: 'n',
     skyid: '237391'
   },
@@ -64247,7 +64247,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'purse',
-    translating: 'поджимать ',
+    translating: 'поджимать',
     partOfSpeechCode: 'v',
     skyid: '131287'
   },
@@ -64265,7 +64265,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'purse',
-    translating: 'кошелёк ',
+    translating: 'кошелёк',
     partOfSpeechCode: 'n',
     skyid: '131283'
   },
@@ -64398,7 +64398,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'purty',
-    translating: 'красивый ',
+    translating: 'красивый',
     partOfSpeechCode: 'j',
     skyid: '244019'
   },
@@ -64446,7 +64446,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pus-forming bacteria',
-    translating: 'бактерия ',
+    translating: 'бактерия',
     partOfSpeechCode: 'n',
     skyid: '102255'
   },
@@ -64458,7 +64458,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'push',
-    translating: 'толчок ',
+    translating: 'толчок',
     partOfSpeechCode: 'n',
     skyid: '244297'
   },
@@ -64716,7 +64716,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'pusher',
-    translating: 'драгдилер ',
+    translating: 'драгдилер',
     partOfSpeechCode: 'n',
     skyid: '152807'
   },
@@ -65328,7 +65328,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'put on airs',
-    translating: 'напускать важность ',
+    translating: 'напускать важность',
     partOfSpeechCode: 'ph',
     skyid: '224679'
   },
@@ -65833,7 +65833,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'putt',
-    translating: 'гнать мяч ',
+    translating: 'гнать мяч',
     partOfSpeechCode: 'v',
     skyid: '91624'
   },

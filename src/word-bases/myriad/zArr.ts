@@ -1350,7 +1350,7 @@ export const zArr: TOneWord[] = [
   },
   {
     targetWord: 'zoom in on',
-    translating: 'увеличивать изображение ',
+    translating: 'увеличивать изображение',
     partOfSpeechCode: 'ph',
     skyid: '240400'
   },

@@ -1,20 +1,20 @@
 import { TOneWord } from '@utils-types';
 export const difArr: TOneWord[] = [
   {
-    targetWord: ' be involved ',
+    targetWord: ' be involved',
     translating: 'быть вовлечённым',
     partOfSpeechCode: 'ph',
     skyid: '229627'
   },
   {
-    targetWord: ' in-laws   ',
+    targetWord: ' in-laws',
     translating: 'родственники со стороны жены или мужа',
     partOfSpeechCode: 'ph',
     skyid: '230718'
   },
   {
     targetWord: "'ello poppet!",
-    translating: 'привет, дорогуша! ',
+    translating: 'привет, дорогуша!',
     partOfSpeechCode: 'ph',
     skyid: '252540'
   },
@@ -471,7 +471,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Broadway',
-    translating: 'Бродвей ',
+    translating: 'Бродвей',
     partOfSpeechCode: 'n',
     skyid: '202993'
   },
@@ -597,7 +597,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Commonwealth of Independent States',
-    translating: 'Содружество Независимых Государств ',
+    translating: 'Содружество Независимых Государств',
     partOfSpeechCode: 'ph',
     skyid: '214695'
   },
@@ -808,7 +808,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Granite State',
-    translating: 'Гранитный штат ',
+    translating: 'Гранитный штат',
     partOfSpeechCode: 'n',
     skyid: '198827'
   },
@@ -1018,7 +1018,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'New Zealand',
-    translating: 'Новая Зеландия ',
+    translating: 'Новая Зеландия',
     partOfSpeechCode: 'n',
     skyid: '200479'
   },
@@ -1060,7 +1060,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Panama',
-    translating: 'Панама ',
+    translating: 'Панама',
     partOfSpeechCode: 'n',
     skyid: '235349'
   },
@@ -1348,7 +1348,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Yorkshire',
-    translating: 'Йоркшир ',
+    translating: 'Йоркшир',
     partOfSpeechCode: 'n',
     skyid: '215597'
   },
@@ -2155,7 +2155,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: ':[ ]',
-    translating: 'удивлённый ',
+    translating: 'удивлённый',
     partOfSpeechCode: 'ph',
     skyid: '251873'
   },
@@ -2365,7 +2365,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ABH',
-    translating: 'пускорезервная котельная ',
+    translating: 'пускорезервная котельная',
     partOfSpeechCode: 'abb',
     skyid: '247355'
   },
@@ -2377,7 +2377,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AC',
-    translating: 'падение самолета ',
+    translating: 'падение самолета',
     partOfSpeechCode: 'abb',
     skyid: '247002'
   },
@@ -2413,19 +2413,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ACA',
-    translating: 'зона локализации аварий ',
+    translating: 'зона локализации аварий',
     partOfSpeechCode: 'abb',
     skyid: '247000'
   },
   {
     targetWord: 'ACC',
-    translating: 'блок аналоговых преобразований и вычислений ',
+    translating: 'блок аналоговых преобразований и вычислений',
     partOfSpeechCode: 'abb',
     skyid: '248933'
   },
   {
     targetWord: 'ACC',
-    translating: 'автоматизированный химический контроль ',
+    translating: 'автоматизированный химический контроль',
     partOfSpeechCode: 'abb',
     skyid: '247693'
   },
@@ -2455,7 +2455,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ACWS',
-    translating: 'вспомогательная система циркуляционной воды ',
+    translating: 'вспомогательная система циркуляционной воды',
     partOfSpeechCode: 'abb',
     skyid: '247357'
   },
@@ -2479,19 +2479,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ADC',
-    translating: 'аналого-дискретный преобразователь ',
+    translating: 'аналого-дискретный преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '248937'
   },
   {
     targetWord: 'ADC',
-    translating: 'аналого-цифровой преобразователь ',
+    translating: 'аналого-цифровой преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '248936'
   },
   {
     targetWord: 'ADCS',
-    translating: 'автоматизированная система управления дизель-генератором ',
+    translating: 'автоматизированная система управления дизель-генератором',
     partOfSpeechCode: 'abb',
     skyid: '248941'
   },
@@ -2521,7 +2521,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ADR',
-    translating: 'мощность поглощенной дозы ',
+    translating: 'мощность поглощенной дозы',
     partOfSpeechCode: 'abb',
     skyid: '246342'
   },
@@ -2539,7 +2539,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ADSM',
-    translating: 'модуль адресного шлейфа ',
+    translating: 'модуль адресного шлейфа',
     partOfSpeechCode: 'abb',
     skyid: '248930'
   },
@@ -2551,13 +2551,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AEFWP',
-    translating: 'вспомогательный питательный электронасос ',
+    translating: 'вспомогательный питательный электронасос',
     partOfSpeechCode: 'abb',
     skyid: '247359'
   },
   {
     targetWord: 'AEM',
-    translating: 'АО «Атомэнергомаш» ',
+    translating: 'АО «Атомэнергомаш»',
     partOfSpeechCode: 'abb',
     skyid: '245697'
   },
@@ -2575,19 +2575,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AEP',
-    translating: 'АО «Атомэнергопроект» ',
+    translating: 'АО «Атомэнергопроект»',
     partOfSpeechCode: 'abb',
     skyid: '246293'
   },
   {
     targetWord: 'AERMS',
-    translating: 'автоматизированная система контроля радиационной обстановки ',
+    translating: 'автоматизированная система контроля радиационной обстановки',
     partOfSpeechCode: 'abb',
     skyid: '248943'
   },
   {
     targetWord: 'AES',
-    translating: 'сводная заказная спецификация ',
+    translating: 'сводная заказная спецификация',
     partOfSpeechCode: 'abb',
     skyid: '245590'
   },
@@ -2677,13 +2677,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AIE',
-    translating: 'аварийные контрольно-измерительные приборы ',
+    translating: 'аварийные контрольно-измерительные приборы',
     partOfSpeechCode: 'abb',
     skyid: '248928'
   },
   {
     targetWord: 'AIF',
-    translating: 'Атомный промышленный форум ',
+    translating: 'Атомный промышленный форум',
     partOfSpeechCode: 'abb',
     skyid: '245803'
   },
@@ -2701,13 +2701,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ALMS',
-    translating: 'акустическая система контроля течи ',
+    translating: 'акустическая система контроля течи',
     partOfSpeechCode: 'abb',
     skyid: '248929'
   },
   {
     targetWord: 'ALT',
-    translating: 'автоматический ввод резерва ',
+    translating: 'автоматический ввод резерва',
     partOfSpeechCode: 'abb',
     skyid: '248954'
   },
@@ -2749,7 +2749,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ANSM',
-    translating: 'модуль аналоговых сигналов ',
+    translating: 'модуль аналоговых сигналов',
     partOfSpeechCode: 'abb',
     skyid: '248935'
   },
@@ -2767,38 +2767,38 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AOO',
-    translating: 'нарушение условий нормальной эксплуатации ',
+    translating: 'нарушение условий нормальной эксплуатации',
     partOfSpeechCode: 'abb',
     skyid: '247690'
   },
   {
     targetWord: 'AP',
-    translating: 'процессор автоматизации ',
+    translating: 'процессор автоматизации',
     partOfSpeechCode: 'abb',
     skyid: '248959'
   },
   {
     targetWord: 'APC',
-    translating: 'автоматический регулятор мощности реактора ',
+    translating: 'автоматический регулятор мощности реактора',
     partOfSpeechCode: 'abb',
     skyid: '245450'
   },
   {
     targetWord: 'APCFS (HA-2)',
-    translating: 'дополнительная система пассивного залива активной зоны ',
+    translating: 'дополнительная система пассивного залива активной зоны',
     partOfSpeechCode: 'abb',
     skyid: '245439'
   },
   {
     targetWord: 'APCS',
     translating:
-      'автоматизированная система управления технологическими процессами ',
+      'автоматизированная система управления технологическими процессами',
     partOfSpeechCode: 'abb',
     skyid: '248944'
   },
   {
     targetWord: 'APFS',
-    translating: 'пассивная система фильтрации межоболочечного пространства ',
+    translating: 'пассивная система фильтрации межоболочечного пространства',
     partOfSpeechCode: 'abb',
     skyid: '245448'
   },
@@ -2810,7 +2810,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'APP',
-    translating: 'ускоренная предупредительная защита ',
+    translating: 'ускоренная предупредительная защита',
     partOfSpeechCode: 'abb',
     skyid: '245447'
   },
@@ -2840,25 +2840,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AR',
-    translating: 'автоматическое повторное включение ',
+    translating: 'автоматическое повторное включение',
     partOfSpeechCode: 'abb',
     skyid: '248960'
   },
   {
     targetWord: 'AR',
-    translating: 'поглощающий стержень ',
+    translating: 'поглощающий стержень',
     partOfSpeechCode: 'abb',
     skyid: '245445'
   },
   {
     targetWord: 'ARLMS',
-    translating: 'система автоматизированного контроля остаточного ресурса ',
+    translating: 'система автоматизированного контроля остаточного ресурса',
     partOfSpeechCode: 'abb',
     skyid: '248946'
   },
   {
     targetWord: 'ARMS',
-    translating: 'автоматизированная система радиационного контроля ',
+    translating: 'автоматизированная система радиационного контроля',
     partOfSpeechCode: 'abb',
     skyid: '248945'
   },
@@ -2870,13 +2870,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AS',
-    translating: 'шлейф сигнализации ',
+    translating: 'шлейф сигнализации',
     partOfSpeechCode: 'abb',
     skyid: '248931'
   },
   {
     targetWord: 'AS',
-    translating: 'аварийная последовательность ',
+    translating: 'аварийная последовательность',
     partOfSpeechCode: 'abb',
     skyid: '247001'
   },
@@ -2913,13 +2913,13 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'ASDV',
     translating:
-      'быстродействующая редукционная установка сброса пара в атмосферу ',
+      'быстродействующая редукционная установка сброса пара в атмосферу',
     partOfSpeechCode: 'abb',
     skyid: '245944'
   },
   {
     targetWord: 'ASE',
-    translating: 'ЗАО «Атомстройэкспорт» ',
+    translating: 'ЗАО «Атомстройэкспорт»',
     partOfSpeechCode: 'abb',
     skyid: '246294'
   },
@@ -2937,19 +2937,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ASI',
-    translating: 'блок ввода аналогового сигнала ',
+    translating: 'блок ввода аналогового сигнала',
     partOfSpeechCode: 'abb',
     skyid: '248934'
   },
   {
     targetWord: 'ASLBP',
-    translating: 'комиссия совета по ядерной безопасности и лицензированию ',
+    translating: 'комиссия совета по ядерной безопасности и лицензированию',
     partOfSpeechCode: 'abb',
     skyid: '246352'
   },
   {
     targetWord: 'ASM',
-    translating: 'модуль шлейфов сигнализации ',
+    translating: 'модуль шлейфов сигнализации',
     partOfSpeechCode: 'abb',
     skyid: '248932'
   },
@@ -2967,13 +2967,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ASO BKP-7',
-    translating: 'архитектурно-строительный отдел БКП-7 ',
+    translating: 'архитектурно-строительный отдел БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245661'
   },
   {
     targetWord: 'ASS',
-    translating: 'система пара собственных нужд ',
+    translating: 'система пара собственных нужд',
     partOfSpeechCode: 'abb',
     skyid: '247360'
   },
@@ -3003,7 +3003,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ATE',
-    translating: 'автоматическая телефонная станция ',
+    translating: 'автоматическая телефонная станция',
     partOfSpeechCode: 'abb',
     skyid: '248957'
   },
@@ -3015,7 +3015,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ATPG',
-    translating: 'автоматический регулятор мощности турбины ',
+    translating: 'автоматический регулятор мощности турбины',
     partOfSpeechCode: 'abb',
     skyid: '245950'
   },
@@ -3035,20 +3035,20 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'AVDS',
-    translating: 'автоматизированная система вибродиагностики ',
+    translating: 'автоматизированная система вибродиагностики',
     partOfSpeechCode: 'abb',
     skyid: '248947'
   },
   {
     targetWord: 'AVMDS',
     translating:
-      'виброизмерительная и диагностическая автоматизированная система ',
+      'виброизмерительная и диагностическая автоматизированная система',
     partOfSpeechCode: 'abb',
     skyid: '248949'
   },
   {
     targetWord: 'AVR',
-    translating: 'автоматический регулятор напряжения ',
+    translating: 'автоматический регулятор напряжения',
     partOfSpeechCode: 'abb',
     skyid: '247779'
   },
@@ -3120,7 +3120,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Academy Award',
-    translating: 'награда Американской киноакадемии ',
+    translating: 'награда Американской киноакадемии',
     partOfSpeechCode: 'n',
     skyid: '51552'
   },
@@ -3344,7 +3344,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Alice in Wonderland',
-    translating: 'Алиса в стране чудес ',
+    translating: 'Алиса в стране чудес',
     partOfSpeechCode: 'n',
     skyid: '250572'
   },
@@ -3400,7 +3400,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Aloha State',
-    translating: '"Штат любви" ',
+    translating: '"Штат любви"',
     partOfSpeechCode: 'n',
     skyid: '71595'
   },
@@ -3508,7 +3508,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'American',
-    translating: 'американский ',
+    translating: 'американский',
     partOfSpeechCode: 'j',
     skyid: '11581'
   },
@@ -3520,7 +3520,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'American',
-    translating: 'американец ',
+    translating: 'американец',
     partOfSpeechCode: 'n',
     skyid: '11579'
   },
@@ -3929,7 +3929,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Are you...or...?',
-    translating: 'Вы...или...? ',
+    translating: 'Вы...или...?',
     partOfSpeechCode: 'ph',
     skyid: '244678'
   },
@@ -3953,7 +3953,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Argentine',
-    translating: 'аргентина ',
+    translating: 'аргентина',
     partOfSpeechCode: 'n',
     skyid: '54042'
   },
@@ -3971,7 +3971,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Aries',
-    translating: 'Овен ',
+    translating: 'Овен',
     partOfSpeechCode: 'n',
     skyid: '145500'
   },
@@ -4175,7 +4175,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Australia',
-    translating: 'Австралия ',
+    translating: 'Австралия',
     partOfSpeechCode: 'n',
     skyid: '233135'
   },
@@ -4331,7 +4331,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BAEC',
-    translating: 'Комиссия по Атомной Энергии Бангладеш ',
+    translating: 'Комиссия по Атомной Энергии Бангладеш',
     partOfSpeechCode: 'abb',
     skyid: '245806'
   },
@@ -4367,25 +4367,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BCS',
-    translating: 'система борного регулирования ',
+    translating: 'система борного регулирования',
     partOfSpeechCode: 'abb',
     skyid: '248964'
   },
   {
     targetWord: 'BCS',
-    translating: 'система шарикоочистки ',
+    translating: 'система шарикоочистки',
     partOfSpeechCode: 'abb',
     skyid: '245951'
   },
   {
     targetWord: 'BD',
-    translating: 'технический проект ',
+    translating: 'технический проект',
     partOfSpeechCode: 'abb',
     skyid: '245596'
   },
   {
     targetWord: 'BDBA',
-    translating: 'запроектная авария ',
+    translating: 'запроектная авария',
     partOfSpeechCode: 'abb',
     skyid: '247697'
   },
@@ -4415,13 +4415,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BG',
-    translating: 'площадка захоронения ',
+    translating: 'площадка захоронения',
     partOfSpeechCode: 'abb',
     skyid: '246077'
   },
   {
     targetWord: 'BG',
-    translating: 'валоповоротное устройство ',
+    translating: 'валоповоротное устройство',
     partOfSpeechCode: 'abb',
     skyid: '245952'
   },
@@ -4433,46 +4433,46 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BKII',
-    translating: 'бюро комплексных инженерных изысканий ',
+    translating: 'бюро комплексных инженерных изысканий',
     partOfSpeechCode: 'abb',
     skyid: '245469'
   },
   {
     targetWord: 'BKP-1',
-    translating: 'схемно-режимное бюро комплексного проектирования 1 ',
+    translating: 'схемно-режимное бюро комплексного проектирования 1',
     partOfSpeechCode: 'abb',
     skyid: '245476'
   },
   {
     targetWord: 'BKP-2',
-    translating: 'архитектурно-строительное бюро комплексного проектирования ',
+    translating: 'архитектурно-строительное бюро комплексного проектирования',
     partOfSpeechCode: 'abb',
     skyid: '245485'
   },
   {
     targetWord: 'BKP-3',
     translating:
-      'бюро комплексного проектирования по электротехнике и автоматизированной системе управления технологическими процессами ',
+      'бюро комплексного проектирования по электротехнике и автоматизированной системе управления технологическими процессами',
     partOfSpeechCode: 'abb',
     skyid: '245496'
   },
   {
     targetWord: 'BKP-5',
     translating:
-      'бюро комплексного проектирования по вероятностному анализу безопасности и надежности ',
+      'бюро комплексного проектирования по вероятностному анализу безопасности и надежности',
     partOfSpeechCode: 'abb',
     skyid: '245649'
   },
   {
     targetWord: 'BKP-6',
     translating:
-      'конструкторско-технологическое бюро комплексного проектирования ',
+      'конструкторско-технологическое бюро комплексного проектирования',
     partOfSpeechCode: 'abb',
     skyid: '245650'
   },
   {
     targetWord: 'BKP-7',
-    translating: 'бюро комплексного проектирования АЭС с РБМК и ВВЭР ',
+    translating: 'бюро комплексного проектирования АЭС с РБМК и ВВЭР',
     partOfSpeechCode: 'abb',
     skyid: '245654'
   },
@@ -4484,7 +4484,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BMW',
-    translating: 'БМВ ',
+    translating: 'БМВ',
     partOfSpeechCode: 'n',
     skyid: '251316'
   },
@@ -4502,31 +4502,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BNPP-2',
-    translating: 'Атомная электростанция «Бушер-2» ',
+    translating: 'Атомная электростанция «Бушер-2»',
     partOfSpeechCode: 'abb',
     skyid: '245809'
   },
   {
     targetWord: 'BOC',
-    translating: 'начало цикла ',
+    translating: 'начало цикла',
     partOfSpeechCode: 'abb',
     skyid: '246609'
   },
   {
     targetWord: 'BOL',
-    translating: 'начало цикла ',
+    translating: 'начало цикла',
     partOfSpeechCode: 'abb',
     skyid: '246610'
   },
   {
     targetWord: 'BOM',
-    translating: 'сводная заказная спецификация ',
+    translating: 'сводная заказная спецификация',
     partOfSpeechCode: 'abb',
     skyid: '245593'
   },
   {
     targetWord: 'BPIF',
-    translating: 'Балаковский проектно-изыскательский филиал ',
+    translating: 'Балаковский проектно-изыскательский филиал',
     partOfSpeechCode: 'abb',
     skyid: '245472'
   },
@@ -4563,14 +4563,14 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'BRU-AH',
     translating:
-      'быстродействующая редукционная установка подачи пара к коллектору собственных нужд ',
+      'быстродействующая редукционная установка подачи пара к коллектору собственных нужд',
     partOfSpeechCode: 'abb',
     skyid: '245989'
   },
   {
     targetWord: 'BRU-C',
     translating:
-      'быстродействующая редукционная установка сброса пара в конденсатор ',
+      'быстродействующая редукционная установка сброса пара в конденсатор',
     partOfSpeechCode: 'abb',
     skyid: '245962'
   },
@@ -4589,7 +4589,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BSU',
-    translating: 'базовый системный блок ',
+    translating: 'базовый системный блок',
     partOfSpeechCode: 'abb',
     skyid: '248963'
   },
@@ -4801,7 +4801,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Basel',
-    translating: 'Базель ',
+    translating: 'Базель',
     partOfSpeechCode: 'n',
     skyid: '193666'
   },
@@ -5000,7 +5000,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Big Apple',
-    translating: 'Нью-Йорк ',
+    translating: 'Нью-Йорк',
     partOfSpeechCode: 'n',
     skyid: '249301'
   },
@@ -5036,7 +5036,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Birmingham',
-    translating: 'Бирмингем ',
+    translating: 'Бирмингем',
     partOfSpeechCode: 'n',
     skyid: '58171'
   },
@@ -5048,7 +5048,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Black Friday',
-    translating: 'Чёрная пятница ',
+    translating: 'Чёрная пятница',
     partOfSpeechCode: 'n',
     skyid: '158751'
   },
@@ -5066,7 +5066,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Blackpool',
-    translating: 'Блэкпул ',
+    translating: 'Блэкпул',
     partOfSpeechCode: 'n',
     skyid: '141265'
   },
@@ -5427,7 +5427,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Buchholz device',
-    translating: 'газовое реле ',
+    translating: 'газовое реле',
     partOfSpeechCode: 'n',
     skyid: '247840'
   },
@@ -5553,7 +5553,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Byelarus',
-    translating: 'Белоруссия ',
+    translating: 'Белоруссия',
     partOfSpeechCode: 'n',
     skyid: '148116'
   },
@@ -5607,7 +5607,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CADS',
-    translating: 'система автоматизированного проектирования ',
+    translating: 'система автоматизированного проектирования',
     partOfSpeechCode: 'abb',
     skyid: '248981'
   },
@@ -5632,13 +5632,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CAS',
-    translating: 'программно-технический комплекс ',
+    translating: 'программно-технический комплекс',
     partOfSpeechCode: 'abb',
     skyid: '248982'
   },
   {
     targetWord: 'CAT',
-    translating: 'программно-техническое средство ',
+    translating: 'программно-техническое средство',
     partOfSpeechCode: 'abb',
     skyid: '248983'
   },
@@ -5656,19 +5656,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CBFP',
-    translating: 'устройство резервирования отказа выключателя ',
+    translating: 'устройство резервирования отказа выключателя',
     partOfSpeechCode: 'n',
     skyid: '247783'
   },
   {
     targetWord: 'CC',
-    translating: 'устройство локализации расплава ',
+    translating: 'устройство локализации расплава',
     partOfSpeechCode: 'abb',
     skyid: '248871'
   },
   {
     targetWord: 'CC',
-    translating: 'конденсатор связи ',
+    translating: 'конденсатор связи',
     partOfSpeechCode: 'abb',
     skyid: '247785'
   },
@@ -5680,13 +5680,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CCF',
-    translating: 'отказ по общей причине ',
+    translating: 'отказ по общей причине',
     partOfSpeechCode: 'abb',
     skyid: '247005'
   },
   {
     targetWord: 'CCR',
-    translating: 'центральный пульт управления ',
+    translating: 'центральный пульт управления',
     partOfSpeechCode: 'abb',
     skyid: '248970'
   },
@@ -5728,13 +5728,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CDF',
-    translating: 'частота повреждения активной зоны ',
+    translating: 'частота повреждения активной зоны',
     partOfSpeechCode: 'abb',
     skyid: '248870'
   },
   {
     targetWord: 'CEB',
-    translating: 'Европейский комитет по бетону и железобетону ',
+    translating: 'Европейский комитет по бетону и железобетону',
     partOfSpeechCode: 'abb',
     skyid: '245812'
   },
@@ -5758,19 +5758,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CERC',
-    translating: 'ведущий инженер по управлению реакторной установкой ',
+    translating: 'ведущий инженер по управлению реакторной установкой',
     partOfSpeechCode: 'abb',
     skyid: '246613'
   },
   {
     targetWord: 'CERL',
-    translating: 'протокол регистрации текущих событий ',
+    translating: 'протокол регистрации текущих событий',
     partOfSpeechCode: 'abb',
     skyid: '249036'
   },
   {
     targetWord: 'CETC',
-    translating: 'ведущий инженер по управлению турбинной установкой ',
+    translating: 'ведущий инженер по управлению турбинной установкой',
     partOfSpeechCode: 'abb',
     skyid: '246614'
   },
@@ -5782,19 +5782,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CFT',
-    translating: 'холодные функциональные испытания ',
+    translating: 'холодные функциональные испытания',
     partOfSpeechCode: 'abb',
     skyid: '246616'
   },
   {
     targetWord: 'CFWP',
-    translating: 'конденсатно-питательный тракт ',
+    translating: 'конденсатно-питательный тракт',
     partOfSpeechCode: 'abb',
     skyid: '245955'
   },
   {
     targetWord: 'CGCM',
-    translating: 'блок формирования команд ',
+    translating: 'блок формирования команд',
     partOfSpeechCode: 'abb',
     skyid: '248977'
   },
@@ -5812,7 +5812,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CGU',
-    translating: 'блок шлюза сопряжения ',
+    translating: 'блок шлюза сопряжения',
     partOfSpeechCode: 'abb',
     skyid: '249032'
   },
@@ -5842,7 +5842,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CIDB',
-    translating: 'база данных оперативной информации ',
+    translating: 'база данных оперативной информации',
     partOfSpeechCode: 'abb',
     skyid: '249034'
   },
@@ -5860,7 +5860,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CISPR',
-    translating: 'Международный Специальный Комитет по Борьбе с Радиопомехами ',
+    translating: 'Международный Специальный Комитет по Борьбе с Радиопомехами',
     partOfSpeechCode: 'abb',
     skyid: '246200'
   },
@@ -5878,7 +5878,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CLMS',
-    translating: 'система контроля течи теплоносителя ',
+    translating: 'система контроля течи теплоносителя',
     partOfSpeechCode: 'abb',
     skyid: '245525'
   },
@@ -5902,13 +5902,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CMC',
-    translating: 'шкаф контроля и управления ',
+    translating: 'шкаф контроля и управления',
     partOfSpeechCode: 'abb',
     skyid: '249025'
   },
   {
     targetWord: 'CMM',
-    translating: 'модуль контроля и управления ',
+    translating: 'модуль контроля и управления',
     partOfSpeechCode: 'abb',
     skyid: '249026'
   },
@@ -5926,7 +5926,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CMU',
-    translating: 'блок контроля шкафа ',
+    translating: 'блок контроля шкафа',
     partOfSpeechCode: 'abb',
     skyid: '248965'
   },
@@ -6017,13 +6017,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CPP',
-    translating: 'технологический объект управления ',
+    translating: 'технологический объект управления',
     partOfSpeechCode: 'abb',
     skyid: '249030'
   },
   {
     targetWord: 'CPP',
-    translating: 'блочная обессоливающая установка ',
+    translating: 'блочная обессоливающая установка',
     partOfSpeechCode: 'abb',
     skyid: '245954'
   },
@@ -6042,13 +6042,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CPS AR',
-    translating: 'поглощающий стержень системы управления и защиты ',
+    translating: 'поглощающий стержень системы управления и защиты',
     partOfSpeechCode: 'abb',
     skyid: '248477'
   },
   {
     targetWord: 'CPS CM',
-    translating: 'орган регулирования системы управления и защиты ',
+    translating: 'орган регулирования системы управления и защиты',
     partOfSpeechCode: 'abb',
     skyid: '248478'
   },
@@ -6085,13 +6085,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CR',
-    translating: 'стойка сопряжения ',
+    translating: 'стойка сопряжения',
     partOfSpeechCode: 'abb',
     skyid: '249033'
   },
   {
     targetWord: 'CR',
-    translating: 'центральная стойка ',
+    translating: 'центральная стойка',
     partOfSpeechCode: 'abb',
     skyid: '248973'
   },
@@ -6116,7 +6116,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CRM',
-    translating: 'блок приема команд ',
+    translating: 'блок приема команд',
     partOfSpeechCode: 'abb',
     skyid: '248978'
   },
@@ -6128,25 +6128,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CS',
-    translating: 'вычислительный комплекс ',
+    translating: 'вычислительный комплекс',
     partOfSpeechCode: 'abb',
     skyid: '248980'
   },
   {
     targetWord: 'CS',
-    translating: 'шлейф кабельный ',
+    translating: 'шлейф кабельный',
     partOfSpeechCode: 'abb',
     skyid: '248967'
   },
   {
     targetWord: 'CS',
-    translating: 'датчик тока ',
+    translating: 'датчик тока',
     partOfSpeechCode: 'abb',
     skyid: '247786'
   },
   {
     targetWord: 'CS275',
-    translating: 'прикладной протокол передачи данных ',
+    translating: 'прикладной протокол передачи данных',
     partOfSpeechCode: 'abb',
     skyid: '248940'
   },
@@ -6188,19 +6188,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CSS',
-    translating: 'управляющая система безопасности ',
+    translating: 'управляющая система безопасности',
     partOfSpeechCode: 'abb',
     skyid: '245524'
   },
   {
     targetWord: 'CT',
-    translating: 'трансформатор тока ',
+    translating: 'трансформатор тока',
     partOfSpeechCode: 'abb',
     skyid: '247788'
   },
   {
     targetWord: 'CT',
-    translating: 'капиллярный контроль ',
+    translating: 'капиллярный контроль',
     partOfSpeechCode: 'abb',
     skyid: '247104'
   },
@@ -6212,19 +6212,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CTP',
-    translating: 'программа централизованного опробования защит ',
+    translating: 'программа централизованного опробования защит',
     partOfSpeechCode: 'abb',
     skyid: '248974'
   },
   {
     targetWord: 'CTS',
-    translating: 'комплекс расчетных задач ',
+    translating: 'комплекс расчетных задач',
     partOfSpeechCode: 'abb',
     skyid: '248762'
   },
   {
     targetWord: 'CTW',
-    translating: 'химически очищенная вода ',
+    translating: 'химически очищенная вода',
     partOfSpeechCode: 'abb',
     skyid: '246612'
   },
@@ -6236,7 +6236,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CU',
-    translating: 'блок контроллерный ',
+    translating: 'блок контроллерный',
     partOfSpeechCode: 'abb',
     skyid: '249031'
   },
@@ -6285,7 +6285,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CVCM',
-    translating: 'блок управления (регулирующим) клапаном ',
+    translating: 'блок управления (регулирующим) клапаном',
     partOfSpeechCode: 'abb',
     skyid: '249029'
   },
@@ -6297,7 +6297,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CW',
-    translating: 'пусконаладочные работы ',
+    translating: 'пусконаладочные работы',
     partOfSpeechCode: 'abb',
     skyid: '246617'
   },
@@ -6315,7 +6315,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'CWT',
-    translating: 'химическая водоочистка ',
+    translating: 'химическая водоочистка',
     partOfSpeechCode: 'abb',
     skyid: '247452'
   },
@@ -6351,7 +6351,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'California',
-    translating: 'Калифорния ',
+    translating: 'Калифорния',
     partOfSpeechCode: 'n',
     skyid: '215701'
   },
@@ -6926,7 +6926,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Cancer',
-    translating: 'Рак ',
+    translating: 'Рак',
     partOfSpeechCode: 'n',
     skyid: '183122'
   },
@@ -6956,7 +6956,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Capitol',
-    translating: 'Капитолий ',
+    translating: 'Капитолий',
     partOfSpeechCode: 'n',
     skyid: '233628'
   },
@@ -6986,7 +6986,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Capricorn',
-    translating: 'Козерог ',
+    translating: 'Козерог',
     partOfSpeechCode: 'n',
     skyid: '150011'
   },
@@ -7148,7 +7148,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Central Intelligence Agency',
-    translating: 'Центральное Разведывательное Управление ',
+    translating: 'Центральное Разведывательное Управление',
     partOfSpeechCode: 'n',
     skyid: '183179'
   },
@@ -7172,7 +7172,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Chad',
-    translating: 'Чад ',
+    translating: 'Чад',
     partOfSpeechCode: 'n',
     skyid: '31450'
   },
@@ -7184,7 +7184,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Champaign',
-    translating: 'Шампейн ',
+    translating: 'Шампейн',
     partOfSpeechCode: 'n',
     skyid: '171340'
   },
@@ -7317,13 +7317,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Chianti',
-    translating: 'кьянти ',
+    translating: 'кьянти',
     partOfSpeechCode: 'n',
     skyid: '218105'
   },
   {
     targetWord: 'Chicago',
-    translating: 'Чикаго ',
+    translating: 'Чикаго',
     partOfSpeechCode: 'n',
     skyid: '104325'
   },
@@ -7662,7 +7662,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Colorado',
-    translating: 'Колорадо ',
+    translating: 'Колорадо',
     partOfSpeechCode: 'n',
     skyid: '61965'
   },
@@ -7824,7 +7824,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Congo',
-    translating: 'Конго ',
+    translating: 'Конго',
     partOfSpeechCode: 'n',
     skyid: '41761'
   },
@@ -7968,13 +7968,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Cornish pasty',
-    translating: 'корниш пасти ',
+    translating: 'корниш пасти',
     partOfSpeechCode: 'n',
     skyid: '252422'
   },
   {
     targetWord: 'Cornwall',
-    translating: 'Корнуолл ',
+    translating: 'Корнуолл',
     partOfSpeechCode: 'n',
     skyid: '180098'
   },
@@ -8010,7 +8010,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: "Cote d'Azur",
-    translating: 'Лазурный берег ',
+    translating: 'Лазурный берег',
     partOfSpeechCode: 'n',
     skyid: '31379'
   },
@@ -8456,7 +8456,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Cyprus',
-    translating: 'Кипр ',
+    translating: 'Кипр',
     partOfSpeechCode: 'n',
     skyid: '113216'
   },
@@ -8564,31 +8564,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DAPU',
-    translating: 'устройство накопления и обработки ',
+    translating: 'устройство накопления и обработки',
     partOfSpeechCode: 'abb',
     skyid: '249037'
   },
   {
     targetWord: 'DAS',
-    translating: 'станция сбора данных ',
+    translating: 'станция сбора данных',
     partOfSpeechCode: 'abb',
     skyid: '249038'
   },
   {
     targetWord: 'DB',
-    translating: 'база данных ',
+    translating: 'база данных',
     partOfSpeechCode: 'abb',
     skyid: '249039'
   },
   {
     targetWord: 'DBA',
-    translating: 'проектная авария ',
+    translating: 'проектная авария',
     partOfSpeechCode: 'abb',
     skyid: '247728'
   },
   {
     targetWord: 'DBE',
-    translating: 'проектное землетрясение ',
+    translating: 'проектное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '246044'
   },
@@ -8630,13 +8630,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DCB',
-    translating: 'Щит Постоянного Тока ',
+    translating: 'Щит Постоянного Тока',
     partOfSpeechCode: 'abb',
     skyid: '247789'
   },
   {
     targetWord: 'DCC',
-    translating: 'шкаф управления дизелем ',
+    translating: 'шкаф управления дизелем',
     partOfSpeechCode: 'abb',
     skyid: '249054'
   },
@@ -8654,25 +8654,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DCN',
-    translating: 'извещение об изменении документа ',
+    translating: 'извещение об изменении документа',
     partOfSpeechCode: 'abb',
     skyid: '247331'
   },
   {
     targetWord: 'DD',
-    translating: 'устройство детектирования ',
+    translating: 'устройство детектирования',
     partOfSpeechCode: 'abb',
     skyid: '249051'
   },
   {
     targetWord: 'DDCS',
-    translating: 'цифровая распределенная система ',
+    translating: 'цифровая распределенная система',
     partOfSpeechCode: 'abb',
     skyid: '249063'
   },
   {
     targetWord: 'DDLE',
-    translating: 'аппаратура представления (отображения) и протоколирования ',
+    translating: 'аппаратура представления (отображения) и протоколирования',
     partOfSpeechCode: 'abb',
     skyid: '249040'
   },
@@ -8720,13 +8720,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DFADS',
-    translating: 'система обнаружения дефектных сборок ',
+    translating: 'система обнаружения дефектных сборок',
     partOfSpeechCode: 'abb',
     skyid: '249048'
   },
   {
     targetWord: 'DFLP',
-    translating: 'демократический фронт освобождения ',
+    translating: 'демократический фронт освобождения',
     partOfSpeechCode: 'n',
     skyid: '222856'
   },
@@ -8744,13 +8744,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DI',
-    translating: 'индикатор цифровой ',
+    translating: 'индикатор цифровой',
     partOfSpeechCode: 'abb',
     skyid: '249058'
   },
   {
     targetWord: 'DIU',
-    translating: 'блок цифровой индикации ',
+    translating: 'блок цифровой индикации',
     partOfSpeechCode: 'abb',
     skyid: '249057'
   },
@@ -8792,7 +8792,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DN',
-    translating: 'условный диаметр (Dу 25 ',
+    translating: 'условный диаметр (Dу 25',
     partOfSpeechCode: 'abb',
     skyid: '247336'
   },
@@ -8840,7 +8840,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DNBR',
-    translating: 'коэффициент запаса до кризиса ',
+    translating: 'коэффициент запаса до кризиса',
     partOfSpeechCode: 'abb',
     skyid: '247369'
   },
@@ -8877,7 +8877,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DOC',
-    translating: 'содержание растворенного кислорода ',
+    translating: 'содержание растворенного кислорода',
     partOfSpeechCode: 'abb',
     skyid: '246593'
   },
@@ -8895,7 +8895,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DOS',
-    translating: 'растворенные органические вещества ',
+    translating: 'растворенные органические вещества',
     partOfSpeechCode: 'abb',
     skyid: '246592'
   },
@@ -8907,7 +8907,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DPIF',
-    translating: 'Десногорский проектно-изыскательский филиал ',
+    translating: 'Десногорский проектно-изыскательский филиал',
     partOfSpeechCode: 'abb',
     skyid: '245474'
   },
@@ -8949,7 +8949,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DSM',
-    translating: 'модуль дискретных сигналов ',
+    translating: 'модуль дискретных сигналов',
     partOfSpeechCode: 'abb',
     skyid: '249060'
   },
@@ -8961,7 +8961,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DSS',
-    translating: 'глубинное сейсмическое зондирование ',
+    translating: 'глубинное сейсмическое зондирование',
     partOfSpeechCode: 'abb',
     skyid: '246043'
   },
@@ -8973,7 +8973,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DU',
-    translating: 'блок детектирования ',
+    translating: 'блок детектирования',
     partOfSpeechCode: 'abb',
     skyid: '249052'
   },
@@ -9057,7 +9057,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Danube River',
-    translating: 'Дунай ',
+    translating: 'Дунай',
     partOfSpeechCode: 'n',
     skyid: '37092'
   },
@@ -9131,7 +9131,7 @@ export const difArr: TOneWord[] = [
     targetWord:
       'Decree of the RF Government No. 20 dated 19/01/2006, amended 09/06/2014',
     translating:
-      'Положение об инженерных изысканиях для подготовки проектной документации, строительства, реконструкции объектов капитального строительства (Указ Правительства РФ № 20 от 19.01.2006 г. ',
+      'Положение об инженерных изысканиях для подготовки проектной документации, строительства, реконструкции объектов капитального строительства (Указ Правительства РФ № 20 от 19.01.2006 г.',
     partOfSpeechCode: 'n',
     skyid: '246243'
   },
@@ -9155,7 +9155,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Delaware',
-    translating: 'индеец ',
+    translating: 'индеец',
     partOfSpeechCode: 'n',
     skyid: '70607'
   },
@@ -9173,7 +9173,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Democratic Party',
-    translating: 'Демократическая партия ',
+    translating: 'Демократическая партия',
     partOfSpeechCode: 'n',
     skyid: '69318'
   },
@@ -9191,7 +9191,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Derbyshire',
-    translating: 'Дербишир ',
+    translating: 'Дербишир',
     partOfSpeechCode: 'n',
     skyid: '231498'
   },
@@ -9239,13 +9239,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'DiD',
-    translating: 'глубоко эшелонированная защита ',
+    translating: 'глубоко эшелонированная защита',
     partOfSpeechCode: 'abb',
     skyid: '247010'
   },
   {
     targetWord: 'Diamond State',
-    translating: 'Бриллиантовый штат ',
+    translating: 'Бриллиантовый штат',
     partOfSpeechCode: 'n',
     skyid: '162249'
   },
@@ -9361,19 +9361,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Diwali',
-    translating: 'Дивали ',
+    translating: 'Дивали',
     partOfSpeechCode: 'n',
     skyid: '234506'
   },
   {
     targetWord: 'Dnieper',
-    translating: 'Днепр ',
+    translating: 'Днепр',
     partOfSpeechCode: 'n',
     skyid: '27034'
   },
   {
     targetWord: 'Dnom',
-    translating: 'диаметр условный ',
+    translating: 'диаметр условный',
     partOfSpeechCode: 'abb',
     skyid: '248148'
   },
@@ -10117,7 +10117,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EAEC',
-    translating: 'Европейское сообщество по атомной энергии ',
+    translating: 'Европейское сообщество по атомной энергии',
     partOfSpeechCode: 'abb',
     skyid: '245822'
   },
@@ -10135,7 +10135,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EBIS',
-    translating: 'система аварийного ввода бора ',
+    translating: 'система аварийного ввода бора',
     partOfSpeechCode: 'abb',
     skyid: '245580'
   },
@@ -10147,7 +10147,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EBPC',
-    translating: 'кран мостовой электрический кругового действия ',
+    translating: 'кран мостовой электрический кругового действия',
     partOfSpeechCode: 'abb',
     skyid: '245579'
   },
@@ -10159,25 +10159,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ECC',
-    translating: 'шкаф аварийных команд ',
+    translating: 'шкаф аварийных команд',
     partOfSpeechCode: 'abb',
     skyid: '249067'
   },
   {
     targetWord: 'ECCS',
-    translating: 'система аварийного охлаждения зоны ',
+    translating: 'система аварийного охлаждения зоны',
     partOfSpeechCode: 'abb',
     skyid: '245581'
   },
   {
     targetWord: 'ECCS HA',
-    translating: 'гидроемкости системы аварийного охлаждения зоны ',
+    translating: 'гидроемкости системы аварийного охлаждения зоны',
     partOfSpeechCode: 'abb',
     skyid: '245582'
   },
   {
     targetWord: 'ECCS PP (HA-1)',
-    translating: 'пассивная часть системы аварийного охлаждения зоны ',
+    translating: 'пассивная часть системы аварийного охлаждения зоны',
     partOfSpeechCode: 'abb',
     skyid: '245583'
   },
@@ -10195,19 +10195,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ECP',
-    translating: 'конденсатный насос ',
+    translating: 'конденсатный насос',
     partOfSpeechCode: 'abb',
     skyid: '245957'
   },
   {
     targetWord: 'ECP-1',
-    translating: 'конденсатные насосы первой ступени ',
+    translating: 'конденсатные насосы первой ступени',
     partOfSpeechCode: 'abb',
     skyid: '245972'
   },
   {
     targetWord: 'ECP-2',
-    translating: 'конденсатные насосы второй ступени ',
+    translating: 'конденсатные насосы второй ступени',
     partOfSpeechCode: 'abb',
     skyid: '245970'
   },
@@ -10219,7 +10219,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ECR',
-    translating: 'резервный пункт управления ',
+    translating: 'резервный пункт управления',
     partOfSpeechCode: 'n',
     skyid: '249068'
   },
@@ -10237,7 +10237,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EDMD',
-    translating: 'система управления инженерными данными ',
+    translating: 'система управления инженерными данными',
     partOfSpeechCode: 'abb',
     skyid: '249080'
   },
@@ -10262,7 +10262,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'EEMA AIMS',
     translating:
-      'автоматизированная информационно-измерительная система контроля и учета электроэнергии ',
+      'автоматизированная информационно-измерительная система контроля и учета электроэнергии',
     partOfSpeechCode: 'abb',
     skyid: '248942'
   },
@@ -10298,7 +10298,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EGE',
-    translating: 'инженерно-геологический элемент ',
+    translating: 'инженерно-геологический элемент',
     partOfSpeechCode: 'abb',
     skyid: '246055'
   },
@@ -10311,13 +10311,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EHC',
-    translating: 'электрогидравлический преобразователь ',
+    translating: 'электрогидравлический преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '245993'
   },
   {
     targetWord: 'EHGS',
-    translating: 'электрогидравлическая система регулирования ',
+    translating: 'электрогидравлическая система регулирования',
     partOfSpeechCode: 'abb',
     skyid: '245992'
   },
@@ -10341,7 +10341,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EIU',
-    translating: 'блок индикации выносной ',
+    translating: 'блок индикации выносной',
     partOfSpeechCode: 'abb',
     skyid: '249086'
   },
@@ -10353,19 +10353,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EMC',
-    translating: 'электромагнитная совместимость ',
+    translating: 'электромагнитная совместимость',
     partOfSpeechCode: 'abb',
     skyid: '248002'
   },
   {
     targetWord: 'EMERCOM of Russia',
-    translating: 'Министерство по Чрезвычайным Ситуациям России ',
+    translating: 'Министерство по Чрезвычайным Ситуациям России',
     partOfSpeechCode: 'n',
     skyid: '246296'
   },
   {
     targetWord: 'EMPS',
-    translating: 'системы электромагнитной защиты ',
+    translating: 'системы электромагнитной защиты',
     partOfSpeechCode: 'abb',
     skyid: '247791'
   },
@@ -10389,37 +10389,37 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EO BKP-7',
-    translating: 'электротехнический отдел БКП-7 ',
+    translating: 'электротехнический отдел БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245659'
   },
   {
     targetWord: 'EOC',
-    translating: 'окончание цикла ',
+    translating: 'окончание цикла',
     partOfSpeechCode: 'abb',
     skyid: '246619'
   },
   {
     targetWord: 'EOL',
-    translating: 'окончание цикла ',
+    translating: 'окончание цикла',
     partOfSpeechCode: 'abb',
     skyid: '246621'
   },
   {
     targetWord: 'EONR',
-    translating: 'Европейская организация ядерных исследований ',
+    translating: 'Европейская организация ядерных исследований',
     partOfSpeechCode: 'abb',
     skyid: '246513'
   },
   {
     targetWord: 'EP',
-    translating: 'аварийная защита ',
+    translating: 'аварийная защита',
     partOfSpeechCode: 'abb',
     skyid: '245603'
   },
   {
     targetWord: 'EP-ESFAS signal voting equipment',
-    translating: 'аппаратура голосования сигналов АЗ-УСБТ ',
+    translating: 'аппаратура голосования сигналов АЗ-УСБТ',
     partOfSpeechCode: 'n',
     skyid: '249249'
   },
@@ -10443,7 +10443,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EPC bid cycle',
-    translating: 'рассмотрение предложений по рабочему проектированию ',
+    translating: 'рассмотрение предложений по рабочему проектированию',
     partOfSpeechCode: 'abb',
     skyid: '245505'
   },
@@ -10482,7 +10482,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EPRI',
-    translating: 'Научно-исследовательский институт электроэнергетики ',
+    translating: 'Научно-исследовательский институт электроэнергетики',
     partOfSpeechCode: 'abb',
     skyid: '245814'
   },
@@ -10494,7 +10494,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EPSS',
-    translating: 'система аварийного электроснабжения ',
+    translating: 'система аварийного электроснабжения',
     partOfSpeechCode: 'abb',
     skyid: '247792'
   },
@@ -10530,7 +10530,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ERM',
-    translating: 'аварийный радиационный контроль ',
+    translating: 'аварийный радиационный контроль',
     partOfSpeechCode: 'abb',
     skyid: '246340'
   },
@@ -10542,7 +10542,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ES',
-    translating: 'инженерная станция ',
+    translating: 'инженерная станция',
     partOfSpeechCode: 'abb',
     skyid: '249082'
   },
@@ -10554,7 +10554,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ESC',
-    translating: 'агрегатный контроллер (стойка агрегатных контроллеров) ',
+    translating: 'агрегатный контроллер (стойка агрегатных контроллеров)',
     partOfSpeechCode: 'abb',
     skyid: '249085'
   },
@@ -10567,19 +10567,19 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'ESFAS',
     translating:
-      'управляющая система безопасности по технологическим параметрам (технологическая) ',
+      'управляющая система безопасности по технологическим параметрам (технологическая)',
     partOfSpeechCode: 'abb',
     skyid: '247015'
   },
   {
     targetWord: 'ESFIP',
-    translating: 'управляющая система безопасности, инициирующая часть ',
+    translating: 'управляющая система безопасности, инициирующая часть',
     partOfSpeechCode: 'abb',
     skyid: '247017'
   },
   {
     targetWord: 'ESM',
-    translating: 'модуль электронных ключей ',
+    translating: 'модуль электронных ключей',
     partOfSpeechCode: 'abb',
     skyid: '249065'
   },
@@ -10633,7 +10633,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'EUR',
-    translating: 'европейские требования к атомным станциям ',
+    translating: 'европейские требования к атомным станциям',
     partOfSpeechCode: 'abb',
     skyid: '245673'
   },
@@ -10767,7 +10767,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'El Salvador',
-    translating: 'Сальвадор ',
+    translating: 'Сальвадор',
     partOfSpeechCode: 'n',
     skyid: '128755'
   },
@@ -10967,7 +10967,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Eternal City',
-    translating: 'Вечный город ',
+    translating: 'Вечный город',
     partOfSpeechCode: 'n',
     skyid: '22098'
   },
@@ -11160,7 +11160,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FA',
-    translating: 'сборка тепловыделяющая ядерного реактора ',
+    translating: 'сборка тепловыделяющая ядерного реактора',
     partOfSpeechCode: 'abb',
     skyid: '245592'
   },
@@ -11178,7 +11178,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FAPSI',
-    translating: 'прибор приемно-контрольный пожарный пусковой ',
+    translating: 'прибор приемно-контрольный пожарный пусковой',
     partOfSpeechCode: 'abb',
     skyid: '249091'
   },
@@ -11196,7 +11196,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FAT',
-    translating: 'заводские приемочные испытания ',
+    translating: 'заводские приемочные испытания',
     partOfSpeechCode: 'abb',
     skyid: '246622'
   },
@@ -11256,31 +11256,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FE',
-    translating: 'технико-экономическое обоснование инвестиций ',
+    translating: 'технико-экономическое обоснование инвестиций',
     partOfSpeechCode: 'abb',
     skyid: '245674'
   },
   {
     targetWord: 'FEED',
-    translating: 'эскизный проект ',
+    translating: 'эскизный проект',
     partOfSpeechCode: 'abb',
     skyid: '245512'
   },
   {
     targetWord: 'FEM',
-    translating: 'метод конечных элементов ',
+    translating: 'метод конечных элементов',
     partOfSpeechCode: 'abb',
     skyid: '249089'
   },
   {
     targetWord: 'FG',
-    translating: 'функциональная группа ',
+    translating: 'функциональная группа',
     partOfSpeechCode: 'abb',
     skyid: '248610'
   },
   {
     targetWord: 'FGC',
-    translating: 'функционально-групповое управление ',
+    translating: 'функционально-групповое управление',
     partOfSpeechCode: 'abb',
     skyid: '248826'
   },
@@ -11298,7 +11298,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FIP',
-    translating: 'Международная федерация по преднапряженному железобетону ',
+    translating: 'Международная федерация по преднапряженному железобетону',
     partOfSpeechCode: 'abb',
     skyid: '246194'
   },
@@ -11316,7 +11316,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FM',
-    translating: 'функциональный модуль ',
+    translating: 'функциональный модуль',
     partOfSpeechCode: 'n',
     skyid: '248827'
   },
@@ -11359,7 +11359,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FOCL',
-    translating: 'волоконно-оптическая линия связи ',
+    translating: 'волоконно-оптическая линия связи',
     partOfSpeechCode: 'abb',
     skyid: '249088'
   },
@@ -11390,7 +11390,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FP I&C',
-    translating: 'система контроля и управления противопожарной защитой ',
+    translating: 'система контроля и управления противопожарной защитой',
     partOfSpeechCode: 'abb',
     skyid: '249093'
   },
@@ -11402,13 +11402,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FPS',
-    translating: 'система противопожарной защиты ',
+    translating: 'система противопожарной защиты',
     partOfSpeechCode: 'abb',
     skyid: '247365'
   },
   {
     targetWord: 'FPU',
-    translating: 'блок функциональной обработки ',
+    translating: 'блок функциональной обработки',
     partOfSpeechCode: 'n',
     skyid: '248828'
   },
@@ -11420,7 +11420,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FR',
-    translating: 'тепловыделяющий элемент ',
+    translating: 'тепловыделяющий элемент',
     partOfSpeechCode: 'abb',
     skyid: '248490'
   },
@@ -11438,19 +11438,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FSAR',
-    translating: 'окончательный отчет по обоснованию безопасности ',
+    translating: 'окончательный отчет по обоснованию безопасности',
     partOfSpeechCode: 'abb',
     skyid: '245675'
   },
   {
     targetWord: 'FSIV',
-    translating: 'быстродействующий запорно-отсечной клапан ',
+    translating: 'быстродействующий запорно-отсечной клапан',
     partOfSpeechCode: 'abb',
     skyid: '245971'
   },
   {
     targetWord: 'FSS',
-    translating: 'полномасштабный тренажер ',
+    translating: 'полномасштабный тренажер',
     partOfSpeechCode: 'abb',
     skyid: '249094'
   },
@@ -11468,7 +11468,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'FWP',
-    translating: 'питательный электронасосный агрегат ',
+    translating: 'питательный электронасосный агрегат',
     partOfSpeechCode: 'abb',
     skyid: '245994'
   },
@@ -11686,7 +11686,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Filipino',
-    translating: 'пилипино ',
+    translating: 'пилипино',
     partOfSpeechCode: 'n',
     skyid: '168136'
   },
@@ -11849,7 +11849,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Frederick',
-    translating: 'Фредерик ',
+    translating: 'Фредерик',
     partOfSpeechCode: 'n',
     skyid: '190735'
   },
@@ -11879,7 +11879,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'French Riviera',
-    translating: 'Лазурный берег ',
+    translating: 'Лазурный берег',
     partOfSpeechCode: 'n',
     skyid: '147409'
   },
@@ -11987,7 +11987,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GC',
-    translating: 'групповой контроллер ',
+    translating: 'групповой контроллер',
     partOfSpeechCode: 'abb',
     skyid: '249165'
   },
@@ -11999,7 +11999,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GCC',
-    translating: 'центральный щит управления ',
+    translating: 'центральный щит управления',
     partOfSpeechCode: 'abb',
     skyid: '249164'
   },
@@ -12066,20 +12066,20 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GIC',
-    translating: 'шкаф гальванической развязки ',
+    translating: 'шкаф гальванической развязки',
     partOfSpeechCode: 'n',
     skyid: '248837'
   },
   {
     targetWord: 'GICS',
     translating:
-      'система группового и индивидуального управления регулирующих стержней ',
+      'система группового и индивидуального управления регулирующих стержней',
     partOfSpeechCode: 'abb',
     skyid: '245523'
   },
   {
     targetWord: 'GIM',
-    translating: 'модуль гальванической развязки ',
+    translating: 'модуль гальванической развязки',
     partOfSpeechCode: 'n',
     skyid: '248839'
   },
@@ -12091,13 +12091,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GIPP',
-    translating: 'главный инженер по перспективным проектам ',
+    translating: 'главный инженер по перспективным проектам',
     partOfSpeechCode: 'abb',
     skyid: '245466'
   },
   {
     targetWord: 'GIRVS SO BKP-3',
-    translating: 'группа по инжиниринговым работам и выпуску смет БКП-3 ',
+    translating: 'группа по инжиниринговым работам и выпуску смет БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245648'
   },
@@ -12139,7 +12139,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GMTsVS BKP-3',
-    translating: 'группа по мониторингу цен и выпуску смет БКП-3 ',
+    translating: 'группа по мониторингу цен и выпуску смет БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245647'
   },
@@ -12164,7 +12164,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'GOAS PIES',
     translating:
-      'cистема обмена технологической информацией с автоматизированной системой системного оператора ',
+      'cистема обмена технологической информацией с автоматизированной системой системного оператора',
     partOfSpeechCode: 'abb',
     skyid: '248588'
   },
@@ -12176,63 +12176,63 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GOST',
-    translating: 'Государственный Стандарт ',
+    translating: 'Государственный Стандарт',
     partOfSpeechCode: 'abb',
     skyid: '246226'
   },
   {
     targetWord: 'GOST 2.102-2013',
     translating:
-      'Единая система конструкторской документации. Виды и комплектность конструкторской документации ',
+      'Единая система конструкторской документации. Виды и комплектность конструкторской документации',
     partOfSpeechCode: 'abb',
     skyid: '246259'
   },
   {
     targetWord: 'GOST 2.103-68',
     translating:
-      'Единая система конструкторской документации. Стадии разработки. ',
+      'Единая система конструкторской документации. Стадии разработки.',
     partOfSpeechCode: 'abb',
     skyid: '246258'
   },
   {
     targetWord: 'GOST 2.314-68',
     translating:
-      'Единая система конструкторской документации. Указания на чертежах о маркировании и клеймении изделий ',
+      'Единая система конструкторской документации. Указания на чертежах о маркировании и клеймении изделий',
     partOfSpeechCode: 'abb',
     skyid: '246233'
   },
   {
     targetWord: 'GOST 2.601-2013',
     translating:
-      'Единая система конструкторской документации. Эксплуатационные документы ',
+      'Единая система конструкторской документации. Эксплуатационные документы',
     partOfSpeechCode: 'abb',
     skyid: '246234'
   },
   {
     targetWord: 'GOST 2.602-2013',
     translating:
-      'Единая система конструкторской документации. Ремонтные документы ',
+      'Единая система конструкторской документации. Ремонтные документы',
     partOfSpeechCode: 'abb',
     skyid: '246235'
   },
   {
     targetWord: 'GOST 27.003-90',
     translating:
-      'Надежность в технике. Состав и общие правила задания требований по надежности ',
+      'Надежность в технике. Состав и общие правила задания требований по надежности',
     partOfSpeechCode: 'abb',
     skyid: '246231'
   },
   {
     targetWord: 'GOST 3.1102-2011',
     translating:
-      'Единая система проектной документации. Стадии разработки и виды документов. Общие положения ',
+      'Единая система проектной документации. Стадии разработки и виды документов. Общие положения',
     partOfSpeechCode: 'abb',
     skyid: '246236'
   },
   {
     targetWord: 'GOST 9.014-78',
     translating:
-      'Единая система защиты от коррозии и старения. Временная противокоррозионная защита изделий. Общие требования ',
+      'Единая система защиты от коррозии и старения. Временная противокоррозионная защита изделий. Общие требования',
     partOfSpeechCode: 'abb',
     skyid: '246232'
   },
@@ -12244,7 +12244,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GPS',
-    translating: 'глобальная система позиционирования ',
+    translating: 'глобальная система позиционирования',
     partOfSpeechCode: 'abb',
     skyid: '249142'
   },
@@ -12262,13 +12262,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GSC',
-    translating: 'конденсатор пара уплотнений ',
+    translating: 'конденсатор пара уплотнений',
     partOfSpeechCode: 'abb',
     skyid: '247514'
   },
   {
     targetWord: 'GSC',
-    translating: 'общие критерии безопасности ',
+    translating: 'общие критерии безопасности',
     partOfSpeechCode: 'abb',
     skyid: '247019'
   },
@@ -12280,7 +12280,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GT',
-    translating: 'генераторный трансформатор ',
+    translating: 'генераторный трансформатор',
     partOfSpeechCode: 'abb',
     skyid: '247795'
   },
@@ -12292,31 +12292,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GUP for Akkuyu NPP',
-    translating: 'группа управления проектом АЭС «Аккую» ',
+    translating: 'группа управления проектом АЭС «Аккую»',
     partOfSpeechCode: 'abb',
     skyid: '245437'
   },
   {
     targetWord: 'GUP for BNPP-2',
-    translating: 'группа управления проектом АЭС «Бушер-2» ',
+    translating: 'группа управления проектом АЭС «Бушер-2»',
     partOfSpeechCode: 'abb',
     skyid: '245434'
   },
   {
     targetWord: 'GUP for Kudankulam NPP',
-    translating: 'группа управления проектом АЭС «Куданкулам» ',
+    translating: 'группа управления проектом АЭС «Куданкулам»',
     partOfSpeechCode: 'abb',
     skyid: '245436'
   },
   {
     targetWord: 'GUP for Rooppur NPP',
-    translating: 'группа управления проектом АЭС «Руппур» ',
+    translating: 'группа управления проектом АЭС «Руппур»',
     partOfSpeechCode: 'abb',
     skyid: '245433'
   },
   {
     targetWord: 'GWL',
-    translating: 'уровень грунтовых вод ',
+    translating: 'уровень грунтовых вод',
     partOfSpeechCode: 'abb',
     skyid: '246436'
   },
@@ -12340,7 +12340,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Ganges River',
-    translating: 'Ганг ',
+    translating: 'Ганг',
     partOfSpeechCode: 'n',
     skyid: '192417'
   },
@@ -12358,7 +12358,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Gaussian distribution',
-    translating: 'нормальное распределение ',
+    translating: 'нормальное распределение',
     partOfSpeechCode: 'n',
     skyid: '247219'
   },
@@ -12400,7 +12400,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Gemini',
-    translating: 'Близнецы ',
+    translating: 'Близнецы',
     partOfSpeechCode: 'n',
     skyid: '180577'
   },
@@ -12412,7 +12412,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'General Design Criteria',
-    translating: 'Общие Критерии Проектирования ',
+    translating: 'Общие Критерии Проектирования',
     partOfSpeechCode: 'n',
     skyid: '246286'
   },
@@ -12612,13 +12612,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Gi',
-    translating: 'Гильберт ',
+    translating: 'Гильберт',
     partOfSpeechCode: 'abb',
     skyid: '252039'
   },
   {
     targetWord: 'Ginger Spice',
-    translating: 'Джинджер Спайс ',
+    translating: 'Джинджер Спайс',
     partOfSpeechCode: 'ph',
     skyid: '234753'
   },
@@ -12732,7 +12732,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Golden State',
-    translating: 'Золотой штат ',
+    translating: 'Золотой штат',
     partOfSpeechCode: 'n',
     skyid: '141204'
   },
@@ -12828,7 +12828,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'GrPOSOOS BKP-2',
-    translating: 'группа проекта организации строительства БКП-2 ',
+    translating: 'группа проекта организации строительства БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245491'
   },
@@ -12894,7 +12894,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Great White Way',
-    translating: 'Большой светлый путь ',
+    translating: 'Большой светлый путь',
     partOfSpeechCode: 'n',
     skyid: '147944'
   },
@@ -13068,7 +13068,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Guinness',
-    translating: 'Гиннесс ',
+    translating: 'Гиннесс',
     partOfSpeechCode: 'n',
     skyid: '221327'
   },
@@ -13098,7 +13098,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Gy',
-    translating: 'единица СИ поглощенной дозы ',
+    translating: 'единица СИ поглощенной дозы',
     partOfSpeechCode: 'n',
     skyid: '246343'
   },
@@ -13158,7 +13158,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HEP',
-    translating: 'вероятность человеческой ошибки ',
+    translating: 'вероятность человеческой ошибки',
     partOfSpeechCode: 'abb',
     skyid: '247020'
   },
@@ -13171,7 +13171,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HEPA',
-    translating: 'высокоэффективный воздушный фильтр ',
+    translating: 'высокоэффективный воздушный фильтр',
     partOfSpeechCode: 'abb',
     skyid: '247515'
   },
@@ -13208,13 +13208,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HLMS',
-    translating: 'система контроля протечек влажностная ',
+    translating: 'система контроля протечек влажностная',
     partOfSpeechCode: 'abb',
     skyid: '249167'
   },
   {
     targetWord: 'HMI',
-    translating: 'человеко-машинный интерфейс ',
+    translating: 'человеко-машинный интерфейс',
     partOfSpeechCode: 'abb',
     skyid: '248880'
   },
@@ -13251,7 +13251,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HPC',
-    translating: 'цилиндр высокого давления ',
+    translating: 'цилиндр высокого давления',
     partOfSpeechCode: 'abb',
     skyid: '245973'
   },
@@ -13269,7 +13269,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HPH',
-    translating: 'подогреватель высокого давления ',
+    translating: 'подогреватель высокого давления',
     partOfSpeechCode: 'abb',
     skyid: '245974'
   },
@@ -13323,7 +13323,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HRA',
-    translating: 'анализ надежности оператора ',
+    translating: 'анализ надежности оператора',
     partOfSpeechCode: 'abb',
     skyid: '247021'
   },
@@ -13353,7 +13353,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HRW',
-    translating: 'высокоактивные радиоактивные отходы ',
+    translating: 'высокоактивные радиоактивные отходы',
     partOfSpeechCode: 'abb',
     skyid: '246076'
   },
@@ -13377,19 +13377,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'HV',
-    translating: 'высокое напряжение ',
+    translating: 'высокое напряжение',
     partOfSpeechCode: 'abb',
     skyid: '247796'
   },
   {
     targetWord: 'HVAC',
-    translating: 'система отопления, вентиляция и кондиционирования воздуха ',
+    translating: 'система отопления, вентиляция и кондиционирования воздуха',
     partOfSpeechCode: 'abb',
     skyid: '247491'
   },
   {
     targetWord: 'HX',
-    translating: 'теплообменник ',
+    translating: 'теплообменник',
     partOfSpeechCode: 'abb',
     skyid: '248618'
   },
@@ -13978,7 +13978,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Here it is.',
-    translating: 'Вот. ',
+    translating: 'Вот.',
     partOfSpeechCode: 'ph',
     skyid: '229971'
   },
@@ -14014,7 +14014,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: "Here's to you!",
-    translating: 'За Вас! ',
+    translating: 'За Вас!',
     partOfSpeechCode: 'ph',
     skyid: '244622'
   },
@@ -14038,7 +14038,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Hertz',
-    translating: 'герц ',
+    translating: 'герц',
     partOfSpeechCode: 'n',
     skyid: '104385'
   },
@@ -14232,7 +14232,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Honda',
-    translating: 'Хонда ',
+    translating: 'Хонда',
     partOfSpeechCode: 'n',
     skyid: '251318'
   },
@@ -14935,7 +14935,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Hyundai',
-    translating: 'Хёндэ ',
+    translating: 'Хёндэ',
     partOfSpeechCode: 'n',
     skyid: '251319'
   },
@@ -15050,7 +15050,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I am at a loss for words...',
-    translating: 'У меня нет слов... ',
+    translating: 'У меня нет слов...',
     partOfSpeechCode: 'ph',
     skyid: '244919'
   },
@@ -15895,7 +15895,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: "I don't think it would be a good idea to",
-    translating: 'не думаю, что будет хорошей идеей ',
+    translating: 'не думаю, что будет хорошей идеей',
     partOfSpeechCode: 'ph',
     skyid: '251039'
   },
@@ -17411,7 +17411,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I think it would be a good idea to',
-    translating: 'думаю, будет неплохо ',
+    translating: 'думаю, будет неплохо',
     partOfSpeechCode: 'ph',
     skyid: '251038'
   },
@@ -17681,7 +17681,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I was born in ...',
-    translating: 'я родился в... ',
+    translating: 'я родился в...',
     partOfSpeechCode: 'ph',
     skyid: '250799'
   },
@@ -18070,7 +18070,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I&C',
-    translating: 'система контроля и управления ',
+    translating: 'система контроля и управления',
     partOfSpeechCode: 'abb',
     skyid: '249187'
   },
@@ -18090,27 +18090,27 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'I&C CWT',
     translating:
-      'системы контроля и управления оборудованием нормальной эксплуатации систем химводоочистки ',
+      'системы контроля и управления оборудованием нормальной эксплуатации систем химводоочистки',
     partOfSpeechCode: 'abb',
     skyid: '248975'
   },
   {
     targetWord: 'I&C EE',
-    translating: 'система контроля и управления электрического оборудования ',
+    translating: 'система контроля и управления электрического оборудования',
     partOfSpeechCode: 'abb',
     skyid: '249064'
   },
   {
     targetWord: 'I&C ESFAS',
     translating:
-      'система контроля и управления оборудованием управляющей системы безопасности ',
+      'система контроля и управления оборудованием управляющей системы безопасности',
     partOfSpeechCode: 'abb',
     skyid: '247016'
   },
   {
     targetWord: 'I&C RC',
     translating:
-      'система контроля и управления оборудованием нормальной эксплуатации реакторного отделения ',
+      'система контроля и управления оборудованием нормальной эксплуатации реакторного отделения',
     partOfSpeechCode: 'abb',
     skyid: '248718'
   },
@@ -18123,13 +18123,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I&C T',
-    translating: 'система контроля и управления турбиной ',
+    translating: 'система контроля и управления турбиной',
     partOfSpeechCode: 'abb',
     skyid: '248569'
   },
   {
     targetWord: 'I&C TG',
-    translating: 'система контроля и управления турбогенератора ',
+    translating: 'система контроля и управления турбогенератора',
     partOfSpeechCode: 'abb',
     skyid: '248572'
   },
@@ -18149,7 +18149,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I&C WC',
-    translating: 'система контроля и управления водно-химическим режимом ',
+    translating: 'система контроля и управления водно-химическим режимом',
     partOfSpeechCode: 'abb',
     skyid: '248553'
   },
@@ -19508,46 +19508,46 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'I/O bus',
-    translating: 'шина ввода/вывода ',
+    translating: 'шина ввода/вывода',
     partOfSpeechCode: 'n',
     skyid: '249937'
   },
   {
     targetWord: 'IAEA',
-    translating: 'Международное агентство по атомной энергии ',
+    translating: 'Международное агентство по атомной энергии',
     partOfSpeechCode: 'abb',
     skyid: '246189'
   },
   {
     targetWord: 'IAEA GSR Part 3',
     translating:
-      'Радиационная защита и безопасность радиоактивных источников. Основные международные нормы безопасности ',
+      'Радиационная защита и безопасность радиоактивных источников. Основные международные нормы безопасности',
     partOfSpeechCode: 'abb',
     skyid: '246223'
   },
   {
     targetWord: 'IAEA NS-G-1.13',
     translating:
-      'Защита против внутренних опасностей при проектировании атомных электростанций ',
+      'Защита против внутренних опасностей при проектировании атомных электростанций',
     partOfSpeechCode: 'abb',
     skyid: '246224'
   },
   {
     targetWord: 'IAEA NS-G-1.5',
-    translating: 'внешние события, исключая землетрясения, в проектах АЭС ',
+    translating: 'внешние события, исключая землетрясения, в проектах АЭС',
     partOfSpeechCode: 'abb',
     skyid: '246237'
   },
   {
     targetWord: 'IAEA NS-G-2.13',
-    translating: 'оценка сейсмической безопасности на имеющихся АЭС ',
+    translating: 'оценка сейсмической безопасности на имеющихся АЭС',
     partOfSpeechCode: 'abb',
     skyid: '246238'
   },
   {
     targetWord: 'IAEA NS-G-3.4',
     translating:
-      'учет внешних антропогенных явлений при оценке площадок для атомных электростанций ',
+      'учет внешних антропогенных явлений при оценке площадок для атомных электростанций',
     partOfSpeechCode: 'abb',
     skyid: '246239'
   },
@@ -19559,26 +19559,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IAEE',
-    translating: 'Международная Ассоциация по экономике энергетики ',
+    translating: 'Международная Ассоциация по экономике энергетики',
     partOfSpeechCode: 'abb',
     skyid: '245842'
   },
   {
     targetWord: 'IAEG',
-    translating: 'Международная Ассоциация по инженерной геологии ',
+    translating: 'Международная Ассоциация по инженерной геологии',
     partOfSpeechCode: 'abb',
     skyid: '245843'
   },
   {
     targetWord: 'IAHR',
     translating:
-      'Международная Ассоциация по гидротехнике и гидравлическим исследованиям ',
+      'Международная Ассоциация по гидротехнике и гидравлическим исследованиям',
     partOfSpeechCode: 'abb',
     skyid: '245845'
   },
   {
     targetWord: 'IAS',
-    translating: 'система комплексного анализа ',
+    translating: 'система комплексного анализа',
     partOfSpeechCode: 'abb',
     skyid: '249191'
   },
@@ -19597,26 +19597,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IBRAE',
-    translating:
-      'Институт проблем безопасного развития атомной энергетики РАН ',
+    translating: 'Институт проблем безопасного развития атомной энергетики РАН',
     partOfSpeechCode: 'abb',
     skyid: '246304'
   },
   {
     targetWord: 'IBRD',
-    translating: 'МБРР ',
+    translating: 'МБРР',
     partOfSpeechCode: 'abb',
     skyid: '173245'
   },
   {
     targetWord: 'IC',
-    translating: 'исходное событие ',
+    translating: 'исходное событие',
     partOfSpeechCode: 'abb',
     skyid: '248885'
   },
   {
     targetWord: 'IC',
-    translating: 'ионизационная камера ',
+    translating: 'ионизационная камера',
     partOfSpeechCode: 'abb',
     skyid: '248621'
   },
@@ -19640,49 +19639,49 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ICDA',
-    translating: 'сборка внутриреакторных детекторов ',
+    translating: 'сборка внутриреакторных детекторов',
     partOfSpeechCode: 'abb',
     skyid: '245614'
   },
   {
     targetWord: 'ICID',
-    translating: 'внутриреакторный детектор ',
+    translating: 'внутриреакторный детектор',
     partOfSpeechCode: 'abb',
     skyid: '245615'
   },
   {
     targetWord: 'ICIS',
-    translating: 'система внутриреакторного контроля ',
+    translating: 'система внутриреакторного контроля',
     partOfSpeechCode: 'abb',
     skyid: '245616'
   },
   {
     targetWord: 'ICM',
-    translating: 'модуль индивидуального управления ',
+    translating: 'модуль индивидуального управления',
     partOfSpeechCode: 'abb',
     skyid: '249175'
   },
   {
     targetWord: 'ICND',
-    translating: 'внутриреакторная шумовая диагностика ',
+    translating: 'внутриреакторная шумовая диагностика',
     partOfSpeechCode: 'abb',
     skyid: '245584'
   },
   {
     targetWord: 'ICOLD',
-    translating: 'Международная Комиссия по большим плотинам ',
+    translating: 'Международная Комиссия по большим плотинам',
     partOfSpeechCode: 'abb',
     skyid: '246191'
   },
   {
     targetWord: 'ICP',
-    translating: 'пульт индивидуального выбора ',
+    translating: 'пульт индивидуального выбора',
     partOfSpeechCode: 'abb',
     skyid: '249173'
   },
   {
     targetWord: 'ICRP',
-    translating: 'Международный комитет по радиационной защите ',
+    translating: 'Международный комитет по радиационной защите',
     partOfSpeechCode: 'abb',
     skyid: '246190'
   },
@@ -19730,7 +19729,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IDB',
-    translating: 'информационная база данных ',
+    translating: 'информационная база данных',
     partOfSpeechCode: 'abb',
     skyid: '249179'
   },
@@ -19760,7 +19759,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IDM',
-    translating: 'индивидуальный дозиметрический контроль ',
+    translating: 'индивидуальный дозиметрический контроль',
     partOfSpeechCode: 'abb',
     skyid: '246334'
   },
@@ -19772,7 +19771,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IDS',
-    translating: 'система комплексного диагностирования ',
+    translating: 'система комплексного диагностирования',
     partOfSpeechCode: 'abb',
     skyid: '249192'
   },
@@ -19784,31 +19783,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IE',
-    translating: 'исходное событие ',
+    translating: 'исходное событие',
     partOfSpeechCode: 'abb',
     skyid: '247022'
   },
   {
     targetWord: 'IEA',
-    translating: 'Международное Энергетическое Агентство ',
+    translating: 'Международное Энергетическое Агентство',
     partOfSpeechCode: 'abb',
     skyid: '246193'
   },
   {
     targetWord: 'IEC',
-    translating: 'Международная Электротехническая Комиссия ',
+    translating: 'Международная Электротехническая Комиссия',
     partOfSpeechCode: 'abb',
     skyid: '246192'
   },
   {
     targetWord: 'IEDB',
-    translating: 'база данных информационного обмена ',
+    translating: 'база данных информационного обмена',
     partOfSpeechCode: 'abb',
     skyid: '249180'
   },
   {
     targetWord: 'IEE',
-    translating: 'Институт Инженеров-электриков ',
+    translating: 'Институт Инженеров-электриков',
     partOfSpeechCode: 'abb',
     skyid: '245839'
   },
@@ -19880,7 +19879,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IMF',
-    translating: 'Международный Валютный Фонд ',
+    translating: 'Международный Валютный Фонд',
     partOfSpeechCode: 'abb',
     skyid: '134948'
   },
@@ -19898,13 +19897,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IMS',
-    translating: 'система управления информацией ',
+    translating: 'система управления информацией',
     partOfSpeechCode: 'abb',
     skyid: '249181'
   },
   {
     targetWord: 'IMU',
-    translating: 'блок индикации и контроля ',
+    translating: 'блок индикации и контроля',
     partOfSpeechCode: 'abb',
     skyid: '249172'
   },
@@ -19922,7 +19921,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'INPO',
-    translating: 'Институт по эксплуатации атомных энергетических установок ',
+    translating: 'Институт по эксплуатации атомных энергетических установок',
     partOfSpeechCode: 'abb',
     skyid: '245841'
   },
@@ -19946,13 +19945,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IOPRS',
-    translating: 'система регистрации важных параметров эксплуатации ',
+    translating: 'система регистрации важных параметров эксплуатации',
     partOfSpeechCode: 'abb',
     skyid: '249168'
   },
   {
     targetWord: 'IOS',
-    translating: 'станция ввода/вывода ',
+    translating: 'станция ввода/вывода',
     partOfSpeechCode: 'abb',
     skyid: '249184'
   },
@@ -19976,7 +19975,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IPA',
-    translating: 'Международная Ассоциация по Мерзлотоведению ',
+    translating: 'Международная Ассоциация по Мерзлотоведению',
     partOfSpeechCode: 'abb',
     skyid: '246197'
   },
@@ -20018,7 +20017,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IR',
-    translating: 'приборная стойка ',
+    translating: 'приборная стойка',
     partOfSpeechCode: 'abb',
     skyid: '249185'
   },
@@ -20042,7 +20041,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IRG',
-    translating: 'инертные радиоактивные газы ',
+    translating: 'инертные радиоактивные газы',
     partOfSpeechCode: 'abb',
     skyid: '246336'
   },
@@ -20054,7 +20053,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IRM',
-    translating: 'индивидуальный дозиметрический контроль ',
+    translating: 'индивидуальный дозиметрический контроль',
     partOfSpeechCode: 'abb',
     skyid: '246967'
   },
@@ -20078,7 +20077,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'IRU',
-    translating: 'блок реле промежуточных ',
+    translating: 'блок реле промежуточных',
     partOfSpeechCode: 'abb',
     skyid: '249198'
   },
@@ -20116,7 +20115,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ISIM',
-    translating: 'модуль ввода импульсных сигналов ',
+    translating: 'модуль ввода импульсных сигналов',
     partOfSpeechCode: 'abb',
     skyid: '249169'
   },
@@ -20146,26 +20145,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ISPE',
-    translating: 'аппаратура индустриальной сейсмической защиты ',
+    translating: 'аппаратура индустриальной сейсмической защиты',
     partOfSpeechCode: 'abb',
     skyid: '249177'
   },
   {
     targetWord: 'ISPS',
-    translating: 'система промышленной антисейсмической защиты ',
+    translating: 'система промышленной антисейсмической защиты',
     partOfSpeechCode: 'abb',
     skyid: '249178'
   },
   {
     targetWord: 'ISRM',
-    translating: 'Международное Общество по Механике Скальных Пород ',
+    translating: 'Международное Общество по Механике Скальных Пород',
     partOfSpeechCode: 'abb',
     skyid: '246198'
   },
   {
     targetWord: 'ISSMGE',
     translating:
-      'Международное Общество по Механике Грунтов и Геотехническому Строительству ',
+      'Международное Общество по Механике Грунтов и Геотехническому Строительству',
     partOfSpeechCode: 'abb',
     skyid: '246199'
   },
@@ -20213,7 +20212,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ITR',
-    translating: 'исходные технические требования ',
+    translating: 'исходные технические требования',
     partOfSpeechCode: 'abb',
     skyid: '245682'
   },
@@ -20415,7 +20414,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Illinois',
-    translating: 'иллиной ',
+    translating: 'иллиной',
     partOfSpeechCode: 'n',
     skyid: '227695'
   },
@@ -20569,7 +20568,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Indian',
-    translating: 'индиец ',
+    translating: 'индиец',
     partOfSpeechCode: 'n',
     skyid: '188452'
   },
@@ -21088,7 +21087,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Israel',
-    translating: 'Израиль ',
+    translating: 'Израиль',
     partOfSpeechCode: 'n',
     skyid: '176355'
   },
@@ -22524,13 +22523,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'JAEC',
-    translating: 'Комиссия по Атомной Энергии Иордании ',
+    translating: 'Комиссия по Атомной Энергии Иордании',
     partOfSpeechCode: 'abb',
     skyid: '246292'
   },
   {
     targetWord: 'JB',
-    translating: 'коробка соединительная ',
+    translating: 'коробка соединительная',
     partOfSpeechCode: 'abb',
     skyid: '247798'
   },
@@ -22572,7 +22571,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'JSC "NAC Kazatomprom"',
-    translating: 'Казатомпром ',
+    translating: 'Казатомпром',
     partOfSpeechCode: 'abb',
     skyid: '246295'
   },
@@ -22604,7 +22603,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'JSC FCNRS',
-    translating: 'Федеральный центр ядерной и радиационной безопасности ',
+    translating: 'Федеральный центр ядерной и радиационной безопасности',
     partOfSpeechCode: 'abb',
     skyid: '245833'
   },
@@ -22886,7 +22885,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'KPIF',
-    translating: 'Курчатовский проектно-изыскательский филиал ',
+    translating: 'Курчатовский проектно-изыскательский филиал',
     partOfSpeechCode: 'abb',
     skyid: '245473'
   },
@@ -23175,7 +23174,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LA',
-    translating: 'световое табло ',
+    translating: 'световое табло',
     partOfSpeechCode: 'abb',
     skyid: '249217'
   },
@@ -23193,7 +23192,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LB',
-    translating: 'локальная шина ',
+    translating: 'локальная шина',
     partOfSpeechCode: 'abb',
     skyid: '249220'
   },
@@ -23217,7 +23216,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LC',
-    translating: 'блок логических преобразований ',
+    translating: 'блок логических преобразований',
     partOfSpeechCode: 'abb',
     skyid: '249227'
   },
@@ -23229,19 +23228,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LCC',
-    translating: 'локальный кризисный центр ',
+    translating: 'локальный кризисный центр',
     partOfSpeechCode: 'abb',
     skyid: '246643'
   },
   {
     targetWord: 'LCP',
-    translating: 'местный пункт управления ',
+    translating: 'местный пункт управления',
     partOfSpeechCode: 'abb',
     skyid: '249224'
   },
   {
     targetWord: 'LCP-D',
-    translating: 'местный пункт управления дисплейный ',
+    translating: 'местный пункт управления дисплейный',
     partOfSpeechCode: 'abb',
     skyid: '249061'
   },
@@ -23277,19 +23276,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LIE',
-    translating: 'аппаратура индикации уровня ',
+    translating: 'аппаратура индикации уровня',
     partOfSpeechCode: 'abb',
     skyid: '249214'
   },
   {
     targetWord: 'LIEH',
-    translating: 'электронагреватель индикатора уровня ',
+    translating: 'электронагреватель индикатора уровня',
     partOfSpeechCode: 'abb',
     skyid: '249215'
   },
   {
     targetWord: 'LLMS',
-    translating: 'система контроля нижнего уровня ',
+    translating: 'система контроля нижнего уровня',
     partOfSpeechCode: 'abb',
     skyid: '249230'
   },
@@ -23301,13 +23300,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LLS',
-    translating: 'нижний конечный выключатель ',
+    translating: 'нижний конечный выключатель',
     partOfSpeechCode: 'abb',
     skyid: '249233'
   },
   {
     targetWord: 'LM',
-    translating: 'запирающий электромагнит ',
+    translating: 'запирающий электромагнит',
     partOfSpeechCode: 'abb',
     skyid: '245586'
   },
@@ -23331,7 +23330,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LMS',
-    translating: 'система контроля течи ',
+    translating: 'система контроля течи',
     partOfSpeechCode: 'abb',
     skyid: '245585'
   },
@@ -23343,7 +23342,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LOCA',
-    translating: 'течь (теплоносителя) ',
+    translating: 'течь (теплоносителя)',
     partOfSpeechCode: 'abb',
     skyid: '245848'
   },
@@ -23361,26 +23360,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LOiA BKP-1',
-    translating: 'лаборатория по оборудованию и арматуре БКП-1 ',
+    translating: 'лаборатория по оборудованию и арматуре БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245482'
   },
   {
     targetWord: 'LP',
-    translating: 'низкое давление ',
+    translating: 'низкое давление',
     partOfSpeechCode: 'abb',
     skyid: '248088'
   },
   {
     targetWord: 'LPC',
-    translating: 'цилиндр низкого давления ',
+    translating: 'цилиндр низкого давления',
     partOfSpeechCode: 'abb',
     skyid: '245981'
   },
   {
     targetWord: 'LPD(M)S',
     translating:
-      'система обнаружения (контроля) незакрепленных (свободных) предметов ',
+      'система обнаружения (контроля) незакрепленных (свободных) предметов',
     partOfSpeechCode: 'abb',
     skyid: '249228'
   },
@@ -23392,13 +23391,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LPH',
-    translating: 'подогреватель низкого давления ',
+    translating: 'подогреватель низкого давления',
     partOfSpeechCode: 'abb',
     skyid: '245982'
   },
   {
     targetWord: 'LPPE',
-    translating: 'аппаратура защиты по локальным параметрам ',
+    translating: 'аппаратура защиты по локальным параметрам',
     partOfSpeechCode: 'abb',
     skyid: '249226'
   },
@@ -23416,7 +23415,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LRM',
-    translating: 'жидкие радиоактивные среды ',
+    translating: 'жидкие радиоактивные среды',
     partOfSpeechCode: 'abb',
     skyid: '247467'
   },
@@ -23428,7 +23427,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LRW',
-    translating: 'жидкие радиоактивные отходы ',
+    translating: 'жидкие радиоактивные отходы',
     partOfSpeechCode: 'abb',
     skyid: '247469'
   },
@@ -23446,13 +23445,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LSA',
-    translating: 'низкая удельная активность ',
+    translating: 'низкая удельная активность',
     partOfSpeechCode: 'abb',
     skyid: '248314'
   },
   {
     targetWord: 'LSB',
-    translating: 'блок концевых выключателей ',
+    translating: 'блок концевых выключателей',
     partOfSpeechCode: 'abb',
     skyid: '248624'
   },
@@ -23470,7 +23469,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LTME',
-    translating: 'cредства контроля уровня и температуры в реакторе ',
+    translating: 'cредства контроля уровня и температуры в реакторе',
     partOfSpeechCode: 'abb',
     skyid: '248719'
   },
@@ -23482,13 +23481,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'LV',
-    translating: 'низкое/низшее напряжение ',
+    translating: 'низкое/низшее напряжение',
     partOfSpeechCode: 'abb',
     skyid: '247801'
   },
   {
     targetWord: 'LV LAN',
-    translating: 'локальная сеть нижнего уровня ',
+    translating: 'локальная сеть нижнего уровня',
     partOfSpeechCode: 'abb',
     skyid: '249232'
   },
@@ -23560,7 +23559,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Land of Lincoln',
-    translating: 'Земля Линкольна ',
+    translating: 'Земля Линкольна',
     partOfSpeechCode: 'n',
     skyid: '138398'
   },
@@ -23904,7 +23903,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Libra',
-    translating: 'Весы ',
+    translating: 'Весы',
     partOfSpeechCode: 'n',
     skyid: '183719'
   },
@@ -24093,7 +24092,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Luddite',
-    translating: 'луддит ',
+    translating: 'луддит',
     partOfSpeechCode: 'n',
     skyid: '252006'
   },
@@ -24135,7 +24134,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'M',
-    translating: 'М ',
+    translating: 'М',
     partOfSpeechCode: 'n',
     skyid: '185520'
   },
@@ -24172,7 +24171,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MBF',
-    translating: 'фильтр смешанного действия ',
+    translating: 'фильтр смешанного действия',
     partOfSpeechCode: 'abb',
     skyid: '248628'
   },
@@ -24184,7 +24183,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MC',
-    translating: 'измерительный канал ',
+    translating: 'измерительный канал',
     partOfSpeechCode: 'abb',
     skyid: '249243'
   },
@@ -24196,25 +24195,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MCDS',
-    translating: 'система контроля, управления и диагностики ',
+    translating: 'система контроля, управления и диагностики',
     partOfSpeechCode: 'abb',
     skyid: '249250'
   },
   {
     targetWord: 'MCM',
-    translating: 'блок управления двигателем ',
+    translating: 'блок управления двигателем',
     partOfSpeechCode: 'abb',
     skyid: '249252'
   },
   {
     targetWord: 'MCPL',
-    translating: 'минимально контролируемый уровень мощности ',
+    translating: 'минимально контролируемый уровень мощности',
     partOfSpeechCode: 'abb',
     skyid: '248107'
   },
   {
     targetWord: 'MCR',
-    translating: 'блочный пункт управления ',
+    translating: 'блочный пункт управления',
     partOfSpeechCode: 'abb',
     skyid: '249238'
   },
@@ -24227,7 +24226,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MCU',
-    translating: 'главное вычислительное устройство ',
+    translating: 'главное вычислительное устройство',
     partOfSpeechCode: 'abb',
     skyid: '249236'
   },
@@ -24239,7 +24238,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MDBA',
-    translating: 'максимальная проектная авария ',
+    translating: 'максимальная проектная авария',
     partOfSpeechCode: 'abb',
     skyid: '248100'
   },
@@ -24257,7 +24256,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MER',
-    translating: 'предельный аварийный выброс ',
+    translating: 'предельный аварийный выброс',
     partOfSpeechCode: 'abb',
     skyid: '247025'
   },
@@ -24287,7 +24286,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MH',
-    translating: 'комплекс технических средств контроля ',
+    translating: 'комплекс технических средств контроля',
     partOfSpeechCode: 'abb',
     skyid: '249247'
   },
@@ -24299,7 +24298,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MI',
-    translating: 'измерительный прибор ',
+    translating: 'измерительный прибор',
     partOfSpeechCode: 'abb',
     skyid: '246458'
   },
@@ -24317,13 +24316,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MIF',
-    translating: 'Малоярославецкий изыскательский филиал ',
+    translating: 'Малоярославецкий изыскательский филиал',
     partOfSpeechCode: 'abb',
     skyid: '245475'
   },
   {
     targetWord: 'MIM',
-    translating: 'аппаратура передачи сигнализации и сообщений АЗ-УСБТ ',
+    translating: 'аппаратура передачи сигнализации и сообщений АЗ-УСБТ',
     partOfSpeechCode: 'abb',
     skyid: '249083'
   },
@@ -24341,7 +24340,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MLH',
-    translating: 'высота слоя перемешивания ',
+    translating: 'высота слоя перемешивания',
     partOfSpeechCode: 'abb',
     skyid: '246465'
   },
@@ -24353,7 +24352,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MMES',
-    translating: 'современное движение земной поверхности ',
+    translating: 'современное движение земной поверхности',
     partOfSpeechCode: 'abb',
     skyid: '246467'
   },
@@ -24371,13 +24370,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MOT',
-    translating: 'главный маслобак ',
+    translating: 'главный маслобак',
     partOfSpeechCode: 'abb',
     skyid: '248498'
   },
   {
     targetWord: 'MOX',
-    translating: 'смешанное оксидное ядерное топливо ',
+    translating: 'смешанное оксидное ядерное топливо',
     partOfSpeechCode: 'abb',
     skyid: '248627'
   },
@@ -24413,7 +24412,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MPD',
-    translating: 'предельно допустимая доза ',
+    translating: 'предельно допустимая доза',
     partOfSpeechCode: 'abb',
     skyid: '246332'
   },
@@ -24425,7 +24424,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MPF',
-    translating: 'максимальное вероятное наводнение ',
+    translating: 'максимальное вероятное наводнение',
     partOfSpeechCode: 'abb',
     skyid: '246451'
   },
@@ -24467,19 +24466,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MSE',
-    translating: 'среднеквадратическая ошибка ',
+    translating: 'среднеквадратическая ошибка',
     partOfSpeechCode: 'abb',
     skyid: '246454'
   },
   {
     targetWord: 'MSH',
-    translating: 'главный паровой коллектор ',
+    translating: 'главный паровой коллектор',
     partOfSpeechCode: 'abb',
     skyid: '245986'
   },
   {
     targetWord: 'MSIV',
-    translating: 'главная паровая задвижка ',
+    translating: 'главная паровая задвижка',
     partOfSpeechCode: 'abb',
     skyid: '245988'
   },
@@ -24503,7 +24502,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MSR',
-    translating: 'сепаратор-пароперегреватель ',
+    translating: 'сепаратор-пароперегреватель',
     partOfSpeechCode: 'abb',
     skyid: '245968'
   },
@@ -24533,7 +24532,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MTD',
-    translating: 'главное техническое управление ',
+    translating: 'главное техническое управление',
     partOfSpeechCode: 'abb',
     skyid: '245435'
   },
@@ -24732,7 +24731,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Manchester',
-    translating: 'Манчестер ',
+    translating: 'Манчестер',
     partOfSpeechCode: 'n',
     skyid: '148215'
   },
@@ -24846,7 +24845,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Mars',
-    translating: 'Марс ',
+    translating: 'Марс',
     partOfSpeechCode: 'n',
     skyid: '34562'
   },
@@ -24864,7 +24863,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Maryland',
-    translating: 'Мэриленд ',
+    translating: 'Мэриленд',
     partOfSpeechCode: 'n',
     skyid: '76484'
   },
@@ -25147,7 +25146,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Melbourne',
-    translating: 'Мельбурн ',
+    translating: 'Мельбурн',
     partOfSpeechCode: 'n',
     skyid: '118179'
   },
@@ -25321,7 +25320,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'MoD',
-    translating: 'в номинальном выражении ',
+    translating: 'в номинальном выражении',
     partOfSpeechCode: 'abb',
     skyid: '245534'
   },
@@ -25501,7 +25500,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Mrs',
-    translating: 'г-жа ',
+    translating: 'г-жа',
     partOfSpeechCode: 'abb',
     skyid: '122911'
   },
@@ -25519,7 +25518,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Muhammadan',
-    translating: 'мусульманский ',
+    translating: 'мусульманский',
     partOfSpeechCode: 'j',
     skyid: '80902'
   },
@@ -25543,7 +25542,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'My Fair Lady',
-    translating: 'Моя милая леди ',
+    translating: 'Моя милая леди',
     partOfSpeechCode: 'ph',
     skyid: '234787'
   },
@@ -25735,13 +25734,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NB',
-    translating: 'сетевая коробка ',
+    translating: 'сетевая коробка',
     partOfSpeechCode: 'abb',
     skyid: '249255'
   },
   {
     targetWord: 'NB',
-    translating: 'диаметр условный ',
+    translating: 'диаметр условный',
     partOfSpeechCode: 'abb',
     skyid: '247588'
   },
@@ -25759,13 +25758,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NC',
-    translating: 'нормально закрытый ',
+    translating: 'нормально закрытый',
     partOfSpeechCode: 'abb',
     skyid: '247340'
   },
   {
     targetWord: 'NCRP',
-    translating: 'национальный совет по радиационной защите ',
+    translating: 'национальный совет по радиационной защите',
     partOfSpeechCode: 'abb',
     skyid: '246297'
   },
@@ -25796,13 +25795,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NF',
-    translating: 'метод естественного электрического поля ',
+    translating: 'метод естественного электрического поля',
     partOfSpeechCode: 'abb',
     skyid: '246471'
   },
   {
     targetWord: 'NFME',
-    translating: 'аппаратура контроля нейтронного потока ',
+    translating: 'аппаратура контроля нейтронного потока',
     partOfSpeechCode: 'abb',
     skyid: '249256'
   },
@@ -25814,7 +25813,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NFS',
-    translating: 'хранилище свежего топлива ',
+    translating: 'хранилище свежего топлива',
     partOfSpeechCode: 'abb',
     skyid: '247120'
   },
@@ -25838,7 +25837,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NI',
-    translating: 'радиационная часть АЭС ',
+    translating: 'радиационная часть АЭС',
     partOfSpeechCode: 'abb',
     skyid: '245595'
   },
@@ -25863,25 +25862,25 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'NILDAN BKP-2',
     translating:
-      'научно-исследовательская лаборатория динамического анализа зданий и сооружений БКП-2 ',
+      'научно-исследовательская лаборатория динамического анализа зданий и сооружений БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245493'
   },
   {
     targetWord: 'NIODiS',
-    translating: 'научно-исследовательский отдел динамики и сейсмостойкости ',
+    translating: 'научно-исследовательский отдел динамики и сейсмостойкости',
     partOfSpeechCode: 'abb',
     skyid: '245651'
   },
   {
     targetWord: 'NIOEAS',
-    translating: 'научно-исследовательский отдел экологии АС ',
+    translating: 'научно-исследовательский отдел экологии АС',
     partOfSpeechCode: 'abb',
     skyid: '245467'
   },
   {
     targetWord: 'NITC',
-    translating: 'нейтронный и температурный измерительный канал ',
+    translating: 'нейтронный и температурный измерительный канал',
     partOfSpeechCode: 'abb',
     skyid: '249258'
   },
@@ -25911,38 +25910,38 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NO',
-    translating: 'нормальная эксплуатация ',
+    translating: 'нормальная эксплуатация',
     partOfSpeechCode: 'abb',
     skyid: '246640'
   },
   {
     targetWord: 'NO I&C',
-    translating: 'система контроля и управления нормальной эксплуатации ',
+    translating: 'система контроля и управления нормальной эксплуатации',
     partOfSpeechCode: 'abb',
     skyid: '249262'
   },
   {
     targetWord: 'NO I&C TC',
     translating:
-      'система контроля и управления оборудованием нормальной эксплуатации турбинного отделения ',
+      'система контроля и управления оборудованием нормальной эксплуатации турбинного отделения',
     partOfSpeechCode: 'abb',
     skyid: '248571'
   },
   {
     targetWord: 'NOCS',
-    translating: 'управляющая система нормальной эксплуатации ',
+    translating: 'управляющая система нормальной эксплуатации',
     partOfSpeechCode: 'abb',
     skyid: '249261'
   },
   {
     targetWord: 'NOS',
-    translating: 'система нормальной эксплуатации ',
+    translating: 'система нормальной эксплуатации',
     partOfSpeechCode: 'abb',
     skyid: '247031'
   },
   {
     targetWord: 'NOSIS',
-    translating: 'система нормальной эксплуатации, важная для безопасности ',
+    translating: 'система нормальной эксплуатации, важная для безопасности',
     partOfSpeechCode: 'abb',
     skyid: '247032'
   },
@@ -25967,21 +25966,21 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NP-031-01',
-    translating: 'нормы проектирования сейсмостойких атомных электростанций ',
+    translating: 'нормы проектирования сейсмостойких атомных электростанций',
     partOfSpeechCode: 'abb',
     skyid: '246247'
   },
   {
     targetWord: 'NP-071-06',
     translating:
-      'правила оценки соответствия оборудования, комплектующих, материалов и полуфабрикатов, поставляемых на объекты использования атомной энергии ',
+      'правила оценки соответствия оборудования, комплектующих, материалов и полуфабрикатов, поставляемых на объекты использования атомной энергии',
     partOfSpeechCode: 'abb',
     skyid: '246266'
   },
   {
     targetWord: 'NP-090-11',
     translating:
-      'требования к программам обеспечения качества для объектов использования атомной энергии ',
+      'требования к программам обеспечения качества для объектов использования атомной энергии',
     partOfSpeechCode: 'abb',
     skyid: '246267'
   },
@@ -25999,7 +25998,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NPCIL',
-    translating: 'Индийская Корпорация по Атомной Энергии ',
+    translating: 'Индийская Корпорация по Атомной Энергии',
     partOfSpeechCode: 'abb',
     skyid: '246302'
   },
@@ -26012,13 +26011,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NPF',
-    translating: 'Нововоронежский проектный филиал ',
+    translating: 'Нововоронежский проектный филиал',
     partOfSpeechCode: 'abb',
     skyid: '245471'
   },
   {
     targetWord: 'NPP',
-    translating: 'атомная электрическая станция ',
+    translating: 'атомная электрическая станция',
     partOfSpeechCode: 'abb',
     skyid: '247131'
   },
@@ -26090,8 +26089,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NRC KI',
-    translating:
-      'Национальный исследовательский центр "Курчатовский институт" ',
+    translating: 'Национальный исследовательский центр "Курчатовский институт"',
     partOfSpeechCode: 'abb',
     skyid: '246299'
   },
@@ -26103,31 +26101,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NSC',
-    translating: 'номинальная статическая характеристика ',
+    translating: 'номинальная статическая характеристика',
     partOfSpeechCode: 'abb',
     skyid: '249260'
   },
   {
     targetWord: 'NSSS',
-    translating: 'ядерная паропроизводящая установка ',
+    translating: 'ядерная паропроизводящая установка',
     partOfSpeechCode: 'ph',
     skyid: '245591'
   },
   {
     targetWord: 'NT',
-    translating: 'нормирующий преобразователь ',
+    translating: 'нормирующий преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '249265'
   },
   {
     targetWord: 'NTC',
-    translating: 'блок нормирующих преобразователей температуры ',
+    translating: 'блок нормирующих преобразователей температуры',
     partOfSpeechCode: 'abb',
     skyid: '249264'
   },
   {
     targetWord: 'NTLIC',
-    translating: 'канал нейтронный измерительный температуры и уровня ',
+    translating: 'канал нейтронный измерительный температуры и уровня',
     partOfSpeechCode: 'abb',
     skyid: '249259'
   },
@@ -26207,14 +26205,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'National Operator for Radioactive Waste Management',
-    translating:
-      'Национальный оператор по обращению с радиоактивными отходами ',
+    translating: 'Национальный оператор по обращению с радиоактивными отходами',
     partOfSpeechCode: 'n',
     skyid: '246598'
   },
   {
     targetWord: 'National standard of the Russian Federation',
-    translating: 'Национальный стандарт Российской Федерации ',
+    translating: 'Национальный стандарт Российской Федерации',
     partOfSpeechCode: 'n',
     skyid: '246284'
   },
@@ -26293,7 +26290,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Neptune',
-    translating: 'Нептун ',
+    translating: 'Нептун',
     partOfSpeechCode: 'n',
     skyid: '72228'
   },
@@ -26467,7 +26464,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Niagara',
-    translating: 'Ниагара ',
+    translating: 'Ниагара',
     partOfSpeechCode: 'n',
     skyid: '167258'
   },
@@ -26479,7 +26476,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Niagara Falls',
-    translating: 'Ниагарский Водопад ',
+    translating: 'Ниагарский Водопад',
     partOfSpeechCode: 'n',
     skyid: '108646'
   },
@@ -26527,7 +26524,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Niger',
-    translating: 'Нигер ',
+    translating: 'Нигер',
     partOfSpeechCode: 'n',
     skyid: '142452'
   },
@@ -26569,7 +26566,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Nippon',
-    translating: 'Ниппон ',
+    translating: 'Ниппон',
     partOfSpeechCode: 'n',
     skyid: '125536'
   },
@@ -26666,7 +26663,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'No. 170-FZ dated 21/11/1995, amended 02/07/2013',
     translating:
-      'Федеральный закон РФ "Об использовании атомной энергии" (№ 170-ФЗ от 21.11.1995 г. ',
+      'Федеральный закон РФ "Об использовании атомной энергии" (№ 170-ФЗ от 21.11.1995 г.',
     partOfSpeechCode: 'n',
     skyid: '246240'
   },
@@ -26680,7 +26677,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'No. 384-FZ dated 30/12/2009, amended 02/07/2013',
     translating:
-      'Федеральный закон РФ «Технический регламент о безопасности зданий и сооружений» (№ 384- ФЗ от 30.12.2009 г. ',
+      'Федеральный закон РФ «Технический регламент о безопасности зданий и сооружений» (№ 384- ФЗ от 30.12.2009 г.',
     partOfSpeechCode: 'n',
     skyid: '246242'
   },
@@ -26770,7 +26767,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Northman',
-    translating: 'викинг ',
+    translating: 'викинг',
     partOfSpeechCode: 'n',
     skyid: '235001'
   },
@@ -26893,13 +26890,13 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'OAFZiGO BKP-2',
     translating:
-      'отдел архитектуры, физической защиты и гражданской обороны БКП-2 ',
+      'отдел архитектуры, физической защиты и гражданской обороны БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245487'
   },
   {
     targetWord: 'OASU BKP-3',
-    translating: 'отдел автоматизированных систем управления БКП-3 ',
+    translating: 'отдел автоматизированных систем управления БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245498'
   },
@@ -26911,7 +26908,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OBE',
-    translating: 'проектное землетрясение ',
+    translating: 'проектное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '247729'
   },
@@ -26942,7 +26939,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ODC',
-    translating: 'оперативно-диспетчерское управление ',
+    translating: 'оперативно-диспетчерское управление',
     partOfSpeechCode: 'abb',
     skyid: '248524'
   },
@@ -26987,13 +26984,13 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'OGSViK BKP-2',
     translating:
-      'отдел гидротехнических сооружений, водоснабжения и канализации БКП-2 ',
+      'отдел гидротехнических сооружений, водоснабжения и канализации БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245486'
   },
   {
     targetWord: 'OGiT BKP-2',
-    translating: 'отдел генплана и транспорта БКП-2 ',
+    translating: 'отдел генплана и транспорта БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245490'
   },
@@ -27019,19 +27016,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OIDB',
-    translating: 'база данных оперативной информации ',
+    translating: 'база данных оперативной информации',
     partOfSpeechCode: 'abb',
     skyid: '249035'
   },
   {
     targetWord: 'OIM AES BKP-1',
-    translating: 'отдел информационного моделирования АЭС БКП-1 ',
+    translating: 'отдел информационного моделирования АЭС БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245481'
   },
   {
     targetWord: 'OIMS BKP-2',
-    translating: 'отдел информационных моделей строительной части АЭС БКП-2 ',
+    translating: 'отдел информационных моделей строительной части АЭС БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245495'
   },
@@ -27097,14 +27094,14 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OKB GP',
-    translating: 'Опытное конструкторское бюро «Гидропресс» ',
+    translating: 'Опытное конструкторское бюро «Гидропресс»',
     partOfSpeechCode: 'abb',
     skyid: '245835'
   },
   {
     targetWord: 'OKRTT BKP-7',
     translating:
-      'отдел конструирования и расчетов технологических трубопроводов БКП-7 ',
+      'отдел конструирования и расчетов технологических трубопроводов БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245660'
   },
@@ -27116,7 +27113,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OMASiTES BKP-1',
-    translating: 'отдел машзалов атомных станций и теплоэлектростанций БКП-1 ',
+    translating: 'отдел машзалов атомных станций и теплоэлектростанций БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245478'
   },
@@ -27128,7 +27125,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OMZAES BKP-1',
-    translating: 'отдел машзалов АЭС ВВЭР ТОИ БКП-1 ',
+    translating: 'отдел машзалов АЭС ВВЭР ТОИ БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245483'
   },
@@ -27141,13 +27138,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OOS BKP-2',
-    translating: 'отдел организации строительства БКП-2 ',
+    translating: 'отдел организации строительства БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245494'
   },
   {
     targetWord: 'OOiB BKP-1',
-    translating: 'отдел отопления и вентиляции БКП-1 ',
+    translating: 'отдел отопления и вентиляции БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245484'
   },
@@ -27159,39 +27156,38 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OP BKP-2',
-    translating: 'отдел расчетов БКП-2 ',
+    translating: 'отдел расчетов БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245492'
   },
   {
     targetWord: 'OPASiS BKP-3',
-    translating:
-      'отдел противопожарной автоматики, связи и сигнализации БКП-3 ',
+    translating: 'отдел противопожарной автоматики, связи и сигнализации БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245645'
   },
   {
     targetWord: 'OPB-88/97 NP-001-97 (PNAE G-01-011-97)',
     translating:
-      'Общие положения обеспечения безопасности атомных станций ("ОПБ-88/97 НП-001-097 ',
+      'Общие положения обеспечения безопасности атомных станций ("ОПБ-88/97 НП-001-097',
     partOfSpeechCode: 'abb',
     skyid: '246245'
   },
   {
     targetWord: 'OPOS BKP-3',
-    translating: 'отдел проектирования общестанционных сооружений БКП-3 ',
+    translating: 'отдел проектирования общестанционных сооружений БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245497'
   },
   {
     targetWord: 'OPS BKP-3',
-    translating: 'отдел первичных соединений БКП-3 ',
+    translating: 'отдел первичных соединений БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245643'
   },
   {
     targetWord: 'OR',
-    translating: 'диапазон рабочий ',
+    translating: 'диапазон рабочий',
     partOfSpeechCode: 'abb',
     skyid: '248160'
   },
@@ -27215,25 +27211,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ORM',
-    translating: 'блок выходных реле ',
+    translating: 'блок выходных реле',
     partOfSpeechCode: 'abb',
     skyid: '248529'
   },
   {
     targetWord: 'ORO BKP-1',
-    translating: 'отдел реакторных отделений БКП-1 ',
+    translating: 'отдел реакторных отделений БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245477'
   },
   {
     targetWord: 'ORSKR BKP-7',
-    translating: 'отдел расчетов и схем канальных реакторов БКП-7 ',
+    translating: 'отдел расчетов и схем канальных реакторов БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245657'
   },
   {
     targetWord: 'OS',
-    translating: 'операционная система ',
+    translating: 'операционная система',
     partOfSpeechCode: 'abb',
     skyid: '249944'
   },
@@ -27245,7 +27241,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OSC',
-    translating: 'оперативно-диспетчерское управление ',
+    translating: 'оперативно-диспетчерское управление',
     partOfSpeechCode: 'abb',
     skyid: '248525'
   },
@@ -27257,26 +27253,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OSM',
-    translating: 'модуль выходных ключей ',
+    translating: 'модуль выходных ключей',
     partOfSpeechCode: 'abb',
     skyid: '248530'
   },
   {
     targetWord: 'OTA BKP-3',
-    translating: 'отдел технологической автоматики БКП-3 ',
+    translating: 'отдел технологической автоматики БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245644'
   },
   {
     targetWord: 'OTBBK BKP-7',
-    translating: 'отдел тепла, вентиляции, водоснабжения и канализации БКП-7 ',
+    translating: 'отдел тепла, вентиляции, водоснабжения и канализации БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245662'
   },
   {
     targetWord: 'OTKAR BKP-7',
     translating:
-      'отдел технологического контроля и автоматического регулирования БКП-7 ',
+      'отдел технологического контроля и автоматического регулирования БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245663'
   },
@@ -27288,19 +27284,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'OTTO BKP-1',
-    translating: 'отдел транспортно-технологического оборудования БКП-1 ',
+    translating: 'отдел транспортно-технологического оборудования БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245479'
   },
   {
     targetWord: 'OVP BKP-1',
-    translating: 'отдел водоподготовки БКП-1 ',
+    translating: 'отдел водоподготовки БКП-1',
     partOfSpeechCode: 'abb',
     skyid: '245480'
   },
   {
     targetWord: 'OVSiA BKP-3',
-    translating: 'отдел вторичных соединений и автоматики БКП-3 ',
+    translating: 'отдел вторичных соединений и автоматики БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245646'
   },
@@ -27336,7 +27332,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Oder',
-    translating: 'Одер ',
+    translating: 'Одер',
     partOfSpeechCode: 'n',
     skyid: '94705'
   },
@@ -27575,7 +27571,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Organization Standard',
-    translating: 'стандарт организации ',
+    translating: 'стандарт организации',
     partOfSpeechCode: 'n',
     skyid: '246282'
   },
@@ -27743,7 +27739,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PAM',
-    translating: 'послеаварийные мероприятия ',
+    translating: 'послеаварийные мероприятия',
     partOfSpeechCode: 'abb',
     skyid: '246638'
   },
@@ -27791,7 +27787,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PCE',
-    translating: 'главный инженер проекта ',
+    translating: 'главный инженер проекта',
     partOfSpeechCode: 'abb',
     skyid: '245465'
   },
@@ -27803,13 +27799,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PCFS',
-    translating: 'система пассивного залива активной зоны ',
+    translating: 'система пассивного залива активной зоны',
     partOfSpeechCode: 'abb',
     skyid: '245847'
   },
   {
     targetWord: 'PCHR',
-    translating: 'пассивные каталитические рекомбинаторы водорода ',
+    translating: 'пассивные каталитические рекомбинаторы водорода',
     partOfSpeechCode: 'abb',
     skyid: '246344'
   },
@@ -27821,7 +27817,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PCM',
-    translating: 'блок регулирования импульсный ',
+    translating: 'блок регулирования импульсный',
     partOfSpeechCode: 'abb',
     skyid: '248708'
   },
@@ -27845,7 +27841,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PDME',
-    translating: 'аппаратура контроля энергораспределения ',
+    translating: 'аппаратура контроля энергораспределения',
     partOfSpeechCode: 'abb',
     skyid: '248536'
   },
@@ -27863,13 +27859,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PEM',
-    translating: 'тянущий электромагнит ',
+    translating: 'тянущий электромагнит',
     partOfSpeechCode: 'abb',
     skyid: '245565'
   },
   {
     targetWord: 'PET',
-    translating: 'пьезоэлектрический преобразователь ',
+    translating: 'пьезоэлектрический преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '246484'
   },
@@ -27905,19 +27901,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PGHA',
-    translating: 'пиковое ускорение грунта ',
+    translating: 'пиковое ускорение грунта',
     partOfSpeechCode: 'abb',
     skyid: '246479'
   },
   {
     targetWord: 'PGI',
-    translating: 'аппаратура защиты и гальванического разделения сигналов ',
+    translating: 'аппаратура защиты и гальванического разделения сигналов',
     partOfSpeechCode: 'abb',
     skyid: '248707'
   },
   {
     targetWord: 'PGM',
-    translating: 'блок формирования импульсов ',
+    translating: 'блок формирования импульсов',
     partOfSpeechCode: 'abb',
     skyid: '248709'
   },
@@ -27929,7 +27925,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PGVA',
-    translating: 'пиковое ускорение грунта ',
+    translating: 'пиковое ускорение грунта',
     partOfSpeechCode: 'abb',
     skyid: '246480'
   },
@@ -27942,7 +27938,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PHRS',
-    translating: 'система пассивного отвода тепла ',
+    translating: 'система пассивного отвода тепла',
     partOfSpeechCode: 'abb',
     skyid: '245589'
   },
@@ -27960,7 +27956,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PI',
-    translating: 'индикатор положения ',
+    translating: 'индикатор положения',
     partOfSpeechCode: 'abb',
     skyid: '248534'
   },
@@ -28014,7 +28010,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PLCS',
-    translating: 'система верхнего станционного уровня ',
+    translating: 'система верхнего станционного уровня',
     partOfSpeechCode: 'abb',
     skyid: '248533'
   },
@@ -28050,28 +28046,28 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PMT',
-    translating: 'первичный измерительный преобразователь ',
+    translating: 'первичный измерительный преобразователь',
     partOfSpeechCode: 'abb',
     skyid: '248543'
   },
   {
     targetWord: 'PNAE G',
     translating:
-      'Правила и Нормы в Атомной Энергетике Госатомнадзора Российской Федерации ',
+      'Правила и Нормы в Атомной Энергетике Госатомнадзора Российской Федерации',
     partOfSpeechCode: 'abb',
     skyid: '246227'
   },
   {
     targetWord: 'PNAE G-10-007-89',
     translating:
-      'Нормы проектирования железобетонных сооружений локализующих систем безопасности атомных станций ',
+      'Нормы проектирования железобетонных сооружений локализующих систем безопасности атомных станций',
     partOfSpeechCode: 'abb',
     skyid: '246272'
   },
   {
     targetWord: 'PNAE G-7-002-86',
     translating:
-      'нормы расчета на прочность оборудования и трубопроводов атомных энергетических установок ',
+      'нормы расчета на прочность оборудования и трубопроводов атомных энергетических установок',
     partOfSpeechCode: 'abb',
     skyid: '246268'
   },
@@ -28110,37 +28106,37 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PP',
-    translating: 'предупредительная защита ',
+    translating: 'предупредительная защита',
     partOfSpeechCode: 'abb',
     skyid: '245530'
   },
   {
     targetWord: 'PP-1',
-    translating: 'предупредительная защита первого рода ',
+    translating: 'предупредительная защита первого рода',
     partOfSpeechCode: 'abb',
     skyid: '245531'
   },
   {
     targetWord: 'PP-2',
-    translating: 'предупредительная защита второго рода ',
+    translating: 'предупредительная защита второго рода',
     partOfSpeechCode: 'abb',
     skyid: '245532'
   },
   {
     targetWord: 'PPG BKP-7',
-    translating: 'планово-производственная группа БКП-7 ',
+    translating: 'планово-производственная группа БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245655'
   },
   {
     targetWord: 'PPM',
-    translating: 'планово-предупредительный ремонт ',
+    translating: 'планово-предупредительный ремонт',
     partOfSpeechCode: 'abb',
     skyid: '246636'
   },
   {
     targetWord: 'PPPE',
-    translating: 'аппаратура защиты по технологическим параметрам ',
+    translating: 'аппаратура защиты по технологическим параметрам',
     partOfSpeechCode: 'abb',
     skyid: '248546'
   },
@@ -28176,26 +28172,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PRT',
-    translating: 'барботажный бак ',
+    translating: 'барботажный бак',
     partOfSpeechCode: 'abb',
     skyid: '248642'
   },
   {
     targetWord: 'PRV',
-    translating: 'клапан избыточного давления ',
+    translating: 'клапан избыточного давления',
     partOfSpeechCode: 'abb',
     skyid: '248643'
   },
   {
     targetWord: 'PRZ',
-    translating: 'компенсатор давления ',
+    translating: 'компенсатор давления',
     partOfSpeechCode: 'abb',
     skyid: '245527'
   },
   {
     targetWord: 'PRZ PSD',
     translating:
-      'импульсное предохранительное устройство компенсатора давления ',
+      'импульсное предохранительное устройство компенсатора давления',
     partOfSpeechCode: 'abb',
     skyid: '245529'
   },
@@ -28207,7 +28203,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PSA',
-    translating: 'вероятностный анализ безопасности ',
+    translating: 'вероятностный анализ безопасности',
     partOfSpeechCode: 'abb',
     skyid: '247034'
   },
@@ -28219,31 +28215,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PSAR',
-    translating: 'предварительный отчет по обоснованию безопасности ',
+    translating: 'предварительный отчет по обоснованию безопасности',
     partOfSpeechCode: 'abb',
     skyid: '245732'
   },
   {
     targetWord: 'PSCC',
-    translating: 'шкаф питания и управления ',
+    translating: 'шкаф питания и управления',
     partOfSpeechCode: 'abb',
     skyid: '247806'
   },
   {
     targetWord: 'PSF',
-    translating: 'вероятный очаг землетрясения ',
+    translating: 'вероятный очаг землетрясения',
     partOfSpeechCode: 'abb',
     skyid: '246492'
   },
   {
     targetWord: 'PSHA',
-    translating: 'вероятностный анализ сейсмической опасности ',
+    translating: 'вероятностный анализ сейсмической опасности',
     partOfSpeechCode: 'abb',
     skyid: '247036'
   },
   {
     targetWord: 'PSIM',
-    translating: 'модуль подключения питания и индикации ',
+    translating: 'модуль подключения питания и индикации',
     partOfSpeechCode: 'abb',
     skyid: '248540'
   },
@@ -28255,43 +28251,43 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PSLD',
-    translating: 'разгрузка и ограничение мощности ',
+    translating: 'разгрузка и ограничение мощности',
     partOfSpeechCode: 'abb',
     skyid: '245840'
   },
   {
     targetWord: 'PSLE',
-    translating: 'аппаратура разгрузки и ограничения мощности реактора ',
+    translating: 'аппаратура разгрузки и ограничения мощности реактора',
     partOfSpeechCode: 'abb',
     skyid: '248539'
   },
   {
     targetWord: 'PSM',
-    translating: 'блок питания ',
+    translating: 'блок питания',
     partOfSpeechCode: 'abb',
     skyid: '248541'
   },
   {
     targetWord: 'PSP',
-    translating: 'панель питания ',
+    translating: 'панель питания',
     partOfSpeechCode: 'abb',
     skyid: '247807'
   },
   {
     targetWord: 'PSR',
-    translating: 'стойка питания ',
+    translating: 'стойка питания',
     partOfSpeechCode: 'abb',
     skyid: '248542'
   },
   {
     targetWord: 'PSS',
-    translating: 'начальник смены АЭС ',
+    translating: 'начальник смены АЭС',
     partOfSpeechCode: 'abb',
     skyid: '246637'
   },
   {
     targetWord: 'PSS',
-    translating: 'защитные системы безопасности ',
+    translating: 'защитные системы безопасности',
     partOfSpeechCode: 'abb',
     skyid: '245556'
   },
@@ -28316,13 +28312,13 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'PTOGTS',
     translating:
-      'производственно-технический отдел гидротехнических сооружений ',
+      'производственно-технический отдел гидротехнических сооружений',
     partOfSpeechCode: 'abb',
     skyid: '245653'
   },
   {
     targetWord: 'PTOOS',
-    translating: 'производственно-технический отдел организации строительства ',
+    translating: 'производственно-технический отдел организации строительства',
     partOfSpeechCode: 'abb',
     skyid: '245652'
   },
@@ -28352,19 +28348,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'PV',
-    translating: 'импульсный клапан ',
+    translating: 'импульсный клапан',
     partOfSpeechCode: 'abb',
     skyid: '248637'
   },
   {
     targetWord: 'PVC',
-    translating: 'поливинилхлорид ',
+    translating: 'поливинилхлорид',
     partOfSpeechCode: 'abb',
     skyid: '248639'
   },
   {
     targetWord: 'PWR',
-    translating: 'ядерный реактор с водой под давлением ',
+    translating: 'ядерный реактор с водой под давлением',
     partOfSpeechCode: 'abb',
     skyid: '245526'
   },
@@ -28574,7 +28570,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Pentateuch',
-    translating: 'Пятикнижие ',
+    translating: 'Пятикнижие',
     partOfSpeechCode: 'n',
     skyid: '129084'
   },
@@ -28671,7 +28667,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Pharmaceutical Quality System',
-    translating: 'система фармацевтического качества ',
+    translating: 'система фармацевтического качества',
     partOfSpeechCode: 'n',
     skyid: '252567'
   },
@@ -28695,7 +28691,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Philippines',
-    translating: 'Филиппины ',
+    translating: 'Филиппины',
     partOfSpeechCode: 'n',
     skyid: '153553'
   },
@@ -28713,7 +28709,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Pierre',
-    translating: 'Пирр ',
+    translating: 'Пирр',
     partOfSpeechCode: 'n',
     skyid: '160267'
   },
@@ -28737,7 +28733,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Pisces',
-    translating: 'рыбы ',
+    translating: 'рыбы',
     partOfSpeechCode: 'n',
     skyid: '59745'
   },
@@ -29006,7 +29002,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Pnom',
-    translating: 'условное давление ',
+    translating: 'условное давление',
     partOfSpeechCode: 'abb',
     skyid: '247337'
   },
@@ -29138,7 +29134,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Posh Spice',
-    translating: 'Пош Спайс ',
+    translating: 'Пош Спайс',
     partOfSpeechCode: 'ph',
     skyid: '234755'
   },
@@ -29162,7 +29158,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Prairie State',
-    translating: 'Штат прерий ',
+    translating: 'Штат прерий',
     partOfSpeechCode: 'n',
     skyid: '169737'
   },
@@ -29323,20 +29319,20 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'QA',
-    translating: 'обеспечение качества ',
+    translating: 'обеспечение качества',
     partOfSpeechCode: 'abb',
     skyid: '247112'
   },
   {
     targetWord: 'QAP',
-    translating: 'программа обеспечения качества ',
+    translating: 'программа обеспечения качества',
     partOfSpeechCode: 'abb',
     skyid: '247147'
   },
   {
     targetWord: 'QAP (C)',
     translating:
-      'Программа обеспечения качества при вводе АЭС в эксплуатацию (ПОКАС ',
+      'Программа обеспечения качества при вводе АЭС в эксплуатацию (ПОКАС',
     partOfSpeechCode: 'abb',
     skyid: '247148'
   },
@@ -29348,7 +29344,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'QBIS',
-    translating: 'система быстрого ввода бора ',
+    translating: 'система быстрого ввода бора',
     partOfSpeechCode: 'abb',
     skyid: '245566'
   },
@@ -29378,7 +29374,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'QMS',
-    translating: 'cистема менеджмента качества ',
+    translating: 'cистема менеджмента качества',
     partOfSpeechCode: 'abb',
     skyid: '247133'
   },
@@ -29468,7 +29464,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'R(V)I',
-    translating: 'внутрикорпусные устройства ',
+    translating: 'внутрикорпусные устройства',
     partOfSpeechCode: 'abb',
     skyid: '245568'
   },
@@ -29480,7 +29476,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RAM',
-    translating: 'оперативная память ',
+    translating: 'оперативная память',
     partOfSpeechCode: 'abb',
     skyid: '248715'
   },
@@ -29499,41 +29495,41 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'RB G-05-039-96',
     translating:
-      'руководство по анализу опасности аварийных взрывов и определению параметров их механического воздействия ',
+      'руководство по анализу опасности аварийных взрывов и определению параметров их механического воздействия',
     partOfSpeechCode: 'abb',
     skyid: '246274'
   },
   {
     targetWord: 'RB-002-97',
     translating:
-      'водно-химический режим атомных станций - основные требования безопасности ',
+      'водно-химический режим атомных станций - основные требования безопасности',
     partOfSpeechCode: 'abb',
     skyid: '246273'
   },
   {
     targetWord: 'RB-006-98',
     translating:
-      'определение исходных сейсмических колебаний грунта для проектных основ ',
+      'определение исходных сейсмических колебаний грунта для проектных основ',
     partOfSpeechCode: 'abb',
     skyid: '246248'
   },
   {
     targetWord: 'RB-032-04',
     translating:
-      'основные рекомендации по выполнению вероятностного анализа безопасности атомных станций ',
+      'основные рекомендации по выполнению вероятностного анализа безопасности атомных станций',
     partOfSpeechCode: 'abb',
     skyid: '246250'
   },
   {
     targetWord: 'RB-099-99',
     translating:
-      'методология оценки уязвимости физической защиты ядерных материалов и ядерных установок ',
+      'методология оценки уязвимости физической защиты ядерных материалов и ядерных установок',
     partOfSpeechCode: 'abb',
     skyid: '246249'
   },
   {
     targetWord: 'RC',
-    translating: 'реакторное отделение ',
+    translating: 'реакторное отделение',
     partOfSpeechCode: 'abb',
     skyid: '245570'
   },
@@ -29551,14 +29547,14 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RCC',
-    translating: 'контур теплоносителя реактора ',
+    translating: 'контур теплоносителя реактора',
     partOfSpeechCode: 'abb',
     skyid: '245573'
   },
   {
     targetWord: 'RCC',
     translating:
-      'главный циркуляционный контур; Контур теплоносителя реактора; первый контур ',
+      'главный циркуляционный контур; Контур теплоносителя реактора; первый контур',
     partOfSpeechCode: 'abb',
     skyid: '245572'
   },
@@ -29570,7 +29566,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RCI',
-    translating: 'редукционно-охладительная установка ',
+    translating: 'редукционно-охладительная установка',
     partOfSpeechCode: 'abb',
     skyid: '248648'
   },
@@ -29589,25 +29585,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RCP',
-    translating: 'главный циркуляционный насос ',
+    translating: 'главный циркуляционный насос',
     partOfSpeechCode: 'abb',
     skyid: '245576'
   },
   {
     targetWord: 'RCPB',
-    translating: 'граница давления первого контура ',
+    translating: 'граница давления первого контура',
     partOfSpeechCode: 'abb',
     skyid: '245772'
   },
   {
     targetWord: 'RCPL',
-    translating: 'главный циркуляционный трубопровод ',
+    translating: 'главный циркуляционный трубопровод',
     partOfSpeechCode: 'abb',
     skyid: '245575'
   },
   {
     targetWord: 'RCPS',
-    translating: 'главный циркуляционный насосный агрегат ',
+    translating: 'главный циркуляционный насосный агрегат',
     partOfSpeechCode: 'abb',
     skyid: '245563'
   },
@@ -29631,42 +29627,42 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RD',
-    translating: 'Нормативный Документ ',
+    translating: 'Нормативный Документ',
     partOfSpeechCode: 'abb',
     skyid: '246230'
   },
   {
     targetWord: 'RD 153-34.0-49.105-01',
     translating:
-      'нормы проектирования автоматических установок водяного пожаротушения кабельных сооружений ',
+      'нормы проектирования автоматических установок водяного пожаротушения кабельных сооружений',
     partOfSpeechCode: 'abb',
     skyid: '246277'
   },
   {
     targetWord: 'RD 210.006-90 (SP)',
     translating:
-      'правила технологического проектирования атомных станций (с реакторами ВВЭР) РД 210.006-90 ',
+      'правила технологического проектирования атомных станций (с реакторами ВВЭР) РД 210.006-90',
     partOfSpeechCode: 'abb',
     skyid: '246276'
   },
   {
     targetWord: 'RD 95-10528-96',
     translating:
-      'руководящие документы по определению параметров ударных волн во время внешних взрывов и нагрузок на строительные конструкции АЭС ',
+      'руководящие документы по определению параметров ударных волн во время внешних взрывов и нагрузок на строительные конструкции АЭС',
     partOfSpeechCode: 'abb',
     skyid: '246278'
   },
   {
     targetWord: 'RD EO-0550-2005',
     translating:
-      'теплоизоляция оборудования и трубопроводов реакторных блоков АЭС, оснащенных реакторами ВВЭР. Общие технические условия ',
+      'теплоизоляция оборудования и трубопроводов реакторных блоков АЭС, оснащенных реакторами ВВЭР. Общие технические условия',
     partOfSpeechCode: 'abb',
     skyid: '246275'
   },
   {
     targetWord: 'RD-03-41-2002',
     translating:
-      'требования к составу и содержанию пакета документов, обосновывающих деятельность при проектировании и изготовлении оборудования для объектов использования атомной энергии ',
+      'требования к составу и содержанию пакета документов, обосновывающих деятельность при проектировании и изготовлении оборудования для объектов использования атомной энергии',
     partOfSpeechCode: 'abb',
     skyid: '246279'
   },
@@ -29678,7 +29674,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RE',
-    translating: 'радиографический контроль ',
+    translating: 'радиографический контроль',
     partOfSpeechCode: 'abb',
     skyid: '253887'
   },
@@ -29696,7 +29692,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RF',
-    translating: 'релейная форсировка ',
+    translating: 'релейная форсировка',
     partOfSpeechCode: 'abb',
     skyid: '248233'
   },
@@ -29732,7 +29728,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RI',
-    translating: 'внутрикорпусные устройства реактора ',
+    translating: 'внутрикорпусные устройства реактора',
     partOfSpeechCode: 'abb',
     skyid: '245846'
   },
@@ -29750,13 +29746,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RISMH',
-    translating: 'аппаратура контроля внутрикорпусных устройств ',
+    translating: 'аппаратура контроля внутрикорпусных устройств',
     partOfSpeechCode: 'abb',
     skyid: '245562'
   },
   {
     targetWord: 'RL',
-    translating: 'радиоактивный каротаж ',
+    translating: 'радиоактивный каротаж',
     partOfSpeechCode: 'abb',
     skyid: '246494'
   },
@@ -29768,25 +29764,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RMB',
-    translating: 'щит радиационного контроля ',
+    translating: 'щит радиационного контроля',
     partOfSpeechCode: 'abb',
     skyid: '246315'
   },
   {
     targetWord: 'RME',
-    translating: 'аппаратура контроля реактивности ',
+    translating: 'аппаратура контроля реактивности',
     partOfSpeechCode: 'abb',
     skyid: '245567'
   },
   {
     targetWord: 'RMS',
-    translating: 'система радиационного контроля ',
+    translating: 'система радиационного контроля',
     partOfSpeechCode: 'abb',
     skyid: '246317'
   },
   {
     targetWord: 'RMS value',
-    translating: 'среднеквадратичное значение ',
+    translating: 'среднеквадратичное значение',
     partOfSpeechCode: 'n',
     skyid: '248727'
   },
@@ -29810,25 +29806,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ROM',
-    translating: 'постоянное запоминающее устройство ',
+    translating: 'постоянное запоминающее устройство',
     partOfSpeechCode: 'abb',
     skyid: '248720'
   },
   {
     targetWord: 'ROSATOM',
-    translating: 'Государственная корпорация по атомной энергии «Росатом» ',
+    translating: 'Государственная корпорация по атомной энергии «Росатом»',
     partOfSpeechCode: 'n',
     skyid: '246309'
   },
   {
     targetWord: 'RP',
-    translating: 'реакторная установка ',
+    translating: 'реакторная установка',
     partOfSpeechCode: 'abb',
     skyid: '245558'
   },
   {
     targetWord: 'RPC',
-    translating: 'напорная камера реактора ',
+    translating: 'напорная камера реактора',
     partOfSpeechCode: 'abb',
     skyid: '245550'
   },
@@ -29840,19 +29836,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RPI',
-    translating: 'дистанционный указатель положения ',
+    translating: 'дистанционный указатель положения',
     partOfSpeechCode: 'abb',
     skyid: '248722'
   },
   {
     targetWord: 'RPS',
-    translating: 'система защиты реактора ',
+    translating: 'система защиты реактора',
     partOfSpeechCode: 'abb',
     skyid: '245539'
   },
   {
     targetWord: 'RPV',
-    translating: 'корпус реактора ',
+    translating: 'корпус реактора',
     partOfSpeechCode: 'abb',
     skyid: '245549'
   },
@@ -29882,7 +29878,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RSS',
-    translating: 'резервный пункт управления ',
+    translating: 'резервный пункт управления',
     partOfSpeechCode: 'abb',
     skyid: '249069'
   },
@@ -29906,7 +29902,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RTD',
-    translating: 'Нормативная Техдокументация ',
+    translating: 'Нормативная Техдокументация',
     partOfSpeechCode: 'abb',
     skyid: '246228'
   },
@@ -29942,7 +29938,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RVD',
-    translating: 'экран общего пользования ',
+    translating: 'экран общего пользования',
     partOfSpeechCode: 'abb',
     skyid: '248724'
   },
@@ -29954,7 +29950,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RWM',
-    translating: 'сейсмический метод преломленных волн ',
+    translating: 'сейсмический метод преломленных волн',
     partOfSpeechCode: 'abb',
     skyid: '246524'
   },
@@ -29972,13 +29968,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'RWT',
-    translating: 'спецводоочистка ',
+    translating: 'спецводоочистка',
     partOfSpeechCode: 'abb',
     skyid: '247516'
   },
   {
     targetWord: 'RWT I&C',
-    translating: 'система контроля и управления спецводоочистки ',
+    translating: 'система контроля и управления спецводоочистки',
     partOfSpeechCode: 'abb',
     skyid: '246071'
   },
@@ -30210,7 +30206,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Republican Party',
-    translating: 'Республиканская партия ',
+    translating: 'Республиканская партия',
     partOfSpeechCode: 'n',
     skyid: '39484'
   },
@@ -30218,7 +30214,7 @@ export const difArr: TOneWord[] = [
     targetWord:
       'Resolution No. 87 of the RF Government dated 16/02/2008, amended 10/12/2014',
     translating:
-      '«О составе разделов проектной документации и требованиях к ее содержанию» (Постановление Правительства РФ № 87 от 16.02.2008г. ',
+      '«О составе разделов проектной документации и требованиях к ее содержанию» (Постановление Правительства РФ № 87 от 16.02.2008г.',
     partOfSpeechCode: 'n',
     skyid: '246244'
   },
@@ -30411,7 +30407,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'Rostekh-nadzor',
     translating:
-      'Федеральная служба по экологическому, технологическому и атомному надзору ',
+      'Федеральная служба по экологическому, технологическому и атомному надзору',
     partOfSpeechCode: 'n',
     skyid: '245834'
   },
@@ -30519,7 +30515,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SASS',
-    translating: 'безопасное состояние АЭС при тяжелой аварии ',
+    translating: 'безопасное состояние АЭС при тяжелой аварии',
     partOfSpeechCode: 'abb',
     skyid: '247039'
   },
@@ -30531,13 +30527,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SB',
-    translating: 'системная шина ',
+    translating: 'системная шина',
     partOfSpeechCode: 'abb',
     skyid: '248589'
   },
   {
     targetWord: 'SB',
-    translating: 'Аккумуляторная Батарея ',
+    translating: 'Аккумуляторная Батарея',
     partOfSpeechCode: 'abb',
     skyid: '247813'
   },
@@ -30561,7 +30557,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SC',
-    translating: 'шкаф серверов ',
+    translating: 'шкаф серверов',
     partOfSpeechCode: 'abb',
     skyid: '248759'
   },
@@ -30573,25 +30569,25 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SCC',
-    translating: 'Государственный комитет по строительству ',
+    translating: 'Государственный комитет по строительству',
     partOfSpeechCode: 'abb',
     skyid: '246308'
   },
   {
     targetWord: 'SCG',
-    translating: 'Комплектное Распределительное Устройство ',
+    translating: 'Комплектное Распределительное Устройство',
     partOfSpeechCode: 'abb',
     skyid: '247815'
   },
   {
     targetWord: 'SCM',
-    translating: 'модуль управления пуском ',
+    translating: 'модуль управления пуском',
     partOfSpeechCode: 'abb',
     skyid: '248736'
   },
   {
     targetWord: 'SCM',
-    translating: 'модуль приоритетного управления ',
+    translating: 'модуль приоритетного управления',
     partOfSpeechCode: 'abb',
     skyid: '248544'
   },
@@ -30621,7 +30617,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SD',
-    translating: 'устройство переключения ',
+    translating: 'устройство переключения',
     partOfSpeechCode: 'abb',
     skyid: '248659'
   },
@@ -30633,13 +30629,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SDP',
-    translating: 'автономная обессоливающая установка ',
+    translating: 'автономная обессоливающая установка',
     partOfSpeechCode: 'abb',
     skyid: '247493'
   },
   {
     targetWord: 'SDPP',
-    translating: 'Резервная Дизельная Электростанция ',
+    translating: 'Резервная Дизельная Электростанция',
     partOfSpeechCode: 'abb',
     skyid: '247812'
   },
@@ -30657,7 +30653,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SED (ShEM)',
-    translating: 'шаговый электромагнитный привод ',
+    translating: 'шаговый электромагнитный привод',
     partOfSpeechCode: 'abb',
     skyid: '245460'
   },
@@ -30681,7 +30677,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SFS',
-    translating: 'хранилище отработавшего ядерного топлива ',
+    translating: 'хранилище отработавшего ядерного топлива',
     partOfSpeechCode: 'abb',
     skyid: '246070'
   },
@@ -30693,7 +30689,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SG',
-    translating: 'парогенератор ',
+    translating: 'парогенератор',
     partOfSpeechCode: 'abb',
     skyid: '245461'
   },
@@ -30711,7 +30707,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SGSV',
-    translating: 'предохранительный клапан парогенератора ',
+    translating: 'предохранительный клапан парогенератора',
     partOfSpeechCode: 'abb',
     skyid: '245964'
   },
@@ -30723,7 +30719,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SHAPE',
-    translating: 'штаб верховного командующего ',
+    translating: 'штаб верховного командующего',
     partOfSpeechCode: 'abb',
     skyid: '233726'
   },
@@ -30771,31 +30767,31 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SKA',
-    translating: 'знания, навыки и отношение ',
+    translating: 'знания, навыки и отношение',
     partOfSpeechCode: 'abb',
     skyid: '246642'
   },
   {
     targetWord: 'SL',
-    translating: 'сейсмический каротаж ',
+    translating: 'сейсмический каротаж',
     partOfSpeechCode: 'abb',
     skyid: '246537'
   },
   {
     targetWord: 'SL-1',
-    translating: 'проектное землетрясение ',
+    translating: 'проектное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '247524'
   },
   {
     targetWord: 'SL1',
-    translating: 'проектное землетрясение ',
+    translating: 'проектное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '248236'
   },
   {
     targetWord: 'SL2',
-    translating: 'максимальное расчетное землетрясение ',
+    translating: 'максимальное расчетное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '248237'
   },
@@ -30819,7 +30815,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SLDC',
-    translating: 'система обнаружения течи теплоносителя второго контура ',
+    translating: 'система обнаружения течи теплоносителя второго контура',
     partOfSpeechCode: 'n',
     skyid: '248749'
   },
@@ -30831,7 +30827,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SLPE',
-    translating: 'аппаратура логической обработки сигналов ',
+    translating: 'аппаратура логической обработки сигналов',
     partOfSpeechCode: 'abb',
     skyid: '248756'
   },
@@ -30843,7 +30839,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SM',
-    translating: 'блок сигнализации ',
+    translating: 'блок сигнализации',
     partOfSpeechCode: 'abb',
     skyid: '248751'
   },
@@ -30855,7 +30851,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SMASM',
-    translating: 'блок автоматики пуска резервного механизма ',
+    translating: 'блок автоматики пуска резервного механизма',
     partOfSpeechCode: 'abb',
     skyid: '248735'
   },
@@ -30867,7 +30863,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SME',
-    translating: 'аппаратура размножения сигналов ',
+    translating: 'аппаратура размножения сигналов',
     partOfSpeechCode: 'abb',
     skyid: '248755'
   },
@@ -30879,45 +30875,45 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SMZ',
-    translating: 'сейсмическое микрорайонирование ',
+    translating: 'сейсмическое микрорайонирование',
     partOfSpeechCode: 'abb',
     skyid: '246538'
   },
   {
     targetWord: 'SNiP 3.04.01-87',
-    translating: 'изоляционные и отделочные покрытия ',
+    translating: 'изоляционные и отделочные покрытия',
     partOfSpeechCode: 'abb',
     skyid: '246262'
   },
   {
     targetWord: 'SNiP 3.04.03-85',
-    translating: 'защита строительных конструкций и сооружений от коррозии ',
+    translating: 'защита строительных конструкций и сооружений от коррозии',
     partOfSpeechCode: 'abb',
     skyid: '246263'
   },
   {
     targetWord: 'SNiP 3.05.04-85',
     translating:
-      'наружные сети и сооружения водоснабжения и канализации (СНиП 3.05.04-85 ',
+      'наружные сети и сооружения водоснабжения и канализации (СНиП 3.05.04-85',
     partOfSpeechCode: 'abb',
     skyid: '246264'
   },
   {
     targetWord: 'SNiP 3.05.05-84',
     translating:
-      'Правила выполнения и приемки работ. Электротехнические устройства ',
+      'Правила выполнения и приемки работ. Электротехнические устройства',
     partOfSpeechCode: 'abb',
     skyid: '246260'
   },
   {
     targetWord: 'SO-1 BKP-2',
-    translating: 'строительный отдел №1 БКП-2 ',
+    translating: 'строительный отдел №1 БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245488'
   },
   {
     targetWord: 'SO-2 BKP-2',
-    translating: 'строительный отдел №2 БКП-2 ',
+    translating: 'строительный отдел №2 БКП-2',
     partOfSpeechCode: 'abb',
     skyid: '245489'
   },
@@ -30947,19 +30943,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SP',
-    translating: 'сигнальный процессор ',
+    translating: 'сигнальный процессор',
     partOfSpeechCode: 'abb',
     skyid: '248752'
   },
   {
     targetWord: 'SP',
-    translating: 'панель безопасности ',
+    translating: 'панель безопасности',
     partOfSpeechCode: 'abb',
     skyid: '248731'
   },
   {
     targetWord: 'SP 1.13130.2009',
-    translating: 'Система противопожарной защиты. Эвакуационные пути и выходы ',
+    translating: 'Система противопожарной защиты. Эвакуационные пути и выходы',
     partOfSpeechCode: 'abb',
     skyid: '246254'
   },
@@ -30972,7 +30968,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SP 11-102-97',
-    translating: 'инженерно-экологические изыскания для строительства ',
+    translating: 'инженерно-экологические изыскания для строительства',
     partOfSpeechCode: 'abb',
     skyid: '246257'
   },
@@ -30986,61 +30982,61 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'SP AS-03',
     translating:
-      'санитарные правила проектирования и эксплуатации атомных станций ',
+      'санитарные правила проектирования и эксплуатации атомных станций',
     partOfSpeechCode: 'abb',
     skyid: '246261'
   },
   {
     targetWord: 'SP BKP-3',
-    translating: 'сметный отдел БКП-3 ',
+    translating: 'сметный отдел БКП-3',
     partOfSpeechCode: 'abb',
     skyid: '245664'
   },
   {
     targetWord: 'SP BKP-7',
-    translating: 'сметный отдел БКП-7 ',
+    translating: 'сметный отдел БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245656'
   },
   {
     targetWord: 'SPDS',
-    translating: 'система представления параметров безопасности ',
+    translating: 'система представления параметров безопасности',
     partOfSpeechCode: 'abb',
     skyid: '248732'
   },
   {
     targetWord: 'SPMD',
-    translating: 'устройство подготовки проб и измерений ',
+    translating: 'устройство подготовки проб и измерений',
     partOfSpeechCode: 'abb',
     skyid: '246630'
   },
   {
     targetWord: 'SPND',
-    translating: 'датчик прямого заряда ',
+    translating: 'датчик прямого заряда',
     partOfSpeechCode: 'abb',
     skyid: '245514'
   },
   {
     targetWord: 'SPS',
-    translating: 'датчик положения шаговый ',
+    translating: 'датчик положения шаговый',
     partOfSpeechCode: 'abb',
     skyid: '245459'
   },
   {
     targetWord: 'SPSM',
-    translating: 'модуль питания датчиков ',
+    translating: 'модуль питания датчиков',
     partOfSpeechCode: 'abb',
     skyid: '248757'
   },
   {
     targetWord: 'SPTA',
-    translating: 'запасные части, инструменты и принадлежности ',
+    translating: 'запасные части, инструменты и принадлежности',
     partOfSpeechCode: 'abb',
     skyid: '246628'
   },
   {
     targetWord: 'SPU',
-    translating: 'блок обработки сигналов ',
+    translating: 'блок обработки сигналов',
     partOfSpeechCode: 'abb',
     skyid: '248753'
   },
@@ -31052,13 +31048,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SPZ',
-    translating: 'санитарно-защитная зона (зона отчуждения) ',
+    translating: 'санитарно-защитная зона (зона отчуждения)',
     partOfSpeechCode: 'abb',
     skyid: '247552'
   },
   {
     targetWord: 'SR',
-    translating: 'пароприемное устройство ',
+    translating: 'пароприемное устройство',
     partOfSpeechCode: 'abb',
     skyid: '245963'
   },
@@ -31070,19 +31066,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SRW',
-    translating: 'твердые радиоактивные отходы ',
+    translating: 'твердые радиоактивные отходы',
     partOfSpeechCode: 'abb',
     skyid: '246627'
   },
   {
     targetWord: 'SS',
-    translating: 'нержавеющая сталь ',
+    translating: 'нержавеющая сталь',
     partOfSpeechCode: 'abb',
     skyid: '248655'
   },
   {
     targetWord: 'SS',
-    translating: 'система безопасности ',
+    translating: 'система безопасности',
     partOfSpeechCode: 'abb',
     skyid: '247038'
   },
@@ -31106,7 +31102,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SSCP',
-    translating: 'продукты резки образцов-свидетелей ',
+    translating: 'продукты резки образцов-свидетелей',
     partOfSpeechCode: 'n',
     skyid: '246625'
   },
@@ -31118,7 +31114,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SSE',
-    translating: 'максимальное расчетное землетрясение ',
+    translating: 'максимальное расчетное землетрясение',
     partOfSpeechCode: 'abb',
     skyid: '246526'
   },
@@ -31136,7 +31132,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SSS',
-    translating: 'напряженно-деформированное состояние ',
+    translating: 'напряженно-деформированное состояние',
     partOfSpeechCode: 'abb',
     skyid: '245838'
   },
@@ -31167,7 +31163,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SUBIN',
-    translating: 'обоснование инвестиций ',
+    translating: 'обоснование инвестиций',
     partOfSpeechCode: 'abb',
     skyid: '246560'
   },
@@ -31179,19 +31175,19 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'SV',
-    translating: 'предохранительный клапан ',
+    translating: 'предохранительный клапан',
     partOfSpeechCode: 'abb',
     skyid: '248649'
   },
   {
     targetWord: 'SW',
-    translating: 'программное обеспечение ',
+    translating: 'программное обеспечение',
     partOfSpeechCode: 'abb',
     skyid: '248748'
   },
   {
     targetWord: 'SZ',
-    translating: 'зона наблюдения ',
+    translating: 'зона наблюдения',
     partOfSpeechCode: 'abb',
     skyid: '246312'
   },
@@ -31227,7 +31223,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Sagittarius',
-    translating: 'Стрелец ',
+    translating: 'Стрелец',
     partOfSpeechCode: 'n',
     skyid: '112214'
   },
@@ -31312,7 +31308,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'SanPiN 2.1.4.1074-01',
     translating:
-      'Санитарные правила и нормы. Питьевая вода Гигиенические требования к качеству воды централизованных систем питьевого водоснабжения. Контроль качества Гигиенические требования к обеспечению безопасности систем горячего водоснабжения ',
+      'Санитарные правила и нормы. Питьевая вода Гигиенические требования к качеству воды централизованных систем питьевого водоснабжения. Контроль качества Гигиенические требования к обеспечению безопасности систем горячего водоснабжения',
     partOfSpeechCode: 'abb',
     skyid: '246253'
   },
@@ -31326,7 +31322,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'SanPiN 2.6.1.2523-09',
     translating:
-      'Ионизирующее излучение, радиационная безопасность. Нормы радиационной безопасности ',
+      'Ионизирующее излучение, радиационная безопасность. Нормы радиационной безопасности',
     partOfSpeechCode: 'abb',
     skyid: '246252'
   },
@@ -31344,7 +31340,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Santiago',
-    translating: 'Сантьяго ',
+    translating: 'Сантьяго',
     partOfSpeechCode: 'n',
     skyid: '136875'
   },
@@ -31368,7 +31364,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Saragossa',
-    translating: 'Сарагоса ',
+    translating: 'Сарагоса',
     partOfSpeechCode: 'n',
     skyid: '138196'
   },
@@ -31447,7 +31443,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Scary Spice',
-    translating: 'Скэри Спайс ',
+    translating: 'Скэри Спайс',
     partOfSpeechCode: 'ph',
     skyid: '234757'
   },
@@ -31465,7 +31461,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Scorpio',
-    translating: 'Скорпион ',
+    translating: 'Скорпион',
     partOfSpeechCode: 'n',
     skyid: '181095'
   },
@@ -31948,7 +31944,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Singapore',
-    translating: 'Сингапур ',
+    translating: 'Сингапур',
     partOfSpeechCode: 'n',
     skyid: '112385'
   },
@@ -31966,7 +31962,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Single or return?',
-    translating: 'В один конец или туда-обратно? ',
+    translating: 'В один конец или туда-обратно?',
     partOfSpeechCode: 'ph',
     skyid: '228730'
   },
@@ -32170,7 +32166,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Somerset',
-    translating: 'Сомерсет ',
+    translating: 'Сомерсет',
     partOfSpeechCode: 'n',
     skyid: '181003'
   },
@@ -32448,7 +32444,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Sporty Spice',
-    translating: 'Спорти Спайс ',
+    translating: 'Спорти Спайс',
     partOfSpeechCode: 'ph',
     skyid: '234756'
   },
@@ -32586,7 +32582,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Sudan',
-    translating: 'Судан ',
+    translating: 'Судан',
     partOfSpeechCode: 'n',
     skyid: '46058'
   },
@@ -32664,7 +32660,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Sv',
-    translating: 'зиверт ',
+    translating: 'зиверт',
     partOfSpeechCode: 'abb',
     skyid: '248379'
   },
@@ -32835,7 +32831,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TC',
-    translating: 'турбинное отделение ',
+    translating: 'турбинное отделение',
     partOfSpeechCode: 'abb',
     skyid: '247630'
   },
@@ -32860,7 +32856,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TEH',
-    translating: 'трубчатый электронагреватель ',
+    translating: 'трубчатый электронагреватель',
     partOfSpeechCode: 'abb',
     skyid: '245442'
   },
@@ -32878,13 +32874,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TG',
-    translating: 'турбогенератор ',
+    translating: 'турбогенератор',
     partOfSpeechCode: 'abb',
     skyid: '245961'
   },
   {
     targetWord: 'TGHP',
-    translating: 'гидравлическая часть системы регулирования турбоагрегата ',
+    translating: 'гидравлическая часть системы регулирования турбоагрегата',
     partOfSpeechCode: 'abb',
     skyid: '245978'
   },
@@ -32914,7 +32910,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TICD',
-    translating: 'цех тепловой автоматики и измерений ',
+    translating: 'цех тепловой автоматики и измерений',
     partOfSpeechCode: 'abb',
     skyid: '248585'
   },
@@ -32932,7 +32928,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TM',
-    translating: 'блок выдержек времени ',
+    translating: 'блок выдержек времени',
     partOfSpeechCode: 'abb',
     skyid: '248578'
   },
@@ -32944,7 +32940,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TO BKP-7',
-    translating: 'тепломеханический отдел БКП-7 ',
+    translating: 'тепломеханический отдел БКП-7',
     partOfSpeechCode: 'abb',
     skyid: '245658'
   },
@@ -32968,32 +32964,32 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TPS',
-    translating: 'транспортный упаковочный комплект ',
+    translating: 'транспортный упаковочный комплект',
     partOfSpeechCode: 'abb',
     skyid: '245443'
   },
   {
     targetWord: 'TRB',
-    translating: 'стенд инспекции и ремонта тепловыделяющих сборок ',
+    translating: 'стенд инспекции и ремонта тепловыделяющих сборок',
     partOfSpeechCode: 'abb',
     skyid: '247456'
   },
   {
     targetWord: 'TRC',
-    translating: 'типовой элемент замены ',
+    translating: 'типовой элемент замены',
     partOfSpeechCode: 'abb',
     skyid: '248568'
   },
   {
     targetWord: 'TRINITI',
     translating:
-      'Троицкий институт инновационных и термоядерных исследований, Государственный научный центр Российской Федерации ',
+      'Троицкий институт инновационных и термоядерных исследований, Государственный научный центр Российской Федерации',
     partOfSpeechCode: 'abb',
     skyid: '246515'
   },
   {
     targetWord: 'TS',
-    translating: 'Трансформаторная Подстанция ',
+    translating: 'Трансформаторная Подстанция',
     partOfSpeechCode: 'abb',
     skyid: '247817'
   },
@@ -33005,13 +33001,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TSC',
-    translating: 'центр технической поддержки ',
+    translating: 'центр технической поддержки',
     partOfSpeechCode: 'abb',
     skyid: '247043'
   },
   {
     targetWord: 'TSCV',
-    translating: 'стопорно-регулирующий клапан турбины ',
+    translating: 'стопорно-регулирующий клапан турбины',
     partOfSpeechCode: 'abb',
     skyid: '245958'
   },
@@ -33035,7 +33031,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TTT',
-    translating: 'термоэлектрический преобразователь (термопара) ',
+    translating: 'термоэлектрический преобразователь (термопара)',
     partOfSpeechCode: 'abb',
     skyid: '248581'
   },
@@ -33113,7 +33109,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'TVRL',
-    translating: 'протокол регистрации значений переменных во времени ',
+    translating: 'протокол регистрации значений переменных во времени',
     partOfSpeechCode: 'abb',
     skyid: '248580'
   },
@@ -33227,7 +33223,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Take That',
-    translating: 'Take That ',
+    translating: 'Take That',
     partOfSpeechCode: 'ph',
     skyid: '234762'
   },
@@ -33239,7 +33235,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Take care!',
-    translating: 'Счастливо! ',
+    translating: 'Счастливо!',
     partOfSpeechCode: 'ph',
     skyid: '244455'
   },
@@ -33313,7 +33309,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Tang dynasty',
-    translating: 'Тан ',
+    translating: 'Тан',
     partOfSpeechCode: 'n',
     skyid: '183571'
   },
@@ -33343,7 +33339,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Taurus',
-    translating: 'Телец ',
+    translating: 'Телец',
     partOfSpeechCode: 'n',
     skyid: '58624'
   },
@@ -33433,7 +33429,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Thames',
-    translating: 'Темза ',
+    translating: 'Темза',
     partOfSpeechCode: 'n',
     skyid: '125861'
   },
@@ -33880,7 +33876,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'The Branch Center of the Capital Construction of ROSATOM',
-    translating: 'Отраслевой Центр Капитального Строительства Росатома ',
+    translating: 'Отраслевой Центр Капитального Строительства Росатома',
     partOfSpeechCode: 'n',
     skyid: '246603'
   },
@@ -34347,7 +34343,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'There’s one on the corner.',
-    translating: 'Есть на углу. ',
+    translating: 'Есть на углу.',
     partOfSpeechCode: 'ph',
     skyid: '228864'
   },
@@ -34696,7 +34692,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'To co-operation!',
-    translating: 'За сотрудничество! ',
+    translating: 'За сотрудничество!',
     partOfSpeechCode: 'ph',
     skyid: '244624'
   },
@@ -34727,7 +34723,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'To friendship!',
-    translating: 'За дружбу! ',
+    translating: 'За дружбу!',
     partOfSpeechCode: 'ph',
     skyid: '244621'
   },
@@ -34977,7 +34973,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Tube',
-    translating: 'метро ',
+    translating: 'метро',
     partOfSpeechCode: 'n',
     skyid: '230702'
   },
@@ -35091,7 +35087,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Twin Falls',
-    translating: 'Туин-Фолс ',
+    translating: 'Туин-Фолс',
     partOfSpeechCode: 'n',
     skyid: '147436'
   },
@@ -35157,7 +35153,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'UAT',
-    translating: 'Блочный Трансформатор Собственных Нужд ',
+    translating: 'Блочный Трансформатор Собственных Нужд',
     partOfSpeechCode: 'abb',
     skyid: '247822'
   },
@@ -35169,7 +35165,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'UDP',
-    translating: 'блочная обессоливающая установка ',
+    translating: 'блочная обессоливающая установка',
     partOfSpeechCode: 'abb',
     skyid: '246400'
   },
@@ -35188,13 +35184,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'ULCS',
-    translating: 'система верхнего блочного уровня ',
+    translating: 'система верхнего блочного уровня',
     partOfSpeechCode: 'abb',
     skyid: '248565'
   },
   {
     targetWord: 'ULS',
-    translating: 'верхний конечный выключатель ',
+    translating: 'верхний конечный выключатель',
     partOfSpeechCode: 'abb',
     skyid: '248660'
   },
@@ -35206,13 +35202,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'UNHCR',
-    translating: 'управление верховного комиссара ООН по делам беженцев ',
+    translating: 'управление верховного комиссара ООН по делам беженцев',
     partOfSpeechCode: 'abb',
     skyid: '250621'
   },
   {
     targetWord: 'UNICEF',
-    translating: 'ЮНИСЕФ ',
+    translating: 'ЮНИСЕФ',
     partOfSpeechCode: 'abb',
     skyid: '107085'
   },
@@ -35225,7 +35221,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'UNSCEAR',
-    translating: 'Научный комитет по действию атомной радиации ООН ',
+    translating: 'Научный комитет по действию атомной радиации ООН',
     partOfSpeechCode: 'abb',
     skyid: '246319'
   },
@@ -35237,7 +35233,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'UPS',
-    translating: 'источник / агрегат бесперебойного питания ',
+    translating: 'источник / агрегат бесперебойного питания',
     partOfSpeechCode: 'abb',
     skyid: '247490'
   },
@@ -35262,13 +35258,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'URD',
-    translating: 'документ о требованиях энергокомпании (выпущенный EPRI ',
+    translating: 'документ о требованиях энергокомпании (выпущенный EPRI',
     partOfSpeechCode: 'abb',
     skyid: '245749'
   },
   {
     targetWord: 'URMP',
-    translating: 'блочный пост радиационного контроля ',
+    translating: 'блочный пост радиационного контроля',
     partOfSpeechCode: 'abb',
     skyid: '248567'
   },
@@ -35334,7 +35330,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'USS',
-    translating: 'начальник смены блока ',
+    translating: 'начальник смены блока',
     partOfSpeechCode: 'abb',
     skyid: '246623'
   },
@@ -35670,13 +35666,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'VC',
-    translating: 'блок преобразования напряжения ',
+    translating: 'блок преобразования напряжения',
     partOfSpeechCode: 'abb',
     skyid: '248554'
   },
   {
     targetWord: 'VCM',
-    translating: 'блок управления задвижкой ',
+    translating: 'блок управления задвижкой',
     partOfSpeechCode: 'abb',
     skyid: '248561'
   },
@@ -35688,13 +35684,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'VE',
-    translating: 'инженер по вибрации ',
+    translating: 'инженер по вибрации',
     partOfSpeechCode: 'abb',
     skyid: '248557'
   },
   {
     targetWord: 'VES',
-    translating: 'метод вертикального электрического зондирования ',
+    translating: 'метод вертикального электрического зондирования',
     partOfSpeechCode: 'abb',
     skyid: '246572'
   },
@@ -35731,20 +35727,20 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'VMS',
-    translating: 'подсистема контроля вибрации ',
+    translating: 'подсистема контроля вибрации',
     partOfSpeechCode: 'abb',
     skyid: '248555'
   },
   {
     targetWord: 'VNIIPO',
     translating:
-      'Всероссийский научно-исследовательский институт пожарной охраны ',
+      'Всероссийский научно-исследовательский институт пожарной охраны',
     partOfSpeechCode: 'abb',
     skyid: '245666'
   },
   {
     targetWord: 'VPF',
-    translating: 'Волгоградский проектный филиал ',
+    translating: 'Волгоградский проектный филиал',
     partOfSpeechCode: 'abb',
     skyid: '245470'
   },
@@ -35774,13 +35770,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'VT',
-    translating: 'Трансформатор Напряжения ',
+    translating: 'Трансформатор Напряжения',
     partOfSpeechCode: 'abb',
     skyid: '247821'
   },
   {
     targetWord: 'VVER',
-    translating: 'водо-водяной энегретический реактор ',
+    translating: 'водо-водяной энегретический реактор',
     partOfSpeechCode: 'abb',
     skyid: '245441'
   },
@@ -35810,7 +35806,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Vancouver',
-    translating: 'Ванкувер ',
+    translating: 'Ванкувер',
     partOfSpeechCode: 'n',
     skyid: '59073'
   },
@@ -35936,7 +35932,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Vietnamese',
-    translating: 'вьетнамец ',
+    translating: 'вьетнамец',
     partOfSpeechCode: 'n',
     skyid: '132821'
   },
@@ -36032,7 +36028,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WANO',
-    translating: 'Всемирная ассоциация операторов атомных станций ',
+    translating: 'Всемирная ассоциация операторов атомных станций',
     partOfSpeechCode: 'abb',
     skyid: '246325'
   },
@@ -36044,7 +36040,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WBS',
-    translating: 'пооперационный перечень работ ',
+    translating: 'пооперационный перечень работ',
     partOfSpeechCode: 'abb',
     skyid: '247660'
   },
@@ -36062,13 +36058,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WC-1',
-    translating: 'водно-химический режим первого контура ',
+    translating: 'водно-химический режим первого контура',
     partOfSpeechCode: 'abb',
     skyid: '248193'
   },
   {
     targetWord: 'WC-2',
-    translating: 'водно-химический режим второго контура ',
+    translating: 'водно-химический режим второго контура',
     partOfSpeechCode: 'abb',
     skyid: '248240'
   },
@@ -36099,7 +36095,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WHO',
-    translating: 'Всемирная Организация Здравоохранения ',
+    translating: 'Всемирная Организация Здравоохранения',
     partOfSpeechCode: 'abb',
     skyid: '235248'
   },
@@ -36117,26 +36113,26 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WPR',
-    translating: 'проект производства работ ',
+    translating: 'проект производства работ',
     partOfSpeechCode: 'abb',
     skyid: '247349'
   },
   {
     targetWord: 'WS',
-    translating: 'рабочая станция/автоматизированное рабочее место ',
+    translating: 'рабочая станция/автоматизированное рабочее место',
     partOfSpeechCode: 'abb',
     skyid: '248552'
   },
   {
     targetWord: 'WS AFPS',
     translating:
-      'рабочая станция системы автоматической противопожарной защиты ',
+      'рабочая станция системы автоматической противопожарной защиты',
     partOfSpeechCode: 'abb',
     skyid: '248953'
   },
   {
     targetWord: 'WS RMD',
-    translating: 'рабочая станция радиационного и дозиметрического контроля ',
+    translating: 'рабочая станция радиационного и дозиметрического контроля',
     partOfSpeechCode: 'abb',
     skyid: '248711'
   },
@@ -36148,13 +36144,13 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WS SERC',
-    translating: 'рабочая станция сменного инженера по управлению реактором ',
+    translating: 'рабочая станция сменного инженера по управлению реактором',
     partOfSpeechCode: 'abb',
     skyid: '248551'
   },
   {
     targetWord: 'WS SERT',
-    translating: 'рабочая станция сменного инженера по управлению турбиной ',
+    translating: 'рабочая станция сменного инженера по управлению турбиной',
     partOfSpeechCode: 'abb',
     skyid: '248550'
   },
@@ -36166,7 +36162,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WS TICS',
-    translating: 'рабочая станция цеха тепловой автоматики и измерений ',
+    translating: 'рабочая станция цеха тепловой автоматики и измерений',
     partOfSpeechCode: 'abb',
     skyid: '248548'
   },
@@ -36184,7 +36180,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'WTP',
-    translating: 'водоподготовительная установка ',
+    translating: 'водоподготовительная установка',
     partOfSpeechCode: 'abb',
     skyid: '247367'
   },
@@ -38236,7 +38232,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Where?',
-    translating: 'Где? ',
+    translating: 'Где?',
     partOfSpeechCode: 'ph',
     skyid: '244466'
   },
@@ -38308,7 +38304,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'White River',
-    translating: 'Уайт-Ривер ',
+    translating: 'Уайт-Ривер',
     partOfSpeechCode: 'n',
     skyid: '223075'
   },
@@ -38428,7 +38424,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Whom?',
-    translating: 'Кого? ',
+    translating: 'Кого?',
     partOfSpeechCode: 'ph',
     skyid: '244471'
   },
@@ -38476,7 +38472,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Why?',
-    translating: 'Почему? ',
+    translating: 'Почему?',
     partOfSpeechCode: 'ph',
     skyid: '244467'
   },
@@ -38578,7 +38574,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Windy City',
-    translating: 'Город ветров ',
+    translating: 'Город ветров',
     partOfSpeechCode: 'n',
     skyid: '224737'
   },
@@ -38643,7 +38639,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'World Bank',
-    translating: 'Международный банк ',
+    translating: 'Международный банк',
     partOfSpeechCode: 'n',
     skyid: '109951'
   },
@@ -39595,7 +39591,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: '\\m/',
-    translating: '"коза" ',
+    translating: '"коза"',
     partOfSpeechCode: 'ph',
     skyid: '251867'
   },

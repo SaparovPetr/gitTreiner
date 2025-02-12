@@ -50,7 +50,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yoke',
-    translating: 'соединять ',
+    translating: 'соединять',
     partOfSpeechCode: 'v',
     skyid: '200301'
   },
@@ -873,7 +873,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'year-to-date',
-    translating: 'с начала года ',
+    translating: 'с начала года',
     partOfSpeechCode: 'ph',
     skyid: '233388'
   },
@@ -993,7 +993,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yeast',
-    translating: 'дрожжи ',
+    translating: 'дрожжи',
     partOfSpeechCode: 'n',
     skyid: '157800'
   },
@@ -1227,7 +1227,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yellow line',
-    translating: 'жёлтая линия ',
+    translating: 'жёлтая линия',
     partOfSpeechCode: 'n',
     skyid: '234851'
   },
@@ -1611,7 +1611,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yes',
-    translating: 'напротив ',
+    translating: 'напротив',
     partOfSpeechCode: 'r',
     skyid: '236669'
   },
@@ -1767,7 +1767,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yet',
-    translating: 'еще ',
+    translating: 'еще',
     partOfSpeechCode: 'r',
     skyid: '240875'
   },
@@ -2122,7 +2122,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yon',
-    translating: 'вон там ',
+    translating: 'вон там',
     partOfSpeechCode: 'r',
     skyid: '119723'
   },
@@ -2278,7 +2278,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'you cannot judge of a tree by its bark',
-    translating: 'нельзя судить о дереве по его коре ',
+    translating: 'нельзя судить о дереве по его коре',
     partOfSpeechCode: 'ph',
     skyid: '242185'
   },
@@ -2548,7 +2548,7 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'young child',
-    translating: 'маленький ребенок ',
+    translating: 'маленький ребенок',
     partOfSpeechCode: 'n',
     skyid: '238280'
   },
@@ -2722,13 +2722,13 @@ export const yArr: TOneWord[] = [
   },
   {
     targetWord: 'yourself',
-    translating: 'себе ',
+    translating: 'себе',
     partOfSpeechCode: 'prn',
     skyid: '239796'
   },
   {
     targetWord: 'yourself',
-    translating: 'сам ',
+    translating: 'сам',
     partOfSpeechCode: 'prn',
     skyid: '239795'
   },

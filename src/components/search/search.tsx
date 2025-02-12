@@ -16,8 +16,6 @@ const Search = () => {
 
   return (
     <>
-      <SearchResults stringFromInput={value} />
-
       <label className={styles.label}>
         Search:
         <input
@@ -27,6 +25,7 @@ const Search = () => {
           onChange={handleChange}
         />
       </label>
+      <SearchResults stringFromInput={value} />
     </>
   );
 };

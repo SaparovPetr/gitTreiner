@@ -662,7 +662,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vacant',
-    translating: 'вакантный ',
+    translating: 'вакантный',
     partOfSpeechCode: 'j',
     skyid: '239774'
   },
@@ -800,7 +800,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vaccination',
-    translating: 'вакцинация ',
+    translating: 'вакцинация',
     partOfSpeechCode: 'n',
     skyid: '22951'
   },
@@ -1052,7 +1052,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vagina',
-    translating: 'влагалище ',
+    translating: 'влагалище',
     partOfSpeechCode: 'n',
     skyid: '120926'
   },
@@ -1094,13 +1094,13 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vague',
-    translating: 'смутный ',
+    translating: 'смутный',
     partOfSpeechCode: 'j',
     skyid: '245046'
   },
   {
     targetWord: 'vague',
-    translating: 'рассеянный ',
+    translating: 'рассеянный',
     partOfSpeechCode: 'j',
     skyid: '242306'
   },
@@ -1292,7 +1292,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'valence',
-    translating: 'валентность ',
+    translating: 'валентность',
     partOfSpeechCode: 'n',
     skyid: '193124'
   },
@@ -1616,7 +1616,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'valuable',
-    translating: 'ценный ',
+    translating: 'ценный',
     partOfSpeechCode: 'j',
     skyid: '66972'
   },
@@ -1706,7 +1706,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'value',
-    translating: 'величина ',
+    translating: 'величина',
     partOfSpeechCode: 'n',
     skyid: '162718'
   },
@@ -2726,7 +2726,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'variety',
-    translating: 'разнообразие ',
+    translating: 'разнообразие',
     partOfSpeechCode: 'n',
     skyid: '35694'
   },
@@ -3572,7 +3572,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vehicle',
-    translating: 'разносчик ',
+    translating: 'разносчик',
     partOfSpeechCode: 'n',
     skyid: '132634'
   },
@@ -4316,19 +4316,19 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'ventilation board',
-    translating: 'щит вентиляции ',
+    translating: 'щит вентиляции',
     partOfSpeechCode: 'n',
     skyid: '248858'
   },
   {
     targetWord: 'ventilation channel closing device',
-    translating: 'устройство перекрытия вентиляционного канала ',
+    translating: 'устройство перекрытия вентиляционного канала',
     partOfSpeechCode: 'n',
     skyid: '249387'
   },
   {
     targetWord: 'ventilation control cabinet',
-    translating: 'шкаф управления вентиляцией ',
+    translating: 'шкаф управления вентиляцией',
     partOfSpeechCode: 'n',
     skyid: '248855'
   },
@@ -4568,7 +4568,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'venus clam',
-    translating: 'венерка ',
+    translating: 'венерка',
     partOfSpeechCode: 'n',
     skyid: '235350'
   },
@@ -4922,7 +4922,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'verifiable',
-    translating: 'проверяемый ',
+    translating: 'проверяемый',
     partOfSpeechCode: 'j',
     skyid: '122111'
   },
@@ -5360,7 +5360,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'versus',
-    translating: 'против ',
+    translating: 'против',
     partOfSpeechCode: 'prp',
     skyid: '240833'
   },
@@ -5606,7 +5606,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'very low-active wastes',
-    translating: 'очень низкоактивные радиоактивные отходы ',
+    translating: 'очень низкоактивные радиоактивные отходы',
     partOfSpeechCode: 'n',
     skyid: '246089'
   },
@@ -5822,7 +5822,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vest',
-    translating: 'жилет ',
+    translating: 'жилет',
     partOfSpeechCode: 'n',
     skyid: '32399'
   },
@@ -6002,7 +6002,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'veteran',
-    translating: 'ветеран ',
+    translating: 'ветеран',
     partOfSpeechCode: 'n',
     skyid: '242604'
   },
@@ -6188,7 +6188,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'via',
-    translating: 'с помощью ',
+    translating: 'с помощью',
     partOfSpeechCode: 'prp',
     skyid: '237554'
   },
@@ -6290,7 +6290,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vibe',
-    translating: 'атмосфера ',
+    translating: 'атмосфера',
     partOfSpeechCode: 'n',
     skyid: '154537'
   },
@@ -6368,7 +6368,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vibrating reed',
-    translating: 'язычок ',
+    translating: 'язычок',
     partOfSpeechCode: 'n',
     skyid: '59825'
   },
@@ -7010,7 +7010,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'video recording of operator actions',
-    translating: 'видеорегистрация действий оперативного персонала ',
+    translating: 'видеорегистрация действий оперативного персонала',
     partOfSpeechCode: 'n',
     skyid: '248793'
   },
@@ -7106,7 +7106,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'view',
-    translating: 'рассматривать ',
+    translating: 'рассматривать',
     partOfSpeechCode: 'v',
     skyid: '242618'
   },
@@ -7460,7 +7460,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'village',
-    translating: 'Гринвич-Виллидж ',
+    translating: 'Гринвич-Виллидж',
     partOfSpeechCode: 'n',
     skyid: '139232'
   },
@@ -9687,7 +9687,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vivid',
-    translating: 'яркий ',
+    translating: 'яркий',
     partOfSpeechCode: 'j',
     skyid: '193689'
   },
@@ -10095,7 +10095,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'voice',
-    translating: 'голос ',
+    translating: 'голос',
     partOfSpeechCode: 'n',
     skyid: '150205'
   },
@@ -11253,7 +11253,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vouch',
-    translating: 'представлять поручителя ',
+    translating: 'представлять поручителя',
     partOfSpeechCode: 'v',
     skyid: '62911'
   },

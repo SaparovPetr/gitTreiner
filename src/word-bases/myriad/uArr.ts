@@ -266,7 +266,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undercoat',
-    translating: 'грунтовка ',
+    translating: 'грунтовка',
     partOfSpeechCode: 'n',
     skyid: '212730'
   },
@@ -758,7 +758,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unquenchable',
-    translating: 'неутолимый ',
+    translating: 'неутолимый',
     partOfSpeechCode: 'j',
     skyid: '212128'
   },
@@ -1394,7 +1394,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uh-huh',
-    translating: 'да ',
+    translating: 'да',
     partOfSpeechCode: 'exc',
     skyid: '227931'
   },
@@ -1856,7 +1856,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'um',
-    translating: 'гм ',
+    translating: 'гм',
     partOfSpeechCode: 'exc',
     skyid: '227933'
   },
@@ -2648,7 +2648,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unattached',
-    translating: 'непривязанный ',
+    translating: 'непривязанный',
     partOfSpeechCode: 'j',
     skyid: '178501'
   },
@@ -2756,7 +2756,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unavailability due to tests',
-    translating: 'неготовность из-за проверок ',
+    translating: 'неготовность из-за проверок',
     partOfSpeechCode: 'n',
     skyid: '247064'
   },
@@ -2768,7 +2768,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unavailable',
-    translating: 'не имеющийся ',
+    translating: 'не имеющийся',
     partOfSpeechCode: 'j',
     skyid: '239577'
   },
@@ -2853,7 +2853,7 @@ export const uArr: TOneWord[] = [
 
   {
     targetWord: 'unbalanced',
-    translating: 'неадекватный ',
+    translating: 'неадекватный',
     partOfSpeechCode: 'j',
     skyid: '242489'
   },
@@ -3429,7 +3429,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uncertain',
-    translating: 'неуверенный ',
+    translating: 'неуверенный',
     partOfSpeechCode: 'j',
     skyid: '239582'
   },
@@ -3897,7 +3897,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uncomfortable',
-    translating: 'неловкий ',
+    translating: 'неловкий',
     partOfSpeechCode: 'j',
     skyid: '218771'
   },
@@ -3927,7 +3927,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uncommitted',
-    translating: 'без обязательств ',
+    translating: 'без обязательств',
     partOfSpeechCode: 'j',
     skyid: '6356'
   },
@@ -4839,7 +4839,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undenominational',
-    translating: 'не относящийся ',
+    translating: 'не относящийся',
     partOfSpeechCode: 'j',
     skyid: '165114'
   },
@@ -5079,7 +5079,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'underachiever',
-    translating: 'отстающий ',
+    translating: 'отстающий',
     partOfSpeechCode: 'n',
     skyid: '97627'
   },
@@ -5175,7 +5175,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undercast',
-    translating: 'оценивать ниже ',
+    translating: 'оценивать ниже',
     partOfSpeechCode: 'v',
     skyid: '233415'
   },
@@ -5691,7 +5691,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'underlet',
-    translating: 'сдавать в аренду ',
+    translating: 'сдавать в аренду',
     partOfSpeechCode: 'v',
     skyid: '233468'
   },
@@ -5709,19 +5709,19 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'underline',
-    translating: 'подчёркивать ',
+    translating: 'подчёркивать',
     partOfSpeechCode: 'v',
     skyid: '144882'
   },
   {
     targetWord: 'underline',
-    translating: 'подчеркивать ',
+    translating: 'подчеркивать',
     partOfSpeechCode: 'v',
     skyid: '144881'
   },
   {
     targetWord: 'underline',
-    translating: 'подчёркивающая линия ',
+    translating: 'подчёркивающая линия',
     partOfSpeechCode: 'n',
     skyid: '144880'
   },
@@ -5811,7 +5811,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'underneath',
-    translating: 'внизу ',
+    translating: 'внизу',
     partOfSpeechCode: 'r',
     skyid: '27912'
   },
@@ -5974,7 +5974,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'underscore',
-    translating: 'акцентировать внимание ',
+    translating: 'акцентировать внимание',
     partOfSpeechCode: 'v',
     skyid: '41194'
   },
@@ -6106,7 +6106,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'understandable',
-    translating: 'понятный ',
+    translating: 'понятный',
     partOfSpeechCode: 'j',
     skyid: '239480'
   },
@@ -6724,13 +6724,13 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undo',
-    translating: 'отменять ',
+    translating: 'отменять',
     partOfSpeechCode: 'v',
     skyid: '239476'
   },
   {
     targetWord: 'undo',
-    translating: 'развязывать ',
+    translating: 'развязывать',
     partOfSpeechCode: 'v',
     skyid: '239475'
   },
@@ -8009,7 +8009,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unfold',
-    translating: 'развиваться ',
+    translating: 'развиваться',
     partOfSpeechCode: 'v',
     skyid: '242457'
   },
@@ -8286,7 +8286,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'ungentlemanly',
-    translating: 'не джентльменский ',
+    translating: 'не джентльменский',
     partOfSpeechCode: 'j',
     skyid: '30744'
   },
@@ -8634,7 +8634,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unhelpful',
-    translating: 'бесполезный ',
+    translating: 'бесполезный',
     partOfSpeechCode: 'j',
     skyid: '240328'
   },
@@ -8868,7 +8868,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unified protection system',
-    translating: 'универсальная защитная система ',
+    translating: 'универсальная защитная система',
     partOfSpeechCode: 'n',
     skyid: '248864'
   },
@@ -9342,7 +9342,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uninterruptible power supply system',
-    translating: 'система бесперебойного питания ',
+    translating: 'система бесперебойного питания',
     partOfSpeechCode: 'n',
     skyid: '247505'
   },
@@ -9804,7 +9804,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'united states air force',
-    translating: 'военно-воздушные силы США ',
+    translating: 'военно-воздушные силы США',
     partOfSpeechCode: 'n',
     skyid: '60582'
   },
@@ -10170,7 +10170,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unknown',
-    translating: 'неизвестный ',
+    translating: 'неизвестный',
     partOfSpeechCode: 'j',
     skyid: '27323'
   },
@@ -10488,7 +10488,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unload onto',
-    translating: 'вываливать (что-то) на ',
+    translating: 'вываливать (что-то) на',
     partOfSpeechCode: 'v',
     skyid: '251103'
   },
@@ -11076,7 +11076,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unobjectionable',
-    translating: 'бесспорный ',
+    translating: 'бесспорный',
     partOfSpeechCode: 'j',
     skyid: '120389'
   },
@@ -11532,7 +11532,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unplug',
-    translating: 'отключить ',
+    translating: 'отключить',
     partOfSpeechCode: 'v',
     skyid: '62481'
   },
@@ -12270,7 +12270,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unrelated',
-    translating: 'не имеющий отношения ',
+    translating: 'не имеющий отношения',
     partOfSpeechCode: 'j',
     skyid: '240811'
   },
@@ -14052,7 +14052,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unsustainable',
-    translating: 'разрушительный ',
+    translating: 'разрушительный',
     partOfSpeechCode: 'j',
     skyid: '242465'
   },
@@ -14221,7 +14221,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'untasted',
-    translating: 'нетронутый ',
+    translating: 'нетронутый',
     partOfSpeechCode: 'j',
     skyid: '111587'
   },
@@ -14503,7 +14503,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unto',
-    translating: 'к ',
+    translating: 'к',
     partOfSpeechCode: 'prp',
     skyid: '227942'
   },
@@ -15121,7 +15121,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'unweathered',
-    translating: 'неподвергающийся действию ',
+    translating: 'неподвергающийся действию',
     partOfSpeechCode: 'j',
     skyid: '42146'
   },
@@ -15830,7 +15830,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'update',
-    translating: 'обновлять ',
+    translating: 'обновлять',
     partOfSpeechCode: 'v',
     skyid: '241842'
   },
@@ -16496,7 +16496,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'uprise',
-    translating: 'появляться ',
+    translating: 'появляться',
     partOfSpeechCode: 'v',
     skyid: '46866'
   },
@@ -16814,7 +16814,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'upstanding',
-    translating: 'крепкий ',
+    translating: 'крепкий',
     partOfSpeechCode: 'j',
     skyid: '237982'
   },
@@ -17300,7 +17300,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'urge',
-    translating: 'призывать ',
+    translating: 'призывать',
     partOfSpeechCode: 'v',
     skyid: '248287'
   },
@@ -17768,7 +17768,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'usage',
-    translating: 'употребление ',
+    translating: 'употребление',
     partOfSpeechCode: 'n',
     skyid: '240825'
   },
@@ -18081,7 +18081,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'useless',
-    translating: 'негодный ',
+    translating: 'негодный',
     partOfSpeechCode: 'j',
     skyid: '242307'
   },
@@ -18465,7 +18465,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'utility',
-    translating: 'коммунальная услуга ',
+    translating: 'коммунальная услуга',
     partOfSpeechCode: 'n',
     skyid: '98532'
   },
@@ -18477,7 +18477,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'utility',
-    translating: 'коммунальные услуги ',
+    translating: 'коммунальные услуги',
     partOfSpeechCode: 'n',
     skyid: '98529'
   },
