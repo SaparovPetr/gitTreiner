@@ -10,8 +10,7 @@ const Search = () => {
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
-    setValue(e.target.value);
-    // console.log(value);
+    setValue(e.target.value.toLowerCase());
   };
 
   return (
@@ -19,6 +18,7 @@ const Search = () => {
       <label className={styles.label}>
         Search:
         <input
+          autoFocus
           className={styles.input}
           type='text'
           value={value}

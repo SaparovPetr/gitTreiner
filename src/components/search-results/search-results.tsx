@@ -112,21 +112,19 @@ const SearchResults = ({ stringFromInput }: any) => {
 
   if (state && stringFromInput.length !== 0) {
     return (
-      <>
-        <div className={styles.container}>
-          {state.map((item: TOneWord, index: number) => (
-            <Link
-              className={styles.link}
-              key={index}
-              onClick={() => handleClick(index)}
-              to='/gitTreiner/word'
-              state={{ backgroundLocation: locationInTheApp }}
-            >
-              {`${item.targetWord} - ${item.translating}`}
-            </Link>
-          ))}
-        </div>
-      </>
+      <div className={styles.container}>
+        {state.map((item: TOneWord, index: number) => (
+          <Link
+            className={styles.link}
+            key={index}
+            onClick={() => handleClick(index)}
+            to='/gitTreiner/word'
+            state={{ backgroundLocation: locationInTheApp }}
+          >
+            {`${item.targetWord} - ${item.translating}`}
+          </Link>
+        ))}
+      </div>
     );
   } else {
     return (
