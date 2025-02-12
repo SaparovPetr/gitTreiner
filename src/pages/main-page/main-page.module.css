@@ -27,29 +27,29 @@
     font-size: 35px;
 }
 
+.buttonsArea {
+    display:flex;
+    flex-direction: column;
+}
+
+.setButton {
+    font-size: 33px; 
+}
+
+.modeButton {
+    font-size: 24px; 
+}
+
+.modeButton:active {
+    opacity: 0.5; 
+}
+
 .lable {
     position: absolute;
     top: 45px;
     left: 123px;  
     color: white;
     font-size: 18px;
-}
-
-.settingButton {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 10px;
-    height: 10px;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 50px;
-    cursor: pointer; 
-}
-
-.text {
-    height: 300%;   
-    font-size: 28px; 
 }
 
 @media (height <= 620px) {  

@@ -1,9 +1,9 @@
-import { FC } from 'react';
+import { FC, useState } from 'react';
 
 import Search from '@components/search/search';
 import SuccessComponent from '@components/success-component/success-component';
 import WelcomeComponent from '@components/welcome-component/welcome-component';
-// import WordItem from '@components/word-item/word-item';
+import WordItem from '@components/word-item/word-item';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { isFirstStart } from '@utils/localstorage-functionality';
@@ -19,6 +19,7 @@ import styles from './main-page.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
+  const [testRegime, setTestregime] = useState(false);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
@@ -50,6 +51,13 @@ export const MainPage: FC = () => {
     }
   };
 
+  /**
+   * Колбек для клика по кнопке смены режима
+   */
+  const changeRegime = () => {
+    testRegime ? setTestregime(false) : setTestregime(true);
+  };
+
   if (collection.length > 0 && isFirstStart) {
     return (
       <main className={styles.mainContainer}>
@@ -62,16 +70,21 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          <Link
-            className={styles.settingButton}
-            to='/gitTreiner/setting'
-            state={{ backgroundLocation: locationInTheApp }}
-          >
-            <p className={styles.text}>≡</p>
-          </Link>
+          <div className={styles.buttonsArea}>
+            <Link
+              className={styles.settingButton}
+              to='/gitTreiner/setting'
+              state={{ backgroundLocation: locationInTheApp }}
+            >
+              <div className={styles.setButton}>≡</div>
+            </Link>
+            <div className={styles.modeButton} onClick={changeRegime}>
+              ←
+            </div>
+          </div>
         </div>
-        {/* <WordItem key={collection[0].id} {...collection[0]} /> */}
-        <Search />
+        {testRegime && <WordItem key={collection[0].id} {...collection[0]} />}
+        {!testRegime && <Search />}
       </main>
     );
   }

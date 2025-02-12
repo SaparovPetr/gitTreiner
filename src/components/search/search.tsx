@@ -14,7 +14,7 @@ const Search = () => {
   };
 
   return (
-    <>
+    <div className={styles.searchContainer}>
       <label className={styles.label}>
         Search:
         <input
@@ -26,7 +26,7 @@ const Search = () => {
         />
       </label>
       <SearchResults stringFromInput={value} />
-    </>
+    </div>
   );
 };
 

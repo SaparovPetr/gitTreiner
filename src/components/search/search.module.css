@@ -1,3 +1,8 @@
+.searchContainer {
+    height: 85%;   
+    animation-name: slide;
+    animation-duration: 200ms;
+} 
 
 .label {
     display:flex;
@@ -10,16 +15,33 @@
     font-weight: bold;
     font-size: 22px;
     border: 1px solid white;
-    border-radius: 10px;
+    border-radius: 10px;   
+}
 
-    .input {
-        padding-left: 5px;
-        color: white;
-        font-size: 18px;
-        background-color: #323131;
-        border: 1px solid white;
-        border-radius: 8px;
+.input {
+    padding-left: 5px;
+    color: white;
+    font-size: 18px;
+    background-color: #323131;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(15%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
     }
 }
 
-
+@media (height <= 620px) {  
+    .searchContainer {
+        width: 44%;
+        height: 89%;
+    } 
+}
