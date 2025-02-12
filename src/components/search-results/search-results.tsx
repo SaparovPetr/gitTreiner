@@ -112,7 +112,7 @@ const SearchResults = ({ stringFromInput }: any) => {
 
   if (state && stringFromInput.length !== 0) {
     return (
-      <div className={styles.container}>
+      <div className={styles.searchResultsContainer}>
         {state.map((item: TOneWord, index: number) => (
           <Link
             className={styles.link}
@@ -129,7 +129,7 @@ const SearchResults = ({ stringFromInput }: any) => {
   } else {
     return (
       <>
-        <div className={styles.container} />
+        <div className={styles.searchResultsContainer} />
       </>
     );
   }
