@@ -17,4 +17,3 @@ export class User implements IUser {
     return `https://github.com/${this.profileName}/${this.repoName}`;
   }
 }
-// убрать конструктор и устанавливать поля profileName и repoName сеттерами?
