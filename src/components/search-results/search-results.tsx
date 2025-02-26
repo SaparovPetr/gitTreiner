@@ -1,10 +1,7 @@
 import { useEffect, useState } from 'react';
 
-// eslint-disable-next-line import/order
 import { picData } from '@slices/modal-content-slice';
-// eslint-disable-next-line import/order
 import { mapSearchResults } from '@utils/mapSearchResults';
-
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
@@ -44,76 +41,53 @@ const SearchResults = ({ stringFromInput }: any) => {
   const dispatch = useAppDispatch();
 
   const makeList = (oneArr: TOneWord[]) => {
-    let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 15);
+    let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);
     return arrWithRes;
   };
 
   useEffect(() => {
-    if (stringFromInput.startsWith('a')) {
-      setState(makeList(aArr));
-    } else if (stringFromInput.startsWith('b')) {
-      setState(makeList(bArr));
-    } else if (stringFromInput.startsWith('c')) {
-      setState(makeList(cArr));
-    } else if (stringFromInput.startsWith('d')) {
-      setState(makeList(dArr));
-    } else if (stringFromInput.startsWith('e')) {
-      setState(makeList(eArr));
-    } else if (stringFromInput.startsWith('f')) {
-      setState(makeList(fArr));
-    } else if (stringFromInput.startsWith('g')) {
-      setState(makeList(gArr));
-    } else if (stringFromInput.startsWith('h')) {
-      setState(makeList(hArr));
-    } else if (stringFromInput.startsWith('i')) {
-      setState(makeList(iArr));
-    } else if (stringFromInput.startsWith('j')) {
-      setState(makeList(jArr));
-    } else if (stringFromInput.startsWith('k')) {
-      setState(makeList(kArr));
-    } else if (stringFromInput.startsWith('l')) {
-      setState(makeList(lArr));
-    } else if (stringFromInput.startsWith('m')) {
-      setState(makeList(mArr));
-    } else if (stringFromInput.startsWith('n')) {
-      setState(makeList(nArr));
-    } else if (stringFromInput.startsWith('o')) {
-      setState(makeList(oArr));
-    } else if (stringFromInput.startsWith('p')) {
-      setState(makeList(pArr));
-    } else if (stringFromInput.startsWith('q')) {
-      setState(makeList(qArr));
-    } else if (stringFromInput.startsWith('r')) {
-      setState(makeList(rArr));
-    } else if (stringFromInput.startsWith('s')) {
-      setState(makeList(sArr));
-    } else if (stringFromInput.startsWith('t')) {
-      setState(makeList(tArr));
-    } else if (stringFromInput.startsWith('u')) {
-      setState(makeList(uArr));
-    } else if (stringFromInput.startsWith('v')) {
-      setState(makeList(vArr));
-    } else if (stringFromInput.startsWith('w')) {
-      setState(makeList(wArr));
-    } else if (stringFromInput.startsWith('x')) {
-      setState(makeList(xArr));
-    } else if (stringFromInput.startsWith('y')) {
-      setState(makeList(yArr));
-    } else if (stringFromInput.startsWith('z')) {
-      setState(makeList(zArr));
-    } else {
-      setState(makeList(difArr));
-    }
+    const firstLetter = stringFromInput.charAt(0).toLowerCase();
+    const letterToArrayMap: { [key: string]: TOneWord[] } = {
+      a: aArr,
+      b: bArr,
+      c: cArr,
+      d: dArr,
+      e: eArr,
+      f: fArr,
+      g: gArr,
+      h: hArr,
+      i: iArr,
+      j: jArr,
+      k: kArr,
+      l: lArr,
+      m: mArr,
+      n: nArr,
+      o: oArr,
+      p: pArr,
+      q: qArr,
+      r: rArr,
+      s: sArr,
+      t: tArr,
+      u: uArr,
+      v: vArr,
+      w: wArr,
+      x: xArr,
+      y: yArr,
+      z: zArr
+    };
+    const selectedArray = letterToArrayMap[firstLetter] || difArr;
+    setState(makeList(selectedArray));
   }, [stringFromInput]);
 
   const handleClick = (index: number) => {
     dispatch(picData(state[index]));
   };
 
-  if (state && stringFromInput.length !== 0) {
-    return (
-      <div className={styles.searchResultsContainer}>
-        {state.map((item: TOneWord, index: number) => (
+  return (
+    <div className={styles.searchResultsContainer}>
+      {state &&
+        stringFromInput.length !== 0 &&
+        state.map((item: TOneWord, index: number) => (
           <Link
             className={styles.link}
             key={index}
@@ -124,14 +98,7 @@ const SearchResults = ({ stringFromInput }: any) => {
             {`${item.targetWord} - ${item.translating}`}
           </Link>
         ))}
-      </div>
-    );
-  } else {
-    return (
-      <>
-        <div className={styles.searchResultsContainer} />
-      </>
-    );
-  }
+    </div>
+  );
 };
 export default SearchResults;
