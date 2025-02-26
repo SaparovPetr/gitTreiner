@@ -58,51 +58,41 @@ export const MainPage: FC = () => {
     testRegime ? setTestregime(false) : setTestregime(true);
   };
 
-  if (collection.length > 0 && isFirstStart) {
-    return (
-      <main className={styles.mainContainer}>
-        <div className={styles.headerArea}>
-          <div className={styles.logoArea} onClick={changeMode}>
-            <div>Git_</div>
-            <div>
-              treiner
-              <span className={styles.lable}>{currientMode}</span>
+  return (
+    <main className={styles.mainContainer}>
+      {collection.length > 0 && isFirstStart && (
+        <>
+          <div className={styles.headerArea}>
+            <div className={styles.logoArea} onClick={changeMode}>
+              <div>Git_</div>
+              <div>
+                treiner
+                <span className={styles.lable}>{currientMode}</span>
+              </div>
+            </div>
+
+            <div className={styles.buttonsArea}>
+              <Link
+                className={styles.settingButton}
+                to='/gitTreiner/setting'
+                state={{ backgroundLocation: locationInTheApp }}
+              >
+                <div className={styles.setButton}>≡</div>
+              </Link>
+              <div className={styles.modeButton} onClick={changeRegime}>
+                ←
+              </div>
             </div>
           </div>
 
-          <div className={styles.buttonsArea}>
-            <Link
-              className={styles.settingButton}
-              to='/gitTreiner/setting'
-              state={{ backgroundLocation: locationInTheApp }}
-            >
-              <div className={styles.setButton}>≡</div>
-            </Link>
-            <div className={styles.modeButton} onClick={changeRegime}>
-              ←
-            </div>
-          </div>
-        </div>
-        {testRegime && <WordItem key={collection[0].id} {...collection[0]} />}
-        {!testRegime && <Search />}
-      </main>
-    );
-  }
-
-  if (!isFirstStart) {
-    return (
-      <main className={styles.mainContainer}>
-        <WelcomeComponent />
-      </main>
-    );
-  }
-
-  // (заметка № 13)
-  if (collection.length === 0 && isFirstStart) {
-    return (
-      <main className={styles.mainContainer}>
-        <SuccessComponent />
-      </main>
-    );
-  }
+          {testRegime && <WordItem key={collection[0].id} {...collection[0]} />}
+          {!testRegime && <Search />}
+        </>
+      )}
+      {/* (добавить заметку в ReadMe) */}
+      {!isFirstStart && <WelcomeComponent />}
+      {/* (заметка № 13) */}
+      {collection.length === 0 && isFirstStart && <SuccessComponent />}
+    </main>
+  );
 };
