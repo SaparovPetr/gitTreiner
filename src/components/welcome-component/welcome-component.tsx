@@ -18,7 +18,7 @@ const WelcomeComponent: FC = () => (
     <div>1. Зарегистрируйся и войди на GitHub;</div>
     <div>
       2. Форкни себе этот{' '}
-      <Link to={'https://github.com/SaparovPetr/emptyMdFilesForFork'}>
+      <Link to={'https://github.com/SaparovPetr/myriadEmpty'}>
         <span className={styles.linkword}>репозиторий</span>
       </Link>{' '}
       и укажи данные о нем в настройках приложения;

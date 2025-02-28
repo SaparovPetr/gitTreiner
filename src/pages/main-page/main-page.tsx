@@ -89,7 +89,7 @@ export const MainPage: FC = () => {
           {!testRegime && <Search />}
         </>
       )}
-      {/* (добавить заметку в ReadMe) */}
+      {/* (TODO: добавить заметку в ReadMe) */}
       {!isFirstStart && <WelcomeComponent />}
       {/* (заметка № 13) */}
       {collection.length === 0 && isFirstStart && <SuccessComponent />}
