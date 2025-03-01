@@ -17,7 +17,7 @@ export const MdComponent = ({ file }: MdComponentProps) => {
       const text = await response.text();
       setContent(text);
     } catch (err) {
-      setContent(`## Please enter your details in the settings!`);
+      setContent(`## Укажите имя репозитория в настройках`);
     }
   };
 
