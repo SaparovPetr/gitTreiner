@@ -11,10 +11,10 @@ import { bOneWordBase } from '@word-bases/b-one';
 import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
 
-import styles from './success-component.module.css';
+import styles from './success.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
-const SuccessComponent: FC = () => {
+const Success: FC = () => {
   const dispatch = useAppDispatch();
 
   const currientMode = useAppSelector(selectModeState);
@@ -50,4 +50,4 @@ const SuccessComponent: FC = () => {
     </div>
   );
 };
-export default SuccessComponent;
+export default Success;
