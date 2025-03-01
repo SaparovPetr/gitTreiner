@@ -1,6 +1,5 @@
 import React, { ReactNode, useEffect, useState } from 'react';
 
-import LoaderComponent from '@components/loader-component/loader-component';
 import MarkDown from 'markdown-to-jsx';
 
 import styles from './md-component.module.css';

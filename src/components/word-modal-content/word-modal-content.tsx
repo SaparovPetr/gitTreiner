@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import LoaderComponent from '@components/loader-component/loader-component';
+import Loader from '@components/loader/loader';
 import MdComponent from '@components/md-component/md-component';
 import { RoundButton } from '@components/round-button/round-button';
 import { selectPickedWordObject } from '@slices/modal-content-slice';
@@ -91,14 +91,14 @@ const WordModalContent = ({
       <div className={styles.buttonsZone}>
         {!isReady && (
           <RoundButton onClickFunc={knockToAI} disabled>
-            {isLoading ? <LoaderComponent /> : 'AI offline'}
+            {isLoading ? <Loader /> : 'AI offline'}
           </RoundButton>
         )}
 
         {isReady && (
           <RoundButton disabled={false} onClickFunc={knockToAI}>
             {' '}
-            {isLoading ? <LoaderComponent /> : 'create note'}{' '}
+            {isLoading ? <Loader /> : 'create note'}{' '}
           </RoundButton>
         )}
 
