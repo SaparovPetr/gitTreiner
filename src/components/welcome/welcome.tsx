@@ -4,9 +4,9 @@ import { RoundButton } from '@components/round-button/round-button';
 import { markTheFirstStart } from '@utils/localstorage-functionality';
 import { Link } from 'react-router-dom';
 
-import styles from './welcome-component.module.css';
+import styles from './welcome.module.css';
 
-const WelcomeComponent: FC = () => (
+const Welcome: FC = () => (
   <div className={styles.welcomeContainer}>
     <h2>👋 Салют!</h2>
     <div>
@@ -27,8 +27,8 @@ const WelcomeComponent: FC = () => (
       3. Заполняй заметки к подзабытым словам, используя встроенный AI-сервис*.
     </div>
     <div className={styles.footnote}>
-      * Ввиду отсутствия у меня бюджета на сервер, модель работает не всегда и
-      активируется по личному запросу в{' '}
+      * Ввиду отсутствия у меня бюджета на сервер, модель работает не
+      кгруглосуточно и активируется по личному запросу в{' '}
       <Link to={'https://t.me/SaparovPetr'}>
         <span className={styles.linkword}>телеграмм.</span>
       </Link>
@@ -39,4 +39,4 @@ const WelcomeComponent: FC = () => (
     </RoundButton>
   </div>
 );
-export default WelcomeComponent;
+export default Welcome;

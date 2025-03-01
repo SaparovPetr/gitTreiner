@@ -2,7 +2,7 @@ import { FC, useState } from 'react';
 
 import Search from '@components/search/search';
 import SuccessComponent from '@components/success-component/success-component';
-import WelcomeComponent from '@components/welcome-component/welcome-component';
+import Welcome from '@components/welcome/welcome';
 import WordItem from '@components/word-item/word-item';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
@@ -90,7 +90,7 @@ export const MainPage: FC = () => {
         </>
       )}
       {/* (TODO: добавить заметку в ReadMe) */}
-      {!isFirstStart && <WelcomeComponent />}
+      {!isFirstStart && <Welcome />}
       {/* (заметка № 13) */}
       {collection.length === 0 && isFirstStart && <SuccessComponent />}
     </main>
