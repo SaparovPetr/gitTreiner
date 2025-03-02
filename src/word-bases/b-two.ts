@@ -597,7 +597,7 @@ export const bTwoWordBase = [
   { targetWord: 'code', translating: 'код', skyid: '147326' },
   {
     targetWord: 'citizen',
-    translating: 'гражданин; гражданка',
+    translating: 'гражданин; гражданка',
     skyid: '237906'
   },
   { targetWord: 'cloth', translating: 'тряпка', skyid: '237910' },
@@ -1305,7 +1305,7 @@ export const bTwoWordBase = [
   { targetWord: 'duty', translating: 'обязанность', skyid: '80963' },
   {
     targetWord: 'defeat',
-    translating: 'расстраивать; проваливать',
+    translating: 'расстраивать; проваливать',
     skyid: '72127'
   },
   { targetWord: 'dependent', translating: 'зависимый', skyid: '31751' },
@@ -1374,7 +1374,7 @@ export const bTwoWordBase = [
   { targetWord: 'fame', translating: 'слава', skyid: '74958' },
   {
     targetWord: 'fascinating',
-    translating: 'увлекательный; захватывающий',
+    translating: 'увлекательный; захватывающий',
     skyid: '71887'
   },
   { targetWord: 'fierce', translating: 'свирепый', skyid: '70440' },
@@ -1553,7 +1553,7 @@ export const bTwoWordBase = [
   { targetWord: 'firmly', translating: 'крепко', skyid: '67675' },
   { targetWord: 'firmly', translating: 'твердо', skyid: '67673' },
   { targetWord: 'firm', translating: 'непоколебимый', skyid: '146641' },
-  { targetWord: 'fine', translating: 'хорошо; отлично', skyid: '168811' },
+  { targetWord: 'fine', translating: 'хорошо; отлично', skyid: '168811' },
   { targetWord: 'fine', translating: 'превосходный', skyid: '39853' },
   { targetWord: 'finance', translating: 'финансовое дело', skyid: '224825' },
   { targetWord: 'figure', translating: 'фигура человека', skyid: '23491' },

@@ -5399,7 +5399,7 @@ export const gArr: TOneWord[] = [
   },
   {
     targetWord: 'gastronome',
-    translating: 'гастроном; гурман',
+    translating: 'гастроном; гурман',
     partOfSpeechCode: 'n',
     skyid: '120032'
   },
@@ -6623,7 +6623,7 @@ export const gArr: TOneWord[] = [
   },
   {
     targetWord: 'gelidity',
-    translating: 'сильное переохлаждение; стужа',
+    translating: 'сильное переохлаждение; стужа',
     partOfSpeechCode: 'n',
     skyid: '184109'
   },
@@ -15245,7 +15245,7 @@ export const gArr: TOneWord[] = [
   },
   {
     targetWord: 'get carried away',
-    translating: 'слишком увлечься; потерять контроль',
+    translating: 'слишком увлечься; потерять контроль',
     partOfSpeechCode: 'phi',
     skyid: '265992'
   },
@@ -15719,7 +15719,7 @@ export const gArr: TOneWord[] = [
   },
   {
     targetWord: 'get in the way of',
-    translating: 'вставать на пути; мешать',
+    translating: 'вставать на пути; мешать',
     partOfSpeechCode: 'ph',
     skyid: '228814'
   },
@@ -19259,7 +19259,7 @@ export const gArr: TOneWord[] = [
   },
   {
     targetWord: 'give me a break',
-    translating: 'да ладно; да не гони',
+    translating: 'да ладно; да не гони',
     partOfSpeechCode: 'phi',
     skyid: '265966'
   },
@@ -19549,7 +19549,7 @@ export const gArr: TOneWord[] = [
   {
     targetWord: 'give someone a taste of something',
     translating:
-      'дать кому-либо попробовать, почувствовать что-либо; продемонстрировать что-либо',
+      'дать кому-либо попробовать, почувствовать что-либо; продемонстрировать что-либо',
     partOfSpeechCode: 'ph',
     skyid: '263215'
   },

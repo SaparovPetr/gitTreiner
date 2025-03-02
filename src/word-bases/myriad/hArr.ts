@@ -488,7 +488,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'heavy hydrogen',
-    translating: 'дейтерий; тяжёлый водород',
+    translating: 'дейтерий; тяжёлый водород',
     partOfSpeechCode: 'n',
     skyid: '210729'
   },
@@ -1936,7 +1936,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'hack into',
-    translating: 'взломать; проникнуть в',
+    translating: 'взломать; проникнуть в',
     partOfSpeechCode: 'v',
     skyid: '264375'
   },
@@ -4379,7 +4379,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'hamstring',
-    translating: 'мешать; срывать планы',
+    translating: 'мешать; срывать планы',
     partOfSpeechCode: 'v',
     skyid: '265562'
   },
@@ -4589,7 +4589,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'hand in',
-    translating: 'сдавать; подавать',
+    translating: 'сдавать; подавать',
     partOfSpeechCode: 'v',
     skyid: '235500'
   },
@@ -9126,7 +9126,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'have',
-    translating: 'есть; пить',
+    translating: 'есть; пить',
     partOfSpeechCode: 'v',
     skyid: '20500'
   },
@@ -14709,7 +14709,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'hectic',
-    translating: 'суматошный; лихорадочный',
+    translating: 'суматошный; лихорадочный',
     partOfSpeechCode: 'j',
     skyid: '39166'
   },
@@ -17469,7 +17469,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'herself',
-    translating: 'себя; себе',
+    translating: 'себя; себе',
     partOfSpeechCode: 'prn',
     skyid: '227905'
   },
@@ -19629,7 +19629,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'higher-up',
-    translating: 'старший по чину; занимающий более высокое положение',
+    translating: 'старший по чину; занимающий более высокое положение',
     partOfSpeechCode: 'n',
     skyid: '226688'
   },
@@ -22342,7 +22342,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'hoisting height, m main auxiliary',
-    translating: 'высота подъема, м: главного; вспомогательного',
+    translating: 'высота подъема, м: главного; вспомогательного',
     partOfSpeechCode: 'n',
     skyid: '250056'
   },
@@ -23122,7 +23122,7 @@ export const hArr: TOneWord[] = [
   },
   {
     targetWord: 'holdout',
-    translating: 'уклонение; затягивание',
+    translating: 'уклонение; затягивание',
     partOfSpeechCode: 'n',
     skyid: '62216'
   },

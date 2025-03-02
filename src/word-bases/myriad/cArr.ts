@@ -1215,7 +1215,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'check',
-    translating: 'счет; квитанция',
+    translating: 'счет; квитанция',
     partOfSpeechCode: 'n',
     skyid: '194752'
   },
@@ -17433,7 +17433,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: "cat's cradle",
-    translating: 'игра "кошкина люлька"; "верёвочка"',
+    translating: 'игра "кошкина люлька"; "верёвочка"',
     partOfSpeechCode: 'n',
     skyid: '73659'
   },
@@ -25333,9 +25333,9 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord:
-      'characteristic of an error of the standard sample’s certified value of the material (substance); characteristic of the error of the certified value of the standard sample',
+      'characteristic of an error of the standard sample’s certified value of the material (substance); characteristic of the error of the certified value of the standard sample',
     translating:
-      'характеристика погрешности аттестованного значения стандартного образца материала (вещества); характеристика погрешности аттестованного значения стандартного образца',
+      'характеристика погрешности аттестованного значения стандартного образца материала (вещества); характеристика погрешности аттестованного значения стандартного образца',
     partOfSpeechCode: 'n',
     skyid: '262825'
   },
@@ -34985,7 +34985,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'citizen',
-    translating: 'гражданин; гражданка',
+    translating: 'гражданин; гражданка',
     partOfSpeechCode: 'n',
     skyid: '237906'
   },
@@ -39841,7 +39841,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'clock is ticking',
-    translating: 'время идёт; часы тикают',
+    translating: 'время идёт; часы тикают',
     partOfSpeechCode: 'phi',
     skyid: '263808'
   },
@@ -71355,7 +71355,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'counter-intuitive',
-    translating: 'нелогичный; противоречащий здравому смыслу',
+    translating: 'нелогичный; противоречащий здравому смыслу',
     partOfSpeechCode: 'j',
     skyid: '265636'
   },
@@ -72567,7 +72567,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'cousin',
-    translating: 'двоюродный брат; двоюродная сестра',
+    translating: 'двоюродный брат; двоюродная сестра',
     partOfSpeechCode: 'n',
     skyid: '128269'
   },
@@ -84562,7 +84562,7 @@ export const cArr: TOneWord[] = [
   },
   {
     targetWord: 'cut and dried',
-    translating: 'скучный; стандартный',
+    translating: 'скучный; стандартный',
     partOfSpeechCode: 'phi',
     skyid: '250124'
   },

@@ -3030,7 +3030,7 @@ export const dArr: TOneWord[] = [
   {
     targetWord: 'daisy chain',
     translating:
-      'гирляндное соединение; последовательная цепочка; подключение устройств цепочкой',
+      'гирляндное соединение; последовательная цепочка; подключение устройств цепочкой',
     partOfSpeechCode: 'n',
     skyid: '21831'
   },
@@ -6666,7 +6666,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'dead to the world',
-    translating: 'уставший; тот, кто крепко спит',
+    translating: 'уставший; тот, кто крепко спит',
     partOfSpeechCode: 'ph',
     skyid: '241553'
   },
@@ -7225,7 +7225,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'dean',
-    translating: 'старейшина; старшина',
+    translating: 'старейшина; старшина',
     partOfSpeechCode: 'n',
     skyid: '15820'
   },
@@ -10107,7 +10107,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'deed',
-    translating: 'поступок; дело',
+    translating: 'поступок; дело',
     partOfSpeechCode: 'n',
     skyid: '74517'
   },
@@ -10635,7 +10635,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'defamation',
-    translating: 'дискредитация; диффамация',
+    translating: 'дискредитация; диффамация',
     partOfSpeechCode: 'n',
     skyid: '218366'
   },
@@ -10749,7 +10749,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'defeat',
-    translating: 'расстраивать; проваливать',
+    translating: 'расстраивать; проваливать',
     partOfSpeechCode: 'v',
     skyid: '237774'
   },
@@ -12574,7 +12574,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'deliberate',
-    translating: 'осторожный; обдуманный',
+    translating: 'осторожный; обдуманный',
     partOfSpeechCode: 'j',
     skyid: '177762'
   },
@@ -13571,7 +13571,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'demand',
-    translating: 'требовать; нуждаться',
+    translating: 'требовать; нуждаться',
     partOfSpeechCode: 'v',
     skyid: '163756'
   },
@@ -28752,7 +28752,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'dispatch',
-    translating: 'отправлять; посылать',
+    translating: 'отправлять; посылать',
     partOfSpeechCode: 'v',
     skyid: '38710'
   },
@@ -41509,7 +41509,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'drenched',
-    translating: 'залитый; насквозь пропитанный',
+    translating: 'залитый; насквозь пропитанный',
     partOfSpeechCode: 'j',
     skyid: '130683'
   },
@@ -43087,7 +43087,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'driver',
-    translating: 'стимул; движущий фактор',
+    translating: 'стимул; движущий фактор',
     partOfSpeechCode: 'n',
     skyid: '265976'
   },
@@ -46238,7 +46238,7 @@ export const dArr: TOneWord[] = [
   },
   {
     targetWord: 'dull',
-    translating: 'тускнеть; уменьшать яркость',
+    translating: 'тускнеть; уменьшать яркость',
     partOfSpeechCode: 'v',
     skyid: '210133'
   },

@@ -5017,7 +5017,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'backwater',
-    translating: 'глухое, забытое место; глушь',
+    translating: 'глухое, забытое место; глушь',
     partOfSpeechCode: 'n',
     skyid: '263760'
   },
@@ -15079,7 +15079,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'be in one’s element',
-    translating: 'чувствовать себя в своей стихии; быть как рыба в воде',
+    translating: 'чувствовать себя в своей стихии; быть как рыба в воде',
     partOfSpeechCode: 'phi',
     skyid: '264107'
   },
@@ -15824,7 +15824,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'be on the right track',
-    translating: 'быть на верном пути; идти в правильном направлении',
+    translating: 'быть на верном пути; идти в правильном направлении',
     partOfSpeechCode: 'phi',
     skyid: '265977'
   },
@@ -16676,7 +16676,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'be the one',
-    translating: 'быть тем самым; быть второй половинкой',
+    translating: 'быть тем самым; быть второй половинкой',
     partOfSpeechCode: 'phi',
     skyid: '265520'
   },
@@ -16706,7 +16706,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'be there for someone',
-    translating: 'быть рядом; поддержать',
+    translating: 'быть рядом; поддержать',
     partOfSpeechCode: 'phi',
     skyid: '265677'
   },
@@ -16760,7 +16760,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'be toast',
-    translating: 'иметь проблемы; быть в беде',
+    translating: 'иметь проблемы; быть в беде',
     partOfSpeechCode: 'phi',
     skyid: '265965'
   },
@@ -24094,7 +24094,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'bet one’s life',
-    translating: 'спорим; быть уверенным',
+    translating: 'спорим; быть уверенным',
     partOfSpeechCode: 'ph',
     skyid: '240610'
   },
@@ -26976,7 +26976,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'bin',
-    translating: 'лоток; контейнер',
+    translating: 'лоток; контейнер',
     partOfSpeechCode: 'n',
     skyid: '265979'
   },
@@ -46424,7 +46424,7 @@ export const bArr: TOneWord[] = [
   },
   {
     targetWord: 'breathe down someone’s neck',
-    translating: 'дышать в шею; преследовать',
+    translating: 'дышать в шею; преследовать',
     partOfSpeechCode: 'ph',
     skyid: '240758'
   },

@@ -1394,7 +1394,7 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord: 'misbehaviour',
-    translating: 'проступок; недостойное поведение',
+    translating: 'проступок; недостойное поведение',
     partOfSpeechCode: 'n',
     skyid: '196954'
   },
@@ -10530,9 +10530,9 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord:
-      'manually operated address analog detector, including:  mounting box; protective cover for seal',
+      'manually operated address analog detector, including:  mounting box; protective cover for seal',
     translating:
-      'извещатель ручной адресно-аналоговый, включающий: а) монтажная коробка; б) защитная крышка под пломбу',
+      'извещатель ручной адресно-аналоговый, включающий: а) монтажная коробка; б) защитная крышка под пломбу',
     partOfSpeechCode: 'n',
     skyid: '250724'
   },
@@ -16470,7 +16470,7 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord: 'may',
-    translating: 'может быть; возможно',
+    translating: 'может быть; возможно',
     partOfSpeechCode: 'md',
     skyid: '241356'
   },
@@ -25083,7 +25083,7 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord: 'midland',
-    translating: 'внутренняя часть страны;',
+    translating: 'внутренняя часть страны;',
     partOfSpeechCode: 'n',
     skyid: '6672'
   },
@@ -28851,7 +28851,7 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord: 'misbehavior',
-    translating: 'проступок; неправомерное поведение',
+    translating: 'проступок; неправомерное поведение',
     partOfSpeechCode: 'n',
     skyid: '182633'
   },
@@ -38499,7 +38499,7 @@ export const mArr: TOneWord[] = [
   },
   {
     targetWord: 'move',
-    translating: 'двигаться; передвигать',
+    translating: 'двигаться; передвигать',
     partOfSpeechCode: 'v',
     skyid: '152374'
   },
@@ -39347,7 +39347,7 @@ export const mArr: TOneWord[] = [
   {
     targetWord: 'much will have more',
     translating:
-      'Где много воды, там больше будет; где много денег — еще прибудет',
+      'Где много воды, там больше будет; где много денег — еще прибудет',
     partOfSpeechCode: 'ph',
     skyid: '243205'
   },

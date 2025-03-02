@@ -299,7 +299,7 @@ export const threeThousandWordBase = [
   { targetWord: 'fuel', translating: 'топливо', skyid: '23443' },
   { targetWord: 'financial', translating: 'финансовый', skyid: '28974' },
   { targetWord: 'final', translating: 'решающая игра', skyid: '97704' },
-  { targetWord: 'flavour', translating: 'вкус; аромат', skyid: '23005' },
+  { targetWord: 'flavour', translating: 'вкус; аромат', skyid: '23005' },
   { targetWord: 'free', translating: 'освобождать', skyid: '123528' },
   { targetWord: 'fire', translating: 'стрелять', skyid: '196803' },
   { targetWord: 'federal', translating: 'федеральный', skyid: '80897' },
@@ -1605,7 +1605,7 @@ export const threeThousandWordBase = [
   { targetWord: 'totally', translating: 'полностью', skyid: '159158' },
   {
     targetWord: 'suspicion',
-    translating: 'подозрение; предположение',
+    translating: 'подозрение; предположение',
     skyid: '59195'
   },
   { targetWord: 'separate', translating: 'отдельный', skyid: '109444' },
@@ -1613,7 +1613,7 @@ export const threeThousandWordBase = [
   { targetWord: 'scratch', translating: 'царапать', skyid: '54108' },
   { targetWord: 'scheme', translating: 'схема', skyid: '68060' },
   { targetWord: 'retain', translating: 'сохранять', skyid: '89122' },
-  { targetWord: 'salary', translating: 'оклад; зарплата', skyid: '153343' },
+  { targetWord: 'salary', translating: 'оклад; зарплата', skyid: '153343' },
   { targetWord: 'response', translating: 'ответ', skyid: '102866' },
   { targetWord: 'sensible', translating: 'разумный', skyid: '73885' },
   { targetWord: 'seize', translating: 'хватать', skyid: '4606' },
@@ -1857,7 +1857,7 @@ export const threeThousandWordBase = [
   { targetWord: 'urge', translating: 'подгонять', skyid: '80741' },
   {
     targetWord: 'transportation',
-    translating: 'перевозка; транспортировка',
+    translating: 'перевозка; транспортировка',
     skyid: '44766'
   },
   { targetWord: 'trial', translating: 'испытание', skyid: '37716' },
@@ -2003,7 +2003,7 @@ export const threeThousandWordBase = [
   { targetWord: 'busy', translating: 'оживлённый', skyid: '200788' },
   { targetWord: 'class', translating: 'курс', skyid: '198039' },
   { targetWord: 'check', translating: 'проверять', skyid: '66370' },
-  { targetWord: 'check', translating: 'счет; квитанция', skyid: '194752' },
+  { targetWord: 'check', translating: 'счет; квитанция', skyid: '194752' },
   { targetWord: 'dark', translating: 'тёмный', skyid: '173587' },
   { targetWord: 'city', translating: 'город', skyid: '172860' },
   { targetWord: 'boot', translating: 'сапог', skyid: '155982' },
@@ -2424,7 +2424,7 @@ export const threeThousandWordBase = [
   { targetWord: 'zone', translating: 'зона', skyid: '37496' },
   {
     targetWord: 'whom',
-    translating: 'кому; кого; которого; которому',
+    translating: 'кому; кого; которого; которому',
     skyid: '227909'
   },
   { targetWord: 'while', translating: 'промежуток времени', skyid: '96475' },
@@ -2585,7 +2585,7 @@ export const threeThousandWordBase = [
   { targetWord: 'marry', translating: 'сочетаться браком', skyid: '27563' },
   { targetWord: 'look', translating: 'смотреть', skyid: '68549' },
   { targetWord: 'month', translating: 'месяц', skyid: '64023' },
-  { targetWord: 'move', translating: 'двигаться; передвигать', skyid: '62655' },
+  { targetWord: 'move', translating: 'двигаться; передвигать', skyid: '62655' },
   { targetWord: 'live', translating: 'проживать', skyid: '37773' },
   { targetWord: 'long', translating: 'долго', skyid: '26485' },
   { targetWord: 'more', translating: 'более', skyid: '4065' },
@@ -2820,7 +2820,7 @@ export const threeThousandWordBase = [
   { targetWord: 'her', translating: 'её', skyid: '236172' },
   { targetWord: 'goodbye', translating: 'до свидания!', skyid: '233669' },
   { targetWord: 'in', translating: 'в', skyid: '44116' },
-  { targetWord: 'herself', translating: 'себя; себе', skyid: '227905' },
+  { targetWord: 'herself', translating: 'себя; себе', skyid: '227905' },
   { targetWord: 'her', translating: '(н)её', skyid: '227870' },
   { targetWord: 'his', translating: 'его', skyid: '227863' },
   { targetWord: 'free', translating: 'бесплатный', skyid: '221237' },
@@ -3292,7 +3292,7 @@ export const threeThousandWordBase = [
   { targetWord: 'cell', translating: 'камера', skyid: '131913' },
   {
     targetWord: 'citizen',
-    translating: 'гражданин; гражданка',
+    translating: 'гражданин; гражданка',
     skyid: '237906'
   },
   { targetWord: 'cloth', translating: 'тряпка', skyid: '237910' },
@@ -3302,7 +3302,7 @@ export const threeThousandWordBase = [
   { targetWord: 'chop', translating: 'нарезать', skyid: '149641' },
   {
     targetWord: 'defeat',
-    translating: 'расстраивать; проваливать',
+    translating: 'расстраивать; проваливать',
     skyid: '72127'
   },
   { targetWord: 'defend', translating: 'защищать', skyid: '62982' },

@@ -2277,7 +2277,7 @@ export const wArr: TOneWord[] = [
   },
   {
     targetWord: 'walk in the park',
-    translating: 'пустяк; лёгкое задание',
+    translating: 'пустяк; лёгкое задание',
     partOfSpeechCode: 'phi',
     skyid: '265528'
   },
@@ -2505,7 +2505,7 @@ export const wArr: TOneWord[] = [
   },
   {
     targetWord: 'walkable',
-    translating: 'пешеходный; проходимый; доступный для пешеходов',
+    translating: 'пешеходный; проходимый; доступный для пешеходов',
     partOfSpeechCode: 'j',
     skyid: '263707'
   },
@@ -4705,7 +4705,7 @@ export const wArr: TOneWord[] = [
   },
   {
     targetWord: 'wash over',
-    translating: 'захлестнуть; охватить',
+    translating: 'захлестнуть; охватить',
     partOfSpeechCode: 'v',
     skyid: '265834'
   },
@@ -7399,7 +7399,7 @@ export const wArr: TOneWord[] = [
   },
   {
     targetWord: 'way somebody sees fit',
-    translating: 'так, как кто-то это видит; как кому-то нравится',
+    translating: 'так, как кто-то это видит; как кому-то нравится',
     partOfSpeechCode: 'ph',
     skyid: '262144'
   },
@@ -15819,7 +15819,7 @@ export const wArr: TOneWord[] = [
   },
   {
     targetWord: 'whom',
-    translating: 'кому; кого; которого; которому',
+    translating: 'кому; кого; которого; которому',
     partOfSpeechCode: 'prn',
     skyid: '227909'
   },

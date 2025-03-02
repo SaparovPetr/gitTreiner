@@ -103,7 +103,7 @@ export const difWordBase = [
   { targetWord: 'wear out', translating: 'изматывать', skyid: '15791' },
   {
     targetWord: 'hectic',
-    translating: 'суматошный; лихорадочный',
+    translating: 'суматошный; лихорадочный',
     skyid: '39166'
   },
   { targetWord: 'enthuse', translating: 'вызывать энтузиазм', skyid: '51872' },
@@ -250,7 +250,7 @@ export const difWordBase = [
     skyid: '89862'
   },
   { targetWord: 'dead drop', translating: 'тайник', skyid: '151028' },
-  { targetWord: 'spouse', translating: 'супруг; супруга', skyid: '166855' },
+  { targetWord: 'spouse', translating: 'супруг; супруга', skyid: '166855' },
   { targetWord: 'touch base', translating: 'пообщаться', skyid: '173643' },
   { targetWord: 'esports', translating: 'киберспорт', skyid: '256262' },
   { targetWord: 'handyman', translating: 'мастер на все руки', skyid: '9357' },
@@ -457,7 +457,7 @@ export const difWordBase = [
   },
   {
     targetWord: 'au pair',
-    translating: 'помощник по дому; няня',
+    translating: 'помощник по дому; няня',
     skyid: '27539'
   },
   { targetWord: 'narrator', translating: 'рассказчик', skyid: '16996' },
@@ -1351,7 +1351,7 @@ export const difWordBase = [
   { targetWord: 'available', translating: 'доступный', skyid: '175053' },
   { targetWord: 'in advance', translating: 'заранее', skyid: '177717' },
   { targetWord: 'violin', translating: 'скрипка', skyid: '58068' },
-  { targetWord: 'move', translating: 'двигаться; передвигать', skyid: '62655' },
+  { targetWord: 'move', translating: 'двигаться; передвигать', skyid: '62655' },
   { targetWord: 'neighbour', translating: 'сосед', skyid: '91344' },
   { targetWord: 'noisy', translating: 'шумный', skyid: '105736' },
   { targetWord: 'bark', translating: 'лаять', skyid: '110626' },
@@ -1817,7 +1817,7 @@ export const difWordBase = [
   { targetWord: 'at will', translating: 'по желанию', skyid: '219595' },
   {
     targetWord: 'smoke and mirrors',
-    translating: 'пыль в глаза; обман и дымовая завеса',
+    translating: 'пыль в глаза; обман и дымовая завеса',
     skyid: '263974'
   },
   { targetWord: 'vibrant', translating: 'энергичный', skyid: '21095' },
@@ -3136,7 +3136,7 @@ export const difWordBase = [
   { targetWord: 'get into', translating: 'попасть', skyid: '261584' },
   {
     targetWord: 'kind of',
-    translating: 'довольно; некоторым образом',
+    translating: 'довольно; некоторым образом',
     skyid: '52264'
   },
   { targetWord: 'by far', translating: 'безусловно', skyid: '51075' },

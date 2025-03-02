@@ -8678,7 +8678,7 @@ export const iArr: TOneWord[] = [
   },
   {
     targetWord: 'in an instant',
-    translating: 'в один миг; мгновенно',
+    translating: 'в один миг; мгновенно',
     partOfSpeechCode: 'ph',
     skyid: '265835'
   },
@@ -9218,7 +9218,7 @@ export const iArr: TOneWord[] = [
   },
   {
     targetWord: 'in leaps and bounds',
-    translating: 'не по дням, а по часам; скачкообразно',
+    translating: 'не по дням, а по часам; скачкообразно',
     partOfSpeechCode: 'phi',
     skyid: '263524'
   },
@@ -17732,7 +17732,7 @@ export const iArr: TOneWord[] = [
   },
   {
     targetWord: 'information retrieval',
-    translating: 'информационный поиск; получение информации',
+    translating: 'информационный поиск; получение информации',
     partOfSpeechCode: 'n',
     skyid: '262888'
   },
@@ -24809,7 +24809,7 @@ export const iArr: TOneWord[] = [
   },
   {
     targetWord: 'internal medicine',
-    translating: 'внутренняя медицина; терапия',
+    translating: 'внутренняя медицина; терапия',
     partOfSpeechCode: 'n',
     skyid: '181766'
   },
@@ -30839,7 +30839,7 @@ export const iArr: TOneWord[] = [
   },
   {
     targetWord: 'it is not uncommon for',
-    translating: 'нередки случаи, когда; довольно часто',
+    translating: 'нередки случаи, когда; довольно часто',
     partOfSpeechCode: 'ph',
     skyid: '263598'
   },

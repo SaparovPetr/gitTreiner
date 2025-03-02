@@ -1720,7 +1720,7 @@ export const kArr: TOneWord[] = [
   {
     targetWord: "keep one's fingers crossed",
     translating:
-      'скрещивать пальцы на удачу; держать кулачки; надеяться на лучшее',
+      'скрещивать пальцы на удачу; держать кулачки; надеяться на лучшее',
     partOfSpeechCode: 'phi',
     skyid: '265525'
   },
@@ -1900,7 +1900,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'keep someone/something at bay',
-    translating: 'держать в страхе; не подпускать',
+    translating: 'держать в страхе; не подпускать',
     partOfSpeechCode: 'phi',
     skyid: '265535'
   },
@@ -4067,7 +4067,7 @@ export const kArr: TOneWord[] = [
   },
   {
     targetWord: 'kind of',
-    translating: 'довольно; некоторым образом',
+    translating: 'довольно; некоторым образом',
     partOfSpeechCode: 'r',
     skyid: '52264'
   },

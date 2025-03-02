@@ -93,7 +93,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: 'ablaze',
-    translating: 'пылающий;',
+    translating: 'пылающий;',
     partOfSpeechCode: 'j',
     skyid: '198693'
   },
@@ -13986,7 +13986,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: 'advertently',
-    translating: 'умышленно; намеренно',
+    translating: 'умышленно; намеренно',
     partOfSpeechCode: 'r',
     skyid: '21468'
   },
@@ -20823,7 +20823,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: "all in a day's work",
-    translating: 'часть того, что нужно делать; что-то ожидаемое',
+    translating: 'часть того, что нужно делать; что-то ожидаемое',
     partOfSpeechCode: 'ph',
     skyid: '240389'
   },
@@ -25232,7 +25232,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: 'amniotic fluid',
-    translating: 'околоплодные воды; амниотическая жидкость',
+    translating: 'околоплодные воды; амниотическая жидкость',
     partOfSpeechCode: 'n',
     skyid: '169593'
   },
@@ -44117,7 +44117,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: 'at ease',
-    translating: 'непринуждённо; свободно',
+    translating: 'непринуждённо; свободно',
     partOfSpeechCode: 'phi',
     skyid: '265637'
   },
@@ -47195,7 +47195,7 @@ export const aArr: TOneWord[] = [
   },
   {
     targetWord: 'au pair',
-    translating: 'помощник по дому; няня',
+    translating: 'помощник по дому; няня',
     partOfSpeechCode: 'n',
     skyid: '27539'
   },

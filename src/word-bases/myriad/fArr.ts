@@ -2013,7 +2013,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'face',
-    translating: 'быть обращенным; поворачиваться',
+    translating: 'быть обращенным; поворачиваться',
     partOfSpeechCode: 'v',
     skyid: '176670'
   },
@@ -3471,7 +3471,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'failure to close (valve, gate valve)',
-    translating: 'отказ на закрытие (арматуры, клапана, задвижки);',
+    translating: 'отказ на закрытие (арматуры, клапана, задвижки);',
     partOfSpeechCode: 'n',
     skyid: '247284'
   },
@@ -4948,7 +4948,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'fallible',
-    translating: 'подверженный ошибкам; ошибающийся',
+    translating: 'подверженный ошибкам; ошибающийся',
     partOfSpeechCode: 'j',
     skyid: '54477'
   },
@@ -7900,7 +7900,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'fascinating',
-    translating: 'увлекательный; захватывающий',
+    translating: 'увлекательный; захватывающий',
     partOfSpeechCode: 'j',
     skyid: '71887'
   },
@@ -11186,7 +11186,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'feel suffocated',
-    translating: 'задыхаться; чувствовать себя как в ловушке',
+    translating: 'задыхаться; чувствовать себя как в ловушке',
     partOfSpeechCode: 'ph',
     skyid: '263706'
   },
@@ -17487,7 +17487,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'fine',
-    translating: 'хорошо; отлично',
+    translating: 'хорошо; отлично',
     partOfSpeechCode: 'r',
     skyid: '168811'
   },
@@ -23220,7 +23220,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'flavour',
-    translating: 'вкус; аромат',
+    translating: 'вкус; аромат',
     partOfSpeechCode: 'n',
     skyid: '236952'
   },
@@ -27202,7 +27202,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'fly solo',
-    translating: 'быть в свободном полете; вести свободную жизнь',
+    translating: 'быть в свободном полете; вести свободную жизнь',
     partOfSpeechCode: 'phi',
     skyid: '264849'
   },
@@ -30590,7 +30590,7 @@ export const fArr: TOneWord[] = [
   },
   {
     targetWord: 'forbidding',
-    translating: 'грозный; неприступный; непривлекательный',
+    translating: 'грозный; неприступный; непривлекательный',
     partOfSpeechCode: 'j',
     skyid: '168565'
   },

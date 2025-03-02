@@ -6135,8 +6135,8 @@ export const sArr: TOneWord[] = [
     skyid: '258947'
   },
   {
-    targetWord: 'safety class as per NP; seismic category',
-    translating: 'класс безопасности согласно НП; категория сейсмостойкости',
+    targetWord: 'safety class as per NP; seismic category',
+    translating: 'класс безопасности согласно НП; категория сейсмостойкости',
     partOfSpeechCode: 'n',
     skyid: '247075'
   },
@@ -7013,7 +7013,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'salary',
-    translating: 'оклад; зарплата',
+    translating: 'оклад; зарплата',
     partOfSpeechCode: 'n',
     skyid: '153343'
   },
@@ -19714,7 +19714,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'season ticket',
-    translating: 'абонемент; сезонный билет',
+    translating: 'абонемент; сезонный билет',
     partOfSpeechCode: 'n',
     skyid: '144531'
   },
@@ -24667,7 +24667,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'semblance',
-    translating: 'видимость; подобие',
+    translating: 'видимость; подобие',
     partOfSpeechCode: 'n',
     skyid: '155570'
   },
@@ -40445,7 +40445,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'sight unseen',
-    translating: 'за глаза; не посмотрев предварительно',
+    translating: 'за глаза; не посмотрев предварительно',
     partOfSpeechCode: 'phi',
     skyid: '266014'
   },
@@ -45444,7 +45444,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'skid row',
-    translating: 'район притонов и ночлежек;',
+    translating: 'район притонов и ночлежек;',
     partOfSpeechCode: 'n',
     skyid: '106409'
   },
@@ -52387,7 +52387,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'smoke and mirrors',
-    translating: 'пыль в глаза; обман и дымовая завеса',
+    translating: 'пыль в глаза; обман и дымовая завеса',
     partOfSpeechCode: 'phi',
     skyid: '263974'
   },
@@ -57749,7 +57749,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'soil carbon sequestration',
-    translating: 'секвестрация углерода; хранение углерода в почве',
+    translating: 'секвестрация углерода; хранение углерода в почве',
     partOfSpeechCode: 'n',
     skyid: '265561'
   },
@@ -62293,7 +62293,7 @@ export const sArr: TOneWord[] = [
   {
     targetWord: 'southwestern',
     translating:
-      'регион Соединенных Штатов, обычно включает Нью-Мексико; Аризону; Техас; Калифорнию; а иногда и Неваду; Юту; Колорадо',
+      'регион Соединенных Штатов, обычно включает Нью-Мексико; Аризону; Техас; Калифорнию; а иногда и Неваду; Юту; Колорадо',
     partOfSpeechCode: 'j',
     skyid: '52646'
   },
@@ -64541,7 +64541,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord:
-      'special-purpose computing equipment set including: a) group controller; b) software',
+      'special-purpose computing equipment set including: a) group controller; b) software',
     translating:
       'комплект специального оборудования вычислительного комплекса в составе: а) групповой контроллер б)программное обеспечение',
     partOfSpeechCode: 'n',
@@ -68887,7 +68887,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: "split one's sides",
-    translating: 'надрываться от хохота; помирать со смеху',
+    translating: 'надрываться от хохота; помирать со смеху',
     partOfSpeechCode: 'phi',
     skyid: '265032'
   },
@@ -70394,7 +70394,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'spouse',
-    translating: 'супруг; супруга',
+    translating: 'супруг; супруга',
     partOfSpeechCode: 'n',
     skyid: '166855'
   },
@@ -70790,7 +70790,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'spread the word about',
-    translating: 'рассказать что-то; распространить информацию о чём-то',
+    translating: 'рассказать что-то; распространить информацию о чём-то',
     partOfSpeechCode: 'phi',
     skyid: '263374'
   },
@@ -75196,7 +75196,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'stand to',
-    translating: 'иметь в перспективе; предстоять',
+    translating: 'иметь в перспективе; предстоять',
     partOfSpeechCode: 'v',
     skyid: '265839'
   },
@@ -75232,7 +75232,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'stand up for something',
-    translating: 'стоять за что-либо; бороться за что-либо',
+    translating: 'стоять за что-либо; бороться за что-либо',
     partOfSpeechCode: 'ph',
     skyid: '264653'
   },
@@ -99076,7 +99076,7 @@ export const sArr: TOneWord[] = [
   },
   {
     targetWord: 'suspicion',
-    translating: 'подозрение; предположение',
+    translating: 'подозрение; предположение',
     partOfSpeechCode: 'n',
     skyid: '240001'
   },

@@ -6705,7 +6705,7 @@ export const nArr: TOneWord[] = [
   },
   {
     targetWord: 'net worth',
-    translating: 'собственный капитал; чистые активы',
+    translating: 'собственный капитал; чистые активы',
     partOfSpeechCode: 'n',
     skyid: '239136'
   },
@@ -10452,7 +10452,7 @@ export const nArr: TOneWord[] = [
   },
   {
     targetWord: 'no laughing matter',
-    translating: 'не повод для шуток; нешуточное дело',
+    translating: 'не повод для шуток; нешуточное дело',
     partOfSpeechCode: 'phi',
     skyid: '265031'
   },

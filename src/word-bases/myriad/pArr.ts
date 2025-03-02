@@ -16408,7 +16408,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'peel off',
-    translating: 'отклеиваться; отстать',
+    translating: 'отклеиваться; отстать',
     partOfSpeechCode: 'v',
     skyid: '265952'
   },
@@ -35109,7 +35109,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'plough through',
-    translating: 'осилить; справиться',
+    translating: 'осилить; справиться',
     partOfSpeechCode: 'v',
     skyid: '265530'
   },
@@ -44572,7 +44572,7 @@ export const pArr: TOneWord[] = [
   {
     targetWord: 'pouring with rain',
     translating:
-      'дождь как из ведра; льет как из ведра, зарядил дождь, идет сильный дождь',
+      'дождь как из ведра; льет как из ведра, зарядил дождь, идет сильный дождь',
     partOfSpeechCode: 'n',
     skyid: '263355'
   },
@@ -44913,7 +44913,7 @@ export const pArr: TOneWord[] = [
     skyid: '126594'
   },
   {
-    targetWord: 'power corrupts; absolute power corrupts absolutely',
+    targetWord: 'power corrupts; absolute power corrupts absolutely',
     translating: 'Власть развращает, абсолютная власть развращает абсолютно',
     partOfSpeechCode: 'ph',
     skyid: '243265'
@@ -63083,7 +63083,7 @@ export const pArr: TOneWord[] = [
   {
     targetWord: 'pung',
     translating:
-      'деревянные сани для катания и соревнований на скорость спуска с гор; вид санного спорта',
+      'деревянные сани для катания и соревнований на скорость спуска с гор; вид санного спорта',
     partOfSpeechCode: 'n',
     skyid: '71146'
   },
@@ -64524,7 +64524,7 @@ export const pArr: TOneWord[] = [
   },
   {
     targetWord: 'push back',
-    translating: 'не соглашаться; выражать несогласие',
+    translating: 'не соглашаться; выражать несогласие',
     partOfSpeechCode: 'v',
     skyid: '265991'
   },

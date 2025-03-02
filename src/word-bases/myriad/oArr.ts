@@ -9389,7 +9389,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'one-off event',
-    translating: 'единичный случай; разовая акция',
+    translating: 'единичный случай; разовая акция',
     partOfSpeechCode: 'ph',
     skyid: '265950'
   },
@@ -9635,7 +9635,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'oneself',
-    translating: 'себя; себе; самого себя',
+    translating: 'себя; себе; самого себя',
     partOfSpeechCode: 'prn',
     skyid: '227936'
   },
@@ -12427,9 +12427,9 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord:
-      'optical transceiver S1.1, double-fiber LC SFP, 1310 nm, linear speed 155 Mbit/s, 15 km; overlapped attenuation 19 dB',
+      'optical transceiver S1.1, double-fiber LC SFP, 1310 nm, linear speed 155 Mbit/s, 15 km; overlapped attenuation 19 dB',
     translating:
-      'оптический приемопередатчик S1.1, двухволоконный LC SFP, 1310 нм, линейная скорость 155 Мбит/с, 15 км; перекрываемое затухание 19 дБ',
+      'оптический приемопередатчик S1.1, двухволоконный LC SFP, 1310 нм, линейная скорость 155 Мбит/с, 15 км; перекрываемое затухание 19 дБ',
     partOfSpeechCode: 'ph',
     skyid: '248526'
   },
@@ -19011,7 +19011,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'over',
-    translating: 'из-за; по поводу',
+    translating: 'из-за; по поводу',
     partOfSpeechCode: 'prp',
     skyid: '253668'
   },
@@ -19779,7 +19779,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overcooked',
-    translating: 'пережаренный; переваренный',
+    translating: 'пережаренный; переваренный',
     partOfSpeechCode: 'j',
     skyid: '265837'
   },
@@ -21435,7 +21435,7 @@ export const oArr: TOneWord[] = [
   },
   {
     targetWord: 'overtake',
-    translating: 'обрушиваться; случаться внезапно',
+    translating: 'обрушиваться; случаться внезапно',
     partOfSpeechCode: 'v',
     skyid: '266545'
   },

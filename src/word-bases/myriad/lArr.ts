@@ -4907,7 +4907,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: 'lank',
-    translating: 'гладкие, невьющиеся; прилизанные',
+    translating: 'гладкие, невьющиеся; прилизанные',
     partOfSpeechCode: 'j',
     skyid: '63609'
   },
@@ -9570,7 +9570,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: 'lean',
-    translating: 'бережливый; экономный',
+    translating: 'бережливый; экономный',
     partOfSpeechCode: 'j',
     skyid: '265951'
   },
@@ -11491,7 +11491,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: 'legal',
-    translating: 'юридический; правовой',
+    translating: 'юридический; правовой',
     partOfSpeechCode: 'j',
     skyid: '166624'
   },
@@ -15237,7 +15237,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: 'liberating',
-    translating: 'дающий ощущение свободы; освобождающий',
+    translating: 'дающий ощущение свободы; освобождающий',
     partOfSpeechCode: 'j',
     skyid: '264104'
   },
@@ -16846,7 +16846,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: 'light at the end of the tunnel',
-    translating: 'свет в конце туннеля; надежда на улучшение',
+    translating: 'свет в конце туннеля; надежда на улучшение',
     partOfSpeechCode: 'phi',
     skyid: '265524'
   },
@@ -27830,7 +27830,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: "lose one's cool",
-    translating: 'выйти из себя; терять контроль над собой',
+    translating: 'выйти из себя; терять контроль над собой',
     partOfSpeechCode: 'phi',
     skyid: '250345'
   },
@@ -29768,7 +29768,7 @@ export const lArr: TOneWord[] = [
   },
   {
     targetWord: "lower one's expectations",
-    translating: 'снизить ожидания; опустить планку',
+    translating: 'снизить ожидания; опустить планку',
     partOfSpeechCode: 'ph',
     skyid: '265691'
   },

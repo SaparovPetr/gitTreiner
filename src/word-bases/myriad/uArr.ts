@@ -5241,7 +5241,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undercooked',
-    translating: 'недожаренный; недоваренный',
+    translating: 'недожаренный; недоваренный',
     partOfSpeechCode: 'j',
     skyid: '265838'
   },
@@ -5493,7 +5493,7 @@ export const uArr: TOneWord[] = [
   },
   {
     targetWord: 'undergo',
-    translating: 'подвергаться; переносить',
+    translating: 'подвергаться; переносить',
     partOfSpeechCode: 'v',
     skyid: '265358'
   },

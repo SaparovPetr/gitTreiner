@@ -9196,7 +9196,7 @@ export const rArr: TOneWord[] = [
   },
   {
     targetWord: 'reach out',
-    translating: 'связаться; обратиться',
+    translating: 'связаться; обратиться',
     partOfSpeechCode: 'v',
     skyid: '103619'
   },
@@ -17015,7 +17015,7 @@ export const rArr: TOneWord[] = [
   },
   {
     targetWord: 'refinement',
-    translating: 'улучшение; усовершенствование',
+    translating: 'улучшение; усовершенствование',
     partOfSpeechCode: 'n',
     skyid: '98903'
   },
@@ -36893,7 +36893,7 @@ export const rArr: TOneWord[] = [
   },
   {
     targetWord: 'roll in',
-    translating: 'нахлынуть; поступать в большом количестве',
+    translating: 'нахлынуть; поступать в большом количестве',
     partOfSpeechCode: 'v',
     skyid: '265529'
   },

@@ -1952,285 +1952,6 @@ export const difArr: TOneWord[] = [
     partOfSpeechCode: 'n',
     skyid: '108122'
   },
-  { targetWord: '5', translating: '5', partOfSpeechCode: 'n', skyid: '224086' },
-  {
-    targetWord: '5-hitter',
-    translating: '5-нападающий',
-    partOfSpeechCode: 'n',
-    skyid: '182408'
-  },
-  {
-    targetWord: '500',
-    translating: 'пятьсот',
-    partOfSpeechCode: 'n',
-    skyid: '81054'
-  },
-  {
-    targetWord: '529 plan',
-    translating: 'план 529',
-    partOfSpeechCode: 'n',
-    skyid: '256752'
-  },
-  {
-    targetWord: '6 june 1944',
-    translating: 'день высадки в Нормандии',
-    partOfSpeechCode: 'n',
-    skyid: '8951'
-  },
-  {
-    targetWord: '60 minutes',
-    translating: '60 минут',
-    partOfSpeechCode: 'n',
-    skyid: '10345'
-  },
-  {
-    targetWord: '65th',
-    translating: '65',
-    partOfSpeechCode: 'j',
-    skyid: '95501'
-  },
-  { targetWord: '7', translating: '7', partOfSpeechCode: 'n', skyid: '124319' },
-  { targetWord: '8', translating: '8', partOfSpeechCode: 'j', skyid: '189013' },
-  {
-    targetWord: '8)',
-    translating: 'заинтересованный',
-    partOfSpeechCode: 'ph',
-    skyid: '251890'
-  },
-  {
-    targetWord: '8-O',
-    translating: 'очень удивлённый',
-    partOfSpeechCode: 'ph',
-    skyid: '251902'
-  },
-  {
-    targetWord: '80',
-    translating: 'восемьдесят',
-    partOfSpeechCode: 'j',
-    skyid: '49917'
-  },
-  {
-    targetWord: '800-pound gorilla',
-    translating: 'гигант в своей сфере',
-    partOfSpeechCode: 'n',
-    skyid: '245930'
-  },
-  {
-    targetWord: '8]',
-    translating: 'заинтересованный',
-    partOfSpeechCode: 'ph',
-    skyid: '251869'
-  },
-  {
-    targetWord: '8vo',
-    translating: 'восьмую долю листа',
-    partOfSpeechCode: 'n',
-    skyid: '135451'
-  },
-  {
-    targetWord: '9',
-    translating: 'девять',
-    partOfSpeechCode: 'n',
-    skyid: '26169'
-  },
-  {
-    targetWord: '9-11',
-    translating: '11 сентября',
-    partOfSpeechCode: 'n',
-    skyid: '60818'
-  },
-  {
-    targetWord: '9/11',
-    translating: 'террористические акты 11 сентября 2001 года',
-    partOfSpeechCode: 'n',
-    skyid: '145319'
-  },
-  {
-    targetWord: ":'(",
-    translating: 'плачущий',
-    partOfSpeechCode: 'ph',
-    skyid: '251877'
-  },
-  {
-    targetWord: ':(',
-    translating: 'грустный',
-    partOfSpeechCode: 'ph',
-    skyid: '251876'
-  },
-  {
-    targetWord: ':)',
-    translating: 'улыбающийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251859'
-  },
-  {
-    targetWord: ':)))',
-    translating: 'широко улыбающийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251860'
-  },
-  {
-    targetWord: ':*',
-    translating: 'целующий',
-    partOfSpeechCode: 'ph',
-    skyid: '251888'
-  },
-  {
-    targetWord: ':*(',
-    translating: 'плачущий',
-    partOfSpeechCode: 'ph',
-    skyid: '251878'
-  },
-  {
-    targetWord: ':/',
-    translating: 'скептичный',
-    partOfSpeechCode: 'ph',
-    skyid: '251879'
-  },
-  {
-    targetWord: ':0',
-    translating: 'удивлённый',
-    partOfSpeechCode: 'ph',
-    skyid: '251872'
-  },
-  {
-    targetWord: ':3',
-    translating: 'умиляющийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251863'
-  },
-  {
-    targetWord: ':7',
-    translating: 'скривился',
-    partOfSpeechCode: 'ph',
-    skyid: '251870'
-  },
-  {
-    targetWord: ':>',
-    translating: 'радостный',
-    partOfSpeechCode: 'ph',
-    skyid: '251865'
-  },
-  {
-    targetWord: ':@',
-    translating: 'кричащий',
-    partOfSpeechCode: 'ph',
-    skyid: '251898'
-  },
-  {
-    targetWord: ':B',
-    translating: 'дурашливый',
-    partOfSpeechCode: 'ph',
-    skyid: '251864'
-  },
-  {
-    targetWord: ':C',
-    translating: 'очень расстроенный',
-    partOfSpeechCode: 'ph',
-    skyid: '251899'
-  },
-  {
-    targetWord: ':D',
-    translating: 'смеющийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251861'
-  },
-  {
-    targetWord: ':Q',
-    translating: 'курящий',
-    partOfSpeechCode: 'ph',
-    skyid: '251894'
-  },
-  {
-    targetWord: ':S',
-    translating: 'недовольный',
-    partOfSpeechCode: 'ph',
-    skyid: '251871'
-  },
-  {
-    targetWord: ':X',
-    translating: 'молчащий',
-    partOfSpeechCode: 'ph',
-    skyid: '251906'
-  },
-  {
-    targetWord: ':[ ]',
-    translating: 'удивлённый',
-    partOfSpeechCode: 'ph',
-    skyid: '251873'
-  },
-  {
-    targetWord: ':]',
-    translating: 'добродушный',
-    partOfSpeechCode: 'ph',
-    skyid: '251891'
-  },
-  {
-    targetWord: ':o)',
-    translating: 'улыбающийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251868'
-  },
-  {
-    targetWord: ':|',
-    translating: 'скептичный',
-    partOfSpeechCode: 'ph',
-    skyid: '251862'
-  },
-  {
-    targetWord: ':Р',
-    translating: 'дразнящийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251889'
-  },
-  {
-    targetWord: ';(',
-    translating: 'грустная шутка',
-    partOfSpeechCode: 'ph',
-    skyid: '251883'
-  },
-  {
-    targetWord: ';)',
-    translating: 'подмигивающий',
-    partOfSpeechCode: 'ph',
-    skyid: '251892'
-  },
-  {
-    targetWord: '<3',
-    translating: 'любовь',
-    partOfSpeechCode: 'abb',
-    skyid: '232039'
-  },
-  {
-    targetWord: '>.<',
-    translating: 'расстроенный',
-    partOfSpeechCode: 'ph',
-    skyid: '251904'
-  },
-  {
-    targetWord: '>:D',
-    translating: 'злобно улыбающийся',
-    partOfSpeechCode: 'ph',
-    skyid: '251901'
-  },
-  {
-    targetWord: '>:[',
-    translating: 'злой',
-    partOfSpeechCode: 'ph',
-    skyid: '251880'
-  },
-  {
-    targetWord: '@',
-    translating: 'у',
-    partOfSpeechCode: 'prp',
-    skyid: '255227'
-  },
-  {
-    targetWord: '@}->--',
-    translating: 'роза',
-    partOfSpeechCode: 'ph',
-    skyid: '251866'
-  },
   {
     targetWord: 'A',
     translating: 'обозначение второй группы крови',
@@ -4532,7 +4253,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'BR',
-    translating: 'с уважением; с наилучшими пожеланиями',
+    translating: 'с уважением; с наилучшими пожеланиями',
     partOfSpeechCode: 'abb',
     skyid: '266001'
   },
@@ -8498,7 +8219,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Czech',
-    translating: 'чех; чешка',
+    translating: 'чех; чешка',
     partOfSpeechCode: 'n',
     skyid: '8947'
   },
@@ -12834,7 +12555,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'Grail',
-    translating: 'чаша Грааля;',
+    translating: 'чаша Грааля;',
     partOfSpeechCode: 'n',
     skyid: '112366'
   },
@@ -25752,7 +25473,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: 'NBD',
-    translating: 'не проблема; ничего страшного',
+    translating: 'не проблема; ничего страшного',
     partOfSpeechCode: 'abb',
     skyid: '265999'
   },
@@ -29554,7 +29275,7 @@ export const difArr: TOneWord[] = [
   {
     targetWord: 'RCC',
     translating:
-      'главный циркуляционный контур; Контур теплоносителя реактора; первый контур',
+      'главный циркуляционный контур; Контур теплоносителя реактора; первый контур',
     partOfSpeechCode: 'abb',
     skyid: '245572'
   },
@@ -37545,7 +37266,7 @@ export const difArr: TOneWord[] = [
   },
   {
     targetWord: "What's the big idea?",
-    translating: 'В чём дело?; А это ещё что?',
+    translating: 'В чём дело?; А это ещё что?',
     partOfSpeechCode: 'ph',
     skyid: '265959'
   },
@@ -39690,13 +39411,6 @@ export const difArr: TOneWord[] = [
     translating: 'конический',
     partOfSpeechCode: 'ph',
     skyid: '229760'
-  },
-
-  {
-    targetWord: '– Mrs. Jones?  – Yes, speaking.',
-    translating: '- Миссис Джоунз? - Да слушаю Вас.',
-    partOfSpeechCode: 'ph',
-    skyid: '237516'
   },
   {
     targetWord:

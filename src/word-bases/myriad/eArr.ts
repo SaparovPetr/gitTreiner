@@ -806,7 +806,7 @@ export const eArr: TOneWord[] = [
   },
   {
     targetWord: 'equity',
-    translating: 'справедливость; беспристрастность',
+    translating: 'справедливость; беспристрастность',
     partOfSpeechCode: 'n',
     skyid: '203468'
   },
@@ -3463,7 +3463,7 @@ export const eArr: TOneWord[] = [
   },
   {
     targetWord: 'eat one’s heart out',
-    translating: 'быть очень грустным; завидовать кому-то',
+    translating: 'быть очень грустным; завидовать кому-то',
     partOfSpeechCode: 'ph',
     skyid: '241964'
   },
@@ -16596,7 +16596,7 @@ export const eArr: TOneWord[] = [
   },
   {
     targetWord: 'enthusiastic about',
-    translating: 'в восторге от; полный(ая) энтузиазма',
+    translating: 'в восторге от; полный(ая) энтузиазма',
     partOfSpeechCode: 'j',
     skyid: '264770'
   },
@@ -28635,7 +28635,7 @@ export const eArr: TOneWord[] = [
   },
   {
     targetWord: 'explore',
-    translating: 'исследовать; изучать',
+    translating: 'исследовать; изучать',
     partOfSpeechCode: 'v',
     skyid: '26837'
   },

@@ -2030,7 +2030,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'vanilla',
-    translating: 'простой; неоригинальный',
+    translating: 'простой; неоригинальный',
     partOfSpeechCode: 'j',
     skyid: '112469'
   },
@@ -6194,7 +6194,7 @@ export const vArr: TOneWord[] = [
   },
   {
     targetWord: 'via',
-    translating: 'через; путём; с помощью',
+    translating: 'через; путём; с помощью',
     partOfSpeechCode: 'prp',
     skyid: '227918'
   },

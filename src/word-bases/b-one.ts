@@ -973,7 +973,7 @@ export const bOneWordBase = [
   { targetWord: 'experiment', translating: 'эксперимент', skyid: '154365' },
   { targetWord: 'fry', translating: 'жарить', skyid: '1302' },
   { targetWord: 'expert', translating: 'эксперт', skyid: '132058' },
-  { targetWord: 'flavour', translating: 'вкус; аромат', skyid: '23005' },
+  { targetWord: 'flavour', translating: 'вкус; аромат', skyid: '23005' },
   { targetWord: 'have', translating: 'иметь', skyid: '20495' },
   { targetWord: 'forecast', translating: 'прогноз', skyid: '9853' },
   { targetWord: 'funny', translating: 'странный', skyid: '146732' },
@@ -1108,7 +1108,7 @@ export const bOneWordBase = [
   { targetWord: 'fortunately', translating: 'к счастью', skyid: '93957' },
   {
     targetWord: 'face',
-    translating: 'быть обращенным; поворачиваться',
+    translating: 'быть обращенным; поворачиваться',
     skyid: '176668'
   },
   { targetWord: 'fair', translating: 'ярмарка', skyid: '142747' },
@@ -1528,7 +1528,7 @@ export const bOneWordBase = [
   { targetWord: 'most', translating: 'больше всего', skyid: '188917' },
   { targetWord: 'more', translating: 'больше', skyid: '4063' },
   { targetWord: 'might', translating: 'может быть', skyid: '241363' },
-  { targetWord: 'may', translating: 'может быть; возможно', skyid: '231375' },
+  { targetWord: 'may', translating: 'может быть; возможно', skyid: '231375' },
   { targetWord: 'low', translating: 'низко', skyid: '180991' },
   {
     targetWord: 'monument',
@@ -2340,7 +2340,7 @@ export const bOneWordBase = [
     skyid: '218742'
   },
   { targetWord: 'revise', translating: 'повторять', skyid: '234466' },
-  { targetWord: 'salary', translating: 'оклад; зарплата', skyid: '153343' },
+  { targetWord: 'salary', translating: 'оклад; зарплата', skyid: '153343' },
   { targetWord: 'review', translating: 'отзыв', skyid: '108701' },
   { targetWord: 'sink', translating: 'тонуть', skyid: '56976' },
   { targetWord: 'sore', translating: 'воспалённый', skyid: '168995' },

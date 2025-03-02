@@ -5612,7 +5612,7 @@ export const tArr: TOneWord[] = [
   {
     targetWord: 'take steps to do something',
     translating:
-      'предпринимать шаги, чтобы сделать что-то; предпринимать меры, чтобы что-то свершилось',
+      'предпринимать шаги, чтобы сделать что-то; предпринимать меры, чтобы что-то свершилось',
     partOfSpeechCode: 'ph',
     skyid: '263284'
   },
@@ -11442,7 +11442,7 @@ export const tArr: TOneWord[] = [
   },
   {
     targetWord: 'technogeek',
-    translating: 'техногик; компьютерщик',
+    translating: 'техногик; компьютерщик',
     partOfSpeechCode: 'n',
     skyid: '264377'
   },
@@ -27958,8 +27958,8 @@ export const tArr: TOneWord[] = [
     skyid: '174048'
   },
   {
-    targetWord: 'tl;dr',
-    translating: 'слишком длинно; не читал',
+    targetWord: 'tl;dr',
+    translating: 'слишком длинно; не читал',
     partOfSpeechCode: 'abb',
     skyid: '261307'
   },
@@ -37716,7 +37716,7 @@ export const tArr: TOneWord[] = [
   },
   {
     targetWord: 'transportation',
-    translating: 'перевозка; транспортировка',
+    translating: 'перевозка; транспортировка',
     partOfSpeechCode: 'n',
     skyid: '44767'
   },
