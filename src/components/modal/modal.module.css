@@ -19,7 +19,7 @@
   border: 1px solid white;
   border-radius: 25px;
   transform: translate(-50%, -50%);
-  animation: fadein 200ms ease-out forwards;
+  animation: fadein 300ms ease-out forwards;
 }
 
 .layoutComponent {
@@ -41,12 +41,10 @@
 
 @keyframes fadein {
   from {
-    transform: scale(0.9) translate(-50%, -1000%);
-    opacity: 0;
+    transform: scale(0.5) translate(10%, -50%);
   }
 
   to {
-    transform: scale(1) translate(-50%, -50%) ;
-    opacity: 1;
+    transform: scale(1) translate(-50%, -50%);
   }
 }
