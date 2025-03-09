@@ -10,13 +10,13 @@ import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
 
 export const MdComponent = () => {
   const content = useAppSelector(getMDcontent);
-  const dispatch = useAppDispatch();
+  // const dispatch = useAppDispatch();
 
-  const fullFileName = useAppSelector(selectFullFileName);
+  // const fullFileName = useAppSelector(selectFullFileName);
 
-  useEffect(() => {
-    dispatch(fetchMDcontent(fullFileName));
-  }, [fullFileName]);
+  // useEffect(() => {
+  //   dispatch(fetchMDcontent(fullFileName));
+  // }, [fullFileName]);
 
   return (
     <div className={styles.mdContainer}>

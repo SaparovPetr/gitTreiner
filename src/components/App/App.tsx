@@ -7,7 +7,7 @@ import SettingModalContent from '@components/setting-modal-content/setting-modal
 import WordModalContent from '@components/word-modal-content/word-modal-content';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
-import { resetStore } from '@slices/md-slice';
+import { getStatus, resetStore } from '@slices/md-slice';
 import { setShowModal } from '@slices/modal-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
@@ -15,7 +15,7 @@ import {
   counterFromLocalStorage,
   currientModeFromLocalStorage
 } from '@utils/localstorage-functionality';
-import { AppMode, IUser } from '@utils-types';
+import { AppMode, IUser, RequestStatus } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
@@ -23,7 +23,7 @@ import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
-import { useAppDispatch } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../services/store';
 import { User } from '../../user';
 
 const App = () => {
@@ -31,6 +31,8 @@ const App = () => {
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
   const navigate = useNavigate();
+
+  const mdFetchStatus = useAppSelector(getStatus);
 
   const user: IUser = new User(
     `${localStorage.getItem(`UserName`)}`,
@@ -46,6 +48,7 @@ const App = () => {
   };
 
   useEffect(() => {
+    // console.log(mdFetchStatus);
     if (!currientModeFromLocalStorage) {
       dispatch(setMode(AppMode.Dif)); // (заметка № 1)
     }
@@ -87,6 +90,7 @@ const App = () => {
         <Route
           path='/gitTreiner/word'
           element={
+            // mdFetchStatus === RequestStatus.Success && (
             <Layout>
               <WordModalContent
                 closeModal={closeModal}
@@ -94,6 +98,7 @@ const App = () => {
                 linkToRepo={user.linkToRepo}
               />
             </Layout>
+            // )
           }
         />
         <Route
@@ -111,15 +116,17 @@ const App = () => {
           <Route
             path='/gitTreiner/word'
             element={
-              <Layout>
-                <Modal closeModal={closeModal}>
-                  <WordModalContent
-                    closeModal={closeModal}
-                    linkToPublicFile={user.linkToPublicFile}
-                    linkToRepo={user.linkToRepo}
-                  />
-                </Modal>
-              </Layout>
+              mdFetchStatus === RequestStatus.Success && (
+                <Layout>
+                  <Modal closeModal={closeModal}>
+                    <WordModalContent
+                      closeModal={closeModal}
+                      linkToPublicFile={user.linkToPublicFile}
+                      linkToRepo={user.linkToRepo}
+                    />
+                  </Modal>
+                </Layout>
+              )
             }
           />
           <Route
