@@ -7,6 +7,7 @@ import SettingModalContent from '@components/setting-modal-content/setting-modal
 import WordModalContent from '@components/word-modal-content/word-modal-content';
 import { MainPage } from '@pages/main-page/main-page';
 import { setCounter } from '@slices/counter-slice';
+import { resetStore } from '@slices/md-slice';
 import { setShowModal } from '@slices/modal-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
@@ -40,6 +41,7 @@ const App = () => {
     dispatch(setShowModal(false));
     setTimeout(() => {
       navigate(-1);
+      dispatch(resetStore());
     }, 200);
   };
 
