@@ -22,7 +22,7 @@ const WordModalContent = ({
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
 
-  const fileName = `${linkToPublicFile}${word?.targetWord}%20-%20${word?.translating}.md`;
+  // const fileName = `${linkToPublicFile}${word?.targetWord}%20-%20${word?.translating}.md`;
 
   // (заметка № 15)
   useEffect(() => {
@@ -87,7 +87,7 @@ const WordModalContent = ({
         {word?.targetWord} - {word?.translating}
       </div>
 
-      <MdComponent file={fileName} />
+      <MdComponent />
       <div className={styles.buttonsZone}>
         {!isReady && (
           <RoundButton onClickFunc={knockToAI} disabled>
