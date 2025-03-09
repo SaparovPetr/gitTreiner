@@ -20,7 +20,6 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
   }, [id]);
 
   const handleClick = () => {
-    console.log({ id, targetWord, translating, skyid });
     dispatch(picData({ id, targetWord, translating, skyid }));
   };
 
