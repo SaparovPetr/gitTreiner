@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 
+import ErrorHint from '@components/error-hint/error-hint';
 import { Layout } from '@components/modal/layout';
 import { Modal } from '@components/modal/modal';
 import { NotFound404 } from '@components/not-fount-404/not-fount-404';
@@ -90,7 +91,6 @@ const App = () => {
         <Route
           path='/gitTreiner/word'
           element={
-            // mdFetchStatus === RequestStatus.Success && (
             <Layout>
               <WordModalContent
                 closeModal={closeModal}
@@ -98,7 +98,6 @@ const App = () => {
                 linkToRepo={user.linkToRepo}
               />
             </Layout>
-            // )
           }
         />
         <Route
@@ -141,6 +140,20 @@ const App = () => {
           />
         </Routes>
       )}
+      <Routes>
+        <Route
+          path='/gitTreiner/word'
+          element={
+            mdFetchStatus === RequestStatus.Failed && (
+              <Layout>
+                <Modal closeModal={closeModal}>
+                  <ErrorHint closeModal={closeModal} />
+                </Modal>
+              </Layout>
+            )
+          }
+        />
+      </Routes>
     </>
   );
 };
