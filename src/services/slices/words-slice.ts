@@ -4,11 +4,11 @@ import { TOneWord } from '@utils-types';
 
 const uuid = require('uuid');
 
-interface arrayState {
+interface IarrayState {
   collection: TOneWord[];
 }
 
-const initialState: arrayState = {
+const initialState: IarrayState = {
   collection: []
 };
 

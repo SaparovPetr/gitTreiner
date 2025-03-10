@@ -1,10 +1,10 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-interface ImodalState {
+interface IModalState {
   showModal: boolean;
 }
 
-const initialState: ImodalState = {
+const initialState: IModalState = {
   showModal: false
 };
 
