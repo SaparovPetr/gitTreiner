@@ -45,8 +45,6 @@ const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
   const dispatch = useAppDispatch();
-  const fullFileName = useAppSelector(selectFullFileName);
-  const pickedObject = useAppSelector(selectPickedWordObject);
 
   const makeList = (oneArr: TOneWord[]) => {
     let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);
@@ -91,10 +89,14 @@ const SearchResults = ({ stringFromInput }: any) => {
     dispatch(picData(state[index]));
     dispatch(
       setFullFileName(
-        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${pickedObject.targetWord}%20-%20${pickedObject.translating}.md`
+        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`
       )
     );
-    dispatch(fetchMDcontent(fullFileName));
+    dispatch(
+      fetchMDcontent(
+        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`
+      )
+    );
   };
 
   return (
