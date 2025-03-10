@@ -30,8 +30,15 @@ export const mdSlice = createSlice({
       state.pickedWordObject = action.payload;
     },
     resetStore(state) {
-      state.mdContent = '';
+      // state.mdContent = '';
       state.requestStatus = RequestStatus.Idle;
+      // (state.fullFileName = ''),
+      //   (state.pickedWordObject = {
+      //     targetWord: '',
+      //     translating: '',
+      //     skyid: '',
+      //     id: ''
+      //   });
     },
     setFullFileName(state, action) {
       state.fullFileName = action.payload;
@@ -40,7 +47,8 @@ export const mdSlice = createSlice({
   selectors: {
     getStatus: (sliceState) => sliceState.requestStatus,
     getMDcontent: (sliceState) => sliceState.mdContent,
-    selectPickedWordObject: (sliceState) => sliceState.pickedWordObject
+    selectPickedWordObject: (sliceState) => sliceState.pickedWordObject,
+    selectFullFileName: (sliceState) => sliceState.fullFileName
   },
   extraReducers: (builder) => {
     builder
@@ -59,7 +67,11 @@ export const mdSlice = createSlice({
   }
 });
 
-export const { getStatus, getMDcontent, selectPickedWordObject } =
-  mdSlice.selectors;
+export const {
+  getStatus,
+  getMDcontent,
+  selectPickedWordObject,
+  selectFullFileName
+} = mdSlice.selectors;
 
-export const { picData, resetStore } = mdSlice.actions;
+export const { picData, resetStore, setFullFileName } = mdSlice.actions;

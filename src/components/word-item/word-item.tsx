@@ -2,8 +2,8 @@ import { useEffect } from 'react';
 
 import { Layout } from '@components/modal/layout';
 import OptionList from '@components/option-list/option-list';
-import { picData } from '@slices/md-slice';
-import { selectFullFileName } from '@slices/words-slice';
+import { picData, setFullFileName } from '@slices/md-slice';
+import { selectFullFileName } from '@slices/md-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
@@ -24,6 +24,11 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
 
   const handleClick = () => {
     dispatch(picData({ id, targetWord, translating, skyid }));
+    dispatch(
+      setFullFileName(
+        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
+      )
+    );
     dispatch(fetchMDcontent(fullFileName));
   };
 

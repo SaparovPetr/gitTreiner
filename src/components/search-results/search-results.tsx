@@ -1,12 +1,18 @@
 import { useEffect, useState } from 'react';
 
-import { picData } from '@slices/md-slice';
+import {
+  picData,
+  selectFullFileName,
+  selectPickedWordObject,
+  setFullFileName
+} from '@slices/md-slice';
 import { mapSearchResults } from '@utils/mapSearchResults';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './search-results.module.css';
-import { useAppDispatch } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../services/store';
+import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
 import { aArr } from '../../word-bases/myriad/aArr';
 import { bArr } from '../../word-bases/myriad/bArr';
 import { cArr } from '../../word-bases/myriad/cArr';
@@ -39,6 +45,8 @@ const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
   const dispatch = useAppDispatch();
+  const fullFileName = useAppSelector(selectFullFileName);
+  const pickedObject = useAppSelector(selectPickedWordObject);
 
   const makeList = (oneArr: TOneWord[]) => {
     let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);
@@ -81,6 +89,12 @@ const SearchResults = ({ stringFromInput }: any) => {
 
   const handleClick = (index: number) => {
     dispatch(picData(state[index]));
+    dispatch(
+      setFullFileName(
+        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${pickedObject.targetWord}%20-%20${pickedObject.translating}.md`
+      )
+    );
+    dispatch(fetchMDcontent(fullFileName));
   };
 
   return (

@@ -37,12 +37,9 @@ export const wordsSlice = createSlice({
     /** селлектор Коллекции */
     selectCollection: (sliceState) => sliceState.collection,
     /** Рабочий элемент Коллекции  */
-    selectFirstWord: (sliceState) => sliceState.collection[0],
-    selectFullFileName: (sliceState) =>
-      `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${sliceState.collection[0]?.targetWord}%20-%20${sliceState.collection[0]?.translating}.md`
+    selectFirstWord: (sliceState) => sliceState.collection[0]
   }
 });
 
 export const { makeCollection, removeWord } = wordsSlice.actions;
-export const { selectCollection, selectFirstWord, selectFullFileName } =
-  wordsSlice.selectors;
+export const { selectCollection, selectFirstWord } = wordsSlice.selectors;
