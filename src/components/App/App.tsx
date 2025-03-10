@@ -49,7 +49,6 @@ const App = () => {
   };
 
   useEffect(() => {
-    // console.log(mdFetchStatus);
     if (!currientModeFromLocalStorage) {
       dispatch(setMode(AppMode.Dif)); // (заметка № 1)
     }
