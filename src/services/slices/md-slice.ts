@@ -30,15 +30,15 @@ export const mdSlice = createSlice({
       state.pickedWordObject = action.payload;
     },
     resetStore(state) {
-      // state.mdContent = '';
+      state.mdContent = '';
       state.requestStatus = RequestStatus.Idle;
       // (state.fullFileName = ''),
-      //   (state.pickedWordObject = {
-      //     targetWord: '',
-      //     translating: '',
-      //     skyid: '',
-      //     id: ''
-      //   });
+      state.pickedWordObject = {
+        targetWord: '',
+        translating: '',
+        skyid: '',
+        id: ''
+      };
     },
     setFullFileName(state, action) {
       state.fullFileName = action.payload;

@@ -20,15 +20,15 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
   useEffect(() => {
     // (заметка № 14)
     audioCallback(targetWord);
-  }, [id]);
-
-  const handleClick = () => {
-    dispatch(picData({ id, targetWord, translating, skyid }));
     dispatch(
       setFullFileName(
         `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
       )
     );
+  }, [id]);
+
+  const handleClick = () => {
+    dispatch(picData({ id, targetWord, translating, skyid }));
     dispatch(fetchMDcontent(fullFileName));
   };
 
