@@ -1,5 +1,4 @@
-// убраться тут
-
+/** Функция упорядовачивания результатов поиска */
 export const mapSearchResults = (word: string, arr: any) => {
   const shortArr: any[] = [];
   arr.map((item: { targetWord: string }) => {
@@ -15,5 +14,6 @@ export const mapSearchResults = (word: string, arr: any) => {
       return -1;
     }
   });
+
   return shortArr;
 };

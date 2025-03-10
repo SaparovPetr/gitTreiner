@@ -8,6 +8,6 @@ export async function copyTextToClipboard(textToCopy: string) {
       await navigator.clipboard.writeText(textToCopy);
     }
   } catch (err) {
-    console.error(err);
+    throw new Error();
   }
 }

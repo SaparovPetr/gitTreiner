@@ -60,8 +60,6 @@ export const mdSlice = createSlice({
       })
       .addCase(fetchMDcontent.rejected, (state) => {
         state.requestStatus = RequestStatus.Failed;
-        state.mdContent =
-          'Заметка не получена. Укажите путь к репозиторию в настройках';
       });
   }
 });

@@ -5,7 +5,10 @@ import styles from './error-hint.module.css';
 
 export const ErrorHint = ({ closeModal }: TModalProps) => (
   <div className={styles.hintContainer}>
-    <div className={styles.hintText}>Укажите верные данные в настройках</div>
+    <div className={styles.hintText}>
+      Данные с Гитхаба не получены. Проверьте корректность ваших учетных данных
+      в настройках.
+    </div>
     <RoundButton disabled={false} onClickFunc={closeModal}>
       ✕
     </RoundButton>
