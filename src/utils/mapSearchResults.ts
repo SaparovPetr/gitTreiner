@@ -15,11 +15,5 @@ export const mapSearchResults = (word: string, arr: any) => {
       return -1;
     }
   });
-  // let smallArr = mapSearchResults(wordForFind)
-  // let superShortArr = []
-
-  // for (let i = 0; i < 10; i++) {
-  //     superShortArr.push(smallArr[i])
-  // }
   return shortArr;
 };

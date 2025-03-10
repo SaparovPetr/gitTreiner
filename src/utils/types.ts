@@ -47,7 +47,7 @@ export type TOneInput = {
 
 /** типизация пропсов модалки */
 export type TModalProps = {
-  children: ReactElement;
+  children?: ReactElement;
   closeModal: () => void;
 };
 
