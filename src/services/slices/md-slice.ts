@@ -32,7 +32,6 @@ export const mdSlice = createSlice({
     resetStore(state) {
       state.mdContent = '';
       state.requestStatus = RequestStatus.Idle;
-      // (state.fullFileName = ''),
       state.pickedWordObject = {
         targetWord: '',
         translating: '',

@@ -14,15 +14,12 @@ import { useAppSelector } from '../../services/store';
 
 const WordModalContent = ({
   closeModal,
-  linkToPublicFile,
   linkToRepo
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject);
 
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
-
-  // const fileName = `${linkToPublicFile}${word?.targetWord}%20-%20${word?.translating}.md`;
 
   // (заметка № 15)
   useEffect(() => {

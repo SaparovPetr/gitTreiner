@@ -1,11 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import {
-  picData,
-  selectFullFileName,
-  selectPickedWordObject,
-  setFullFileName
-} from '@slices/md-slice';
+import { picData, setFullFileName } from '@slices/md-slice';
 import { mapSearchResults } from '@utils/mapSearchResults';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
