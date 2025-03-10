@@ -37,7 +37,12 @@ div, a {
   color: inherit;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
-  user-select: none;
+}
+
+@supports (user-select: none) {
+  div, a {
+    user-select: none;
+  }
 }
 
 button {
