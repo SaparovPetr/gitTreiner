@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import { picData } from '@slices/modal-content-slice';
+import { picData } from '@slices/md-slice';
 import { mapSearchResults } from '@utils/mapSearchResults';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';

@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import Loader from '@components/loader/loader';
 import MdComponent from '@components/md-component/md-component';
 import { RoundButton } from '@components/round-button/round-button';
-import { selectPickedWordObject } from '@slices/modal-content-slice';
+import { selectPickedWordObject } from '@slices/md-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
 import { TWordModalContentProps } from '@utils-types';

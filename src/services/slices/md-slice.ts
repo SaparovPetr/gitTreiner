@@ -1,30 +1,46 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { RequestStatus } from '@utils-types';
+import { RequestStatus, TOneWord } from '@utils-types';
 
 import { fetchMDcontent } from '../thunks/fetchMDcontent';
 
-interface IMDState {
+interface IMDstate {
   mdContent: string;
   requestStatus: RequestStatus;
+  pickedWordObject: TOneWord;
+  fullFileName: string;
 }
 
-const initialState: IMDState = {
+const initialState: IMDstate = {
   mdContent: '',
-  requestStatus: RequestStatus.Idle
+  requestStatus: RequestStatus.Idle,
+  pickedWordObject: {
+    targetWord: '',
+    translating: '',
+    skyid: '',
+    id: ''
+  },
+  fullFileName: ''
 };
 
 export const mdSlice = createSlice({
   name: 'md',
   initialState,
   reducers: {
+    picData(state, action) {
+      state.pickedWordObject = action.payload;
+    },
     resetStore(state) {
       state.mdContent = '';
       state.requestStatus = RequestStatus.Idle;
+    },
+    setFullFileName(state, action) {
+      state.fullFileName = action.payload;
     }
   },
   selectors: {
     getStatus: (sliceState) => sliceState.requestStatus,
-    getMDcontent: (sliceState) => sliceState.mdContent
+    getMDcontent: (sliceState) => sliceState.mdContent,
+    selectPickedWordObject: (sliceState) => sliceState.pickedWordObject
   },
   extraReducers: (builder) => {
     builder
@@ -43,6 +59,7 @@ export const mdSlice = createSlice({
   }
 });
 
-export const { getStatus, getMDcontent } = mdSlice.selectors;
+export const { getStatus, getMDcontent, selectPickedWordObject } =
+  mdSlice.selectors;
 
-export const { resetStore } = mdSlice.actions;
+export const { picData, resetStore } = mdSlice.actions;

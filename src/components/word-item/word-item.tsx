@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 import { Layout } from '@components/modal/layout';
 import OptionList from '@components/option-list/option-list';
-import { picData } from '@slices/modal-content-slice';
+import { picData } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { TOneWord } from '@utils-types';
