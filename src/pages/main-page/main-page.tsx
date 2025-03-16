@@ -4,6 +4,7 @@ import Search from '@components/search/search';
 import Success from '@components/success/success';
 import Welcome from '@components/welcome/welcome';
 import WordItem from '@components/word-item/word-item';
+import WriteTranslation from '@components/writeTranslation/write-translation';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { isFirstStart } from '@utils/localstorage-functionality';
@@ -85,7 +86,11 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          {testRegime && <WordItem key={collection[0].id} {...collection[0]} />}
+          {/* {testRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
+          {testRegime && (
+            <WriteTranslation key={collection[0].id} {...collection[0]} />
+          )}
+
           {!testRegime && <Search />}
         </>
       )}

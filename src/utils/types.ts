@@ -53,6 +53,7 @@ export type TModalProps = {
 
 /** типизация пропсов кнопки */
 export type TButtonProps = {
+  htmlType?: string;
   children: ReactNode;
   onClickFunc?: () => void;
   disabled: boolean;
