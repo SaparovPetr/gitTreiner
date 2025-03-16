@@ -2,19 +2,25 @@ import {
   ChangeEvent,
   ChangeEventHandler,
   SyntheticEvent,
+  useEffect,
   useState
 } from 'react';
 
 import { RoundButton } from '@components/round-button/round-button';
+import { picData, selectFullFileName, setFullFileName } from '@slices/md-slice';
 import { removeWord } from '@slices/words-slice';
 import { TOneWord } from '@utils-types';
+import { Link, useLocation } from 'react-router-dom';
 
 import styles from './write-translation.module.css';
-import { useAppDispatch } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../services/store';
+import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
 
 const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
   const [value, setValue] = useState('');
   const dispatch = useAppDispatch();
+  const locationInTheApp = useLocation();
+  const fullFileName = useAppSelector(selectFullFileName);
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
@@ -31,10 +37,30 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
     }
   };
 
+  const handleClick = () => {
+    dispatch(picData({ id, targetWord, translating, skyid }));
+    dispatch(fetchMDcontent(fullFileName));
+  };
+
+  useEffect(() => {
+    // (заметка № 14)
+    dispatch(
+      setFullFileName(
+        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
+      )
+    );
+  }, [id]);
+
   return (
     <div className={styles.searchContainer}>
-      <div>{translating}</div>
-      <div>{targetWord}</div>
+      <Link
+        onClick={handleClick}
+        className={styles.cardWordArea}
+        to='/gitTreiner/word'
+        state={{ backgroundLocation: locationInTheApp }}
+      >
+        {translating}
+      </Link>
 
       <form onSubmit={handleSubmit}>
         <label className={styles.label}>
@@ -47,9 +73,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
             onChange={handleChange}
           />
         </label>
-        <RoundButton htmlType='submit' disabled={false}>
-          Check
-        </RoundButton>
+        <RoundButton htmlType='submit'>Check</RoundButton>
       </form>
     </div>
   );

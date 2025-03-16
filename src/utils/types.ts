@@ -56,7 +56,7 @@ export type TButtonProps = {
   htmlType?: string;
   children: ReactNode;
   onClickFunc?: () => void;
-  disabled: boolean;
+  disabled?: boolean;
 };
 
 /** типизация пропсов модалки слова */
