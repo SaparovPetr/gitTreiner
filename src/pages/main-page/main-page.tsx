@@ -20,7 +20,8 @@ import styles from './main-page.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
-  const [testRegime, setTestregime] = useState(false);
+  const [trialRegime, setTrialRegime] = useState(false);
+  const [writeInCard, setWriteInCard] = useState(true);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
@@ -56,7 +57,7 @@ export const MainPage: FC = () => {
    * Колбек для клика по кнопке смены режима
    */
   const changeRegime = () => {
-    testRegime ? setTestregime(false) : setTestregime(true);
+    trialRegime ? setTrialRegime(false) : setTrialRegime(true);
   };
 
   return (
@@ -86,12 +87,16 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          {/* {testRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
-          {testRegime && (
+          {/* {trialRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
+          {trialRegime && writeInCard && (
             <WriteTranslation key={collection[0].id} {...collection[0]} />
           )}
 
-          {!testRegime && <Search />}
+          {trialRegime && !writeInCard && (
+            <WordItem key={collection[0].id} {...collection[0]} />
+          )}
+
+          {!trialRegime && <Search />}
         </>
       )}
       {/* (TODO: добавить заметку в ReadMe) */}
