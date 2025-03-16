@@ -47,7 +47,7 @@ const SearchResults = ({ stringFromInput }: any) => {
   };
 
   useEffect(() => {
-    const firstLetter = stringFromInput.charAt(0).toLowerCase();
+    const firstLetter = stringFromInput.charAt(0);
     const letterToArrayMap: { [key: string]: TOneWord[] } = {
       a: aArr,
       b: bArr,
@@ -74,7 +74,33 @@ const SearchResults = ({ stringFromInput }: any) => {
       w: wArr,
       x: xArr,
       y: yArr,
-      z: zArr
+      z: zArr,
+      A: difArr,
+      B: difArr,
+      C: difArr,
+      D: difArr,
+      E: difArr,
+      F: difArr,
+      G: difArr,
+      H: difArr,
+      I: difArr,
+      J: difArr,
+      K: difArr,
+      L: difArr,
+      M: difArr,
+      N: difArr,
+      O: difArr,
+      P: difArr,
+      Q: difArr,
+      R: difArr,
+      S: difArr,
+      T: difArr,
+      U: difArr,
+      V: difArr,
+      W: difArr,
+      X: difArr,
+      Y: difArr,
+      Z: difArr
     };
     const selectedArray = letterToArrayMap[firstLetter] || difArr;
     setState(makeList(selectedArray));

@@ -1,13 +1,13 @@
 import { TOneWord } from '@utils-types';
 export const difArr: TOneWord[] = [
   {
-    targetWord: ' be involved',
+    targetWord: 'be involved',
     translating: 'быть вовлечённым',
     partOfSpeechCode: 'ph',
     skyid: '229627'
   },
   {
-    targetWord: ' in-laws',
+    targetWord: 'in-laws',
     translating: 'родственники со стороны жены или мужа',
     partOfSpeechCode: 'ph',
     skyid: '230718'

@@ -10,7 +10,7 @@ const Search = () => {
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
-    setValue(e.target.value.toLowerCase());
+    setValue(e.target.value);
   };
 
   return (
@@ -20,7 +20,7 @@ const Search = () => {
         <input
           autoFocus
           className={styles.input}
-          type='text'
+          type='email'
           value={value}
           onChange={handleChange}
         />
