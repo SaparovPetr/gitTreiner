@@ -20,6 +20,7 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
   useEffect(() => {
     // (заметка № 14)
     audioCallback(targetWord);
+    console.log('ldd');
     dispatch(
       setFullFileName(
         `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`

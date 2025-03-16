@@ -27,7 +27,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
-    setValue(e.target.value.toLowerCase());
+    setValue(e.target.value);
     setWrongAnswer(false);
   };
 
@@ -69,6 +69,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
           write translation:
           <input
             autoFocus
+            type='email'
             className={wrongAnswer ? styles.inputWithWrongAnswer : styles.input}
             value={value}
             onChange={handleChange}

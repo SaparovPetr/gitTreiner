@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { FC, useEffect, useState } from 'react';
 
 import Search from '@components/search/search';
 import Success from '@components/success/success';
@@ -20,11 +20,20 @@ import styles from './main-page.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
-  const [testRegime, setTestregime] = useState(false);
+  const [trialRegime, setTrialRegime] = useState(false);
+  const [writeInCard, setWriteInCard] = useState(true);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
   const locationInTheApp = useLocation();
+
+  useEffect(() => {
+    if (collection.length % 3 === 0) {
+      setWriteInCard(true);
+    } else {
+      setWriteInCard(false);
+    }
+  }, [collection]);
 
   /**
    * Колбек для клика по логотипу
@@ -56,7 +65,7 @@ export const MainPage: FC = () => {
    * Колбек для клика по кнопке смены режима
    */
   const changeRegime = () => {
-    testRegime ? setTestregime(false) : setTestregime(true);
+    trialRegime ? setTrialRegime(false) : setTrialRegime(true);
   };
 
   return (
@@ -86,12 +95,16 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          {/* {testRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
-          {testRegime && (
+          {/* {trialRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
+          {trialRegime && !writeInCard && (
+            <WordItem key={collection[0].id} {...collection[0]} />
+          )}
+
+          {trialRegime && writeInCard && (
             <WriteTranslation key={collection[0].id} {...collection[0]} />
           )}
 
-          {!testRegime && <Search />}
+          {!trialRegime && <Search />}
         </>
       )}
       {/* (TODO: добавить заметку в ReadMe) */}
