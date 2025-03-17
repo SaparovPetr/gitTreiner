@@ -20,7 +20,7 @@ const Search = () => {
         <input
           autoFocus
           className={styles.input}
-          type='email'
+          type='text'
           value={value}
           onChange={handleChange}
         />

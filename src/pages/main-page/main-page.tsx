@@ -21,7 +21,7 @@ import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
   const [trialRegime, setTrialRegime] = useState(false);
-  const [writeInCard, setWriteInCard] = useState(true);
+  const [writeInCard, setWriteInCard] = useState(false);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
@@ -33,10 +33,10 @@ export const MainPage: FC = () => {
     } else {
       setWriteInCard(false);
     }
-  }, [collection]);
+  }, [collection.length]);
 
   /**
-   * Колбек для клика по логотипу
+   * Колбек клика по логотипу
    */
   const changeMode = () => {
     if (currientMode === AppMode.Dif) {
@@ -62,7 +62,7 @@ export const MainPage: FC = () => {
   };
 
   /**
-   * Колбек для клика по кнопке смены режима
+   * Колбек клика по кнопке смены режимов поиска и подготовки
    */
   const changeRegime = () => {
     trialRegime ? setTrialRegime(false) : setTrialRegime(true);
@@ -95,7 +95,6 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          {/* {trialRegime && <WordItem key={collection[0].id} {...collection[0]} />} */}
           {trialRegime && !writeInCard && (
             <WordItem key={collection[0].id} {...collection[0]} />
           )}

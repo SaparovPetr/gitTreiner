@@ -26,7 +26,7 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
         `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
       )
     );
-  }, [id]);
+  }, [targetWord]);
 
   const handleClick = () => {
     dispatch(picData({ id, targetWord, translating, skyid }));

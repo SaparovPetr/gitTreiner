@@ -69,7 +69,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
           write translation:
           <input
             autoFocus
-            type='email'
+            type='text'
             className={wrongAnswer ? styles.inputWithWrongAnswer : styles.input}
             value={value}
             onChange={handleChange}

@@ -111,22 +111,37 @@ const App = () => {
       {backgroundLocation && (
         <Routes>
           <Route path='/gitTreiner' element={<MainPage />} />
-          <Route
-            path='/gitTreiner/word'
-            element={
-              mdFetchStatus === RequestStatus.Success && (
+          {mdFetchStatus === RequestStatus.Success && (
+            <Route
+              path='/gitTreiner/word'
+              element={
+                mdFetchStatus === RequestStatus.Success && (
+                  <Layout>
+                    <Modal closeModal={closeModal}>
+                      <WordModalContent
+                        closeModal={closeModal}
+                        linkToPublicFile={user.linkToPublicFile}
+                        linkToRepo={user.linkToRepo}
+                      />
+                    </Modal>
+                  </Layout>
+                )
+              }
+            />
+          )}
+          {mdFetchStatus === RequestStatus.Failed && (
+            <Route
+              path='/gitTreiner/word'
+              element={
                 <Layout>
                   <Modal closeModal={closeModal}>
-                    <WordModalContent
-                      closeModal={closeModal}
-                      linkToPublicFile={user.linkToPublicFile}
-                      linkToRepo={user.linkToRepo}
-                    />
+                    <ErrorHint closeModal={closeModal} />
                   </Modal>
                 </Layout>
-              )
-            }
-          />
+              }
+            />
+          )}
+
           <Route
             path='/gitTreiner/setting'
             element={
@@ -139,20 +154,6 @@ const App = () => {
           />
         </Routes>
       )}
-      <Routes>
-        <Route
-          path='/gitTreiner/word'
-          element={
-            mdFetchStatus === RequestStatus.Failed && (
-              <Layout>
-                <Modal closeModal={closeModal}>
-                  <ErrorHint closeModal={closeModal} />
-                </Modal>
-              </Layout>
-            )
-          }
-        />
-      </Routes>
     </>
   );
 };
