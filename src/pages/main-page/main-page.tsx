@@ -22,7 +22,7 @@ import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const MainPage: FC = () => {
   const [trialRegime, setTrialRegime] = useState(false);
-  const [writeInCard, setWriteInCard] = useState(false);
+  const [entryCard, setEntryCard] = useState(false);
   const dispatch = useAppDispatch();
   const collection = useAppSelector(selectCollection);
   const currientMode = useAppSelector(selectModeState);
@@ -31,10 +31,10 @@ export const MainPage: FC = () => {
   useEffect(() => {
     if (trialRegime) {
       if (collection.length % 3 === 0) {
-        setWriteInCard(true);
+        setEntryCard(true);
       } else {
         audioCallback(collection[0].targetWord);
-        setWriteInCard(false);
+        setEntryCard(false);
       }
     }
   }, [collection.length, trialRegime]);
@@ -99,11 +99,11 @@ export const MainPage: FC = () => {
             </div>
           </div>
 
-          {trialRegime && !writeInCard && (
+          {trialRegime && !entryCard && (
             <WordItem key={collection[0].id} {...collection[0]} />
           )}
 
-          {trialRegime && writeInCard && (
+          {trialRegime && entryCard && (
             <WriteTranslation key={collection[0].id} {...collection[0]} />
           )}
 
