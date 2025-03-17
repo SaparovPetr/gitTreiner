@@ -15,6 +15,8 @@ import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
 import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
+import { spanish400 } from '@word-bases/spanish400';
+import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './main-page.module.css';
@@ -59,7 +61,17 @@ export const MainPage: FC = () => {
       dispatch(setMode(AppMode.B2));
       dispatch(makeCollection(bTwoWordBase));
     }
+
     if (currientMode === AppMode.B2) {
+      dispatch(setMode(AppMode.Es400));
+      dispatch(makeCollection(spanish400));
+    }
+
+    if (currientMode === AppMode.Es400) {
+      dispatch(setMode(AppMode.Es500));
+      dispatch(makeCollection(spanish500));
+    }
+    if (currientMode === AppMode.Es500) {
       dispatch(setMode(AppMode.Dif));
       dispatch(makeCollection(difWordBase));
     }

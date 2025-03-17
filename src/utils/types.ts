@@ -3,8 +3,8 @@ import { ReactElement, ReactNode } from 'react';
 /** Состояния загрузки маркаун
  * @param Idle простаивает
  * @param Loading загружается
- * 	@param Success успешно загружено
- * 	@param Failed ошибка
+ * @param Success успешно загружено
+ * @param Failed ошибка
  */
 export const enum RequestStatus {
   Idle = 'Idle',
@@ -20,15 +20,18 @@ export type TOneWord = {
   skyid?: string | null;
   id?: string;
   partOfSpeechCode?: string;
+  audioURL?: string;
 };
 
-/** виды режимов приложения (уровня изучаемых слов) */
+/** виды режимов приложения (уровня изучаемых слов и языка) */
 export const enum AppMode {
   Dif = 'dif',
   ThreeK = '3K',
   A = 'A',
   B1 = 'B1',
-  B2 = 'B2'
+  B2 = 'B2',
+  Es400 = 'es400',
+  Es500 = 'es500'
 }
 
 /** типизация пользователя */

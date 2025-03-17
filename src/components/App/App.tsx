@@ -22,6 +22,8 @@ import { aWordBase } from '@word-bases/a';
 import { bOneWordBase } from '@word-bases/b-one';
 import { bTwoWordBase } from '@word-bases/b-two';
 import { difWordBase } from '@word-bases/dif';
+import { spanish400 } from '@word-bases/spanish400';
+import { spanish500 } from '@word-bases/spanish500';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../../services/store';
@@ -75,6 +77,14 @@ const App = () => {
 
     if (currientModeFromLocalStorage === AppMode.B2) {
       dispatch(makeCollection(bTwoWordBase));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.Es400) {
+      dispatch(makeCollection(spanish400));
+    }
+
+    if (currientModeFromLocalStorage === AppMode.Es500) {
+      dispatch(makeCollection(spanish500));
     }
 
     dispatch(setCounter(Number(counterFromLocalStorage)));
