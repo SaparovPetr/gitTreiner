@@ -35,11 +35,17 @@ export const MainPage: FC = () => {
       if (collection.length % 3 === 0) {
         setEntryCard(true);
       } else {
-        audioCallback(collection[0].targetWord);
+        if (currientMode === AppMode.Es400) {
+          audioCallback(collection[0].audioURL);
+        } else {
+          audioCallback(
+            `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${collection[0].targetWord}&lang=en&voice=male_2`
+          );
+        }
         setEntryCard(false);
       }
     }
-  }, [collection.length, trialRegime]);
+  }, [collection, trialRegime]);
 
   /**
    * Колбек клика по логотипу

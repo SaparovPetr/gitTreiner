@@ -17,7 +17,8 @@ const initialState: IMDstate = {
     targetWord: '',
     translating: '',
     skyid: '',
-    id: ''
+    id: '',
+    audioURL: ''
   },
   fullFileName: ''
 };
@@ -36,7 +37,8 @@ export const mdSlice = createSlice({
         targetWord: '',
         translating: '',
         skyid: '',
-        id: ''
+        id: '',
+        audioURL: ''
       };
     },
     setFullFileName(state, action) {

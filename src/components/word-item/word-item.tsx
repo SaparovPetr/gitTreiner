@@ -11,7 +11,13 @@ import styles from './word-item.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
 
-const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
+const WordItem = ({
+  id,
+  targetWord,
+  translating,
+  skyid,
+  audioURL
+}: TOneWord) => {
   const locationInTheApp = useLocation();
   const dispatch = useAppDispatch();
   const fullFileName = useAppSelector(selectFullFileName);
@@ -26,7 +32,7 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
   }, [targetWord]);
 
   const handleClick = () => {
-    dispatch(picData({ id, targetWord, translating, skyid }));
+    dispatch(picData({ id, targetWord, translating, skyid, audioURL }));
     dispatch(fetchMDcontent(fullFileName));
   };
 

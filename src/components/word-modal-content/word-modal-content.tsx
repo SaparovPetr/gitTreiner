@@ -4,9 +4,10 @@ import Loader from '@components/loader/loader';
 import MdComponent from '@components/md-component/md-component';
 import { RoundButton } from '@components/round-button/round-button';
 import { selectPickedWordObject } from '@slices/md-slice';
+import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
-import { TWordModalContentProps } from '@utils-types';
+import { AppMode, TWordModalContentProps } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './word-modal-content.module.css';
@@ -17,6 +18,7 @@ const WordModalContent = ({
   linkToRepo
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject);
+  const currientMode = useAppSelector(selectModeState);
 
   const [isLoading, setIsLoading] = useState(false);
   const [isReady, setIsReady] = useState(false);
@@ -24,7 +26,13 @@ const WordModalContent = ({
   // (заметка № 15)
   useEffect(() => {
     // (заметка № 14)
-    audioCallback(word?.targetWord);
+    if (currientMode === AppMode.Es400) {
+      audioCallback(word.audioURL);
+    } else {
+      audioCallback(
+        `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${word.targetWord}&lang=en&voice=male_2`
+      );
+    }
     checkBotStatus();
     copyTextToClipboard(`${word?.targetWord} - ${word?.translating}`);
   }, []);
