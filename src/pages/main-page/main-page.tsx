@@ -7,6 +7,7 @@ import WordItem from '@components/word-item/word-item';
 import WriteTranslation from '@components/writeTranslation/write-translation';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
+import { audioCallback } from '@utils/audio-callback';
 import { isFirstStart } from '@utils/localstorage-functionality';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
@@ -31,6 +32,7 @@ export const MainPage: FC = () => {
     if (collection.length % 3 === 0) {
       setWriteInCard(true);
     } else {
+      audioCallback(collection[0].targetWord);
       setWriteInCard(false);
     }
   }, [collection.length]);

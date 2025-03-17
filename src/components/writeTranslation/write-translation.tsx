@@ -54,7 +54,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
   }, []);
 
   return (
-    <div className={styles.cardContainer}>
+    <div className={styles.entryCardContainer}>
       <Link
         onClick={handleClick}
         className={styles.translationWord}

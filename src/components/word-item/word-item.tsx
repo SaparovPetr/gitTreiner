@@ -4,7 +4,6 @@ import { Layout } from '@components/modal/layout';
 import OptionList from '@components/option-list/option-list';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';
-import { audioCallback } from '@utils/audio-callback';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
@@ -19,7 +18,6 @@ const WordItem = ({ id, targetWord, translating, skyid }: TOneWord) => {
 
   useEffect(() => {
     // (заметка № 14)
-    audioCallback(targetWord);
     console.log('ldd');
     dispatch(
       setFullFileName(
