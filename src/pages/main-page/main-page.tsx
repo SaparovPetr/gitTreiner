@@ -99,7 +99,9 @@ export const MainPage: FC = () => {
               <div>Git_</div>
               <div>
                 treiner
-                <span className={styles.lable}>{currientMode}</span>
+                {trialRegime && (
+                  <span className={styles.lable}>{currientMode}</span>
+                )}
               </div>
             </div>
 
