@@ -29,13 +29,15 @@ export const MainPage: FC = () => {
   const locationInTheApp = useLocation();
 
   useEffect(() => {
-    if (collection.length % 3 === 0) {
-      setWriteInCard(true);
-    } else {
-      audioCallback(collection[0].targetWord);
-      setWriteInCard(false);
+    if (trialRegime) {
+      if (collection.length % 3 === 0) {
+        setWriteInCard(true);
+      } else {
+        audioCallback(collection[0].targetWord);
+        setWriteInCard(false);
+      }
     }
-  }, [collection.length]);
+  }, [collection.length, trialRegime]);
 
   /**
    * Колбек клика по логотипу
