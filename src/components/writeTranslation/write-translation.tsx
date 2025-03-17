@@ -51,7 +51,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
         `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
       )
     );
-  }, [id]);
+  }, []);
 
   return (
     <div className={styles.cardContainer}>

@@ -7,6 +7,13 @@
     font-size: 18px;
 }
 
+.phraseZone {
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+  }
+
 .hintText {
     padding: 0 5px;
     font-weight: bold;
