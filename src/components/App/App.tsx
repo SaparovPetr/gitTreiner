@@ -14,7 +14,8 @@ import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
 import {
   counterFromLocalStorage,
-  currientModeFromLocalStorage
+  currientModeFromLocalStorage,
+  setEntryInLocalStorage
 } from '@utils/localstorage-functionality';
 import { AppMode, IUser, RequestStatus } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
@@ -44,6 +45,8 @@ const App = () => {
 
   const closeModal = () => {
     dispatch(setShowModal(false));
+    setEntryInLocalStorage('modalIsOpen', 'false');
+
     setTimeout(() => {
       navigate(-1);
       dispatch(resetStore());
@@ -96,9 +99,9 @@ const App = () => {
         <Route path='/' element={<MainPage />} />
         <Route path='*' element={<NotFound404 />} />
 
-        <Route path='/gitTreiner' element={<MainPage />} />
+        <Route path='/' element={<MainPage />} />
         <Route
-          path='/gitTreiner/word'
+          path='/word'
           element={
             <Layout>
               <WordModalContent
@@ -110,7 +113,7 @@ const App = () => {
           }
         />
         <Route
-          path='/gitTreiner/setting'
+          path='/setting'
           element={
             <Layout>
               <SettingModalContent closeModal={closeModal} />
@@ -120,10 +123,10 @@ const App = () => {
       </Routes>
       {backgroundLocation && (
         <Routes>
-          <Route path='/gitTreiner' element={<MainPage />} />
+          <Route path='/' element={<MainPage />} />
           {mdFetchStatus === RequestStatus.Success && (
             <Route
-              path='/gitTreiner/word'
+              path='/word'
               element={
                 mdFetchStatus === RequestStatus.Success && (
                   <Layout>
@@ -141,7 +144,7 @@ const App = () => {
           )}
           {mdFetchStatus === RequestStatus.Failed && (
             <Route
-              path='/gitTreiner/word'
+              path='/word'
               element={
                 <Layout>
                   <Modal closeModal={closeModal}>
@@ -153,7 +156,7 @@ const App = () => {
           )}
 
           <Route
-            path='/gitTreiner/setting'
+            path='/setting'
             element={
               <Layout>
                 <Modal closeModal={closeModal}>

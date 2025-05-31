@@ -103,7 +103,7 @@ const SearchResults = ({ stringFromInput }: any) => {
             className={styles.link}
             key={index}
             onClick={() => handleClick(index)}
-            to='/gitTreiner/word'
+            to='/word'
             state={{ backgroundLocation: locationInTheApp }}
           >
             {`${item.targetWord} - ${item.translating}`}

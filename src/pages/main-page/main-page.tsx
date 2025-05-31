@@ -108,7 +108,7 @@ export const MainPage: FC = () => {
             <div className={styles.buttonsArea}>
               <Link
                 className={styles.settingButton}
-                to='/gitTreiner/setting'
+                to='/setting'
                 state={{ backgroundLocation: locationInTheApp }}
               >
                 <div className={styles.setButton}>≡</div>

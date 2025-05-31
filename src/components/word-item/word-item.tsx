@@ -43,7 +43,7 @@ const WordItem = ({
         <Link
           onClick={handleClick}
           className={styles.cardWordArea}
-          to='/gitTreiner/word'
+          to='/word'
           state={{ backgroundLocation: locationInTheApp }}
         >
           {targetWord}

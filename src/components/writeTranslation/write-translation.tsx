@@ -58,7 +58,7 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
       <Link
         onClick={handleClick}
         className={styles.translationWord}
-        to='/gitTreiner/word'
+        to='/word'
         state={{ backgroundLocation: locationInTheApp }}
       >
         {translating}
