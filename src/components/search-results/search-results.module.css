@@ -16,6 +16,10 @@
     width: 0;
 }
 
+.link:hover {
+    color: rgb(122 126 129);
+}
+
 .link:nth-child(1) {
     animation: fadein 0.1s ease-out forwards; 
 }
