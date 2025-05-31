@@ -1,10 +1,8 @@
 import React, { memo, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
-import { selectModeState } from '@slices/mode-slice';
 import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
 import { TModalProps } from '@utils-types';
-import { useNavigate } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
