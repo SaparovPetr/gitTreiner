@@ -1,10 +1,10 @@
 {
   "name": "GitTreiner",
   "short_name": "GitTreiner",
-  "start_url": "https://saparovpetr.github.io/gitTreiner/",
+  "start_url": "https://git-treiner.netlify.app",
   "display": "standalone",
-  "description": "A description for your application",
-  "lang": " The default language of your application",
+  "description": "App for improving English language skills",
+  "lang": "en",
   "dir": "auto",
   "theme_color": "#000000",
   "background_color": "#000000",
