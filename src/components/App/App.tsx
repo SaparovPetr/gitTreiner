@@ -128,17 +128,15 @@ const App = () => {
             <Route
               path='/word'
               element={
-                mdFetchStatus === RequestStatus.Success && (
-                  <Layout>
-                    <Modal closeModal={closeModal}>
-                      <WordModalContent
-                        closeModal={closeModal}
-                        linkToPublicFile={user.linkToPublicFile}
-                        linkToRepo={user.linkToRepo}
-                      />
-                    </Modal>
-                  </Layout>
-                )
+                <Layout>
+                  <Modal closeModal={closeModal}>
+                    <WordModalContent
+                      closeModal={closeModal}
+                      linkToPublicFile={user.linkToPublicFile}
+                      linkToRepo={user.linkToRepo}
+                    />
+                  </Modal>
+                </Layout>
               }
             />
           )}
