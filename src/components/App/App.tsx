@@ -56,38 +56,32 @@ const App = () => {
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
       dispatch(setMode(AppMode.Dif)); // (заметка № 1)
-    }
-
-    if (currientModeFromLocalStorage) {
+    } else {
       dispatch(setMode(currientModeFromLocalStorage));
     }
 
-    if (currientModeFromLocalStorage === AppMode.Dif) {
-      dispatch(makeCollection(difWordBase)); // (заметка № 2)
-    }
-
-    if (currientModeFromLocalStorage === AppMode.ThreeK) {
-      dispatch(makeCollection(threeThousandWordBase));
-    }
-
-    if (currientModeFromLocalStorage === AppMode.A) {
-      dispatch(makeCollection(aWordBase));
-    }
-
-    if (currientModeFromLocalStorage === AppMode.B1) {
-      dispatch(makeCollection(bOneWordBase));
-    }
-
-    if (currientModeFromLocalStorage === AppMode.B2) {
-      dispatch(makeCollection(bTwoWordBase));
-    }
-
-    if (currientModeFromLocalStorage === AppMode.Es400) {
-      dispatch(makeCollection(spanish400));
-    }
-
-    if (currientModeFromLocalStorage === AppMode.Es500) {
-      dispatch(makeCollection(spanish500));
+    switch (currientModeFromLocalStorage) {
+      case AppMode.Dif:
+        dispatch(makeCollection(difWordBase)); // (заметка № 2)
+        break;
+      case AppMode.ThreeK:
+        dispatch(makeCollection(threeThousandWordBase));
+        break;
+      case AppMode.A:
+        dispatch(makeCollection(aWordBase));
+        break;
+      case AppMode.B1:
+        dispatch(makeCollection(bOneWordBase));
+        break;
+      case AppMode.B2:
+        dispatch(makeCollection(bTwoWordBase));
+        break;
+      case AppMode.Es400:
+        dispatch(makeCollection(spanish400));
+        break;
+      case AppMode.Es500:
+        dispatch(makeCollection(spanish500));
+        break;
     }
 
     dispatch(setCounter(Number(counterFromLocalStorage)));
