@@ -38,8 +38,8 @@ const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
       />
 
       <LabeledInput
-        keyInLocalStorage={'linkToBot'}
-        lableContent={'AI server:'}
+        keyInLocalStorage={'aiKey'}
+        lableContent={'Your api key:'}
       />
 
       <RoundButton disabled={false} onClickFunc={closeModal}>

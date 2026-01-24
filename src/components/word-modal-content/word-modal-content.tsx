@@ -21,7 +21,8 @@ const WordModalContent = ({
   const currientMode = useAppSelector(selectModeState);
 
   const [isLoading, setIsLoading] = useState(false);
-  const [isReady, setIsReady] = useState(false);
+  const [isCopied, setIsCopied] = useState(false);
+  const [isErrorCreating, setIsErrorCreating] = useState(false);
 
   // (заметка № 15)
   useEffect(() => {
@@ -33,36 +34,27 @@ const WordModalContent = ({
         `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${word.targetWord}&lang=en&voice=male_2`
       );
     }
-    checkBotStatus();
     copyTextToClipboard(`${word?.targetWord} - ${word?.translating}`);
   }, []);
 
-  const checkBotStatus = () => {
-    fetch(`${localStorage.getItem(`linkToBot`)}/status`, {
-      method: 'GET'
-    })
-      .then((res) => {
-        if (res.ok) {
-          console.log(`сервер на связи`);
-          setIsReady(true);
-        }
-      })
-      .catch((err) => {
-        console.log(`Ошибка связи: ${err}`);
-        setIsReady(false);
-      });
-  };
-
   const knockToAI = () => {
     setIsLoading(true);
-    fetch(`${localStorage.getItem(`linkToBot`)}/predict`, {
+    fetch(`https://api.deepseek.com/v1/chat/completions/`, {
       method: 'POST',
       body: JSON.stringify({
-        message: `${word.targetWord} - ${word.translating}`
+        model: 'deepseek-chat',
+        messages: [
+          {
+            role: 'user',
+            content: `Give me seven and the most simple and popular collocations with that English phrase in the meaning that wrote in Russian in the end of this prompt. Don't paraphrase this term. Mark each collocation by number. Also give me one example (intermediate level) in different tenses: Present Perfect, Past Simple, Past Continuous, and Past Perfect. Give me only result of inquire, don't write own comments. Use only English. Make centences in the dashed list. Don't use markdown at all. Don't emphasize any words. ${word.targetWord} - ${word.translating}`
+          }
+        ],
+        max_tokens: 300
       }),
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'no-cors'
+        'Access-Control-Allow-Origin': 'no-cors',
+        Authorization: `Bearer ${localStorage.getItem(`aiKey`)}`
       }
     })
       .then((res) => {
@@ -72,8 +64,9 @@ const WordModalContent = ({
       })
 
       .then((data) => {
+        console.log(data.choices[0].message.content);
         setIsLoading(false);
-        copyTextToClipboard(data.result);
+        copyTextToClipboard(data.choices[0].message.content);
         return data;
       })
 
@@ -83,6 +76,7 @@ const WordModalContent = ({
 
       .finally(() => {
         setIsLoading(false);
+        setIsCopied(true);
       });
   };
 
@@ -94,19 +88,12 @@ const WordModalContent = ({
 
       <MdComponent />
       <div className={styles.buttonsZone}>
-        {!isReady && (
-          <RoundButton onClickFunc={knockToAI} disabled>
-            {isLoading ? <Loader /> : 'AI offline'}
-          </RoundButton>
-        )}
-
-        {isReady && (
-          <RoundButton disabled={false} onClickFunc={knockToAI}>
-            {' '}
-            {isLoading ? <Loader /> : 'create note'}{' '}
-          </RoundButton>
-        )}
-
+        <RoundButton disabled={false} onClickFunc={knockToAI}>
+          {!isCopied && !isLoading && !isErrorCreating && 'create note'}
+          {isLoading && <Loader />}
+          {isCopied && '🤘'}
+          {isErrorCreating && 'error creating'}
+        </RoundButton>
         <div className={styles.twoButtons}>
           <RoundButton disabled={false}>
             <Link
