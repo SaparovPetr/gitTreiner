@@ -37,8 +37,7 @@ const WordModalContent = ({
     copyTextToClipboard(`${word?.targetWord} - ${word?.translating}`);
   }, []);
 
-  const knockToAI = () => {
-    setIsLoading(true);
+  const knockToAI = async () =>
     fetch(`https://api.deepseek.com/v1/chat/completions/`, {
       method: 'POST',
       body: JSON.stringify({
@@ -62,22 +61,38 @@ const WordModalContent = ({
           return res.json();
         }
       })
+      .then((data) => data.choices[0].message.content);
 
-      .then((data) => {
-        console.log(data.choices[0].message.content);
-        setIsLoading(false);
-        copyTextToClipboard(data.choices[0].message.content);
-        return data;
-      })
+  const knockAndCopy = async () => {
+    setIsLoading(true);
 
-      .catch((err) => {
-        console.log(`Ошибка генерации: ${err}`);
-      })
+    try {
+      const answer = await knockToAI();
+      setIsLoading(false);
+      setIsCopied(true);
+      copyTextToClipboard(answer);
+    } catch (error) {
+      setIsErrorCreating(true);
+    }
+  };
 
-      .finally(() => {
-        setIsLoading(false);
-        setIsCopied(true);
-      });
+  const knockAndGo = async () => {
+    setIsLoading(true);
+
+    try {
+      const answer = await knockToAI();
+      setIsLoading(false);
+      setIsCopied(true);
+      copyTextToClipboard(answer);
+
+      // Формируем URL
+      const editUrl = `${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`;
+
+      // Автоматический переход в новой вкладке
+      window.open(editUrl, '_blank');
+    } catch (error) {
+      setIsErrorCreating(true);
+    }
   };
 
   return (
@@ -88,26 +103,31 @@ const WordModalContent = ({
 
       <MdComponent />
       <div className={styles.buttonsZone}>
-        <RoundButton disabled={false} onClickFunc={knockToAI}>
-          {!isCopied && !isLoading && !isErrorCreating && 'create note'}
+        <RoundButton disabled={false} onClickFunc={knockAndGo}>
+          {!isCopied && !isLoading && !isErrorCreating && 'create and edit'}
           {isLoading && <Loader />}
           {isCopied && '🤘'}
           {isErrorCreating && 'error creating'}
         </RoundButton>
         <div className={styles.twoButtons}>
+          <RoundButton disabled={false} onClickFunc={knockAndCopy}>
+            {!isCopied && !isLoading && !isErrorCreating && 'create'}
+            {isLoading && <Loader />}
+            {isCopied && '🤘'}
+            {isErrorCreating && 'error creating'}
+          </RoundButton>
           <RoundButton disabled={false}>
             <Link
               to={`${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`}
               target='_blank'
             >
-              ✏
+              edit
             </Link>
           </RoundButton>
-
-          <RoundButton disabled={false} onClickFunc={closeModal}>
-            ✕
-          </RoundButton>
         </div>
+        <RoundButton disabled={false} onClickFunc={closeModal}>
+          ✕
+        </RoundButton>
       </div>
     </div>
   );

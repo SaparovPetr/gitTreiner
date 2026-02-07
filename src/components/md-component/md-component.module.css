@@ -19,7 +19,7 @@
 }
 
 .mdContainer > div {
-    padding: 0 20px;
+    padding: 0 5px;
 }
 
 @media (height <= 620px) {  
