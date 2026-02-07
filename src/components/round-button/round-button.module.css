@@ -4,9 +4,7 @@
     align-items: center;
     align-self: center;
     width: 100%;
-    /* min-width:62px;
-    max-width: 176px;
-    min-height: 33px; */
+    min-height: 33px;
     padding: 3px 20px;
     color: white;
     font-size: 21px;

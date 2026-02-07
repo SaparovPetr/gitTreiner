@@ -20,8 +20,12 @@ const WordModalContent = ({
   const word = useAppSelector(selectPickedWordObject);
   const currientMode = useAppSelector(selectModeState);
 
-  const [isLoading, setIsLoading] = useState(false);
-  const [isCopied, setIsCopied] = useState(false);
+  const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
+  const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
+
+  const [isSecondButtonLoading, setIsSecondButtonLoading] = useState(false);
+  const [isSecondButtonCopied, setIsSecondButtonCopied] = useState(false);
+
   const [isErrorCreating, setIsErrorCreating] = useState(false);
 
   // (заметка № 15)
@@ -63,33 +67,31 @@ const WordModalContent = ({
       })
       .then((data) => data.choices[0].message.content);
 
-  const knockAndCopy = async () => {
-    setIsLoading(true);
+  const knockAndGo = async () => {
+    setIsFirstButtonLoading(true);
 
     try {
       const answer = await knockToAI();
-      setIsLoading(false);
-      setIsCopied(true);
+      setIsFirstButtonLoading(false);
+      setIsFirstButtonCopied(true);
       copyTextToClipboard(answer);
+      window.open(
+        `${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`,
+        '_blank'
+      );
     } catch (error) {
       setIsErrorCreating(true);
     }
   };
 
-  const knockAndGo = async () => {
-    setIsLoading(true);
+  const knockAndCopy = async () => {
+    setIsSecondButtonLoading(true);
 
     try {
       const answer = await knockToAI();
-      setIsLoading(false);
-      setIsCopied(true);
+      setIsSecondButtonLoading(false);
+      setIsSecondButtonCopied(true);
       copyTextToClipboard(answer);
-
-      // Формируем URL
-      const editUrl = `${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`;
-
-      // Автоматический переход в новой вкладке
-      window.open(editUrl, '_blank');
     } catch (error) {
       setIsErrorCreating(true);
     }
@@ -104,16 +106,22 @@ const WordModalContent = ({
       <MdComponent />
       <div className={styles.buttonsZone}>
         <RoundButton disabled={false} onClickFunc={knockAndGo}>
-          {!isCopied && !isLoading && !isErrorCreating && 'create and edit'}
-          {isLoading && <Loader />}
-          {isCopied && '🤘'}
+          {!isFirstButtonCopied &&
+            !isFirstButtonLoading &&
+            !isErrorCreating &&
+            'create and edit'}
+          {isFirstButtonLoading && <Loader />}
+          {isFirstButtonCopied && '🤘'}
           {isErrorCreating && 'error creating'}
         </RoundButton>
         <div className={styles.twoButtons}>
           <RoundButton disabled={false} onClickFunc={knockAndCopy}>
-            {!isCopied && !isLoading && !isErrorCreating && 'create'}
-            {isLoading && <Loader />}
-            {isCopied && '🤘'}
+            {!isSecondButtonCopied &&
+              !isSecondButtonLoading &&
+              !isErrorCreating &&
+              'create'}
+            {isSecondButtonLoading && <Loader />}
+            {isSecondButtonCopied && '🤘'}
             {isErrorCreating && 'error creating'}
           </RoundButton>
           <RoundButton disabled={false}>
