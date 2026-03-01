@@ -1,35 +1,30 @@
 .welcomeContainer {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    max-width:  500px;
-    padding-top: 20px;
-    overflow: auto;
-    font-weight: bold;
-    font-size: 18px;
-    font-family: 'Suisse', sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 500px;
+  padding-top: 20px;
+  overflow: auto;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Suisse', sans-serif;
 }
 
-h1, h2 {
-    align-self: center;
+h1,
+h2 {
+  align-self: center;
 }
 
 .linkword {
-    color: rgb(161 158 214);
-    text-decoration: underline;
-    cursor: pointer;
+  color: rgb(161 158 214);
+  text-decoration: underline;
+  cursor: pointer;
 }
 
-.footnote {
-    margin-top: 10px;
+@media (height <= 620px) {
+  .welcomeContainer {
+    gap: 10px;
+    padding-top: 10px;
     font-size: 11px;
-}
-
-@media (height <= 620px) { 
-    .welcomeContainer {
-        gap: 10px;
-        padding-top: 10px;
-        font-size: 11px;     
-    }
-    
+  }
 }

@@ -8,40 +8,32 @@ import styles from './welcome.module.css';
 
 const Welcome: FC = () => (
   <div className={styles.welcomeContainer}>
-    <h2>👋 Салют!</h2>
+    <h2>Welcome</h2>
     <div>
-      Это приложение для закрепления словарного запаса английского и испанского
-      языков. В основе лежит идея повторения слов по заметкам (markdown-файлам)
-      из твоего личного репозитория на GitHub.
+      This app is designed to reinforce your English and Spanish vocabulary.
+      It’s based on the idea of reviewing words from notes (markdown files)
+      stored in your personal GitHub repository.
     </div>
-    <h2>Как это работает:</h2>
-    <div>1. Зарегистрируйся и войди на GitHub;</div>
+    <h2>How it works:</h2>
+    <div>1. Sign up and log in to GitHub;</div>
     <div>
-      2. Форкни себе либо{' '}
+      2. Fork either the{' '}
       <Link to={'https://github.com/SaparovPetr/myriadEmpty'}>
-        <span className={styles.linkword}>
-          репозиторий с английскми словами
-        </span>
+        <span className={styles.linkword}>English vocabulary repository</span>
       </Link>{' '}
-      либо этот{' '}
+      or this{' '}
       <Link to={'https://github.com/SaparovPetr/mdSpanishWords'}>
-        <span className={styles.linkword}>с испанскими</span>
+        <span className={styles.linkword}>one for Spanish</span>
       </Link>{' '}
-      , затем укажи данные о нем в настройках приложения;
+      , then provide its details in the app settings;
     </div>
     <div>
-      3. Заполняй заметки к подзабытым словам, используя встроенный AI-сервис*.
-    </div>
-    <div className={styles.footnote}>
-      * Ввиду отсутствия у меня бюджета на сервер, модель работает не
-      кгруглосуточно и активируется по личному запросу в{' '}
-      <Link to={'https://t.me/SaparovPetr'}>
-        <span className={styles.linkword}>телеграмм.</span>
-      </Link>
+      3. Optionally, provide your DeepSeek key. The model will create notes for
+      you.
     </div>
 
     <RoundButton onClickFunc={markTheFirstStart} disabled={false}>
-      →
+      Go!
     </RoundButton>
   </div>
 );
