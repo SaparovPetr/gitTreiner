@@ -82,6 +82,8 @@ module.exports = {
       '@utils': path.resolve(__dirname, './src/utils'),
       '@utils-types': path.resolve(__dirname, './src/utils/types'),
       '@slices': path.resolve(__dirname, './src/services/slices'),
+      '@store': path.resolve(__dirname, './src/services'),
+
       '@word-bases': path.resolve(__dirname, './src/word-bases')
     }
   },

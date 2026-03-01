@@ -24,6 +24,7 @@
       "@utils-types": ["src/utils/types"],
       "@utils/*": ["src/utils/*"],   
       "@slices/*": ["src/services/slices/*"],
+      "@store/*": ["src/services/*"],
       "@word-bases/*": ["src/word-bases/*"]
     }
   },

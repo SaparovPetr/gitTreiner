@@ -6,15 +6,15 @@ import {
   useState
 } from 'react';
 
-import { RoundButton } from '@components/round-button/round-button';
+import { RoundButton } from '@components/atoms/round-button/round-button';
 import { picData, selectFullFileName, setFullFileName } from '@slices/md-slice';
 import { removeWord } from '@slices/words-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './write-translation.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
-import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
+import { useAppDispatch, useAppSelector } from '../../../services/store';
+import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
 const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
   const [value, setValue] = useState('');

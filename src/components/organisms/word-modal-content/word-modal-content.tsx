@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
-import Loader from '@components/loader/loader';
-import MdComponent from '@components/md-component/md-component';
-import { RoundButton } from '@components/round-button/round-button';
+import Loader from '@components/atoms/loader/loader';
+import { RoundButton } from '@components/atoms/round-button/round-button';
+import MdComponent from '@components/organisms/md-component/md-component';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audio-callback';
@@ -11,7 +11,7 @@ import { AppMode, TWordModalContentProps } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './word-modal-content.module.css';
-import { useAppSelector } from '../../services/store';
+import { useAppSelector } from '../../../services/store';
 
 const WordModalContent = ({
   closeModal,

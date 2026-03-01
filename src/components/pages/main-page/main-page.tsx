@@ -1,10 +1,10 @@
 import { FC, useEffect, useState } from 'react';
 
-import Search from '@components/search/search';
-import Success from '@components/success/success';
-import Welcome from '@components/welcome/welcome';
-import WordItem from '@components/word-item/word-item';
-import WriteTranslation from '@components/writeTranslation/write-translation';
+import WriteTranslation from '@components/organisms/writeTranslation/write-translation';
+import Search from '@components/templates/search/search';
+import WordItem from '@components/templates/word-item/word-item';
+import Success from '@pages/success/success';
+import Welcome from '@pages/welcome/welcome';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';

@@ -11,7 +11,7 @@ import { difWordBase } from '@word-bases/dif';
 import { useNavigate } from 'react-router-dom';
 
 import styles from './style.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 export const NotFound404: FC = () => {
   const dispatch = useAppDispatch();

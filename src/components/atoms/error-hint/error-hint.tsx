@@ -1,9 +1,9 @@
-import { RoundButton } from '@components/round-button/round-button';
+import { RoundButton } from '@components/atoms/round-button/round-button';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { TModalProps } from '@utils-types';
 
 import styles from './error-hint.module.css';
-import { useAppSelector } from '../../services/store';
+import { useAppSelector } from '../../../services/store';
 
 export const ErrorHint = ({ closeModal }: TModalProps) => {
   const word = useAppSelector(selectPickedWordObject);

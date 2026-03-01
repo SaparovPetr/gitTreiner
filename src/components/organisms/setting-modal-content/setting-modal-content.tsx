@@ -2,10 +2,10 @@ import { selectCollection } from '@slices/words-slice';
 import { TSettingModalContentProps } from '@utils-types';
 
 import styles from './setting-modal-content.module.css';
-import { useAppSelector } from '../../services/store';
-import { currientDate } from '../../utils/currient-date';
-import LabeledInput from '../labeled-input/labeled-input';
-import { RoundButton } from '../round-button/round-button';
+import { useAppSelector } from '../../../services/store';
+import { currientDate } from '../../../utils/currient-date';
+import LabeledInput from '../../atoms/labeled-input/labeled-input';
+import { RoundButton } from '../../atoms/round-button/round-button';
 
 const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
   const collection = useAppSelector(selectCollection);

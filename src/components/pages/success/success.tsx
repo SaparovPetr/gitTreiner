@@ -1,9 +1,10 @@
 import { FC } from 'react';
 
-import { RoundButton } from '@components/round-button/round-button';
+import { RoundButton } from '@components/atoms/round-button/round-button';
 import { setCounter } from '@slices/counter-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
+import { useAppDispatch, useAppSelector } from '@store/store';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -14,7 +15,6 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './success.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
 
 const Success: FC = () => {
   const dispatch = useAppDispatch();

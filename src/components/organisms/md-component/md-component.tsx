@@ -2,7 +2,7 @@ import { getMDcontent } from '@slices/md-slice';
 import MarkDown from 'markdown-to-jsx';
 
 import styles from './md-component.module.css';
-import { useAppSelector } from '../../services/store';
+import { useAppSelector } from '../../../services/store';
 
 export const MdComponent = ({}) => {
   const content = useAppSelector(getMDcontent);

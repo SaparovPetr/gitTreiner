@@ -8,7 +8,7 @@ import { shuffle } from '@utils/shuffle-array';
 import { TOneWord } from '@utils-types';
 
 import styles from './option-list.module.css';
-import { useAppDispatch } from '../../services/store';
+import { useAppDispatch } from '../../../services/store';
 
 /** компоненет списка ответов */
 const OptionList =

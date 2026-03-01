@@ -1,15 +1,15 @@
 import { useEffect } from 'react';
 
 import { Layout } from '@components/modal/layout';
-import OptionList from '@components/option-list/option-list';
+import OptionList from '@components/molecules/option-list/option-list';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './word-item.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
-import { fetchMDcontent } from '../../services/thunks/fetchMDcontent';
+import { useAppDispatch, useAppSelector } from '../../../services/store';
+import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
 const WordItem = ({
   id,
