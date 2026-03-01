@@ -20,7 +20,7 @@ import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './main-page.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 export const MainPage: FC = () => {
   const [trialRegime, setTrialRegime] = useState(false);

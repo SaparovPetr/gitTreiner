@@ -27,8 +27,8 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
-import { useAppDispatch, useAppSelector } from '../../services/store';
-import { User } from '../../user';
+import { useAppDispatch, useAppSelector } from '../services/store';
+import { User } from '../user';
 
 const App = () => {
   const dispatch = useAppDispatch();
