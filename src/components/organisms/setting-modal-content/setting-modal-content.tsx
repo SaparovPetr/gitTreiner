@@ -4,7 +4,7 @@ import { TSettingModalContentProps } from '@utils-types';
 import styles from './setting-modal-content.module.css';
 import { useAppSelector } from '../../../services/store';
 import { currientDate } from '../../../utils/currient-date';
-import LabeledInput from '../../atoms/labeled-input/labeled-input';
+import LabeledInput from '../../atoms/LabeledInput/LabeledInput';
 import { RoundButton } from '../../atoms/round-button/round-button';
 
 const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {

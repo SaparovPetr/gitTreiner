@@ -1,10 +1,10 @@
 import { useEffect } from 'react';
 
-import ErrorHint from '@components/atoms/error-hint/error-hint';
-import { Layout } from '@components/modal/layout';
-import { Modal } from '@components/modal/modal';
+import ErrorHint from '@components/atoms/error-hint/ErrorHint';
+import { Layout } from '@components/Modal/Layout';
+import { Modal } from '@components/Modal/modal';
 import SettingModalContent from '@components/organisms/setting-modal-content/setting-modal-content';
-import WordModalContent from '@components/organisms/word-modal-content/word-modal-content';
+import WordModalContent from '@components/organisms/word-modal-content/WordModalContent';
 import { MainPage } from '@pages/main-page/main-page';
 import { NotFound404 } from '@pages/not-fount-404/not-fount-404';
 import { setCounter } from '@slices/counter-slice';

@@ -1,6 +1,6 @@
 import { FC, useEffect, useState } from 'react';
 
-import WriteTranslation from '@components/organisms/writeTranslation/write-translation';
+import WriteTranslation from '@components/organisms/WriteTranslation/write-translation';
 import Search from '@components/templates/search/search';
 import WordItem from '@components/templates/word-item/word-item';
 import Success from '@pages/success/success';

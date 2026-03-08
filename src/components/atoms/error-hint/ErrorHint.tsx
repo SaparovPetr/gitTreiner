@@ -2,7 +2,7 @@ import { RoundButton } from '@components/atoms/round-button/round-button';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { TModalProps } from '@utils-types';
 
-import styles from './error-hint.module.css';
+import styles from './ErrorHint.module.css';
 import { useAppSelector } from '../../../services/store';
 
 export const ErrorHint = ({ closeModal }: TModalProps) => {

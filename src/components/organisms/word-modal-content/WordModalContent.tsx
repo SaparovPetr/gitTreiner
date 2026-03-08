@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import Loader from '@components/atoms/loader/loader';
+import Loader from '@components/atoms/Loader/Loader';
 import { RoundButton } from '@components/atoms/round-button/round-button';
 import MdComponent from '@components/organisms/md-component/md-component';
 import { selectPickedWordObject } from '@slices/md-slice';

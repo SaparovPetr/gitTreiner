@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
-import { Layout } from '@components/modal/layout';
-import OptionList from '@components/molecules/option-list/option-list';
+import { Layout } from '@components/Modal/Layout';
+import OptionList from '@components/molecules/OptionList/option-list';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
