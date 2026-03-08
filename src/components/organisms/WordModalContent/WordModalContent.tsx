@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
 import Loader from '@components/atoms/Loader/Loader';
-import { RoundButton } from '@components/atoms/round-button/round-button';
-import MdComponent from '@components/organisms/MdComponent/md-component';
+import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
+import MdComponent from '@components/organisms/MdComponent/MdComponent';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audio-callback';
@@ -10,7 +10,7 @@ import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
 import { AppMode, TWordModalContentProps } from '@utils-types';
 import { Link } from 'react-router-dom';
 
-import styles from './word-modal-content.module.css';
+import styles from './WordModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
 
 const WordModalContent = ({

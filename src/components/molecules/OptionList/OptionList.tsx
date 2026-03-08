@@ -7,7 +7,7 @@ import { currientModeFromLocalStorage } from '@utils/localstorage-functionality'
 import { shuffle } from '@utils/shuffle-array';
 import { TOneWord } from '@utils-types';
 
-import styles from './option-list.module.css';
+import styles from './OptionList.module.css';
 import { useAppDispatch } from '../../../services/store';
 
 /** компоненет списка ответов */

@@ -6,13 +6,13 @@ import {
   useState
 } from 'react';
 
-import { RoundButton } from '@components/atoms/round-button/round-button';
+import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { picData, selectFullFileName, setFullFileName } from '@slices/md-slice';
 import { removeWord } from '@slices/words-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
-import styles from './write-translation.module.css';
+import styles from './WriteTranslation.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 

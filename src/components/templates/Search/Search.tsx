@@ -6,10 +6,10 @@ import {
   useState
 } from 'react';
 
-import SearchResults from '@components/organisms/search-results/search-results';
+import SearchResults from '@components/organisms/SearchResults/SearchResults';
 import { selectModalState } from '@slices/modal-slice';
 
-import styles from './search.module.css';
+import styles from './Search.module.css';
 import { useAppSelector } from '../../../services/store';
 
 const Search = () => {

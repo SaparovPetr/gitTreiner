@@ -1,10 +1,10 @@
 import { FC, useEffect, useState } from 'react';
 
-import WriteTranslation from '@components/organisms/WriteTranslation/write-translation';
-import Search from '@components/templates/Search/search';
-import WordItem from '@components/templates/WordItem/word-item';
-import Success from '@pages/Success/success';
-import Welcome from '@pages/Welcome/welcome';
+import WriteTranslation from '@components/organisms/WriteTranslation/WriteTranslation';
+import Search from '@components/templates/Search/Search';
+import WordItem from '@components/templates/WordItem/WordItem';
+import Success from '@pages/Success/Success';
+import Welcome from '@pages/Welcome/Welcome';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';
@@ -19,7 +19,7 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
-import styles from './main-page.module.css';
+import styles from './MainPage.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 export const MainPage: FC = () => {

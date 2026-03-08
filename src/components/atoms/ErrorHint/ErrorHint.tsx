@@ -1,4 +1,4 @@
-import { RoundButton } from '@components/atoms/round-button/round-button';
+import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { TModalProps } from '@utils-types';
 

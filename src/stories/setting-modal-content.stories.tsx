@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import SettingModalContent from '../components/organisms/SettingModalContent/setting-modal-content';
+import SettingModalContent from '../components/organisms/SettingModalContent/SettingModalContent';
 
 const meta = {
   title: 'components/SettingModalContent',

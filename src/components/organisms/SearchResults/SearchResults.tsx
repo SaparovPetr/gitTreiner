@@ -5,7 +5,7 @@ import { mapSearchResults } from '@utils/mapSearchResults';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
-import styles from './search-results.module.css';
+import styles from './SearchResults.module.css';
 import { useAppDispatch } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 import { aArr } from '../../../word-bases/myriad/aArr';

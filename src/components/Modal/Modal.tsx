@@ -6,7 +6,7 @@ import { TModalProps } from '@utils-types';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
-import styles from './modal.module.css';
+import styles from './Modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {

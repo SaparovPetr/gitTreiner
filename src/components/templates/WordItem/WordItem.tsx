@@ -1,13 +1,13 @@
 import { useEffect } from 'react';
 
 import { Layout } from '@components/Modal/Layout';
-import OptionList from '@components/molecules/OptionList/option-list';
+import OptionList from '@components/molecules/OptionList/OptionList';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
-import styles from './word-item.module.css';
+import styles from './WordItem.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
