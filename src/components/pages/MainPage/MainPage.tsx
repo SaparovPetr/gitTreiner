@@ -3,8 +3,8 @@ import { FC, useEffect, useState } from 'react';
 import WriteTranslation from '@components/organisms/WriteTranslation/WriteTranslation';
 import Search from '@components/templates/Search/Search';
 import WordItem from '@components/templates/WordItem/WordItem';
-import Success from '@pages/Success/Success';
-import Welcome from '@pages/Welcome/Welcome';
+import Success from '@pages/SuccessPage/SuccessPage';
+import Welcome from '@pages/WelcomePage/WelcomePage';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audio-callback';
@@ -47,9 +47,7 @@ export const MainPage: FC = () => {
     }
   }, [collection, trialRegime]);
 
-  /**
-   * Колбек клика по логотипу
-   */
+  /**  Колбек клика по логотипу  */
   const changeMode = () => {
     if (currientMode === AppMode.Dif) {
       dispatch(setMode(AppMode.ThreeK));
@@ -83,9 +81,7 @@ export const MainPage: FC = () => {
     }
   };
 
-  /**
-   * Колбек клика по кнопке смены режимов поиска и подготовки
-   */
+  /**  Колбек клика по кнопке смены режимов поиска и подготовки   */
   const changeRegime = () => {
     trialRegime ? setTrialRegime(false) : setTrialRegime(true);
   };

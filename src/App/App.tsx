@@ -6,7 +6,7 @@ import { Modal } from '@components/Modal/Modal';
 import SettingModalContent from '@components/organisms/SettingModalContent/SettingModalContent';
 import WordModalContent from '@components/organisms/WordModalContent/WordModalContent';
 import { MainPage } from '@pages/MainPage/MainPage';
-import { NotFound404 } from '@pages/NotFound404/NotFound404';
+import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { setCounter } from '@slices/counter-slice';
 import { getStatus, resetStore } from '@slices/md-slice';
 import { setShowModal } from '@slices/modal-slice';
