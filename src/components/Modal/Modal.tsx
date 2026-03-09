@@ -1,13 +1,17 @@
-import React, { memo, useEffect, useRef } from 'react';
+import React, { memo, ReactElement, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
 import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
-import { TModalProps } from '@utils-types';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
 import styles from './Modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
+
+type TModalProps = {
+  children?: ReactElement;
+  closeModal: () => void;
+};
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
   const showModal = useAppSelector(selectModalState); // РТК

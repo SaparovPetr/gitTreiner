@@ -7,11 +7,17 @@ import { selectPickedWordObject } from '@slices/md-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audio-callback';
 import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
-import { AppMode, TWordModalContentProps } from '@utils-types';
+import { AppMode } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
+
+export type TWordModalContentProps = {
+  closeModal?: () => void;
+  linkToPublicFile: string;
+  linkToRepo: string;
+};
 
 const WordModalContent = ({
   closeModal,

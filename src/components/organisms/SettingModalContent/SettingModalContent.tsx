@@ -1,11 +1,14 @@
 import { selectCollection } from '@slices/words-slice';
-import { TSettingModalContentProps } from '@utils-types';
 
 import styles from './SettingModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
 import { currientDate } from '../../../utils/currient-date';
 import LabeledInput from '../../atoms/LabeledInput/LabeledInput';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
+
+type TSettingModalContentProps = {
+  closeModal?: () => void;
+};
 
 const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
   const collection = useAppSelector(selectCollection); // РТК

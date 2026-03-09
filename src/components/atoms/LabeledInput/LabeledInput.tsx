@@ -1,25 +1,29 @@
 import { ChangeEvent, ChangeEventHandler, useState } from 'react';
 
 import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
-import { TOneInput } from '@utils-types';
 
 import styles from './LabeledInput.module.css';
 
-const LabeledInput = (props: TOneInput) => {
+type TOneInputProps = {
+  keyInLocalStorage: string;
+  lableContent: string;
+};
+
+const LabeledInput = ({ keyInLocalStorage, lableContent }: TOneInputProps) => {
   const [value, setValue] = useState(
-    localStorage.getItem(`${props.keyInLocalStorage}`) || ''
+    localStorage.getItem(`${keyInLocalStorage}`) || ''
   );
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
     setValue(e.target.value);
-    setEntryInLocalStorage(`${props.keyInLocalStorage}`, e.target.value);
+    setEntryInLocalStorage(`${keyInLocalStorage}`, e.target.value);
   };
 
   return (
     <label className={styles.label}>
-      {props.lableContent}
+      {lableContent}
       <input
         className={styles.input}
         type='text'

@@ -1,6 +1,13 @@
-import { TButtonProps } from '@utils-types';
+import { ReactNode } from 'react';
 
 import styles from './RoundButton.module.css';
+
+export type TButtonProps = {
+  htmlType?: string;
+  children: ReactNode;
+  onClickFunc?: () => void;
+  disabled?: boolean;
+};
 
 export const RoundButton = ({
   children,
