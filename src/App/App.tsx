@@ -7,6 +7,7 @@ import SettingModalContent from '@components/organisms/SettingModalContent/Setti
 import WordModalContent from '@components/organisms/WordModalContent/WordModalContent';
 import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
+import WelcomePage from '@pages/WelcomePage/WelcomePage';
 import { setCounter } from '@slices/counter-slice';
 import { getStatus, resetStore } from '@slices/md-slice';
 import { setShowModal } from '@slices/modal-slice';
@@ -15,6 +16,7 @@ import { makeCollection } from '@slices/words-slice';
 import {
   counterFromLocalStorage,
   currientModeFromLocalStorage,
+  isFirstStart,
   setEntryInLocalStorage
 } from '@utils/localStorageFunctionality';
 import { AppMode, IUser, RequestStatus } from '@utils-types';
@@ -86,13 +88,21 @@ const App = () => {
     dispatch(setCounter(Number(counterFromLocalStorage)));
   }, []);
 
+  useEffect(() => {
+    if (!isFirstStart) {
+      navigate('/welcome');
+    } else {
+      navigate('/main');
+    }
+  }, []);
+
   return (
     <>
       <Routes location={backgroundLocation || location}>
-        <Route path='/' element={<MainPage />} />
+        <Route path='/main' element={<MainPage />} />
         <Route path='*' element={<NotFound404 />} />
+        <Route path='/welcome' element={<WelcomePage />} />
 
-        <Route path='/' element={<MainPage />} />
         <Route
           path='/word'
           element={
@@ -116,7 +126,7 @@ const App = () => {
       </Routes>
       {backgroundLocation && (
         <Routes>
-          <Route path='/' element={<MainPage />} />
+          <Route path='/main' element={<MainPage />} />
           {mdFetchStatus === RequestStatus.Success && (
             <Route
               path='/word'

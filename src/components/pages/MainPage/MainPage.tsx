@@ -4,7 +4,6 @@ import WriteTranslation from '@components/organisms/WriteTranslation/WriteTransl
 import Search from '@components/templates/Search/Search';
 import WordItem from '@components/templates/WordItem/WordItem';
 import Success from '@pages/SuccessPage/SuccessPage';
-import Welcome from '@pages/WelcomePage/WelcomePage';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
@@ -126,8 +125,6 @@ export const MainPage: FC = () => {
           {!trialRegime && <Search />}
         </>
       )}
-      {/* (TODO: добавить заметку в ReadMe) */}
-      {!isFirstStart && <Welcome />}
       {/* (заметка № 13) */}
       {collection.length === 0 && isFirstStart && <Success />}
     </main>
