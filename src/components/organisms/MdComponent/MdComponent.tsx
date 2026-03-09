@@ -13,5 +13,3 @@ export const MdComponent = ({}) => {
     </div>
   );
 };
-
-export default MdComponent;

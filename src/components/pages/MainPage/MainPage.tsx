@@ -1,9 +1,9 @@
 import { FC, useEffect, useState } from 'react';
 
-import WriteTranslation from '@components/organisms/WriteTranslation/WriteTranslation';
-import SearchTemplate from '@components/templates/SearchTemplate/SearchTemplate';
-import SuccessTemplate from '@components/templates/SuccessTemplate/SuccessTemplate';
-import WordItem from '@components/templates/TrialItemTemplate/TrialItemTemplate';
+import { WriteTranslation } from '@components/organisms/WriteTranslation/WriteTranslation';
+import { SearchTemplate } from '@components/templates/SearchTemplate/SearchTemplate';
+import { SuccessTemplate } from '@components/templates/SuccessTemplate/SuccessTemplate';
+import { TrialItemTemplate } from '@components/templates/TrialItemTemplate/TrialItemTemplate';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
@@ -115,7 +115,7 @@ export const MainPage: FC = () => {
           </div>
 
           {trialRegime && !entryCard && (
-            <WordItem key={collection[0].id} {...collection[0]} />
+            <TrialItemTemplate key={collection[0].id} {...collection[0]} />
           )}
 
           {trialRegime && entryCard && (

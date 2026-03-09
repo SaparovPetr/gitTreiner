@@ -36,7 +36,7 @@ import { xArr } from '../../../word-bases/myriad/xArr';
 import { yArr } from '../../../word-bases/myriad/yArr';
 import { zArr } from '../../../word-bases/myriad/zArr';
 
-const SearchResults = ({ stringFromInput }: any) => {
+export const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
   const dispatch = useAppDispatch(); // РТК
@@ -112,4 +112,3 @@ const SearchResults = ({ stringFromInput }: any) => {
     </div>
   );
 };
-export default SearchResults;

@@ -6,13 +6,13 @@ import {
   useState
 } from 'react';
 
-import SearchResults from '@components/organisms/SearchResults/SearchResults';
+import { SearchResults } from '@components/organisms/SearchResults/SearchResults';
 import { selectModalState } from '@slices/modal-slice';
 
 import styles from './SearchTemplate.module.css';
 import { useAppSelector } from '../../../services/store';
 
-const SearchTemplate = () => {
+export const SearchTemplate = () => {
   const showModal = useAppSelector(selectModalState); // РТК
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
@@ -45,5 +45,3 @@ const SearchTemplate = () => {
     </div>
   );
 };
-
-export default SearchTemplate;

@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
 import { Layout } from '@components/Modal/Layout';
-import OptionList from '@components/molecules/OptionList/OptionList';
+import { OptionList } from '@components/molecules/OptionList/OptionList';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
@@ -11,7 +11,7 @@ import styles from './TrialItemTemplate.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
-const TrialItemTemplate = ({
+export const TrialItemTemplate = ({
   id,
   targetWord,
   translating,
@@ -59,5 +59,3 @@ const TrialItemTemplate = ({
     </Layout>
   );
 };
-
-export default TrialItemTemplate;

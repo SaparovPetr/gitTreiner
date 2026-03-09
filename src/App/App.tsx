@@ -1,13 +1,13 @@
 import { useEffect } from 'react';
 
-import ErrorHint from '@components/atoms/ErrorHint/ErrorHint';
+import { ErrorHint } from '@components/atoms/ErrorHint/ErrorHint';
 import { Layout } from '@components/Modal/Layout';
 import { Modal } from '@components/Modal/Modal';
-import SettingModalContent from '@components/organisms/SettingModalContent/SettingModalContent';
-import WordModalContent from '@components/organisms/WordModalContent/WordModalContent';
+import { SettingModalContent } from '@components/organisms/SettingModalContent/SettingModalContent';
+import { WordModalContent } from '@components/organisms/WordModalContent/WordModalContent';
 import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
-import WelcomePage from '@pages/WelcomePage/WelcomePage';
+import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
 import { setCounter } from '@slices/counter-slice';
 import { getStatus, resetStore } from '@slices/md-slice';
 import { setShowModal } from '@slices/modal-slice';
@@ -32,7 +32,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 
-const App = () => {
+export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
   const location = useLocation();
@@ -170,5 +170,3 @@ const App = () => {
     </>
   );
 };
-
-export default App;

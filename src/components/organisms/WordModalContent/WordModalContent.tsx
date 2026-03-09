@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
-import Loader from '@components/atoms/Loader/Loader';
+import { Loader } from '@components/atoms/Loader/Loader';
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import MdComponent from '@components/organisms/MdComponent/MdComponent';
+import { MdComponent } from '@components/organisms/MdComponent/MdComponent';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audioCallback';
@@ -19,7 +19,7 @@ export type TWordModalContentProps = {
   linkToRepo: string;
 };
 
-const WordModalContent = ({
+export const WordModalContent = ({
   closeModal,
   linkToRepo
 }: TWordModalContentProps) => {
@@ -146,5 +146,3 @@ const WordModalContent = ({
     </div>
   );
 };
-
-export default WordModalContent;

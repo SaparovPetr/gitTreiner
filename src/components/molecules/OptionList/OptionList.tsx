@@ -11,7 +11,7 @@ import styles from './OptionList.module.css';
 import { useAppDispatch } from '../../../services/store';
 
 /** компоненет списка ответов */
-const OptionList =
+export const OptionList =
   // (заметка № 8)
   (targetObject: TOneWord) => {
     const dispatch = useAppDispatch(); // РТК
@@ -68,5 +68,3 @@ const OptionList =
       </div>
     );
   };
-
-export default OptionList;

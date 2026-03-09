@@ -9,7 +9,10 @@ type TOneInputProps = {
   lableContent: string;
 };
 
-const LabeledInput = ({ keyInLocalStorage, lableContent }: TOneInputProps) => {
+export const LabeledInput = ({
+  keyInLocalStorage,
+  lableContent
+}: TOneInputProps) => {
   const [value, setValue] = useState(
     localStorage.getItem(`${keyInLocalStorage}`) || ''
   );
@@ -33,5 +36,3 @@ const LabeledInput = ({ keyInLocalStorage, lableContent }: TOneInputProps) => {
     </label>
   );
 };
-
-export default LabeledInput;

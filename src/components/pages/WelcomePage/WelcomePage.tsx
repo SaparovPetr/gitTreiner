@@ -6,7 +6,7 @@ import { Link, useNavigate } from 'react-router-dom';
 
 import styles from './WelcomePage.module.css';
 
-const Welcome: FC = () => {
+export const WelcomePage: FC = () => {
   const navigate = useNavigate();
   const goButtonHandler = () => {
     markTheFirstStart(), navigate('/main');
@@ -48,4 +48,3 @@ const Welcome: FC = () => {
     </main>
   );
 };
-export default Welcome;

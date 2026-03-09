@@ -16,7 +16,12 @@ import styles from './WriteTranslation.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
-const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
+export const WriteTranslation = ({
+  id,
+  targetWord,
+  translating,
+  skyid
+}: TOneWord) => {
   const [value, setValue] = useState('');
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
@@ -80,5 +85,3 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
     </div>
   );
 };
-
-export default WriteTranslation;

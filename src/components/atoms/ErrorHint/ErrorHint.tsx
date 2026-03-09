@@ -26,5 +26,3 @@ export const ErrorHint = ({ closeModal }: TErrorHintProps) => {
     </div>
   );
 };
-
-export default ErrorHint;
