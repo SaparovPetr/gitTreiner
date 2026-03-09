@@ -1,36 +1,36 @@
 .mdContainer {
-    width: 100%;
-    max-width: 46vh;
-    max-height: 50vh;
-    overflow: auto;
-    color: white;
+  width: 100%;
+  max-width: 46vh;
+  max-height: 50vh;
+  overflow: auto;
+  color: white;
 }
 
 .mdContainer h1 {
-    display:  none;
+  display: none;
 }
 
 .mdContainer h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .mdContainer:has(pre) {
-    display:  none;
+  display: none;
 }
 
 .mdContainer > div {
-    padding: 0 5px;
+  padding: 0 5px;
 }
 
-@media (height <= 620px) {  
-    .mdContainer {
-        max-width: 100%;
-    }
+@media (height <= 620px) {
+  .mdContainer {
+    max-width: 100%;
+    max-height: 40vh;
+  }
 }
 
 @media (any-hover: hover) {
-    .mdContainer::-webkit-scrollbar { 
-        width: 0; 
-    }
+  .mdContainer::-webkit-scrollbar {
+    width: 0;
+  }
 }
-
