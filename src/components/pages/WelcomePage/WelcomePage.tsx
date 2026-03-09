@@ -41,7 +41,11 @@ export const WelcomePage: FC = () => {
           for you.
         </div>
 
-        <RoundButton onClickFunc={goButtonHandler} disabled={false}>
+        <RoundButton
+          onClickFunc={goButtonHandler}
+          isFitContent
+          disabled={false}
+        >
           Go!
         </RoundButton>
       </div>

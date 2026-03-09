@@ -7,14 +7,21 @@ export type TButtonProps = {
   children: ReactNode;
   onClickFunc?: () => void;
   disabled?: boolean;
+  isFitContent?: boolean;
 };
 
 export const RoundButton = ({
   children,
   onClickFunc,
+  isFitContent = false,
   disabled
 }: TButtonProps) => (
-  <button className={styles.button} onClick={onClickFunc} disabled={disabled}>
+  <button
+    style={isFitContent ? { width: 'fit-content' } : undefined}
+    className={styles.button}
+    onClick={onClickFunc}
+    disabled={disabled}
+  >
     {children}
   </button>
 );

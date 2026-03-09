@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
 
-import { ErrorHint } from '@components/atoms/ErrorHint/ErrorHint';
 import { Layout } from '@components/Modal/Layout';
 import { Modal } from '@components/Modal/Modal';
+import { ErrorHint } from '@components/organisms/ErrorHint/ErrorHint';
 import { SettingModalContent } from '@components/organisms/SettingModalContent/SettingModalContent';
 import { WordModalContent } from '@components/organisms/WordModalContent/WordModalContent';
 import { MainPage } from '@pages/MainPage/MainPage';

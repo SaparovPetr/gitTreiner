@@ -51,7 +51,7 @@ export const SuccessTemplate: FC = () => {
       <div>Great!</div>
       <div>Let's go again!</div>
 
-      <RoundButton onClickFunc={increaseCounter} disabled={false}>
+      <RoundButton isFitContent onClickFunc={increaseCounter} disabled={false}>
         →
       </RoundButton>
     </div>

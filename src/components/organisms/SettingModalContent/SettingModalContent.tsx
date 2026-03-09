@@ -3,8 +3,8 @@ import { selectCollection } from '@slices/words-slice';
 import styles from './SettingModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
 import { currientDate } from '../../../utils/currientDate';
-import { LabeledInput } from '../../atoms/LabeledInput/LabeledInput';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
+import { LabeledInput } from '../../molecules/LabeledInput/LabeledInput';
 
 type TSettingModalContentProps = {
   closeModal?: () => void;
@@ -47,7 +47,7 @@ export const SettingModalContent = ({
         lableContent={'Your api key:'}
       />
 
-      <RoundButton disabled={false} onClickFunc={closeModal}>
+      <RoundButton isFitContent disabled={false} onClickFunc={closeModal}>
         ✕
       </RoundButton>
     </div>

@@ -80,7 +80,9 @@ export const WriteTranslation = ({
             onChange={handleChange}
           />
         </label>
-        <RoundButton htmlType='submit'>Check</RoundButton>
+        <RoundButton isFitContent htmlType='submit'>
+          Check
+        </RoundButton>
       </form>
     </div>
   );
