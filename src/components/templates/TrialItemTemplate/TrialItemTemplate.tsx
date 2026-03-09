@@ -7,11 +7,11 @@ import { selectFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
-import styles from './WordItem.module.css';
+import styles from './TrialItemTemplate.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
 
-const WordItem = ({
+const TrialItemTemplate = ({
   id,
   targetWord,
   translating,
@@ -60,4 +60,4 @@ const WordItem = ({
   );
 };
 
-export default WordItem;
+export default TrialItemTemplate;

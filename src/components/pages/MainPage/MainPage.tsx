@@ -1,9 +1,9 @@
 import { FC, useEffect, useState } from 'react';
 
 import WriteTranslation from '@components/organisms/WriteTranslation/WriteTranslation';
-import Search from '@components/templates/Search/Search';
+import SearchTemplate from '@components/templates/SearchTemplate/SearchTemplate';
 import SuccessTemplate from '@components/templates/SuccessTemplate/SuccessTemplate';
-import WordItem from '@components/templates/WordItem/WordItem';
+import WordItem from '@components/templates/TrialItemTemplate/TrialItemTemplate';
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
@@ -122,7 +122,7 @@ export const MainPage: FC = () => {
             <WriteTranslation key={collection[0].id} {...collection[0]} />
           )}
 
-          {!trialRegime && <Search />}
+          {!trialRegime && <SearchTemplate />}
         </>
       )}
       {/* (заметка № 13) */}

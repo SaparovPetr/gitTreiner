@@ -9,10 +9,10 @@ import {
 import SearchResults from '@components/organisms/SearchResults/SearchResults';
 import { selectModalState } from '@slices/modal-slice';
 
-import styles from './Search.module.css';
+import styles from './SearchTemplate.module.css';
 import { useAppSelector } from '../../../services/store';
 
-const Search = () => {
+const SearchTemplate = () => {
   const showModal = useAppSelector(selectModalState); // РТК
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
@@ -46,4 +46,4 @@ const Search = () => {
   );
 };
 
-export default Search;
+export default SearchTemplate;
