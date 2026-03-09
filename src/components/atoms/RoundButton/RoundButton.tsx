@@ -14,9 +14,7 @@ export const RoundButton = ({
   onClickFunc,
   disabled
 }: TButtonProps) => (
-  <>
-    <button className={styles.button} onClick={onClickFunc} disabled={disabled}>
-      {children}
-    </button>
-  </>
+  <button className={styles.button} onClick={onClickFunc} disabled={disabled}>
+    {children}
+  </button>
 );

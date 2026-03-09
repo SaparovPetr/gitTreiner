@@ -1,5 +1,3 @@
-import { ReactElement } from 'react';
-
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { selectPickedWordObject } from '@slices/md-slice';
 
@@ -7,7 +5,6 @@ import styles from './ErrorHint.module.css';
 import { useAppSelector } from '../../../services/store';
 
 type TErrorHintProps = {
-  children?: ReactElement;
   closeModal: () => void;
 };
 
