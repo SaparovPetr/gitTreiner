@@ -6,7 +6,7 @@ import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';
 import styles from './Modal.module.css';
-import { useAppDispatch, useAppSelector } from '../../services/store';
+import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 type TModalProps = {
   children?: ReactElement;

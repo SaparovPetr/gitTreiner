@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 
-import { Layout } from '@components/Modal/Layout';
 import { OptionList } from '@components/molecules/OptionList/OptionList';
 import { picData, setFullFileName } from '@slices/md-slice';
 import { selectFullFileName } from '@slices/md-slice';

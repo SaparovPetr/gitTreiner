@@ -118,7 +118,7 @@ export const WordModalContent = ({
             'create and edit'}
           {isFirstButtonLoading && <Loader />}
           {isFirstButtonCopied && '🤘'}
-          {isErrorCreating && 'error creating'}
+          {isErrorCreating && 'error 😢'}
         </RoundButton>
         <div className={styles.twoButtons}>
           <RoundButton disabled={false} onClickFunc={knockAndCopy}>
@@ -128,7 +128,7 @@ export const WordModalContent = ({
               'create'}
             {isSecondButtonLoading && <Loader />}
             {isSecondButtonCopied && '🤘'}
-            {isErrorCreating && 'error creating'}
+            {isErrorCreating && '😢'}
           </RoundButton>
           <RoundButton disabled={false}>
             <Link

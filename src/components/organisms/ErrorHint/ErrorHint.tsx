@@ -16,10 +16,10 @@ export const ErrorHint = ({ closeModal }: TErrorHintProps) => {
       <div className={styles.phraseZone}>
         {targetWord} - {translating}
       </div>
-      <div className={styles.hintText}>
-        Данные о заметке не получены. Проверьте корректность данных Гитхаба в
-        настройках.
-      </div>
+      <p className={styles.hintText}>
+        No note data was retrieved. 😥 Please check the GitHub data in your
+        settings.
+      </p>
       <RoundButton isFitContent disabled={false} onClickFunc={closeModal}>
         ✕
       </RoundButton>

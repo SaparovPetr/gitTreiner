@@ -1,9 +1,9 @@
 import { useEffect } from 'react';
 
-import { Modal } from '@components/Modal/Modal';
 import { ErrorHint } from '@components/organisms/ErrorHint/ErrorHint';
 import { SettingModalContent } from '@components/organisms/SettingModalContent/SettingModalContent';
 import { WordModalContent } from '@components/organisms/WordModalContent/WordModalContent';
+import { Modal } from '@components/templates/Modal/Modal';
 import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
@@ -100,25 +100,9 @@ export const App = () => {
         <Route path='/main' element={<MainPage />} />
         <Route path='*' element={<NotFound404 />} />
         <Route path='/welcome' element={<WelcomePage />} />
-
-        <Route
-          path='/word'
-          element={
-            <WordModalContent
-              closeModal={closeModal}
-              linkToPublicFile={user.linkToPublicFile}
-              linkToRepo={user.linkToRepo}
-            />
-          }
-        />
-        <Route
-          path='/setting'
-          element={<SettingModalContent closeModal={closeModal} />}
-        />
       </Routes>
       {backgroundLocation && (
         <Routes>
-          <Route path='/main' element={<MainPage />} />
           {mdFetchStatus === RequestStatus.Success && (
             <Route
               path='/word'
