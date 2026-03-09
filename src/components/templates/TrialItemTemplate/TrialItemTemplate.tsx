@@ -37,7 +37,7 @@ export const TrialItemTemplate = ({
   };
 
   return (
-    <Layout>
+    <>
       {/* (заметка № 6) */}
       <div className={styles.cardContainer}>
         <Link
@@ -56,6 +56,6 @@ export const TrialItemTemplate = ({
           skyid={skyid}
         />
       </div>
-    </Layout>
+    </>
   );
 };

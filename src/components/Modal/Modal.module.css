@@ -22,21 +22,16 @@
   animation: fadein 300ms ease-out forwards;
 }
 
-.layoutComponent {
-  width: 30vw;
-  min-width: 300px;
-}
-
-@media (height <= 620px) {  
-  .layoutComponent { 
+@media (height <= 620px) {
+  .layoutComponent {
     width: fit-content;
     min-width: 300px;
   }
 
   .popup {
     top: 50%;
-    padding: 8px 14px 11px;  
-  } 
+    padding: 8px 14px 11px;
+  }
 }
 
 @keyframes fadein {

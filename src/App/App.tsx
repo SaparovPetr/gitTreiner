@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 
-import { Layout } from '@components/Modal/Layout';
 import { Modal } from '@components/Modal/Modal';
 import { ErrorHint } from '@components/organisms/ErrorHint/ErrorHint';
 import { SettingModalContent } from '@components/organisms/SettingModalContent/SettingModalContent';
@@ -105,22 +104,16 @@ export const App = () => {
         <Route
           path='/word'
           element={
-            <Layout>
-              <WordModalContent
-                closeModal={closeModal}
-                linkToPublicFile={user.linkToPublicFile}
-                linkToRepo={user.linkToRepo}
-              />
-            </Layout>
+            <WordModalContent
+              closeModal={closeModal}
+              linkToPublicFile={user.linkToPublicFile}
+              linkToRepo={user.linkToRepo}
+            />
           }
         />
         <Route
           path='/setting'
-          element={
-            <Layout>
-              <SettingModalContent closeModal={closeModal} />
-            </Layout>
-          }
+          element={<SettingModalContent closeModal={closeModal} />}
         />
       </Routes>
       {backgroundLocation && (
@@ -130,15 +123,13 @@ export const App = () => {
             <Route
               path='/word'
               element={
-                <Layout>
-                  <Modal closeModal={closeModal}>
-                    <WordModalContent
-                      closeModal={closeModal}
-                      linkToPublicFile={user.linkToPublicFile}
-                      linkToRepo={user.linkToRepo}
-                    />
-                  </Modal>
-                </Layout>
+                <Modal closeModal={closeModal}>
+                  <WordModalContent
+                    closeModal={closeModal}
+                    linkToPublicFile={user.linkToPublicFile}
+                    linkToRepo={user.linkToRepo}
+                  />
+                </Modal>
               }
             />
           )}
@@ -146,11 +137,9 @@ export const App = () => {
             <Route
               path='/word'
               element={
-                <Layout>
-                  <Modal closeModal={closeModal}>
-                    <ErrorHint closeModal={closeModal} />
-                  </Modal>
-                </Layout>
+                <Modal closeModal={closeModal}>
+                  <ErrorHint closeModal={closeModal} />
+                </Modal>
               }
             />
           )}
@@ -158,11 +147,9 @@ export const App = () => {
           <Route
             path='/setting'
             element={
-              <Layout>
-                <Modal closeModal={closeModal}>
-                  <SettingModalContent closeModal={closeModal} />
-                </Modal>
-              </Layout>
+              <Modal closeModal={closeModal}>
+                <SettingModalContent closeModal={closeModal} />
+              </Modal>
             }
           />
         </Routes>

@@ -3,10 +3,11 @@
   flex-direction: column;
   justify-content: space-between;
   gap: 10vh;
-  min-height: 330px;  
+  min-width: 300px;
+  min-height: 330px;
   padding: 15px;
   border: 1px solid rgb(236 232 232);
-  border-radius: 15px; 
+  border-radius: 15px;
   animation-name: slide;
   animation-duration: 200ms;
 }
@@ -20,9 +21,9 @@
   cursor: pointer;
 }
 
-@media (height <= 620px) {  
-  .cardContainer { 
-    min-height: 26px; 
+@media (height <= 620px) {
+  .cardContainer {
+    min-height: 26px;
   }
 }
 
