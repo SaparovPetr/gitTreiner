@@ -1,10 +1,10 @@
 import { useState } from 'react';
 
 import { removeWord } from '@slices/words-slice';
-import { getCurrientBase } from '@utils/get-currient-base';
-import { getRandomElement } from '@utils/get-random-element';
-import { currientModeFromLocalStorage } from '@utils/localstorage-functionality';
-import { shuffle } from '@utils/shuffle-array';
+import { getCurrientBase } from '@utils/getCurrientBase';
+import { getRandomElement } from '@utils/getRandomElement';
+import { currientModeFromLocalStorage } from '@utils/localStorageFunctionality';
+import { shuffle } from '@utils/shuffleArray';
 import { TOneWord } from '@utils-types';
 
 import styles from './OptionList.module.css';

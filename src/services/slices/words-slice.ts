@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { fetchCollection } from '@utils/get-random-element';
+import { fetchCollection } from '@utils/fetchCollection';
 import { TOneWord } from '@utils-types';
 
 const uuid = require('uuid');

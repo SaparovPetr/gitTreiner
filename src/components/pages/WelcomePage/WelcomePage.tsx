@@ -1,7 +1,7 @@
 import { FC } from 'react';
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import { markTheFirstStart } from '@utils/localstorage-functionality';
+import { markTheFirstStart } from '@utils/localStorageFunctionality';
 import { Link } from 'react-router-dom';
 
 import styles from './WelcomePage.module.css';

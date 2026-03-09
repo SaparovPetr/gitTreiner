@@ -1,7 +1,7 @@
 import React, { memo, ReactElement, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
-import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
+import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
 import { CSSTransition } from 'react-transition-group';
 
 import './modal.css';

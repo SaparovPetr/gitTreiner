@@ -2,7 +2,7 @@ import { selectCollection } from '@slices/words-slice';
 
 import styles from './SettingModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
-import { currientDate } from '../../../utils/currient-date';
+import { currientDate } from '../../../utils/currientDate';
 import LabeledInput from '../../atoms/LabeledInput/LabeledInput';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
 

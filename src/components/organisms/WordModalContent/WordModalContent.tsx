@@ -5,8 +5,8 @@ import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import MdComponent from '@components/organisms/MdComponent/MdComponent';
 import { selectPickedWordObject } from '@slices/md-slice';
 import { selectModeState } from '@slices/mode-slice';
-import { audioCallback } from '@utils/audio-callback';
-import { copyTextToClipboard } from '@utils/copy-text-to-clipboard';
+import { audioCallback } from '@utils/audioCallback';
+import { copyTextToClipboard } from '@utils/copyTextToClipboard';
 import { AppMode } from '@utils-types';
 import { Link } from 'react-router-dom';
 

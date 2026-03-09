@@ -1,6 +1,6 @@
 import { ChangeEvent, ChangeEventHandler, useState } from 'react';
 
-import { setEntryInLocalStorage } from '@utils/localstorage-functionality';
+import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
 
 import styles from './LabeledInput.module.css';
 

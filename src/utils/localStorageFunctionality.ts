@@ -1,4 +1,4 @@
-import { currientDate } from './currient-date';
+import { currientDate } from './currientDate';
 
 /**
  * Колбек для кнопки "продолжить" на экране приветствия

@@ -16,7 +16,7 @@ import {
   counterFromLocalStorage,
   currientModeFromLocalStorage,
   setEntryInLocalStorage
-} from '@utils/localstorage-functionality';
+} from '@utils/localStorageFunctionality';
 import { AppMode, IUser, RequestStatus } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
