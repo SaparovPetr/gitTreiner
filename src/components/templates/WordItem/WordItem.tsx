@@ -19,8 +19,8 @@ const WordItem = ({
   audioURL
 }: TOneWord) => {
   const locationInTheApp = useLocation();
-  const dispatch = useAppDispatch();
-  const fullFileName = useAppSelector(selectFullFileName);
+  const dispatch = useAppDispatch(); // РТК
+  const fullFileName = useAppSelector(selectFullFileName); // РТК
 
   useEffect(() => {
     // (заметка № 14)

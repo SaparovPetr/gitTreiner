@@ -6,7 +6,7 @@ import styles from './ErrorHint.module.css';
 import { useAppSelector } from '../../../services/store';
 
 export const ErrorHint = ({ closeModal }: TModalProps) => {
-  const word = useAppSelector(selectPickedWordObject);
+  const word = useAppSelector(selectPickedWordObject); // РТК
 
   return (
     <div className={styles.hintContainer}>

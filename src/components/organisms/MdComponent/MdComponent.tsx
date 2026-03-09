@@ -5,7 +5,7 @@ import styles from './MdComponent.module.css';
 import { useAppSelector } from '../../../services/store';
 
 export const MdComponent = ({}) => {
-  const content = useAppSelector(getMDcontent);
+  const content = useAppSelector(getMDcontent); // РТК
 
   return (
     <div className={styles.mdContainer}>

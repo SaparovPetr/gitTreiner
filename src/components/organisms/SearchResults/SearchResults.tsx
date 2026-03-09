@@ -39,7 +39,7 @@ import { zArr } from '../../../word-bases/myriad/zArr';
 const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
-  const dispatch = useAppDispatch();
+  const dispatch = useAppDispatch(); // РТК
 
   const makeList = (oneArr: TOneWord[]) => {
     let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);

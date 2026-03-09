@@ -17,9 +17,8 @@ import { spanish500 } from '@word-bases/spanish500';
 import styles from './SuccessPage.module.css';
 
 const SuccessPage: FC = () => {
-  const dispatch = useAppDispatch();
-
-  const currientMode = useAppSelector(selectModeState);
+  const dispatch = useAppDispatch(); // РТК
+  const currientMode = useAppSelector(selectModeState); // РТК
 
   const increaseCounter = () => {
     if (currientMode === AppMode.Dif) {

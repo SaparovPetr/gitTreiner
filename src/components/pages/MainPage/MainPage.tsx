@@ -23,11 +23,11 @@ import styles from './MainPage.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 export const MainPage: FC = () => {
+  const dispatch = useAppDispatch(); // РТК
+  const collection = useAppSelector(selectCollection); // РТК
+  const currientMode = useAppSelector(selectModeState); // РТК
   const [trialRegime, setTrialRegime] = useState(false);
   const [entryCard, setEntryCard] = useState(false);
-  const dispatch = useAppDispatch();
-  const collection = useAppSelector(selectCollection);
-  const currientMode = useAppSelector(selectModeState);
   const locationInTheApp = useLocation();
 
   useEffect(() => {

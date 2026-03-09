@@ -14,7 +14,7 @@ import { useAppDispatch } from '../../../services/store';
 const OptionList =
   // (заметка № 8)
   (targetObject: TOneWord) => {
-    const dispatch = useAppDispatch();
+    const dispatch = useAppDispatch(); // РТК
 
     const currientBase = getCurrientBase(currientModeFromLocalStorage);
     // (заметка № 9)

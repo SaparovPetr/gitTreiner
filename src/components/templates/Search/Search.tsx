@@ -13,8 +13,8 @@ import styles from './Search.module.css';
 import { useAppSelector } from '../../../services/store';
 
 const Search = () => {
+  const showModal = useAppSelector(selectModalState); // РТК
   const [value, setValue] = useState('');
-  const showModal = useAppSelector(selectModalState);
   const inputRef = useRef<HTMLInputElement>(null);
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (

@@ -10,9 +10,9 @@ import styles from './Modal.module.css';
 import { useAppDispatch, useAppSelector } from '../../services/store';
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
-  const showModal = useAppSelector(selectModalState);
+  const showModal = useAppSelector(selectModalState); // РТК
+  const dispatch = useAppDispatch(); // РТК
   const nodeRef = useRef(null);
-  const dispatch = useAppDispatch();
 
   useEffect(() => {
     dispatch(setShowModal(true));

@@ -14,8 +14,8 @@ import styles from './NotFoundPage.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 
 export const NotFound404: FC = () => {
-  const dispatch = useAppDispatch();
-  const currientMode = useAppSelector(selectModeState);
+  const dispatch = useAppDispatch(); // РТК
+  const currientMode = useAppSelector(selectModeState); // РТК
 
   const navigate = useNavigate();
 

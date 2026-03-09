@@ -20,9 +20,9 @@ const WriteTranslation = ({ id, targetWord, translating, skyid }: TOneWord) => {
   const [value, setValue] = useState('');
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
-  const dispatch = useAppDispatch();
+  const dispatch = useAppDispatch(); // РТК
   const locationInTheApp = useLocation();
-  const fullFileName = useAppSelector(selectFullFileName);
+  const fullFileName = useAppSelector(selectFullFileName); // РТК
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>

@@ -8,7 +8,7 @@ import LabeledInput from '../../atoms/LabeledInput/LabeledInput';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
 
 const SettingModalContent = ({ closeModal }: TSettingModalContentProps) => {
-  const collection = useAppSelector(selectCollection);
+  const collection = useAppSelector(selectCollection); // РТК
 
   return (
     <div className={styles.settingModalContainer}>

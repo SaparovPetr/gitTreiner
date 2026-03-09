@@ -31,12 +31,11 @@ import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 
 const App = () => {
-  const dispatch = useAppDispatch();
+  const dispatch = useAppDispatch(); // РТК
+  const mdFetchStatus = useAppSelector(getStatus); // РТК
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
   const navigate = useNavigate();
-
-  const mdFetchStatus = useAppSelector(getStatus);
 
   const user: IUser = new User(
     `${localStorage.getItem(`UserName`)}`,

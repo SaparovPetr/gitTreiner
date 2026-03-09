@@ -17,8 +17,8 @@ const WordModalContent = ({
   closeModal,
   linkToRepo
 }: TWordModalContentProps) => {
-  const word = useAppSelector(selectPickedWordObject);
-  const currientMode = useAppSelector(selectModeState);
+  const word = useAppSelector(selectPickedWordObject); // РТК
+  const currientMode = useAppSelector(selectModeState); // РТК
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
