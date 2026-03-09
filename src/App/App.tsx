@@ -84,7 +84,6 @@ const App = () => {
         dispatch(makeCollection(spanish500));
         break;
     }
-
     dispatch(setCounter(Number(counterFromLocalStorage)));
   }, []);
 
