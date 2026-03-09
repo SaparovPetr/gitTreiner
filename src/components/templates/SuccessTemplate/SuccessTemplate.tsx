@@ -14,9 +14,9 @@ import { difWordBase } from '@word-bases/dif';
 import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 
-import styles from './SuccessPage.module.css';
+import styles from './SuccessTemplate.module.css';
 
-const SuccessPage: FC = () => {
+const SuccessTemplate: FC = () => {
   const dispatch = useAppDispatch(); // РТК
   const currientMode = useAppSelector(selectModeState); // РТК
 
@@ -57,4 +57,4 @@ const SuccessPage: FC = () => {
     </div>
   );
 };
-export default SuccessPage;
+export default SuccessTemplate;
