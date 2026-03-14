@@ -1,25 +1,25 @@
 .label {
-    display:flex;
-    flex-direction: column;
-    gap: 7px;
-    padding: 15px 20px;
-    font-weight: bold;
-    font-size: 26px;
-    border: 1px solid white;
-    border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: 26px;
+  border: 1px solid white;
+  border-radius: 15px;
 }
 
 .input {
-    padding-left: 5px;
-    color: white;
-    font-size: 18px;
-    background-color: #323131;
-    border: 1px solid white;
-    border-radius: 8px;
+  padding-left: 5px;
+  color: white;
+  font-size: 18px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 8px;
 }
 
-@media (height <= 620px) {  
-    .label {
-        display: none;
-    }
+@media (height <= 620px) {
+  .label {
+    display: none;
+  }
 }

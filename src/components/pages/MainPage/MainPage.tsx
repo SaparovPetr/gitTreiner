@@ -7,6 +7,7 @@ import { TrialItemTemplate } from '@components/templates/TrialItemTemplate/Trial
 import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
+import { currientDate } from '@utils/currientDate';
 import { isFirstStart } from '@utils/localStorageFunctionality';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
@@ -85,8 +86,23 @@ export const MainPage: FC = () => {
     trialRegime ? setTrialRegime(false) : setTrialRegime(true);
   };
 
+  /** Число сделанных попыток */
+  const efforts = Number(
+    localStorage.getItem(`effortCounterInStorage-${currientDate}`)
+  );
+
   return (
-    <main className={styles.mainContainer}>
+    <main
+      className={styles.mainContainer}
+      style={{
+        backgroundColor:
+          efforts < 10
+            ? 'var(--start-bg-color)'
+            : efforts < 15
+              ? 'var(--second-bg-color)'
+              : 'var(--third-bg-color)'
+      }}
+    >
       {collection.length > 0 && isFirstStart && (
         <>
           <div className={styles.headerArea}>

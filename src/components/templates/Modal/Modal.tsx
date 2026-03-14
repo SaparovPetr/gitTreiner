@@ -1,6 +1,7 @@
 import React, { memo, ReactElement, useEffect, useRef } from 'react';
 
 import { selectModalState, setShowModal } from '@slices/modal-slice';
+import { currientDate } from '@utils/currientDate';
 import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
 import { CSSTransition } from 'react-transition-group';
 
@@ -29,6 +30,10 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
     return () => document.removeEventListener('keydown', handleEsc);
   }, []);
 
+  const efforts = Number(
+    localStorage.getItem(`effortCounterInStorage-${currientDate}`)
+  );
+
   return (
     <>
       <CSSTransition
@@ -40,7 +45,19 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
       >
         <div className='modal' ref={nodeRef}>
           <div className={styles.overlay} onClick={closeModal} />
-          <div className={styles.popup}>{children}</div>
+          <div
+            style={{
+              backgroundColor:
+                efforts < 10
+                  ? 'var(--start-bg-color)'
+                  : efforts < 15
+                    ? 'var(--second-bg-color)'
+                    : 'var(--third-bg-color)'
+            }}
+            className={styles.popup}
+          >
+            {children}
+          </div>
         </div>
       </CSSTransition>
     </>

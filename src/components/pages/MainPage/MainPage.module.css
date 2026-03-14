@@ -1,70 +1,70 @@
 .mainContainer {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    box-sizing: border-box;
-    width:100%;
-    height: 100svh;
-    padding: 5%;
-    overflow: clip;
-    color: white;
-    font-family: 'Suisse', sans-serif;
-    background-color: #323131;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100svh;
+  padding: 5%;
+  overflow: clip;
+  color: white;
+  font-family: 'Suisse', sans-serif;
+  background-color: var(--start-bg-color);
 }
 
 .headerArea {
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    width: 30vw;
-    min-width: 300px;
-    cursor: pointer;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 30vw;
+  min-width: 300px;
+  cursor: pointer;
 }
 
 .logoArea {
-    font-weight: bold;
-    font-size: 35px;
+  font-weight: bold;
+  font-size: 35px;
 }
 
 .buttonsArea {
-    display:flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .setButton {
-    font-size: 33px; 
+  font-size: 33px;
 }
 
 .modeButton {
-    font-size: 24px; 
+  font-size: 24px;
 }
 
 .modeButton:active {
-    opacity: 0.5; 
+  opacity: 0.5;
 }
 
 .lable {
-    position: absolute;
-    top: 45px;
-    left: 123px;  
-    color: white;
-    font-size: 18px;
+  position: absolute;
+  top: 45px;
+  left: 123px;
+  color: white;
+  font-size: 18px;
 }
 
-@media (height <= 620px) {  
-    .mainContainer {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center; 
-        padding: 4% 5%;
-    }
+@media (height <= 620px) {
+  .mainContainer {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4% 5%;
+  }
 
-    .headerArea {
-        flex-direction: column;
-        justify-content: space-between;
-        align-self: start;
-        min-width: 226px;
-        height: 100%;
-    }
+  .headerArea {
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: start;
+    min-width: 226px;
+    height: 100%;
+  }
 }

@@ -1,3 +1,9 @@
+:root {
+  --start-bg-color: #323131;
+  --second-bg-color: #61502e;
+  --third-bg-color: #2b703d;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -5,13 +11,13 @@
 @font-face {
   font-weight: normal;
   font-family: 'Suisse';
-  src: url("../src/fonts/SuisseIntl-Book.woff");
+  src: url('../src/fonts/SuisseIntl-Book.woff');
 }
 
 @font-face {
   font-weight: bold;
   font-family: 'Suisse';
-  src: url("../src/fonts/SuisseIntl-Bold.woff");
+  src: url('../src/fonts/SuisseIntl-Bold.woff');
 }
 
 body {
@@ -24,16 +30,19 @@ body {
 }
 
 code {
-  font-family: "source-code-pro", "Menlo", "Monaco", "Consolas", 'Courier New',
+  font-family: 'source-code-pro', 'Menlo', 'Monaco', 'Consolas', 'Courier New',
     monospace;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   margin: 0;
   font-weight: bold;
 }
 
-div, a {
+div,
+a {
   color: inherit;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
