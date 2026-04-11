@@ -1,13 +1,15 @@
+/* eslint-disable import/order */
 import React, { memo, ReactElement, useEffect, useRef } from 'react';
 
-import { selectModalState, setShowModal } from '@slices/modal-slice';
 import { currientDate } from '@utils/currientDate';
 import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
-import { CSSTransition } from 'react-transition-group';
+import { useModalZ } from '../../../zServices/zModalStore';
 
 import './modal.css';
+import { CSSTransition } from 'react-transition-group';
+
 import styles from './Modal.module.css';
-import { useAppDispatch, useAppSelector } from '../../../services/store';
+import { useAppDispatch } from '../../../services/store';
 
 type TModalProps = {
   children?: ReactElement;
@@ -15,12 +17,14 @@ type TModalProps = {
 };
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
-  const showModal = useAppSelector(selectModalState); // РТК
+  const openModal = useModalZ((state) => state.setShowModal);
+  const modalState = useModalZ((state) => state.showModal);
+
   const dispatch = useAppDispatch(); // РТК
   const nodeRef = useRef(null);
 
   useEffect(() => {
-    dispatch(setShowModal(true));
+    openModal(true);
     setEntryInLocalStorage('modalIsOpen', 'true');
 
     const handleEsc = (e: KeyboardEvent) => {
@@ -37,7 +41,7 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
   return (
     <>
       <CSSTransition
-        in={showModal}
+        in={modalState}
         nodeRef={nodeRef}
         timeout={200}
         classNames='modal'

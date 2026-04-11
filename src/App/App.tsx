@@ -9,7 +9,6 @@ import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
 import { setCounter } from '@slices/counter-slice';
 import { getStatus, resetStore } from '@slices/md-slice';
-import { setShowModal } from '@slices/modal-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
 import {
@@ -30,6 +29,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
+import { useModalZ } from '../zServices/zModalStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
@@ -43,8 +43,10 @@ export const App = () => {
     `${localStorage.getItem(`UserRepo`)}`
   );
 
+  const openModal = useModalZ((state) => state.setShowModal);
+
   const closeModal = () => {
-    dispatch(setShowModal(false));
+    openModal(false);
     setEntryInLocalStorage('modalIsOpen', 'false');
 
     setTimeout(() => {

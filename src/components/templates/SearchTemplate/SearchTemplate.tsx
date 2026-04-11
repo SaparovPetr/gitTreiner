@@ -7,13 +7,13 @@ import {
 } from 'react';
 
 import { SearchResults } from '@components/organisms/SearchResults/SearchResults';
-import { selectModalState } from '@slices/modal-slice';
 
 import styles from './SearchTemplate.module.css';
-import { useAppSelector } from '../../../services/store';
+import { useModalZ } from '../../../zServices/zModalStore';
 
 export const SearchTemplate = () => {
-  const showModal = useAppSelector(selectModalState); // РТК
+  const modalState = useModalZ((state) => state.showModal);
+
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -24,10 +24,10 @@ export const SearchTemplate = () => {
   };
 
   useEffect(() => {
-    if (inputRef.current && !showModal) {
+    if (inputRef.current && !modalState) {
       inputRef.current.focus();
     }
-  }, [showModal]);
+  }, [modalState]);
 
   return (
     <div className={styles.searchContainer}>
