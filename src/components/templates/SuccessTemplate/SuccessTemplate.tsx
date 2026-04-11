@@ -15,12 +15,17 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './SuccessTemplate.module.css';
+import { useCounterZ } from '@zStore/zCounterStore';
 
 export const SuccessTemplate: FC = () => {
   const dispatch = useAppDispatch(); // РТК
   const currientMode = useAppSelector(selectModeState); // РТК
 
-  const increaseCounter = () => {
+  const setEffortCounterState = useCounterZ(
+    (state) => state.setEffortCounterState
+  );
+
+  const counterHandler = () => {
     if (currientMode === AppMode.Dif) {
       dispatch(makeCollection(difWordBase));
     }
@@ -42,7 +47,7 @@ export const SuccessTemplate: FC = () => {
     if (currientMode === AppMode.Es500) {
       dispatch(makeCollection(spanish500));
     }
-    dispatch(setCounter(1));
+    setEffortCounterState(1);
   };
 
   return (
@@ -51,7 +56,7 @@ export const SuccessTemplate: FC = () => {
       <div>Great!</div>
       <div>Let's go again!</div>
 
-      <RoundButton isFitContent onClickFunc={increaseCounter} disabled={false}>
+      <RoundButton isFitContent onClickFunc={counterHandler} disabled={false}>
         →
       </RoundButton>
     </div>

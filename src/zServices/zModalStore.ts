@@ -6,12 +6,12 @@ const devtoolsOptions = {
   enabled: process.env.NODE_ENV === 'development'
 };
 
-interface ModalState {
+interface IModalState {
   showModalState: boolean;
   setShowModalState: (value: boolean) => void;
 }
 
-export const useModalZ = create<ModalState>()(
+export const useModalZ = create<IModalState>()(
   devtools(
     (set) => ({
       showModalState: false,

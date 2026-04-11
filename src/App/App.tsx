@@ -7,7 +7,6 @@ import { Modal } from '@components/templates/Modal/Modal';
 import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
-import { setCounter } from '@slices/counter-slice';
 import { getStatus, resetStore } from '@slices/md-slice';
 import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
@@ -30,6 +29,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 import { useModalZ } from '@zStore/zModalStore';
+import { useCounterZ } from '@zStore/zCounterStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
@@ -44,6 +44,9 @@ export const App = () => {
   );
 
   const setOpenModalState = useModalZ((state) => state.setShowModalState);
+  const setEffortCounterState = useCounterZ(
+    (state) => state.setEffortCounterState
+  );
 
   const closeModal = () => {
     setOpenModalState(false);
@@ -85,7 +88,8 @@ export const App = () => {
         dispatch(makeCollection(spanish500));
         break;
     }
-    dispatch(setCounter(Number(counterFromLocalStorage)));
+
+    setEffortCounterState(Number(counterFromLocalStorage));
   }, []);
 
   useEffect(() => {
