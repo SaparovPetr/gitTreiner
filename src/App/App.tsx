@@ -8,7 +8,6 @@ import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
 import { getStatus, resetStore } from '@slices/md-slice';
-import { setMode } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
 import {
   counterFromLocalStorage,
@@ -30,10 +29,13 @@ import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 import { useModalZ } from '@zStore/zModalStore';
 import { useCounterZ } from '@zStore/zCounterStore';
+import { useModeZ } from '@zStore/zModeStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
+  const setModeState = useModeZ((state) => state.setModeState);
+
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
   const navigate = useNavigate();
@@ -60,9 +62,9 @@ export const App = () => {
 
   useEffect(() => {
     if (!currientModeFromLocalStorage) {
-      dispatch(setMode(AppMode.Dif)); // (заметка № 1)
+      setModeState(AppMode.Dif); // (заметка № 1)
     } else {
-      dispatch(setMode(currientModeFromLocalStorage));
+      setModeState(currientModeFromLocalStorage);
     }
 
     switch (currientModeFromLocalStorage) {

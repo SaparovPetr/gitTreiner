@@ -4,7 +4,6 @@ import { Loader } from '@components/atoms/Loader/Loader';
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { MdComponent } from '@components/organisms/MdComponent/MdComponent';
 import { selectPickedWordObject } from '@slices/md-slice';
-import { selectModeState } from '@slices/mode-slice';
 import { audioCallback } from '@utils/audioCallback';
 import { copyTextToClipboard } from '@utils/copyTextToClipboard';
 import { AppMode } from '@utils-types';
@@ -12,6 +11,7 @@ import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
+import { useModeZ } from '@zStore/zModeStore';
 
 export type TWordModalContentProps = {
   closeModal?: () => void;
@@ -24,7 +24,7 @@ export const WordModalContent = ({
   linkToRepo
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject); // РТК
-  const currientMode = useAppSelector(selectModeState); // РТК
+  const modeState = useModeZ((state) => state.modeState);
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
@@ -37,7 +37,7 @@ export const WordModalContent = ({
   // (заметка № 15)
   useEffect(() => {
     // (заметка № 14)
-    if (currientMode === AppMode.Es400) {
+    if (modeState === AppMode.Es400) {
       audioCallback(word.audioURL);
     } else {
       audioCallback(

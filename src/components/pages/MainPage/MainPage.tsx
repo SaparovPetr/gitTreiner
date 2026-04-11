@@ -4,7 +4,6 @@ import { WriteTranslation } from '@components/organisms/WriteTranslation/WriteTr
 import { SearchTemplate } from '@components/templates/SearchTemplate/SearchTemplate';
 import { SuccessTemplate } from '@components/templates/SuccessTemplate/SuccessTemplate';
 import { TrialItemTemplate } from '@components/templates/TrialItemTemplate/TrialItemTemplate';
-import { selectModeState, setMode } from '@slices/mode-slice';
 import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
 import { currientDate } from '@utils/currientDate';
@@ -21,11 +20,14 @@ import { Link, useLocation } from 'react-router-dom';
 
 import styles from './MainPage.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
+import { useModeZ } from '@zStore/zModeStore';
 
 export const MainPage: FC = () => {
   const dispatch = useAppDispatch(); // РТК
   const collection = useAppSelector(selectCollection); // РТК
-  const currientMode = useAppSelector(selectModeState); // РТК
+  const setModeState = useModeZ((state) => state.setModeState);
+  const modeState = useModeZ((state) => state.modeState);
+
   const [trialRegime, setTrialRegime] = useState(false);
   const [entryCard, setEntryCard] = useState(false);
   const locationInTheApp = useLocation();
@@ -35,7 +37,7 @@ export const MainPage: FC = () => {
       if (collection.length % 3 === 0) {
         setEntryCard(true);
       } else {
-        if (currientMode === AppMode.Es400) {
+        if (modeState === AppMode.Es400) {
           audioCallback(collection[0].audioURL);
         } else {
           audioCallback(
@@ -49,34 +51,34 @@ export const MainPage: FC = () => {
 
   /**  Колбек клика по логотипу  */
   const changeMode = () => {
-    if (currientMode === AppMode.Dif) {
-      dispatch(setMode(AppMode.ThreeK));
+    if (modeState === AppMode.Dif) {
+      setModeState(AppMode.ThreeK);
       dispatch(makeCollection(threeThousandWordBase));
     }
-    if (currientMode === AppMode.ThreeK) {
-      dispatch(setMode(AppMode.A));
+    if (modeState === AppMode.ThreeK) {
+      setModeState(AppMode.A);
       dispatch(makeCollection(aWordBase));
     }
-    if (currientMode === AppMode.A) {
-      dispatch(setMode(AppMode.B1));
+    if (modeState === AppMode.A) {
+      setModeState(AppMode.B1);
       dispatch(makeCollection(bOneWordBase));
     }
-    if (currientMode === AppMode.B1) {
-      dispatch(setMode(AppMode.B2));
+    if (modeState === AppMode.B1) {
+      setModeState(AppMode.B2);
       dispatch(makeCollection(bTwoWordBase));
     }
 
-    if (currientMode === AppMode.B2) {
-      dispatch(setMode(AppMode.Es400));
+    if (modeState === AppMode.B2) {
+      setModeState(AppMode.Es400);
       dispatch(makeCollection(spanish400));
     }
 
-    if (currientMode === AppMode.Es400) {
-      dispatch(setMode(AppMode.Es500));
+    if (modeState === AppMode.Es400) {
+      setModeState(AppMode.Es500);
       dispatch(makeCollection(spanish500));
     }
-    if (currientMode === AppMode.Es500) {
-      dispatch(setMode(AppMode.Dif));
+    if (modeState === AppMode.Es500) {
+      setModeState(AppMode.Dif);
       dispatch(makeCollection(difWordBase));
     }
   };
@@ -111,7 +113,7 @@ export const MainPage: FC = () => {
               <div>
                 treiner
                 {trialRegime && (
-                  <span className={styles.lable}>{currientMode}</span>
+                  <span className={styles.lable}>{modeState}</span>
                 )}
               </div>
             </div>

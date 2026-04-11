@@ -1,6 +1,5 @@
 import { FC } from 'react';
 
-import { selectModeState } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
@@ -11,28 +10,29 @@ import { difWordBase } from '@word-bases/dif';
 import { useNavigate } from 'react-router-dom';
 
 import styles from './NotFoundPage.module.css';
-import { useAppDispatch, useAppSelector } from '../../../services/store';
+import { useAppDispatch } from '../../../services/store';
+import { useModeZ } from '@zStore/zModeStore';
 
 export const NotFound404: FC = () => {
   const dispatch = useAppDispatch(); // РТК
-  const currientMode = useAppSelector(selectModeState); // РТК
+  const modeState = useModeZ((state) => state.modeState);
 
   const navigate = useNavigate();
 
   const goToBack = () => {
-    if (currientMode === AppMode.Dif) {
+    if (modeState === AppMode.Dif) {
       dispatch(makeCollection(difWordBase));
     }
-    if (currientMode === AppMode.ThreeK) {
+    if (modeState === AppMode.ThreeK) {
       dispatch(makeCollection(threeThousandWordBase));
     }
-    if (currientMode === AppMode.A) {
+    if (modeState === AppMode.A) {
       dispatch(makeCollection(aWordBase));
     }
-    if (currientMode === AppMode.B1) {
+    if (modeState === AppMode.B1) {
       dispatch(makeCollection(bOneWordBase));
     }
-    if (currientMode === AppMode.B2) {
+    if (modeState === AppMode.B2) {
       dispatch(makeCollection(bTwoWordBase));
     }
     navigate(-1);
