@@ -1,7 +1,6 @@
 import { FC } from 'react';
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import { setCounter } from '@slices/counter-slice';
 import { selectModeState } from '@slices/mode-slice';
 import { makeCollection } from '@slices/words-slice';
 import { useAppDispatch, useAppSelector } from '@store/store';
