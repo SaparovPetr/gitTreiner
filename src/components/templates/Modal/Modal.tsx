@@ -1,15 +1,14 @@
-/* eslint-disable import/order */
-import React, { memo, ReactElement, useEffect, useRef } from 'react';
+import { memo, ReactElement, useEffect, useRef } from 'react';
 
 import { currientDate } from '@utils/currientDate';
 import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
 import { useModalZ } from '../../../zServices/zModalStore';
 
 import './modal.css';
+
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './Modal.module.css';
-import { useAppDispatch } from '../../../services/store';
 
 type TModalProps = {
   children?: ReactElement;
@@ -20,7 +19,6 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
   const openModal = useModalZ((state) => state.setShowModal);
   const modalState = useModalZ((state) => state.showModal);
 
-  const dispatch = useAppDispatch(); // РТК
   const nodeRef = useRef(null);
 
   useEffect(() => {
