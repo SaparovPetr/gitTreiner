@@ -8,7 +8,6 @@ import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
 import { getStatus, resetStore } from '@slices/md-slice';
-import { makeCollection } from '@slices/words-slice';
 import {
   counterFromLocalStorage,
   currientModeFromLocalStorage,
@@ -30,11 +29,17 @@ import { User } from '../user';
 import { useModalZ } from '@zStore/zModalStore';
 import { useCounterZ } from '@zStore/zCounterStore';
 import { useModeZ } from '@zStore/zModeStore';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
   const setModeState = useModeZ((state) => state.setModeState);
+
+  const setCollectionState = useCollectionZ(
+    (state) => state.setCollectionState
+  );
+  const collectionState = useCollectionZ((state) => state.collectionState);
 
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
@@ -69,25 +74,25 @@ export const App = () => {
 
     switch (currientModeFromLocalStorage) {
       case AppMode.Dif:
-        dispatch(makeCollection(difWordBase)); // (заметка № 2)
+        setCollectionState(difWordBase); // (заметка № 2)
         break;
       case AppMode.ThreeK:
-        dispatch(makeCollection(threeThousandWordBase));
+        setCollectionState(threeThousandWordBase);
         break;
       case AppMode.A:
-        dispatch(makeCollection(aWordBase));
+        setCollectionState(aWordBase);
         break;
       case AppMode.B1:
-        dispatch(makeCollection(bOneWordBase));
+        setCollectionState(bOneWordBase);
         break;
       case AppMode.B2:
-        dispatch(makeCollection(bTwoWordBase));
+        setCollectionState(bTwoWordBase);
         break;
       case AppMode.Es400:
-        dispatch(makeCollection(spanish400));
+        setCollectionState(spanish400);
         break;
       case AppMode.Es500:
-        dispatch(makeCollection(spanish500));
+        setCollectionState(spanish500);
         break;
     }
 

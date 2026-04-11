@@ -1,6 +1,5 @@
 import { useState } from 'react';
 
-import { removeWord } from '@slices/words-slice';
 import { getCurrientBase } from '@utils/getCurrientBase';
 import { getRandomElement } from '@utils/getRandomElement';
 import { currientModeFromLocalStorage } from '@utils/localStorageFunctionality';
@@ -8,13 +7,15 @@ import { shuffle } from '@utils/shuffleArray';
 import { TOneWord } from '@utils-types';
 
 import styles from './OptionList.module.css';
-import { useAppDispatch } from '../../../services/store';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 /** компоненет списка ответов */
 export const OptionList =
   // (заметка № 8)
   (targetObject: TOneWord) => {
-    const dispatch = useAppDispatch(); // РТК
+    const setTrimmedCollectionState = useCollectionZ(
+      (state) => state.setTrimmedCollectionState
+    );
 
     const currientBase = getCurrientBase(currientModeFromLocalStorage);
     // (заметка № 9)
@@ -35,7 +36,7 @@ export const OptionList =
 
     /** удаление Рабочего элемента из Коллекции */
     const skipWordCallback = (id: string) => {
-      dispatch(removeWord({ id }));
+      setTrimmedCollectionState(id);
     };
 
     // (заметка № 12)

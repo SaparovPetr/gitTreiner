@@ -1,8 +1,7 @@
 import { FC } from 'react';
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import { makeCollection } from '@slices/words-slice';
-import { useAppDispatch, useAppSelector } from '@store/store';
+import { useAppDispatch } from '@store/store';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -15,6 +14,7 @@ import { spanish500 } from '@word-bases/spanish500';
 import styles from './SuccessTemplate.module.css';
 import { useCounterZ } from '@zStore/zCounterStore';
 import { useModeZ } from '@zStore/zModeStore';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const SuccessTemplate: FC = () => {
   const dispatch = useAppDispatch(); // РТК
@@ -23,28 +23,32 @@ export const SuccessTemplate: FC = () => {
     (state) => state.setEffortCounterState
   );
   const modeState = useModeZ((state) => state.modeState);
+  const setCollectionState = useCollectionZ(
+    (state) => state.setCollectionState
+  );
+  const collectionState = useCollectionZ((state) => state.collectionState);
 
   const counterHandler = () => {
     if (modeState === AppMode.Dif) {
-      dispatch(makeCollection(difWordBase));
+      setCollectionState(difWordBase);
     }
     if (modeState === AppMode.ThreeK) {
-      dispatch(makeCollection(threeThousandWordBase));
+      setCollectionState(threeThousandWordBase);
     }
     if (modeState === AppMode.A) {
-      dispatch(makeCollection(aWordBase));
+      setCollectionState(aWordBase);
     }
     if (modeState === AppMode.B1) {
-      dispatch(makeCollection(bOneWordBase));
+      setCollectionState(bOneWordBase);
     }
     if (modeState === AppMode.B2) {
-      dispatch(makeCollection(bTwoWordBase));
+      setCollectionState(bTwoWordBase);
     }
     if (modeState === AppMode.Es400) {
-      dispatch(makeCollection(spanish400));
+      setCollectionState(spanish400);
     }
     if (modeState === AppMode.Es500) {
-      dispatch(makeCollection(spanish500));
+      setCollectionState(spanish500);
     }
     setEffortCounterState(1);
   };

@@ -1,10 +1,9 @@
-import { selectCollection } from '@slices/words-slice';
-
 import styles from './SettingModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
 import { currientDate } from '../../../utils/currientDate';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
 import { LabeledInput } from '../../molecules/LabeledInput/LabeledInput';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 type TSettingModalContentProps = {
   closeModal?: () => void;
@@ -13,7 +12,7 @@ type TSettingModalContentProps = {
 export const SettingModalContent = ({
   closeModal
 }: TSettingModalContentProps) => {
-  const collection = useAppSelector(selectCollection); // РТК
+  const collectionState = useCollectionZ((state) => state.collectionState);
 
   return (
     <div className={styles.settingModalContainer}>
@@ -22,7 +21,7 @@ export const SettingModalContent = ({
       <div className={styles.statusWrapper}>
         <h3 className={styles.itemLabel}>Status:</h3>
         <div className={styles.status}>
-          <div> remain: {collection.length}</div>
+          <div> remain: {collectionState.length}</div>
           <div>
             today:{' '}
             {localStorage.getItem(`effortCounterInStorage-${currientDate}`)

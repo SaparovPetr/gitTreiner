@@ -4,7 +4,6 @@ import { WriteTranslation } from '@components/organisms/WriteTranslation/WriteTr
 import { SearchTemplate } from '@components/templates/SearchTemplate/SearchTemplate';
 import { SuccessTemplate } from '@components/templates/SuccessTemplate/SuccessTemplate';
 import { TrialItemTemplate } from '@components/templates/TrialItemTemplate/TrialItemTemplate';
-import { makeCollection, selectCollection } from '@slices/words-slice';
 import { audioCallback } from '@utils/audioCallback';
 import { currientDate } from '@utils/currientDate';
 import { isFirstStart } from '@utils/localStorageFunctionality';
@@ -19,12 +18,14 @@ import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './MainPage.module.css';
-import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { useModeZ } from '@zStore/zModeStore';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const MainPage: FC = () => {
-  const dispatch = useAppDispatch(); // РТК
-  const collection = useAppSelector(selectCollection); // РТК
+  const setCollectionState = useCollectionZ(
+    (state) => state.setCollectionState
+  );
+  const collectionState = useCollectionZ((state) => state.collectionState);
   const setModeState = useModeZ((state) => state.setModeState);
   const modeState = useModeZ((state) => state.modeState);
 
@@ -34,52 +35,52 @@ export const MainPage: FC = () => {
 
   useEffect(() => {
     if (trialRegime) {
-      if (collection.length % 3 === 0) {
+      if (collectionState.length % 3 === 0) {
         setEntryCard(true);
       } else {
         if (modeState === AppMode.Es400) {
-          audioCallback(collection[0].audioURL);
+          audioCallback(collectionState[0].audioURL);
         } else {
           audioCallback(
-            `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${collection[0].targetWord}&lang=en&voice=male_2`
+            `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${collectionState[0].targetWord}&lang=en&voice=male_2`
           );
         }
         setEntryCard(false);
       }
     }
-  }, [collection, trialRegime]);
+  }, [collectionState, trialRegime]);
 
   /**  Колбек клика по логотипу  */
   const changeMode = () => {
     if (modeState === AppMode.Dif) {
       setModeState(AppMode.ThreeK);
-      dispatch(makeCollection(threeThousandWordBase));
+      setCollectionState(threeThousandWordBase);
     }
     if (modeState === AppMode.ThreeK) {
       setModeState(AppMode.A);
-      dispatch(makeCollection(aWordBase));
+      setCollectionState(aWordBase);
     }
     if (modeState === AppMode.A) {
       setModeState(AppMode.B1);
-      dispatch(makeCollection(bOneWordBase));
+      setCollectionState(bOneWordBase);
     }
     if (modeState === AppMode.B1) {
       setModeState(AppMode.B2);
-      dispatch(makeCollection(bTwoWordBase));
+      setCollectionState(bTwoWordBase);
     }
 
     if (modeState === AppMode.B2) {
       setModeState(AppMode.Es400);
-      dispatch(makeCollection(spanish400));
+      setCollectionState(spanish400);
     }
 
     if (modeState === AppMode.Es400) {
       setModeState(AppMode.Es500);
-      dispatch(makeCollection(spanish500));
+      setCollectionState(spanish500);
     }
     if (modeState === AppMode.Es500) {
       setModeState(AppMode.Dif);
-      dispatch(makeCollection(difWordBase));
+      setCollectionState(difWordBase);
     }
   };
 
@@ -105,7 +106,7 @@ export const MainPage: FC = () => {
               : 'var(--third-bg-color)'
       }}
     >
-      {collection.length > 0 && isFirstStart && (
+      {collectionState.length > 0 && isFirstStart && (
         <>
           <div className={styles.headerArea}>
             <div className={styles.logoArea} onClick={changeMode}>
@@ -133,18 +134,24 @@ export const MainPage: FC = () => {
           </div>
 
           {trialRegime && !entryCard && (
-            <TrialItemTemplate key={collection[0].id} {...collection[0]} />
+            <TrialItemTemplate
+              key={collectionState[0].id}
+              {...collectionState[0]}
+            />
           )}
 
           {trialRegime && entryCard && (
-            <WriteTranslation key={collection[0].id} {...collection[0]} />
+            <WriteTranslation
+              key={collectionState[0].id}
+              {...collectionState[0]}
+            />
           )}
 
           {!trialRegime && <SearchTemplate />}
         </>
       )}
       {/* (заметка № 13) */}
-      {collection.length === 0 && isFirstStart && <SuccessTemplate />}
+      {collectionState.length === 0 && isFirstStart && <SuccessTemplate />}
     </main>
   );
 };

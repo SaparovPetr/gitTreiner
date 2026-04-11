@@ -8,13 +8,13 @@ import {
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { picData, selectFullFileName, setFullFileName } from '@slices/md-slice';
-import { removeWord } from '@slices/words-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './WriteTranslation.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
+import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const WriteTranslation = ({
   id,
@@ -28,6 +28,9 @@ export const WriteTranslation = ({
   const dispatch = useAppDispatch(); // РТК
   const locationInTheApp = useLocation();
   const fullFileName = useAppSelector(selectFullFileName); // РТК
+  const setTrimmedCollectionState = useCollectionZ(
+    (state) => state.setTrimmedCollectionState
+  );
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
@@ -39,7 +42,7 @@ export const WriteTranslation = ({
   const handleSubmit = (e: SyntheticEvent) => {
     e.preventDefault();
     if (value === targetWord) {
-      dispatch(removeWord({ id }));
+      setTrimmedCollectionState(id);
     } else {
       setWrongAnswer(true);
     }
