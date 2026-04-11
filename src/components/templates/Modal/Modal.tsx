@@ -2,13 +2,13 @@ import { memo, ReactElement, useEffect, useRef } from 'react';
 
 import { currientDate } from '@utils/currientDate';
 import { setEntryInLocalStorage } from '@utils/localStorageFunctionality';
-import { useModalZ } from '../../../zServices/zModalStore';
 
 import './modal.css';
 
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './Modal.module.css';
+import { useModalZ } from '@zStore/zModalStore';
 
 type TModalProps = {
   children?: ReactElement;

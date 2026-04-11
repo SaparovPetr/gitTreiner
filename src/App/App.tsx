@@ -29,7 +29,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
-import { useModalZ } from '../zServices/zModalStore';
+import { useModalZ } from '@zStore/zModalStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК

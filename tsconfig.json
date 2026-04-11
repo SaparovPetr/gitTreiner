@@ -25,6 +25,8 @@
       "@utils/*": ["src/utils/*"],   
       "@slices/*": ["src/services/slices/*"],
       "@store/*": ["src/services/*"],
+      "@zStore/*": ["src/zServices/*"],
+
       "@word-bases/*": ["src/word-bases/*"]
     }
   },
