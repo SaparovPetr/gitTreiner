@@ -16,13 +16,13 @@ type TModalProps = {
 };
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
-  const openModal = useModalZ((state) => state.setShowModal);
-  const modalState = useModalZ((state) => state.showModal);
+  const setOpenModalState = useModalZ((state) => state.setShowModalState);
+  const getModalState = useModalZ((state) => state.showModalState);
 
   const nodeRef = useRef(null);
 
   useEffect(() => {
-    openModal(true);
+    setOpenModalState(true);
     setEntryInLocalStorage('modalIsOpen', 'true');
 
     const handleEsc = (e: KeyboardEvent) => {
@@ -39,7 +39,7 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
   return (
     <>
       <CSSTransition
-        in={modalState}
+        in={getModalState}
         nodeRef={nodeRef}
         timeout={200}
         classNames='modal'

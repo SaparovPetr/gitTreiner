@@ -43,10 +43,10 @@ export const App = () => {
     `${localStorage.getItem(`UserRepo`)}`
   );
 
-  const openModal = useModalZ((state) => state.setShowModal);
+  const setOpenModalState = useModalZ((state) => state.setShowModalState);
 
   const closeModal = () => {
-    openModal(false);
+    setOpenModalState(false);
     setEntryInLocalStorage('modalIsOpen', 'false');
 
     setTimeout(() => {

@@ -12,7 +12,7 @@ import styles from './SearchTemplate.module.css';
 import { useModalZ } from '../../../zServices/zModalStore';
 
 export const SearchTemplate = () => {
-  const modalState = useModalZ((state) => state.showModal);
+  const modalState = useModalZ((state) => state.showModalState);
 
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);

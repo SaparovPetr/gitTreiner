@@ -7,16 +7,16 @@ const devtoolsOptions = {
 };
 
 interface ModalState {
-  showModal: boolean;
-  setShowModal: (value: boolean) => void;
+  showModalState: boolean;
+  setShowModalState: (value: boolean) => void;
 }
 
 export const useModalZ = create<ModalState>()(
   devtools(
     (set) => ({
-      showModal: false,
-      setShowModal: (value: boolean) =>
-        set({ showModal: value }, false, 'modal')
+      showModalState: false,
+      setShowModalState: (value: boolean) =>
+        set({ showModalState: value }, false, 'modal-state')
     }),
     devtoolsOptions
   )
