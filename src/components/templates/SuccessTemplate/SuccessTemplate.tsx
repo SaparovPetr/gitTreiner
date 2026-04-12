@@ -17,8 +17,6 @@ import { useModeZ } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const SuccessTemplate: FC = () => {
-  const dispatch = useAppDispatch(); // РТК
-
   const setEffortCounterState = useCounterZ(
     (state) => state.setEffortCounterState
   );
@@ -26,7 +24,6 @@ export const SuccessTemplate: FC = () => {
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState
   );
-  const collectionState = useCollectionZ((state) => state.collectionState);
 
   const counterHandler = () => {
     if (modeState === AppMode.Dif) {

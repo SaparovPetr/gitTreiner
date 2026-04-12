@@ -10,16 +10,18 @@ interface IMDstate {
   fullFileName: string;
 }
 
+const initialPickedWordObject: TOneWord = {
+  targetWord: '',
+  translating: '',
+  skyid: '',
+  id: '',
+  audioURL: ''
+};
+
 const initialState: IMDstate = {
   mdContent: '',
   requestStatus: RequestStatus.Idle,
-  pickedWordObject: {
-    targetWord: '',
-    translating: '',
-    skyid: '',
-    id: '',
-    audioURL: ''
-  },
+  pickedWordObject: initialPickedWordObject,
   fullFileName: ''
 };
 
@@ -33,13 +35,7 @@ export const mdSlice = createSlice({
     resetStore(state) {
       state.mdContent = '';
       state.requestStatus = RequestStatus.Idle;
-      state.pickedWordObject = {
-        targetWord: '',
-        translating: '',
-        skyid: '',
-        id: '',
-        audioURL: ''
-      };
+      state.pickedWordObject = initialPickedWordObject;
     },
     setFullFileName(state, action) {
       state.fullFileName = action.payload;
