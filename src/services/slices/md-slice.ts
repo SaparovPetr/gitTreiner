@@ -53,9 +53,6 @@ export const mdSlice = createSlice({
         state.requestStatus = RequestStatus.Success;
         state.mdContent = action.payload;
       })
-      .addCase(fetchMDcontent.pending, (state) => {
-        state.requestStatus = RequestStatus.Loading;
-      })
       .addCase(fetchMDcontent.rejected, (state) => {
         state.requestStatus = RequestStatus.Failed;
       });
