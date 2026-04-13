@@ -69,21 +69,15 @@ export const useMdStoreZ = create<any>()(
   )
 );
 
-// переделать на селекторы и экшены
+// селекторы и экшены
+
+const picDataZ = useMdStoreZ((state) => state.picDataZ);
+const resetStoreZ = useMdStoreZ((state) => state.resetStoreZ);
+const setFullFileNameZ = useMdStoreZ((state) => state.setFullFileNameZ);
+
 const getStatusZ = useMdStoreZ((state) => state.requestStatus);
-const getMDcontentZ = () => useMdStoreZ((state) => state.mdContent);
-const selectPickedWordObjectZ = () =>
-  useMdStoreZ((state) => state.pickedWordObject);
-const selectFullFileNameZ = () => useMdStoreZ((state) => state.fullFileName);
+const getMDcontentZ = useMdStoreZ((state) => state.mdContent);
+const selectPickedWordObjectZ = useMdStoreZ((state) => state.pickedWordObject);
+const selectFullFileNameZ = useMdStoreZ((state) => state.fullFileName);
 
-const picDataZ = (value: TOneWord) =>
-  useMdStoreZ((state) => state.picDataZ(value));
-const setFullFileNameZ = (value: string) =>
-  useMdStoreZ((state) => state.setFullFileNameZ(value));
-
-const getFullFileNameZ = useMdStoreZ((state) => state.fullFileName);
-
-const setMdTextZ = (value: string) =>
-  useMdStoreZ((state) => state.setMdTextZ(value));
-
-const resetStoreZ = useMdStoreZ((state) => state.resetStoreZ());
+const setMdTextZ = useMdStoreZ((state) => state.setMdTextZ);
