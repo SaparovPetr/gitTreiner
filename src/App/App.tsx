@@ -26,16 +26,16 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
-import { counterActions } from '@zStore/zCounterStore';
+import { useCounterActions } from '@zStore/zCounterStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
-import { modalActions } from '@zStore/zModalStore';
-import { modeActions } from '@zStore/zModeStore';
+import { useModalActions } from '@zStore/zModalStore';
+import { useModeActions } from '@zStore/zModeStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
-  const { setModeState } = modeActions();
-  const { setShowModalState } = modalActions();
+  const { setModeState } = useModeActions();
+  const { setShowModalState } = useModalActions();
 
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState
@@ -50,7 +50,7 @@ export const App = () => {
     `${localStorage.getItem(`UserRepo`)}`
   );
 
-  const { setEffortCounterState } = counterActions();
+  const { setEffortCounterState } = useCounterActions();
 
   const closeModal = () => {
     setShowModalState(false);

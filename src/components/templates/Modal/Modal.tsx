@@ -8,7 +8,7 @@ import './modal.css';
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './Modal.module.css';
-import { modalActions, modalSelectors } from '@zStore/zModalStore';
+import { useModalActions, useModalSelectors } from '@zStore/zModalStore';
 
 type TModalProps = {
   children?: ReactElement;
@@ -18,8 +18,8 @@ type TModalProps = {
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
   const nodeRef = useRef(null);
 
-  const { showModalState } = modalSelectors();
-  const { setShowModalState } = modalActions();
+  const { showModalState } = useModalSelectors();
+  const { setShowModalState } = useModalActions();
 
   useEffect(() => {
     setShowModalState(true);

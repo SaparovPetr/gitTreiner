@@ -18,7 +18,7 @@ import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './MainPage.module.css';
-import { modeActions, modeSelectors } from '@zStore/zModeStore';
+import { useModeActions, useModeSelectors } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const MainPage: FC = () => {
@@ -26,8 +26,8 @@ export const MainPage: FC = () => {
     (state) => state.setCollectionState
   );
   const collectionState = useCollectionZ((state) => state.collectionState);
-  const { setModeState } = modeActions();
-  const { modeState } = modeSelectors();
+  const { setModeState } = useModeActions();
+  const { modeState } = useModeSelectors();
 
   const [trialRegime, setTrialRegime] = useState(false);
   const [entryCard, setEntryCard] = useState(false);

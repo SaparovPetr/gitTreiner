@@ -22,12 +22,12 @@ const useModalZ = create<IModalState>()(
   )
 );
 
-export const modalSelectors = () => {
+export const useModalSelectors = () => {
   const showModalState = useModalZ((state) => state.showModalState);
   return { showModalState };
 };
 
-export const modalActions = () => {
+export const useModalActions = () => {
   const setShowModalState = useModalZ((state) => state.setShowModalState);
   return { setShowModalState };
 };

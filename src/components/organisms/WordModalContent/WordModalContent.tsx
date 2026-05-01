@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
-import { modeSelectors } from '@zStore/zModeStore';
+import { useModeSelectors } from '@zStore/zModeStore';
 
 export type TWordModalContentProps = {
   closeModal?: () => void;
@@ -24,7 +24,7 @@ export const WordModalContent = ({
   linkToRepo
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject); // РТК
-  const { modeState } = modeSelectors();
+  const { modeState } = useModeSelectors();
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);

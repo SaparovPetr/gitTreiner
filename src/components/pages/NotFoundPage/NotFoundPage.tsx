@@ -10,10 +10,10 @@ import { useNavigate } from 'react-router-dom';
 
 import styles from './NotFoundPage.module.css';
 import { useCollectionZ } from '@zStore/zCollectionState';
-import { modeSelectors } from '@zStore/zModeStore';
+import { useModeSelectors } from '@zStore/zModeStore';
 
 export const NotFound404: FC = () => {
-  const { modeState } = modeSelectors();
+  const { modeState } = useModeSelectors();
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState
   );

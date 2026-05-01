@@ -30,12 +30,7 @@ const useCounterZ = create<ICounterState>()(
   )
 );
 
-export const couterSelectors = () => {
-  const effortCounterState = useCounterZ((state) => state.effortCounterState);
-  return { effortCounterState };
-};
-
-export const counterActions = () => {
+export const useCounterActions = () => {
   const setEffortCounterState = useCounterZ(
     (state) => state.setEffortCounterState
   );
