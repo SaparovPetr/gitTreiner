@@ -6,7 +6,7 @@ import { getRandomElement } from '@utils/getRandomElement';
 // (заметка № 3)
 export function fetchCollection(currientBase: any) {
   const collection = [];
-  for (let i = 0; i <= 1; i = i + 1) {
+  for (let i = 0; i <= 3; i = i + 1) {
     const randomElement = getRandomElement(currientBase);
     collection.push(randomElement);
   }

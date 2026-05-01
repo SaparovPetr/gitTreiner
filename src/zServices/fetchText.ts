@@ -1,7 +1,7 @@
 /** примет имя файла и вернет текст */
-export const fetchText = async (file: string) => {
+export const fetchText = async (fileUrl: string) => {
   try {
-    const response = await fetch(file);
+    const response = await fetch(fileUrl);
     const text = await response.text();
     return text;
   } catch (err) {

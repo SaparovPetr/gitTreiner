@@ -12,6 +12,7 @@ import { Link } from 'react-router-dom';
 import styles from './WordModalContent.module.css';
 import { useAppSelector } from '../../../services/store';
 import { useModeSelectors } from '@zStore/zModeStore';
+import { useMdSelectors_z } from '@zStore/zMdState_z';
 
 export type TWordModalContentProps = {
   closeModal?: () => void;
@@ -25,6 +26,10 @@ export const WordModalContent = ({
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject); // РТК
   const { modeState } = useModeSelectors();
+  const { fullFileName_z, mdContent_z } = useMdSelectors_z();
+
+  console.log(mdContent_z);
+  console.log(fullFileName_z);
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
