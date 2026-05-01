@@ -19,13 +19,14 @@ import { Link, useLocation } from 'react-router-dom';
 
 import styles from './MainPage.module.css';
 import { useModeActions, useModeSelectors } from '@zStore/zModeStore';
-import { useCollectionZ } from '@zStore/zCollectionState';
+import {
+  useCollectionActions,
+  useCollectionSelectors
+} from '@zStore/zCollectionState';
 
 export const MainPage: FC = () => {
-  const setCollectionState = useCollectionZ(
-    (state) => state.setCollectionState
-  );
-  const collectionState = useCollectionZ((state) => state.collectionState);
+  const { setCollectionState } = useCollectionActions();
+  const { collectionState } = useCollectionSelectors();
   const { setModeState } = useModeActions();
   const { modeState } = useModeSelectors();
 

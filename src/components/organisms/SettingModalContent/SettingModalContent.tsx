@@ -1,9 +1,8 @@
 import styles from './SettingModalContent.module.css';
-import { useAppSelector } from '../../../services/store';
 import { currientDate } from '../../../utils/currientDate';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
 import { LabeledInput } from '../../molecules/LabeledInput/LabeledInput';
-import { useCollectionZ } from '@zStore/zCollectionState';
+import { useCollectionSelectors } from '@zStore/zCollectionState';
 
 type TSettingModalContentProps = {
   closeModal?: () => void;
@@ -12,7 +11,7 @@ type TSettingModalContentProps = {
 export const SettingModalContent = ({
   closeModal
 }: TSettingModalContentProps) => {
-  const collectionState = useCollectionZ((state) => state.collectionState);
+  const { collectionState } = useCollectionSelectors();
 
   return (
     <div className={styles.settingModalContainer}>

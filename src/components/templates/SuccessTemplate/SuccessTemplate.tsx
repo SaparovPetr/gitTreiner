@@ -12,15 +12,13 @@ import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './SuccessTemplate.module.css';
 import { useModeSelectors } from '@zStore/zModeStore';
-import { useCollectionZ } from '@zStore/zCollectionState';
 import { useCounterActions } from '@zStore/zCounterStore';
+import { useCollectionActions } from '@zStore/zCollectionState';
 
 export const SuccessTemplate: FC = () => {
   const { setEffortCounterState } = useCounterActions();
   const { modeState } = useModeSelectors();
-  const setCollectionState = useCollectionZ(
-    (state) => state.setCollectionState
-  );
+  const { setCollectionState } = useCollectionActions();
 
   const counterHandler = () => {
     if (modeState === AppMode.Dif) {

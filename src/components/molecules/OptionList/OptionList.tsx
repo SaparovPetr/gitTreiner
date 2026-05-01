@@ -7,15 +7,13 @@ import { shuffle } from '@utils/shuffleArray';
 import { TOneWord } from '@utils-types';
 
 import styles from './OptionList.module.css';
-import { useCollectionZ } from '@zStore/zCollectionState';
+import { useCollectionActions } from '@zStore/zCollectionState';
 
 /** компоненет списка ответов */
 export const OptionList =
   // (заметка № 8)
   (targetObject: TOneWord) => {
-    const setTrimmedCollectionState = useCollectionZ(
-      (state) => state.setTrimmedCollectionState
-    );
+    const { setTrimmedCollectionState } = useCollectionActions();
 
     const currientBase = getCurrientBase(currientModeFromLocalStorage);
     // (заметка № 9)

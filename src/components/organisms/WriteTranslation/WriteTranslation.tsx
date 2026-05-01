@@ -14,7 +14,7 @@ import { Link, useLocation } from 'react-router-dom';
 import styles from './WriteTranslation.module.css';
 import { useAppDispatch, useAppSelector } from '../../../services/store';
 import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
-import { useCollectionZ } from '@zStore/zCollectionState';
+import { useCollectionActions } from '@zStore/zCollectionState';
 
 export const WriteTranslation = ({
   id,
@@ -28,9 +28,7 @@ export const WriteTranslation = ({
   const dispatch = useAppDispatch(); // РТК
   const locationInTheApp = useLocation();
   const fullFileName = useAppSelector(selectFullFileName); // РТК
-  const setTrimmedCollectionState = useCollectionZ(
-    (state) => state.setTrimmedCollectionState
-  );
+  const { setTrimmedCollectionState } = useCollectionActions();
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>

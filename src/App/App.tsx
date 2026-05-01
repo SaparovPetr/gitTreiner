@@ -27,7 +27,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 import { useCounterActions } from '@zStore/zCounterStore';
-import { useCollectionZ } from '@zStore/zCollectionState';
+import { useCollectionActions } from '@zStore/zCollectionState';
 import { useModalActions } from '@zStore/zModalStore';
 import { useModeActions } from '@zStore/zModeStore';
 
@@ -36,10 +36,7 @@ export const App = () => {
   const mdFetchStatus = useAppSelector(getStatus); // РТК
   const { setModeState } = useModeActions();
   const { setShowModalState } = useModalActions();
-
-  const setCollectionState = useCollectionZ(
-    (state) => state.setCollectionState
-  );
+  const { setCollectionState } = useCollectionActions();
 
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;

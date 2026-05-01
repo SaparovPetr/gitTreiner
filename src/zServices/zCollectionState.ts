@@ -15,7 +15,7 @@ interface ICollectionState {
   setTrimmedCollectionState: (value: any) => void;
 }
 
-export const useCollectionZ = create<ICollectionState>()(
+const useCollectionZ = create<ICollectionState>()(
   devtools(
     (set, get) => ({
       collectionState: [],
@@ -43,3 +43,14 @@ export const useCollectionZ = create<ICollectionState>()(
     devtoolsOptions
   )
 );
+
+export const useCollectionSelectors = () => ({
+  collectionState: useCollectionZ((state) => state.collectionState)
+});
+
+export const useCollectionActions = () => ({
+  setCollectionState: useCollectionZ((state) => state.setCollectionState),
+  setTrimmedCollectionState: useCollectionZ(
+    (state) => state.setTrimmedCollectionState
+  )
+});

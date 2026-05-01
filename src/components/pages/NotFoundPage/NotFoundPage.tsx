@@ -9,14 +9,12 @@ import { difWordBase } from '@word-bases/dif';
 import { useNavigate } from 'react-router-dom';
 
 import styles from './NotFoundPage.module.css';
-import { useCollectionZ } from '@zStore/zCollectionState';
 import { useModeSelectors } from '@zStore/zModeStore';
+import { useCollectionActions } from '@zStore/zCollectionState';
 
 export const NotFound404: FC = () => {
   const { modeState } = useModeSelectors();
-  const setCollectionState = useCollectionZ(
-    (state) => state.setCollectionState
-  );
+  const { setCollectionState } = useCollectionActions();
 
   const navigate = useNavigate();
 
