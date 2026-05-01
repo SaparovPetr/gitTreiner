@@ -1,13 +1,11 @@
 import { useEffect, useState } from 'react';
 
-import { picData, setFullFileName } from '@slices/md-slice';
 import { mapSearchResults } from '@utils/mapSearchResults';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './SearchResults.module.css';
-import { useAppDispatch } from '../../../services/store';
-import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
+
 import { aArr } from '../../../word-bases/myriad/aArr';
 import { bArr } from '../../../word-bases/myriad/bArr';
 import { cArr } from '../../../word-bases/myriad/cArr';
@@ -35,13 +33,11 @@ import { wArr } from '../../../word-bases/myriad/wArr';
 import { xArr } from '../../../word-bases/myriad/xArr';
 import { yArr } from '../../../word-bases/myriad/yArr';
 import { zArr } from '../../../word-bases/myriad/zArr';
-import { useMdActions_z, useMdSelectors_z } from '@zStore/zMdState_z';
+import { useMdActions_z } from '@zStore/zMdState_z';
 
 export const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
-  const dispatch = useAppDispatch(); // РТК
-  const { fullFileName_z, mdContent_z, targetObject_z } = useMdSelectors_z();
 
   const { setTargetObject_z, setFullFileName_z, setMdText_z } =
     useMdActions_z();
@@ -86,28 +82,12 @@ export const SearchResults = ({ stringFromInput }: any) => {
   }, [stringFromInput]);
 
   const handleClick = (index: number) => {
-    dispatch(picData(state[index]));
-    dispatch(
-      setFullFileName(
-        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`
-      )
-    );
-    dispatch(
-      fetchMDcontent(
-        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`
-      )
-    );
-
     const newUrl = `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`;
     const newState = state[index];
 
     setTargetObject_z(newState); // TODO нужно ли оно мне?
     setFullFileName_z(newUrl); // TODO нужно ли повторяться?
     setMdText_z(newUrl); // TODO нужно ли повторяться?
-
-    // console.log(mdContent_z);
-    // console.log(targetObject_z);
-    // console.log(fullFileName_z);
   };
 
   return (

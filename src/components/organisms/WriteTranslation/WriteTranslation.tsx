@@ -2,18 +2,15 @@ import {
   ChangeEvent,
   ChangeEventHandler,
   SyntheticEvent,
-  useEffect,
   useState
 } from 'react';
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import { picData, selectFullFileName, setFullFileName } from '@slices/md-slice';
 import { TOneWord } from '@utils-types';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './WriteTranslation.module.css';
-import { useAppDispatch, useAppSelector } from '../../../services/store';
-import { fetchMDcontent } from '../../../services/thunks/fetchMDcontent';
+
 import { useCollectionActions } from '@zStore/zCollectionState';
 import { useMdActions_z, useMdSelectors_z } from '@zStore/zMdState_z';
 
@@ -26,14 +23,11 @@ export const WriteTranslation = ({
   const [value, setValue] = useState('');
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
-  const dispatch = useAppDispatch(); // РТК
   const locationInTheApp = useLocation();
-  const fullFileName = useAppSelector(selectFullFileName); // РТК
   const { setTrimmedCollectionState } = useCollectionActions();
   const { setTargetObject_z, setFullFileName_z, setMdText_z } =
     useMdActions_z();
-  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
-    useMdSelectors_z();
+  const { fullFileName_z } = useMdSelectors_z();
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
@@ -51,14 +45,6 @@ export const WriteTranslation = ({
   };
 
   const handleClick = () => {
-    dispatch(picData({ id, targetWord, translating, skyid }));
-    dispatch(fetchMDcontent(fullFileName));
-    dispatch(
-      setFullFileName(
-        `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
-      )
-    );
-
     setFullFileName_z(
       `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
     ); // TODO нужно ли оно мне или лучше в онклике устанавливать путь?

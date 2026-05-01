@@ -3,14 +3,12 @@ import { useEffect, useState } from 'react';
 import { Loader } from '@components/atoms/Loader/Loader';
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 import { MdComponent } from '@components/organisms/MdComponent/MdComponent';
-import { selectPickedWordObject } from '@slices/md-slice';
 import { audioCallback } from '@utils/audioCallback';
 import { copyTextToClipboard } from '@utils/copyTextToClipboard';
 import { AppMode } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
-import { useAppSelector } from '../../../services/store';
 import { useModeSelectors } from '@zStore/zModeStore';
 import { useMdSelectors_z } from '@zStore/zMdState_z';
 
@@ -24,13 +22,8 @@ export const WordModalContent = ({
   closeModal,
   linkToRepo
 }: TWordModalContentProps) => {
-  const word = useAppSelector(selectPickedWordObject); // РТК
   const { modeState } = useModeSelectors();
-  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
-    useMdSelectors_z();
-
-  console.log(mdContent_z);
-  console.log(fullFileName_z);
+  const { targetObject_z } = useMdSelectors_z();
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
@@ -44,13 +37,15 @@ export const WordModalContent = ({
   useEffect(() => {
     // (заметка № 14)
     if (modeState === AppMode.Es400) {
-      audioCallback(word.audioURL);
+      audioCallback(targetObject_z.audioURL);
     } else {
       audioCallback(
-        `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${word.targetWord}&lang=en&voice=male_2`
+        `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${targetObject_z.targetWord}&lang=en&voice=male_2`
       );
     }
-    copyTextToClipboard(`${word?.targetWord} - ${word?.translating}`);
+    copyTextToClipboard(
+      `${targetObject_z?.targetWord} - ${targetObject_z?.translating}`
+    );
   }, []);
 
   const knockToAI = async () =>
@@ -61,7 +56,7 @@ export const WordModalContent = ({
         messages: [
           {
             role: 'user',
-            content: `Give me seven and the most simple and popular collocations with that English phrase in the meaning that wrote in Russian in the end of this prompt. Don't paraphrase this term. Mark each collocation by number. Also give me one example (intermediate level) in different tenses: Present Perfect, Past Simple, Past Continuous, and Past Perfect. Give me only result of inquire, don't write own comments. Use only English. Make centences in the dashed list. Don't use markdown at all. Don't emphasize any words. ${word.targetWord} - ${word.translating}`
+            content: `Give me seven and the most simple and popular collocations with that English phrase in the meaning that wrote in Russian in the end of this prompt. Don't paraphrase this term. Mark each collocation by number. Also give me one example (intermediate level) in different tenses: Present Perfect, Past Simple, Past Continuous, and Past Perfect. Give me only result of inquire, don't write own comments. Use only English. Make centences in the dashed list. Don't use markdown at all. Don't emphasize any words. ${targetObject_z.targetWord} - ${targetObject_z.translating}`
           }
         ],
         max_tokens: 300
@@ -88,7 +83,7 @@ export const WordModalContent = ({
       setIsFirstButtonCopied(true);
       copyTextToClipboard(answer);
       window.open(
-        `${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`,
+        `${linkToRepo}/edit/main/${targetObject_z?.targetWord.toLowerCase()}%20-%20${targetObject_z?.translating.toLowerCase()}.md`,
         '_blank'
       );
     } catch (error) {
@@ -112,7 +107,7 @@ export const WordModalContent = ({
   return (
     <div className={styles.modalContent}>
       <div className={styles.phraseZone}>
-        {word?.targetWord} - {word?.translating}
+        {targetObject_z?.targetWord} - {targetObject_z?.translating}
       </div>
 
       <MdComponent />
@@ -138,7 +133,7 @@ export const WordModalContent = ({
           </RoundButton>
           <RoundButton disabled={false}>
             <Link
-              to={`${linkToRepo}/edit/main/${word?.targetWord.toLowerCase()}%20-%20${word?.translating.toLowerCase()}.md`}
+              to={`${linkToRepo}/edit/main/${targetObject_z?.targetWord.toLowerCase()}%20-%20${targetObject_z?.translating.toLowerCase()}.md`}
               target='_blank'
             >
               edit

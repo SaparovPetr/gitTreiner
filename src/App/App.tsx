@@ -7,7 +7,6 @@ import { Modal } from '@components/templates/Modal/Modal';
 import { MainPage } from '@pages/MainPage/MainPage';
 import { NotFound404 } from '@pages/NotFoundPage/NotFoundPage';
 import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
-import { getStatus, resetStore } from '@slices/md-slice';
 import {
   counterFromLocalStorage,
   currientModeFromLocalStorage,
@@ -24,7 +23,6 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
-import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 import { useCounterActions } from '@zStore/zCounterStore';
 import { useCollectionActions } from '@zStore/zCollectionState';
@@ -33,10 +31,7 @@ import { useModeActions } from '@zStore/zModeStore';
 import { useMdSelectors_z } from '@zStore/zMdState_z';
 
 export const App = () => {
-  const dispatch = useAppDispatch(); // РТК
-  const mdFetchStatus = useAppSelector(getStatus); // РТК
-  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
-    useMdSelectors_z();
+  const { requestStatus_z } = useMdSelectors_z();
 
   const { setModeState } = useModeActions();
   const { setShowModalState } = useModalActions();
@@ -59,7 +54,6 @@ export const App = () => {
 
     setTimeout(() => {
       navigate(-1);
-      dispatch(resetStore());
     }, 200);
   };
 
@@ -114,7 +108,7 @@ export const App = () => {
       </Routes>
       {backgroundLocation && (
         <Routes>
-          {mdFetchStatus === RequestStatus.Success && (
+          {requestStatus_z === RequestStatus.Success && (
             <Route
               path='/word'
               element={
@@ -128,7 +122,7 @@ export const App = () => {
               }
             />
           )}
-          {mdFetchStatus === RequestStatus.Failed && (
+          {requestStatus_z === RequestStatus.Failed && (
             <Route
               path='/word'
               element={
