@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { devtools } from 'zustand/middleware';
 import { RequestStatus, TOneWord } from '@utils-types';
-import { fetchText } from './fetchText';
+import { fetchText } from '../utils/fetchText';
 
 const devtoolsOptions = {
   name: 'md-store',
