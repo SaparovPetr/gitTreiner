@@ -6,7 +6,7 @@ import { Link, useLocation } from 'react-router-dom';
 
 import styles from './TrialItemTemplate.module.css';
 
-import { useMdActions, useMdSelectors } from '@store/mdState';
+import { useMdActions, useMdSelectors } from '@store/useMdStore';
 
 export const TrialItemTemplate = ({
   id,

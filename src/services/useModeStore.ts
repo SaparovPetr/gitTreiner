@@ -12,7 +12,7 @@ interface IModeState {
   setModeState: (value: any) => void;
 }
 
-const useMode = create<IModeState>()(
+const useModeStore = create<IModeState>()(
   devtools(
     (set, get) => ({
       modeState: AppMode.Dif,
@@ -28,9 +28,9 @@ const useMode = create<IModeState>()(
 );
 
 export const useModeSelectors = () => ({
-  modeState: useMode((state) => state.modeState)
+  modeState: useModeStore((state) => state.modeState)
 });
 
 export const useModeActions = () => ({
-  setModeState: useMode((state) => state.setModeState)
+  setModeState: useModeStore((state) => state.setModeState)
 });

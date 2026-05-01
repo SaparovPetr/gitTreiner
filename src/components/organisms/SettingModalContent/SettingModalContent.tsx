@@ -2,7 +2,7 @@ import styles from './SettingModalContent.module.css';
 import { currientDate } from '../../../utils/currientDate';
 import { RoundButton } from '../../atoms/RoundButton/RoundButton';
 import { LabeledInput } from '../../molecules/LabeledInput/LabeledInput';
-import { useCollectionSelectors } from '@store/collectionState';
+import { useCollectionSelectors } from '@store/useCollectionStore';
 
 type TSettingModalContentProps = {
   closeModal?: () => void;

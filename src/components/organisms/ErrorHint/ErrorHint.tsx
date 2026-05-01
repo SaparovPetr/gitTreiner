@@ -1,7 +1,7 @@
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 
 import styles from './ErrorHint.module.css';
-import { useMdSelectors } from '@store/mdState';
+import { useMdSelectors } from '@store/useMdStore';
 
 type TErrorHintProps = {
   closeModal: () => void;

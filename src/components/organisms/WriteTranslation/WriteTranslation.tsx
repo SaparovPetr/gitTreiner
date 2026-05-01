@@ -11,8 +11,8 @@ import { Link, useLocation } from 'react-router-dom';
 
 import styles from './WriteTranslation.module.css';
 
-import { useCollectionActions } from '@store/collectionState';
-import { useMdActions, useMdSelectors } from '@store/mdState';
+import { useCollectionActions } from '@store/useCollectionStore';
+import { useMdActions, useMdSelectors } from '@store/useMdStore';
 
 export const WriteTranslation = ({
   id,

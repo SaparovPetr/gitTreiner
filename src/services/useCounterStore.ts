@@ -12,7 +12,7 @@ interface ICounterState {
   setEffortCounterState: (value: number) => void;
 }
 
-const useCounter = create<ICounterState>()(
+const useCounterStore = create<ICounterState>()(
   devtools(
     (set, get) => ({
       effortCounterState: 0,
@@ -31,5 +31,5 @@ const useCounter = create<ICounterState>()(
 );
 
 export const useCounterActions = () => ({
-  setEffortCounterState: useCounter((state) => state.setEffortCounterState)
+  setEffortCounterState: useCounterStore((state) => state.setEffortCounterState)
 });

@@ -9,8 +9,8 @@ import { difWordBase } from '@word-bases/dif';
 import { useNavigate } from 'react-router-dom';
 
 import styles from './NotFoundPage.module.css';
-import { useModeSelectors } from '@store/modeStore';
-import { useCollectionActions } from '@store/collectionState';
+import { useModeSelectors } from '@store/useModeStore';
+import { useCollectionActions } from '@store/useCollectionStore';
 
 export const NotFound404: FC = () => {
   const { modeState } = useModeSelectors();
