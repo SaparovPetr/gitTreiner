@@ -1,7 +1,6 @@
 import { FC } from 'react';
 
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
-import { useAppDispatch } from '@store/store';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -13,14 +12,14 @@ import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './SuccessTemplate.module.css';
 import { useCounterZ } from '@zStore/zCounterStore';
-import { useModeZ } from '@zStore/zModeStore';
+import { modeSelectors } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
 
 export const SuccessTemplate: FC = () => {
   const setEffortCounterState = useCounterZ(
     (state) => state.setEffortCounterState
   );
-  const modeState = useModeZ((state) => state.modeState);
+  const { modeState } = modeSelectors();
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState
   );

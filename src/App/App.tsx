@@ -27,14 +27,14 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
 import { useCounterZ } from '@zStore/zCounterStore';
-import { useModeZ } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
 import { modalActions } from '@zStore/zModalStore';
+import { modeActions } from '@zStore/zModeStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
-  const setModeState = useModeZ((state) => state.setModeState);
+  const { setModeState } = modeActions();
   const { setShowModalState } = modalActions();
 
   const setCollectionState = useCollectionZ(

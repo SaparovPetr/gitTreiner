@@ -12,7 +12,7 @@ interface IModeState {
   setModeState: (value: any) => void;
 }
 
-export const useModeZ = create<IModeState>()(
+const useModeZ = create<IModeState>()(
   devtools(
     (set, get) => ({
       modeState: AppMode.Dif,
@@ -26,3 +26,13 @@ export const useModeZ = create<IModeState>()(
     devtoolsOptions
   )
 );
+
+export const modeSelectors = () => {
+  const modeState = useModeZ((state) => state.modeState);
+  return { modeState };
+};
+
+export const modeActions = () => {
+  const setModeState = useModeZ((state) => state.setModeState);
+  return { setModeState };
+};
