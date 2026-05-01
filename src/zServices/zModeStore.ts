@@ -27,12 +27,10 @@ const useModeZ = create<IModeState>()(
   )
 );
 
-export const useModeSelectors = () => {
-  const modeState = useModeZ((state) => state.modeState);
-  return { modeState };
-};
+export const useModeSelectors = () => ({
+  modeState: useModeZ((state) => state.modeState)
+});
 
-export const useModeActions = () => {
-  const setModeState = useModeZ((state) => state.setModeState);
-  return { setModeState };
-};
+export const useModeActions = () => ({
+  setModeState: useModeZ((state) => state.setModeState)
+});

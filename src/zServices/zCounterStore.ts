@@ -30,9 +30,6 @@ const useCounterZ = create<ICounterState>()(
   )
 );
 
-export const useCounterActions = () => {
-  const setEffortCounterState = useCounterZ(
-    (state) => state.setEffortCounterState
-  );
-  return { setEffortCounterState };
-};
+export const useCounterActions = () => ({
+  setEffortCounterState: useCounterZ((state) => state.setEffortCounterState)
+});
