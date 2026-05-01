@@ -11,14 +11,12 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './SuccessTemplate.module.css';
-import { useCounterZ } from '@zStore/zCounterStore';
 import { modeSelectors } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
+import { counterActions } from '@zStore/zCounterStore';
 
 export const SuccessTemplate: FC = () => {
-  const setEffortCounterState = useCounterZ(
-    (state) => state.setEffortCounterState
-  );
+  const { setEffortCounterState } = counterActions();
   const { modeState } = modeSelectors();
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState

@@ -26,7 +26,7 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
-import { useCounterZ } from '@zStore/zCounterStore';
+import { counterActions } from '@zStore/zCounterStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
 import { modalActions } from '@zStore/zModalStore';
 import { modeActions } from '@zStore/zModeStore';
@@ -50,9 +50,7 @@ export const App = () => {
     `${localStorage.getItem(`UserRepo`)}`
   );
 
-  const setEffortCounterState = useCounterZ(
-    (state) => state.setEffortCounterState
-  );
+  const { setEffortCounterState } = counterActions();
 
   const closeModal = () => {
     setShowModalState(false);
