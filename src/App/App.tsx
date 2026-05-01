@@ -24,11 +24,11 @@ import { spanish500 } from '@word-bases/spanish500';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { User } from '../user';
-import { useCounterActions } from '@zStore/zCounterStore';
-import { useCollectionActions } from '@zStore/zCollectionState';
-import { useModalActions } from '@zStore/zModalStore';
-import { useModeActions } from '@zStore/zModeStore';
-import { useMdSelectors } from '@zStore/zMdState';
+import { useCounterActions } from '@store/counterStore';
+import { useCollectionActions } from '@store/collectionState';
+import { useModalActions } from '@store/modalStore';
+import { useModeActions } from '@store/modeStore';
+import { useMdSelectors } from '@store/mdState';
 
 export const App = () => {
   const { requestStatus } = useMdSelectors();

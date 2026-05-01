@@ -18,11 +18,11 @@ import { spanish500 } from '@word-bases/spanish500';
 import { Link, useLocation } from 'react-router-dom';
 
 import styles from './MainPage.module.css';
-import { useModeActions, useModeSelectors } from '@zStore/zModeStore';
+import { useModeActions, useModeSelectors } from '@store/modeStore';
 import {
   useCollectionActions,
   useCollectionSelectors
-} from '@zStore/zCollectionState';
+} from '@store/collectionState';
 
 export const MainPage: FC = () => {
   const { setCollectionState } = useCollectionActions();

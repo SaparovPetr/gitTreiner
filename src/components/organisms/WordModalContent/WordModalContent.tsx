@@ -9,8 +9,8 @@ import { AppMode } from '@utils-types';
 import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
-import { useModeSelectors } from '@zStore/zModeStore';
-import { useMdSelectors } from '@zStore/zMdState';
+import { useModeSelectors } from '@store/modeStore';
+import { useMdSelectors } from '@store/mdState';
 
 export type TWordModalContentProps = {
   closeModal?: () => void;

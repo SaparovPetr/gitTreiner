@@ -9,7 +9,7 @@ import {
 import { SearchResults } from '@components/organisms/SearchResults/SearchResults';
 
 import styles from './SearchTemplate.module.css';
-import { useModalSelectors } from '@zStore/zModalStore';
+import { useModalSelectors } from '@store/modalStore';
 
 export const SearchTemplate = () => {
   const [value, setValue] = useState('');

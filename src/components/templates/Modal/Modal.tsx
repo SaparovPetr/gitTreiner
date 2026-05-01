@@ -8,7 +8,7 @@ import './modal.css';
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './Modal.module.css';
-import { useModalActions, useModalSelectors } from '@zStore/zModalStore';
+import { useModalActions, useModalSelectors } from '@store/modalStore';
 
 type TModalProps = {
   children?: ReactElement;

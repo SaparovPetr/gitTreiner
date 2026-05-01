@@ -7,7 +7,7 @@ import { shuffle } from '@utils/shuffleArray';
 import { TOneWord } from '@utils-types';
 
 import styles from './OptionList.module.css';
-import { useCollectionActions } from '@zStore/zCollectionState';
+import { useCollectionActions } from '@store/collectionState';
 
 /** компоненет списка ответов */
 export const OptionList =

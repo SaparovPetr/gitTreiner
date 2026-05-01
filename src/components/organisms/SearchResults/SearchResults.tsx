@@ -33,7 +33,7 @@ import { wArr } from '../../../word-bases/myriad/wArr';
 import { xArr } from '../../../word-bases/myriad/xArr';
 import { yArr } from '../../../word-bases/myriad/yArr';
 import { zArr } from '../../../word-bases/myriad/zArr';
-import { useMdActions } from '@zStore/zMdState';
+import { useMdActions } from '@store/mdState';
 
 export const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();

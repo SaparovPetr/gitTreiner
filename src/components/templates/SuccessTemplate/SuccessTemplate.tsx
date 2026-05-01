@@ -11,9 +11,9 @@ import { spanish400 } from '@word-bases/spanish400';
 import { spanish500 } from '@word-bases/spanish500';
 
 import styles from './SuccessTemplate.module.css';
-import { useModeSelectors } from '@zStore/zModeStore';
-import { useCounterActions } from '@zStore/zCounterStore';
-import { useCollectionActions } from '@zStore/zCollectionState';
+import { useModeSelectors } from '@store/modeStore';
+import { useCounterActions } from '@store/counterStore';
+import { useCollectionActions } from '@store/collectionState';
 
 export const SuccessTemplate: FC = () => {
   const { setEffortCounterState } = useCounterActions();
