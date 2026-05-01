@@ -9,13 +9,12 @@ import {
 import { SearchResults } from '@components/organisms/SearchResults/SearchResults';
 
 import styles from './SearchTemplate.module.css';
-import { useModalZ } from '../../../zServices/zModalStore';
+import { modalSelectors } from '@zStore/zModalStore';
 
 export const SearchTemplate = () => {
-  const modalState = useModalZ((state) => state.showModalState);
-
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
+  const { showModalState } = modalSelectors();
 
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
@@ -24,10 +23,10 @@ export const SearchTemplate = () => {
   };
 
   useEffect(() => {
-    if (inputRef.current && !modalState) {
+    if (inputRef.current && !showModalState) {
       inputRef.current.focus();
     }
-  }, [modalState]);
+  }, [showModalState]);
 
   return (
     <div className={styles.searchContainer}>

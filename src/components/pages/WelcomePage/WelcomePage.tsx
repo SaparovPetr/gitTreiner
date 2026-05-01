@@ -9,7 +9,7 @@ import styles from './WelcomePage.module.css';
 export const WelcomePage: FC = () => {
   const navigate = useNavigate();
   const goButtonHandler = () => {
-    (markTheFirstStart(), navigate('/main'));
+    markTheFirstStart(), navigate('/main');
   };
 
   return (

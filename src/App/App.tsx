@@ -26,20 +26,20 @@ import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../services/store';
 import { User } from '../user';
-import { useModalZ } from '@zStore/zModalStore';
 import { useCounterZ } from '@zStore/zCounterStore';
 import { useModeZ } from '@zStore/zModeStore';
 import { useCollectionZ } from '@zStore/zCollectionState';
+import { modalActions } from '@zStore/zModalStore';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
   const setModeState = useModeZ((state) => state.setModeState);
+  const { setShowModalState } = modalActions();
 
   const setCollectionState = useCollectionZ(
     (state) => state.setCollectionState
   );
-  const collectionState = useCollectionZ((state) => state.collectionState);
 
   const location = useLocation();
   const backgroundLocation = location.state?.backgroundLocation;
@@ -50,13 +50,12 @@ export const App = () => {
     `${localStorage.getItem(`UserRepo`)}`
   );
 
-  const setOpenModalState = useModalZ((state) => state.setShowModalState);
   const setEffortCounterState = useCounterZ(
     (state) => state.setEffortCounterState
   );
 
   const closeModal = () => {
-    setOpenModalState(false);
+    setShowModalState(false);
     setEntryInLocalStorage('modalIsOpen', 'false');
 
     setTimeout(() => {

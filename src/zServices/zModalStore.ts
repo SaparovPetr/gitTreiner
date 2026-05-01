@@ -11,7 +11,7 @@ interface IModalState {
   setShowModalState: (value: boolean) => void;
 }
 
-export const useModalZ = create<IModalState>()(
+const useModalZ = create<IModalState>()(
   devtools(
     (set) => ({
       showModalState: false,
@@ -21,3 +21,13 @@ export const useModalZ = create<IModalState>()(
     devtoolsOptions
   )
 );
+
+export const modalSelectors = () => {
+  const showModalState = useModalZ((state) => state.showModalState);
+  return { showModalState };
+};
+
+export const modalActions = () => {
+  const setShowModalState = useModalZ((state) => state.setShowModalState);
+  return { setShowModalState };
+};

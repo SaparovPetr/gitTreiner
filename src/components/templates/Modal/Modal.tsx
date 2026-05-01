@@ -8,7 +8,7 @@ import './modal.css';
 import { CSSTransition } from 'react-transition-group';
 
 import styles from './Modal.module.css';
-import { useModalZ } from '@zStore/zModalStore';
+import { modalActions, modalSelectors } from '@zStore/zModalStore';
 
 type TModalProps = {
   children?: ReactElement;
@@ -16,13 +16,13 @@ type TModalProps = {
 };
 
 export const Modal = memo(({ children, closeModal }: TModalProps) => {
-  const setOpenModalState = useModalZ((state) => state.setShowModalState);
-  const getModalState = useModalZ((state) => state.showModalState);
-
   const nodeRef = useRef(null);
 
+  const { showModalState } = modalSelectors();
+  const { setShowModalState } = modalActions();
+
   useEffect(() => {
-    setOpenModalState(true);
+    setShowModalState(true);
     setEntryInLocalStorage('modalIsOpen', 'true');
 
     const handleEsc = (e: KeyboardEvent) => {
@@ -39,7 +39,7 @@ export const Modal = memo(({ children, closeModal }: TModalProps) => {
   return (
     <>
       <CSSTransition
-        in={getModalState}
+        in={showModalState}
         nodeRef={nodeRef}
         timeout={200}
         classNames='modal'
