@@ -28,10 +28,10 @@ import { useCounterActions } from '@zStore/zCounterStore';
 import { useCollectionActions } from '@zStore/zCollectionState';
 import { useModalActions } from '@zStore/zModalStore';
 import { useModeActions } from '@zStore/zModeStore';
-import { useMdSelectors_z } from '@zStore/zMdState_z';
+import { useMdSelectors } from '@zStore/zMdState';
 
 export const App = () => {
-  const { requestStatus_z } = useMdSelectors_z();
+  const { requestStatus } = useMdSelectors();
 
   const { setModeState } = useModeActions();
   const { setShowModalState } = useModalActions();
@@ -108,7 +108,7 @@ export const App = () => {
       </Routes>
       {backgroundLocation && (
         <Routes>
-          {requestStatus_z === RequestStatus.Success && (
+          {requestStatus === RequestStatus.Success && (
             <Route
               path='/word'
               element={
@@ -122,7 +122,7 @@ export const App = () => {
               }
             />
           )}
-          {requestStatus_z === RequestStatus.Failed && (
+          {requestStatus === RequestStatus.Failed && (
             <Route
               path='/word'
               element={

@@ -12,7 +12,7 @@ import { Link, useLocation } from 'react-router-dom';
 import styles from './WriteTranslation.module.css';
 
 import { useCollectionActions } from '@zStore/zCollectionState';
-import { useMdActions_z, useMdSelectors_z } from '@zStore/zMdState_z';
+import { useMdActions, useMdSelectors } from '@zStore/zMdState';
 
 export const WriteTranslation = ({
   id,
@@ -25,9 +25,8 @@ export const WriteTranslation = ({
 
   const locationInTheApp = useLocation();
   const { setTrimmedCollectionState } = useCollectionActions();
-  const { setTargetObject_z, setFullFileName_z, setMdText_z } =
-    useMdActions_z();
-  const { fullFileName_z } = useMdSelectors_z();
+  const { setTargetObject, setFullFileName, setMdText } = useMdActions();
+  const { fullFileName } = useMdSelectors();
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {
@@ -45,11 +44,11 @@ export const WriteTranslation = ({
   };
 
   const handleClick = () => {
-    setFullFileName_z(
+    setFullFileName(
       `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
     ); // TODO нужно ли оно мне или лучше в онклике устанавливать путь?
-    setTargetObject_z({ id, targetWord, translating, skyid });
-    setMdText_z(fullFileName_z);
+    setTargetObject({ id, targetWord, translating, skyid });
+    setMdText(fullFileName);
   };
 
   return (

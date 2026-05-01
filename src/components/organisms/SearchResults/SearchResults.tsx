@@ -33,14 +33,13 @@ import { wArr } from '../../../word-bases/myriad/wArr';
 import { xArr } from '../../../word-bases/myriad/xArr';
 import { yArr } from '../../../word-bases/myriad/yArr';
 import { zArr } from '../../../word-bases/myriad/zArr';
-import { useMdActions_z } from '@zStore/zMdState_z';
+import { useMdActions } from '@zStore/zMdState';
 
 export const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
 
-  const { setTargetObject_z, setFullFileName_z, setMdText_z } =
-    useMdActions_z();
+  const { setTargetObject, setFullFileName, setMdText } = useMdActions();
 
   const makeList = (oneArr: TOneWord[]) => {
     let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);
@@ -85,9 +84,9 @@ export const SearchResults = ({ stringFromInput }: any) => {
     const newUrl = `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${state[index].targetWord}%20-%20${state[index].translating}.md`;
     const newState = state[index];
 
-    setTargetObject_z(newState); // TODO нужно ли оно мне?
-    setFullFileName_z(newUrl); // TODO нужно ли повторяться?
-    setMdText_z(newUrl); // TODO нужно ли повторяться?
+    setTargetObject(newState); // TODO нужно ли оно мне?
+    setFullFileName(newUrl); // TODO нужно ли повторяться?
+    setMdText(newUrl); // TODO нужно ли повторяться?
   };
 
   return (

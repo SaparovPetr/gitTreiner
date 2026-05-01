@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 
 import styles from './WordModalContent.module.css';
 import { useModeSelectors } from '@zStore/zModeStore';
-import { useMdSelectors_z } from '@zStore/zMdState_z';
+import { useMdSelectors } from '@zStore/zMdState';
 
 export type TWordModalContentProps = {
   closeModal?: () => void;
@@ -23,7 +23,7 @@ export const WordModalContent = ({
   linkToRepo
 }: TWordModalContentProps) => {
   const { modeState } = useModeSelectors();
-  const { targetObject_z } = useMdSelectors_z();
+  const { targetObject } = useMdSelectors();
 
   const [isFirstButtonLoading, setIsFirstButtonLoading] = useState(false);
   const [isFirstButtonCopied, setIsFirstButtonCopied] = useState(false);
@@ -37,14 +37,14 @@ export const WordModalContent = ({
   useEffect(() => {
     // (заметка № 14)
     if (modeState === AppMode.Es400) {
-      audioCallback(targetObject_z.audioURL);
+      audioCallback(targetObject.audioURL);
     } else {
       audioCallback(
-        `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${targetObject_z.targetWord}&lang=en&voice=male_2`
+        `https://vimbox-tts.skyeng.ru/api/v1/tts?text=${targetObject.targetWord}&lang=en&voice=male_2`
       );
     }
     copyTextToClipboard(
-      `${targetObject_z?.targetWord} - ${targetObject_z?.translating}`
+      `${targetObject?.targetWord} - ${targetObject?.translating}`
     );
   }, []);
 
@@ -56,7 +56,7 @@ export const WordModalContent = ({
         messages: [
           {
             role: 'user',
-            content: `Give me seven and the most simple and popular collocations with that English phrase in the meaning that wrote in Russian in the end of this prompt. Don't paraphrase this term. Mark each collocation by number. Also give me one example (intermediate level) in different tenses: Present Perfect, Past Simple, Past Continuous, and Past Perfect. Give me only result of inquire, don't write own comments. Use only English. Make centences in the dashed list. Don't use markdown at all. Don't emphasize any words. ${targetObject_z.targetWord} - ${targetObject_z.translating}`
+            content: `Give me seven and the most simple and popular collocations with that English phrase in the meaning that wrote in Russian in the end of this prompt. Don't paraphrase this term. Mark each collocation by number. Also give me one example (intermediate level) in different tenses: Present Perfect, Past Simple, Past Continuous, and Past Perfect. Give me only result of inquire, don't write own comments. Use only English. Make centences in the dashed list. Don't use markdown at all. Don't emphasize any words. ${targetObject.targetWord} - ${targetObject.translating}`
           }
         ],
         max_tokens: 300
@@ -83,7 +83,7 @@ export const WordModalContent = ({
       setIsFirstButtonCopied(true);
       copyTextToClipboard(answer);
       window.open(
-        `${linkToRepo}/edit/main/${targetObject_z?.targetWord.toLowerCase()}%20-%20${targetObject_z?.translating.toLowerCase()}.md`,
+        `${linkToRepo}/edit/main/${targetObject?.targetWord.toLowerCase()}%20-%20${targetObject?.translating.toLowerCase()}.md`,
         '_blank'
       );
     } catch (error) {
@@ -107,7 +107,7 @@ export const WordModalContent = ({
   return (
     <div className={styles.modalContent}>
       <div className={styles.phraseZone}>
-        {targetObject_z?.targetWord} - {targetObject_z?.translating}
+        {targetObject?.targetWord} - {targetObject?.translating}
       </div>
 
       <MdComponent />
@@ -133,7 +133,7 @@ export const WordModalContent = ({
           </RoundButton>
           <RoundButton disabled={false}>
             <Link
-              to={`${linkToRepo}/edit/main/${targetObject_z?.targetWord.toLowerCase()}%20-%20${targetObject_z?.translating.toLowerCase()}.md`}
+              to={`${linkToRepo}/edit/main/${targetObject?.targetWord.toLowerCase()}%20-%20${targetObject?.translating.toLowerCase()}.md`}
               target='_blank'
             >
               edit

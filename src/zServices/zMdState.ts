@@ -11,11 +11,11 @@ const devtoolsOptions = {
 interface IMDstate {
   mdContent: string;
   requestStatus: RequestStatus;
-  pickedWordObject: TOneWord;
+  targetObject: TOneWord;
   fullFileName: string;
 }
 
-const initialPickedWordObject: TOneWord = {
+const initialTargetObject: any = {
   targetWord: '',
   translating: '',
   skyid: '',
@@ -23,40 +23,54 @@ const initialPickedWordObject: TOneWord = {
   audioURL: ''
 };
 
-const initialState: IMDstate = {
+const mdState: IMDstate = {
   mdContent: '',
   requestStatus: RequestStatus.Idle,
-  pickedWordObject: initialPickedWordObject,
+  targetObject: initialTargetObject,
   fullFileName: ''
 };
 
-export const useMdStoreZ = create<any>()(
+const useMdStore = create<any>()(
   devtools(
     (set) => ({
-      initialState,
-
-      picDataZ: (value: TOneWord) => {
-        set({ pickedWordObject: value }, false, 'md-state');
-      },
-      resetStoreZ: () => {
+      mdState,
+      setTargetObject: (value: TOneWord) => {
         set(
-          {
-            mdContent: '',
-            requestStatus: RequestStatus.Idle,
-            pickedWordObject: initialPickedWordObject
-          },
+          (state: any) => ({
+            mdState: {
+              ...state.mdState,
+              targetObject: value
+            }
+          }),
           false,
-          'md-state'
+          'setTargetObject'
         );
       },
-      setFullFileNameZ: (value: string) => {
-        set({ fullFileName: value }, false, 'md-state');
+
+      setFullFileName: (value: string) => {
+        set(
+          (state: any) => ({
+            mdState: {
+              ...state.mdState,
+              fullFileName: value
+            }
+          }),
+          false,
+          'setFullFileName'
+        );
       },
-      setMdTextZ: async (value: string) => {
+
+      setMdText: async (value: string) => {
         try {
           const text = await fetchText(value);
           set(
-            { mdContent: text, requestStatus: RequestStatus.Success },
+            (state: any) => ({
+              mdState: {
+                ...state.mdState,
+                mdContent: text,
+                requestStatus: RequestStatus.Success
+              }
+            }),
             false,
             'md-state'
           );
@@ -69,15 +83,17 @@ export const useMdStoreZ = create<any>()(
   )
 );
 
-// селекторы и экшены
+// селекторы
+export const useMdSelectors = () => ({
+  targetObject: useMdStore((state) => state.mdState.targetObject),
+  fullFileName: useMdStore((state) => state.mdState.fullFileName),
+  mdContent: useMdStore((state) => state.mdState.mdContent),
+  requestStatus: useMdStore((state) => state.mdState.requestStatus)
+});
 
-const picDataZ = useMdStoreZ((state) => state.picDataZ);
-const resetStoreZ = useMdStoreZ((state) => state.resetStoreZ);
-const setFullFileNameZ = useMdStoreZ((state) => state.setFullFileNameZ);
-
-const getStatusZ = useMdStoreZ((state) => state.requestStatus);
-const getMDcontentZ = useMdStoreZ((state) => state.mdContent);
-const selectPickedWordObjectZ = useMdStoreZ((state) => state.pickedWordObject);
-const selectFullFileNameZ = useMdStoreZ((state) => state.fullFileName);
-
-const setMdTextZ = useMdStoreZ((state) => state.setMdTextZ);
+//  экшены
+export const useMdActions = () => ({
+  setTargetObject: useMdStore((state) => state.setTargetObject),
+  setFullFileName: useMdStore((state) => state.setFullFileName),
+  setMdText: useMdStore((state) => state.setMdText)
+});

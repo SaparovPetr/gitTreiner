@@ -1,19 +1,19 @@
 import { RoundButton } from '@components/atoms/RoundButton/RoundButton';
 
 import styles from './ErrorHint.module.css';
-import { useMdSelectors_z } from '@zStore/zMdState_z';
+import { useMdSelectors } from '@zStore/zMdState';
 
 type TErrorHintProps = {
   closeModal: () => void;
 };
 
 export const ErrorHint = ({ closeModal }: TErrorHintProps) => {
-  const { targetObject_z } = useMdSelectors_z();
+  const { targetObject } = useMdSelectors();
 
   return (
     <div className={styles.hintContainer}>
       <div className={styles.phraseZone}>
-        {targetObject_z.targetWord} - {targetObject_z.translating}
+        {targetObject.targetWord} - {targetObject.translating}
       </div>
       <p className={styles.hintText}>
         No note data was retrieved. 😥 Please check the GitHub data in your
