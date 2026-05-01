@@ -18,11 +18,11 @@ export const TrialItemTemplate = ({
   const locationInTheApp = useLocation();
 
   const { fullFileName } = useMdSelectors();
-  const { setTargetObject, setFullFileName, setMdText } = useMdActions();
+  const { setTargetObject, setFileUrl, setMdText } = useMdActions();
 
   useEffect(() => {
     // (заметка № 14)
-    setFullFileName(
+    setFileUrl(
       `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
     ); // TODO нужно ли оно мне или лучше в онклике устанавливать путь?
   }, [targetWord]);

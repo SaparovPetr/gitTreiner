@@ -25,7 +25,7 @@ export const WriteTranslation = ({
 
   const locationInTheApp = useLocation();
   const { setTrimmedCollectionState } = useCollectionActions();
-  const { setTargetObject, setFullFileName, setMdText } = useMdActions();
+  const { setTargetObject, setFileUrl, setMdText } = useMdActions();
   const { fullFileName } = useMdSelectors();
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
@@ -44,7 +44,7 @@ export const WriteTranslation = ({
   };
 
   const handleClick = () => {
-    setFullFileName(
+    setFileUrl(
       `${`https://${localStorage.getItem(`UserName`)}.github.io/${localStorage.getItem(`UserRepo`)}/`}${targetWord}%20-%20${translating}.md`
     ); // TODO нужно ли оно мне или лучше в онклике устанавливать путь?
     setTargetObject({ id, targetWord, translating, skyid });

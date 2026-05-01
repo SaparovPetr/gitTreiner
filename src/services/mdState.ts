@@ -47,7 +47,7 @@ const useMdStore = create<any>()(
         );
       },
 
-      setFullFileName: (value: string) => {
+      setFileUrl: (value: string) => {
         set(
           (state: any) => ({
             mdState: {
@@ -56,7 +56,7 @@ const useMdStore = create<any>()(
             }
           }),
           false,
-          'setFullFileName'
+          'setFileUrl'
         );
       },
 
@@ -94,6 +94,6 @@ export const useMdSelectors = () => ({
 //  экшены
 export const useMdActions = () => ({
   setTargetObject: useMdStore((state) => state.setTargetObject),
-  setFullFileName: useMdStore((state) => state.setFullFileName),
+  setFileUrl: useMdStore((state) => state.setFileUrl),
   setMdText: useMdStore((state) => state.setMdText)
 });

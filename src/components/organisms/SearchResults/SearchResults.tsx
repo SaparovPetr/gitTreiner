@@ -39,7 +39,7 @@ export const SearchResults = ({ stringFromInput }: any) => {
   const [state, setState] = useState<any>();
   const locationInTheApp = useLocation();
 
-  const { setTargetObject, setFullFileName, setMdText } = useMdActions();
+  const { setTargetObject, setFileUrl, setMdText } = useMdActions();
 
   const makeList = (oneArr: TOneWord[]) => {
     let arrWithRes = mapSearchResults(stringFromInput, oneArr).slice(0, 13);
@@ -85,7 +85,7 @@ export const SearchResults = ({ stringFromInput }: any) => {
     const newState = state[index];
 
     setTargetObject(newState); // TODO нужно ли оно мне?
-    setFullFileName(newUrl); // TODO нужно ли повторяться?
+    setFileUrl(newUrl); // TODO нужно ли повторяться?
     setMdText(newUrl); // TODO нужно ли повторяться?
   };
 
