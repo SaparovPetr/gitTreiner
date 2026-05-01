@@ -30,10 +30,14 @@ import { useCounterActions } from '@zStore/zCounterStore';
 import { useCollectionActions } from '@zStore/zCollectionState';
 import { useModalActions } from '@zStore/zModalStore';
 import { useModeActions } from '@zStore/zModeStore';
+import { useMdSelectors_z } from '@zStore/zMdState_z';
 
 export const App = () => {
   const dispatch = useAppDispatch(); // РТК
   const mdFetchStatus = useAppSelector(getStatus); // РТК
+  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
+    useMdSelectors_z();
+
   const { setModeState } = useModeActions();
   const { setShowModalState } = useModalActions();
   const { setCollectionState } = useCollectionActions();

@@ -26,7 +26,8 @@ export const WordModalContent = ({
 }: TWordModalContentProps) => {
   const word = useAppSelector(selectPickedWordObject); // РТК
   const { modeState } = useModeSelectors();
-  const { fullFileName_z, mdContent_z } = useMdSelectors_z();
+  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
+    useMdSelectors_z();
 
   console.log(mdContent_z);
   console.log(fullFileName_z);

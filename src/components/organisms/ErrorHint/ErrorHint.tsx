@@ -3,6 +3,7 @@ import { selectPickedWordObject } from '@slices/md-slice';
 
 import styles from './ErrorHint.module.css';
 import { useAppSelector } from '../../../services/store';
+import { useMdSelectors_z } from '@zStore/zMdState_z';
 
 type TErrorHintProps = {
   closeModal: () => void;
@@ -10,6 +11,8 @@ type TErrorHintProps = {
 
 export const ErrorHint = ({ closeModal }: TErrorHintProps) => {
   const { targetWord, translating } = useAppSelector(selectPickedWordObject); // РТК
+  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
+    useMdSelectors_z();
 
   return (
     <div className={styles.hintContainer}>

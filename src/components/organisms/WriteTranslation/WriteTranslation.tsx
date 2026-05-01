@@ -32,8 +32,8 @@ export const WriteTranslation = ({
   const { setTrimmedCollectionState } = useCollectionActions();
   const { setTargetObject_z, setFullFileName_z, setMdText_z } =
     useMdActions_z();
-  const { fullFileName_z, targetObject_z, mdContent_z } = useMdSelectors_z();
-
+  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
+    useMdSelectors_z();
   const handleChange: ChangeEventHandler<HTMLInputElement> = (
     e: ChangeEvent<HTMLInputElement>
   ) => {

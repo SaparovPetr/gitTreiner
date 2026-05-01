@@ -22,8 +22,8 @@ export const TrialItemTemplate = ({
   const dispatch = useAppDispatch(); // РТК
   const fullFileName = useAppSelector(selectFullFileName); // РТК
 
-  const { fullFileName_z, targetObject_z, mdContent_z } = useMdSelectors_z();
-
+  const { fullFileName_z, targetObject_z, mdContent_z, requestStatus_z } =
+    useMdSelectors_z();
   const { setTargetObject_z, setFullFileName_z, setMdText_z } =
     useMdActions_z();
 
