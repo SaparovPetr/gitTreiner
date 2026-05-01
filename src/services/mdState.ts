@@ -34,6 +34,7 @@ const useMdStore = create<any>()(
   devtools(
     (set) => ({
       mdState,
+
       setTargetObject: (value: TOneWord) => {
         set(
           (state: any) => ({
@@ -77,6 +78,22 @@ const useMdStore = create<any>()(
         } catch (err) {
           set({ requestStatus: RequestStatus.Failed }, false, 'md-state');
         }
+      },
+
+      setEmptyMdState: () => {
+        set(
+          (state: any) => ({
+            mdState: {
+              ...state.mdState,
+              mdContent: '',
+              requestStatus: RequestStatus.Idle,
+              targetObject: initialTargetObject,
+              fullFileName: ''
+            }
+          }),
+          false,
+          'setEmptyMdState'
+        );
       }
     }),
     devtoolsOptions
@@ -95,5 +112,6 @@ export const useMdSelectors = () => ({
 export const useMdActions = () => ({
   setTargetObject: useMdStore((state) => state.setTargetObject),
   setFileUrl: useMdStore((state) => state.setFileUrl),
-  setMdText: useMdStore((state) => state.setMdText)
+  setMdText: useMdStore((state) => state.setMdText),
+  setEmptyMdState: useMdStore((state) => state.setEmptyMdState)
 });

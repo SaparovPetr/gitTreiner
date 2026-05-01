@@ -28,7 +28,7 @@ import { useCounterActions } from '@store/counterStore';
 import { useCollectionActions } from '@store/collectionState';
 import { useModalActions } from '@store/modalStore';
 import { useModeActions } from '@store/modeStore';
-import { useMdSelectors } from '@store/mdState';
+import { useMdActions, useMdSelectors } from '@store/mdState';
 
 export const App = () => {
   const { requestStatus } = useMdSelectors();
@@ -47,6 +47,7 @@ export const App = () => {
   );
 
   const { setEffortCounterState } = useCounterActions();
+  const { setEmptyMdState } = useMdActions();
 
   const closeModal = () => {
     setShowModalState(false);
@@ -54,6 +55,7 @@ export const App = () => {
 
     setTimeout(() => {
       navigate(-1);
+      setEmptyMdState();
     }, 200);
   };
 
