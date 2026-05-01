@@ -80,15 +80,12 @@ const useMdStore = create<any>()(
         }
       },
 
-      setEmptyMdState: () => {
+      setEmptyMdText: () => {
         set(
           (state: any) => ({
             mdState: {
               ...state.mdState,
-              mdContent: '',
-              requestStatus: RequestStatus.Idle,
-              targetObject: initialTargetObject,
-              fullFileName: ''
+              mdContent: ''
             }
           }),
           false,
@@ -113,5 +110,5 @@ export const useMdActions = () => ({
   setTargetObject: useMdStore((state) => state.setTargetObject),
   setFileUrl: useMdStore((state) => state.setFileUrl),
   setMdText: useMdStore((state) => state.setMdText),
-  setEmptyMdState: useMdStore((state) => state.setEmptyMdState)
+  setEmptyMdText: useMdStore((state) => state.setEmptyMdText)
 });

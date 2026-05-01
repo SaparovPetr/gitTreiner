@@ -47,7 +47,7 @@ export const App = () => {
   );
 
   const { setEffortCounterState } = useCounterActions();
-  const { setEmptyMdState } = useMdActions();
+  const { setEmptyMdText } = useMdActions();
 
   const closeModal = () => {
     setShowModalState(false);
@@ -55,7 +55,7 @@ export const App = () => {
 
     setTimeout(() => {
       navigate(-1);
-      setEmptyMdState();
+      setEmptyMdText();
     }, 200);
   };
 
