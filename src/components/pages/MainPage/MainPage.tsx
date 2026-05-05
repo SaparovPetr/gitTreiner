@@ -113,7 +113,7 @@ export const MainPage: FC = () => {
             <div className={styles.logoArea} onClick={changeMode}>
               <div>Git_</div>
               <div>
-                treiner
+                treiner*
                 {trialRegime && (
                   <span className={styles.lable}>{modeState}</span>
                 )}
