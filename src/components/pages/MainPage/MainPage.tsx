@@ -6,7 +6,7 @@ import { SuccessTemplate } from '@components/templates/SuccessTemplate/SuccessTe
 import { TrialItemTemplate } from '@components/templates/TrialItemTemplate/TrialItemTemplate';
 import { audioCallback } from '@utils/audioCallback';
 import { currientDate } from '@utils/currientDate';
-import { isFirstStart } from '@utils/localStorageFunctionality';
+import { wasFirstStart } from '@utils/localStorageFunctionality';
 import { AppMode } from '@utils-types';
 import { threeThousandWordBase } from '@word-bases/3k';
 import { aWordBase } from '@word-bases/a';
@@ -107,13 +107,13 @@ export const MainPage: FC = () => {
               : 'var(--third-bg-color)'
       }}
     >
-      {collectionState.length > 0 && isFirstStart && (
+      {collectionState.length > 0 && wasFirstStart && (
         <>
           <div className={styles.headerArea}>
             <div className={styles.logoArea} onClick={changeMode}>
               <div>Git_</div>
               <div>
-                treiner*
+                treiner
                 {trialRegime && (
                   <span className={styles.lable}>{modeState}</span>
                 )}
@@ -152,7 +152,7 @@ export const MainPage: FC = () => {
         </>
       )}
       {/* (заметка № 13) */}
-      {collectionState.length === 0 && isFirstStart && <SuccessTemplate />}
+      {collectionState.length === 0 && wasFirstStart && <SuccessTemplate />}
     </main>
   );
 };

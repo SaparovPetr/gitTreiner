@@ -10,7 +10,7 @@ import { WelcomePage } from '@pages/WelcomePage/WelcomePage';
 import {
   counterFromLocalStorage,
   currientModeFromLocalStorage,
-  isFirstStart,
+  wasFirstStart,
   setEntryInLocalStorage
 } from '@utils/localStorageFunctionality';
 import { AppMode, IUser, RequestStatus } from '@utils-types';
@@ -94,7 +94,7 @@ export const App = () => {
   }, []);
 
   useEffect(() => {
-    if (!isFirstStart) {
+    if (!wasFirstStart) {
       navigate('/welcome');
     } else {
       navigate('/main');

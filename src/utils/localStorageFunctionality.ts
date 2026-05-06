@@ -32,4 +32,4 @@ export const counterFromLocalStorage = localStorage.getItem(
 /**
  * получение из localStorage сведений о демонстранции эрана приветствия
  */
-export const isFirstStart = localStorage.getItem('firstStart');
+export const wasFirstStart = localStorage.getItem('firstStart');
