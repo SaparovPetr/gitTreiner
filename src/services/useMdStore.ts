@@ -15,7 +15,7 @@ interface IMDstate {
   fullFileName: string;
 }
 
-const initialTargetObject: any = {
+const initialTargetObject: TOneWord = {
   targetWord: '',
   translating: '',
   skyid: '',
@@ -30,14 +30,22 @@ const mdState: IMDstate = {
   fullFileName: ''
 };
 
-const useMdStore = create<any>()(
+interface IMdStore {
+  mdState: IMDstate;
+  setTargetObject: (value: TOneWord) => void;
+  setFileUrl: (value: string) => void;
+  setMdText: (value: string) => void;
+  setEmptyMdText: () => void;
+}
+
+const useMdStore = create<IMdStore>()(
   devtools(
     (set) => ({
       mdState,
 
-      setTargetObject: (value: TOneWord) => {
+      setTargetObject: (value) => {
         set(
-          (state: any) => ({
+          (state) => ({
             mdState: {
               ...state.mdState,
               targetObject: value
@@ -48,9 +56,9 @@ const useMdStore = create<any>()(
         );
       },
 
-      setFileUrl: (value: string) => {
+      setFileUrl: (value) => {
         set(
-          (state: any) => ({
+          (state) => ({
             mdState: {
               ...state.mdState,
               fullFileName: value
@@ -61,11 +69,11 @@ const useMdStore = create<any>()(
         );
       },
 
-      setMdText: async (value: string) => {
+      setMdText: async (value) => {
         try {
           const text = await fetchText(value);
           set(
-            (state: any) => ({
+            (state) => ({
               mdState: {
                 ...state.mdState,
                 mdContent: text,
@@ -76,13 +84,22 @@ const useMdStore = create<any>()(
             'md-state'
           );
         } catch (err) {
-          set({ requestStatus: RequestStatus.Failed }, false, 'md-state');
+          set(
+            (state) => ({
+              mdState: {
+                ...state.mdState,
+                requestStatus: RequestStatus.Failed
+              }
+            }),
+            false,
+            'md-state'
+          );
         }
       },
 
       setEmptyMdText: () => {
         set(
-          (state: any) => ({
+          (state) => ({
             mdState: {
               ...state.mdState,
               mdContent: ''
